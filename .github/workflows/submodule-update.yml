@@ -6,7 +6,7 @@ name: Submodule Updates
 #############################
 on:
   push:
-    branches-ignore: [master]
+    branches-ignore: [master, main]
   pull_request:
     branches: [main]
 
