@@ -19,6 +19,18 @@ Commonly used formatting cheatsheet - you can find more easily at [MD Cheatsheet
    
    Assuming you have a google doc with content ready, lets start! I will be using this [file](https://docs.google.com/document/d/1xAY5sWO4VFzWcr8P8jEPNTFvkpLjIHJ70yIDlrnJmic/edit?usp=sharing) as an example
    
+   # Step 0: Make a new branch and do the steps below on that branch
+   
+   Edits to this repo trigger an update on the main website, to prevent multiple builds and the website crashing make a new branch named "year_month" and then build the new edition in it. So that we can make one final pull request to update the main site or a pull into the preview branch as we wish!
+   
+   To create a new branch from within Github
+   - Tap on the dropdown button which should currently say "main" with the branch symbol beside it
+   ![image](https://user-images.githubusercontent.com/55821103/174408612-cd0c17ac-3256-4f77-8fee-d1b6aa052aca.png)
+
+   - Type the name "year_month"
+   - Tap on the entry which says 'Create branch "..." from main'
+   - Now whenever you want to submit a change, tap on the button and switch to this edition branch and work on it until release 
+   
    # Step 1: Starting with file contents
    This file contains an image so thats something we want to take care of first.. Make sure to source a high quality version of the image if you can and not directly the snippet from the doc. I have the original file so i will be going with that. First thing folder heirarchy - create any that dont exist
    
