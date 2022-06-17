@@ -1,6 +1,6 @@
 ---
 title: "Why Prabhat is every human’s best friend!"
-category: "Op-ed"
+category: "Op-Ed"
 date: "2022-01-24 10:00:00 +09:00"
 desc: "Prabhat is like the peoples president no? like how Dr Kalam was the people president everyones best friend Prabhat is ACCURATE.. This masterpiece was AI generated and will also appear on top of the article"
 thumbnail: "./images/prabot.jpg"
