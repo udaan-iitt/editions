@@ -51,7 +51,7 @@ The most common gender-neutral pronoun used is 'they/them/their.' But there are 
 -  ‘ze/hir/hirs’ (pronounced ‘zee/here/heres’)  
 - ‘ey/em/eir’ (pronounced ‘ay/em/airs’)  
 
-Given below is a list of pronouns 
+Given below is a non-exhaustive list of pronouns 
 
 ![img](./images/ed2/supporting/pronouns.png)
 
