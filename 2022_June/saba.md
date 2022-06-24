@@ -25,10 +25,10 @@ But did she make him feel the emotion that mattered the most? Did she make him f
  
 It had started to get dark when he opened the gate to Saba's home. A few sacred fig trees were planted along the compound wall. And a streetlight had cast an intricate web of their shadows onto the swing. The winds were crazier than usual, almost lunatic, almost suicidal. The shadows of the trees moved so relentlessly and recklessly as if an instrumental jazz act was supposed to be performed.  
 
-|	An act orchestrated by the winds.
-|	An act. A mission.  
-|	A mission of utmost importance.  
-|	A mission to embody death herself. 
+&emsp;An act orchestrated by the winds.                 
+&emsp;An act. A mission.  
+&emsp;A mission of utmost importance.  
+&emsp;A mission to embody death herself. 
 	
 The thought of death reminded him of Adele, and he closed his eyes. He took a deep breath and closed them tightly as if he forced something. As if he negotiated with someone he possibly could not understand. And then he opened his eyes praying一praying even though he did not believe. He opened his eyes, hoping一hoping with a five-year-old's innocence and stupidity that the entire thing was a dream一hoping that he would open his eyes and see the ceiling fan in his room and Adele in the corner reading some trashy magazine. Hoping that the time had gone back two years. But he opened his eyes to a poignant reality infected with the fact that Adele was no more. He opened his eyes to a lawn swing at Saba's home.     
 	 
@@ -86,15 +86,15 @@ She continued, in a 13-year-old girl’s voice, "Your strongest muse!" She must 
  	
 "She is no more. She passed away two years ago”, Ram answered after a minute. His voice always cracked whenever he talked about Adele, but today it hadn't. For the first time in two years, he seemed to accept the reality. Saba had made him accept the undeniable ugly truth of death. 
 
-|	She had done it again.  
-|	She had made him feel again.  
-|	She had made him feel even death.          
-|	*Even death, but not love. Everything, but love.*
+&emsp;She had done it again.  
+&emsp;She had made him feel again.  
+&emsp;She had made him feel even death.          
+&emsp;*Even death, but not love. Everything, but love.*
 	 
 Nobody said anything after that. A familiar silence filled the air. A familiar comforting silence they both recognised from their past. A silence where they no longer needed words to understand one another.  
 	
-|	*A silence where Ram and Saba were no longer Mr Adele and Mrs Raza.*  
-|	*A silence where Ram and Saba were merely Ram and Saba.*      
+&emsp;*A silence where Ram and Saba were no longer Mr Adele and Mrs Raza.*  
+&emsp;*A silence where Ram and Saba were merely Ram and Saba.*      
 	
 The silence lasted for the rest of the night. Ram on the swing, Saba on her chair, they spent the night looking at the sky.  
 Half-awake, half-drunk. Half-alive, half-dead. 
