@@ -97,5 +97,5 @@ I think all of us should have empathy towards each other. I wish that students w
 > Debeshee Das
 > 
 > Initial Transcript summarized by -<br>
-> Anu Anand Annu <br>
-> Tejaswini Hotkar
+> W Pranathi <br>
+> Debeshee Das
