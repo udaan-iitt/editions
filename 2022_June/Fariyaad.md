@@ -1,7 +1,7 @@
 ---
 title: "Fariyaad"
 category: "Poetry"
-date: "2021-01-28 10:00:00 +09:00"
+date: "2022-06-24 10:00:00 +09:00"
 desc: "To be added "
 thumbnail: "./images/placeholder.jpg"
 authors: "Amrit Singh Gill"
