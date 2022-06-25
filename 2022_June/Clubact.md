@@ -3,11 +3,12 @@ title: "Recent Activity Detected: The Student Clubs of IIT-T"
 category: "Campus News"
 date: "2022-06-25 12:00:00 +09:00"
 desc: "Here's what the vibrant clubs of IIT Tirupati have been upto in the last year!"
-thumbnail: "./images/clubact.jpg." 
+thumbnail: "./images/placeholder.jpg." 
 authors: "Sathyanarayann, Swathi "
 starred: "False"
 alt: "clubact"
 ---
+
 With the long-awaited end of the covid pandemic and return to normalcy finally arriving in the second half of the academic year 2021-2022, the sun rose on a campus filled with grateful students. With the return of all students, from those who had never seen the college to those who had dearly missed the college experience for two years, campus life started blooming. The halls were filled with chatter, and the mess lines grew longer. This was an ideal opportunity for our students to immerse themselves in club activities and celebrations in order to fully experience “the hyped-up” campus life. Our student-run clubs, which were successful in keeping students engaged and active online, began actively conducting activities and events in the offline mode as well. From the online start to the offline finish of the academic year 2021-2022, let us take a fond look at the club activities that kept us involved. 
 
 With the return of students, all the cultural activities resumed with much enthusiasm. **Actomania** conducted **‘Lights Camera Action’**, a dialogue delivery contest, as part of _Commemoration of 75 years of Independence_ celebrations. Many students took part in the **Dumb Charades** event at campus. Actomania also conducted an online workshop for the freshers to observe their interest and skills in acting. 
