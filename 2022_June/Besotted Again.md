@@ -2,7 +2,7 @@
 title: "Besotted Again"
 category: "Poetry"
 date: "2022-06-21 10:00:00 +09:00"
-desc: "To be added"
+desc: "A poem about the perpetuality of love, loss and reality"
 thumbnail: "./images/placeholder.jpg"
 authors: "Iftekhar Ahmed"
 starred: "false"
