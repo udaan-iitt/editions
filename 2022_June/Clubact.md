@@ -3,18 +3,19 @@ title: "Recent Activity Detected: The Student Clubs of IIT-T"
 category: "Campus News"
 date: "2022-06-25 12:00:00 +09:00"
 desc: "Here's what the vibrant clubs of IIT Tirupati have been upto in the last year!"
-thumbnail: "./images/clubact.jpg." 
+thumbnail: "./images/placeholder.jpg." 
 authors: "Sathyanarayann, Swathi "
 starred: "False"
 alt: "clubact"
 ---
+
 With the long-awaited end of the covid pandemic and return to normalcy finally arriving in the second half of the academic year 2021-2022, the sun rose on a campus filled with grateful students. With the return of all students, from those who had never seen the college to those who had dearly missed the college experience for two years, campus life started blooming. The halls were filled with chatter, and the mess lines grew longer. This was an ideal opportunity for our students to immerse themselves in club activities and celebrations in order to fully experience “the hyped-up” campus life. Our student-run clubs, which were successful in keeping students engaged and active online, began actively conducting activities and events in the offline mode as well. From the online start to the offline finish of the academic year 2021-2022, let us take a fond look at the club activities that kept us involved. 
 
 With the return of students, all the cultural activities resumed with much enthusiasm. **Actomania** conducted **‘Lights Camera Action’**, a dialogue delivery contest, as part of _Commemoration of 75 years of Independence_ celebrations. Many students took part in the **Dumb Charades** event at campus. Actomania also conducted an online workshop for the freshers to observe their interest and skills in acting. 
 
 **Artista** came up with **‘National Leaders Painting’** and **‘Still life sketching’** events as a part of _Commemoration of 75 years of Independence_. Both these events were well received by the students and saw several creative entries. In collaboration with **Techmaniacs**, they conducted a logo-making competition to design the club logo for Techmaniacs. In addition to their own events, Artista worked alongside the cultural committee for the organisation of festivals like Diwali, Halloween, Christmas etc. **‘Halloween Face Painting’**, **‘Diya painting’** for Diwali were some of the offline events which saw enthusiastic participation and colourful faces. As a part of **Tirutsava**, our annual techno-cultural fest, the club hosted **‘Character Design’** and ‘Word Doodle’ events.
 
-![img](./images/overview_of_club_activities/diya1.png)
+![img](./images/overview_of_club_activities/DSC_0058.jpg)
 ![img](./images/overview_of_club_activities/diya2.png)
 
 **PFC** was pretty active with a lot of events to cover and activities to conduct. The club made an innovative short film on Covid, named **[Spoiler Alert](https://www.youtube.com/watch?v=l1q7N2tetK4&ab_channel=PFCIITTirupati)**, where two people’s past and present selves meet one another. They even compiled a video for the pioneer Chemical Engineering batch. As part of _Commemoration of 75 years of Independance_, they compiled the winning entries of all the events and also conducted photography contests on the themes of Incredible India and Frontline Workers. They helped in the making of posters which include the new year greeting and 2022 year calendar. The most awaited Fresher’s intro video **[Aagman 2021](https://www.youtube.com/watch?v=npNp-UG5B-4&ab_channel=PFCIITTirupati)** was released. They covered various events conducted on campus which include Tirutsava, Diwali, Trek to Tada waterfalls, open mics, Fiesta, Gymkhana day etc.
