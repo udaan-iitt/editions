@@ -8,8 +8,6 @@ Authors: "Keshav Kumar Manjhi"
 Starred: "False"
 Alt: "Seasons of Symphony"
 ---
-# Seasons of Symphony 
-
 <h2 align="center">Winter</h2>
 
 [//]: # (`<A picture of Winter>`)

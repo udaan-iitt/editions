@@ -9,19 +9,11 @@ Starred: "false"
 Alt: "Ghosts in the Machine- A Critique"
 ---
 
-# Ghosts in the Machine - A Critique
-
 *They are far away and yet close,*
-
 *Some in the shadows,*
-
 *Some in the front rows,*
-
 *Some hide in plain disguise*
-
 *…Away from all prying eyes.*
-
-
 *Every State has agents to act on its behalf*
 
 One such shadowy wing of the *USA*, the [*4th PSYOPs Group*](https://en.wikipedia.org/wiki/4th_Psychological_Operations_Group), released what appears to be an “[*advertisement*](https://www.youtube.com/watch?v=VA4e0NqyYMw)” on May 3, 2022. I put the word “advertisement" inside quotes, since I believe the video to be a very well-designed and clever instance of psychological warfare.

@@ -8,8 +8,9 @@ authors: "Ishaan Kulkarni"
 starred: "true" 
 alt: "The art of cooking"
 ---
->“Cooking is like painting or writing a song. Just as there are only so many notes or colours, there are only so many flavours—it’s how you combine them that sets you apart.”
-– Wolfgang Puck
+
+>“Cooking is like painting or writing a song. Just as there are only so many notes or colours, there are only so many flavours—it’s how you combine them that sets you apart.”          
+>*–Wolfgang Puck*
 
 Back in 2013, on a gloomy evening, I stood outside a small Chinese restaurant to get my dinner parcelled. That was when I saw the chef making a combination of rice and noodles in a big wok over this humongous flame. The way he added spices, mixed the ingredients and moved the wok through the air without a single grain of rice falling out felt like an innately choreographed sequence. That was the moment when I, as a naive eleven-year-old, decided to cook the same thing at home! With my mom’s help along each step, I used leftover rice and instant noodles to finally come up with something edible. It’s really difficult to get a kitchen to yourself when you’re 11, that too in India… forget it; my mom still spies on me when I am cooking! This small stint led me to cook some modest items like omelettes, tea, coffee, instant noodles, and instant pasta, which finally inspired and gave me the courage to try my own twists for the next 4-5 years. (childish things, really…adding sauces and cheese to stuff that was already loaded with spices) 
 
