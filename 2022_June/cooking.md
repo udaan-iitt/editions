@@ -3,7 +3,7 @@ title: "The Art of Cooking"
 category: "Op-Ed"
 date: "2021-01-30 11:00:00 +09:00"
 desc: "to be added"
-thumbnail: "./images/placeholder.jpg"
+thumbnail: "./images/Cooking.png"
 authors: "Ishaan Kulkarni"
 starred: "true" 
 alt: "The art of cooking"
@@ -19,8 +19,8 @@ If you ask me how exactly I became the pretty decent, perhaps even arguably good
 - I realised that my creativity was at its peak when I was cooking. I could make tweaks to the recipe, and they always turned out well.                 
 - That sense of accomplishment that struck when I saw my near and dear ones eat what I had cooked was indescribable.  
 
-![img](./images/placeholder.jpg)      
-![img](./images/placeholder.jpg)            
+![img](./images/Cooking/20220616_212332.jpg)      
+![img](./images/Cooking/20211026_135303.jpg)            
 
 So, it was done. Cooking became my favourite pastime, and my efforts only increased during the lockdown when the college (everything really) was online. This period only fueled the fire (A cooking pun, I couldn’t resist); with amazing Chefs like Chef Ranveer Brar and Chef Sanjyot Keer releasing videos frequently, I had so much stuff to work with. In addition to the aforementioned setting, since essential commodities were not readily available (blame COVID), I had no other way but to improvise. Hence, this was when I learned how to bake bread, make my own cheese from milk, hand-pulled pasta and noodles at home, and many more things this article isn't big enough to describe.            
 
@@ -35,8 +35,8 @@ Here ends a short overview of my love for cooking. But, why should you cook? Wel
 - Cooking teaches you planning. In order to make intricate recipes, you need to have all ingredients in place, plan the cooking of different components, and make efficient use of available resources (e.g. no. of burners, available space and most important of all, time!)
 - Last but not least, cooking is fun!!!
 
-![img](./images/placeholder.jpg)      
-![img](./images/placeholder.jpg) 
+![img](./images/Cooking/20220304_212935.jpg)      
+![img](./images/Cooking/20220114_221133.jpg) 
 
 *What do you need to do in order to cook?*
 Just get in the kitchen, gather the required ingredients and start off! My advice would be - Don’t be afraid of how stuff is going to turn out. It may turn out to be delicious, exemplary, or maybe barely edible...but there's very little probability that it would turn out so bad that it's inedible. So, just enjoy the process and learn from it. Celebrate your little successes, learn from the minor setbacks, and forget them right away. Cooking is not a competition; it's meant to be a process through which you create a hearty and nourishing meal for you and your loved ones to enjoy. So treat it as such. Give it time, give it love, give it patience, and I am sure it’ll turn out delicious!
