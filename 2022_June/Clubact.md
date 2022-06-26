@@ -2,7 +2,7 @@
 title: "Recent Activity Detected: The Student Clubs of IIT-T"
 category: "Campus News"
 date: "2022-06-25 12:00:00 +09:00"
-desc: "Here's what the vibrant clubs of IIT Tirupati have been upto in the last year!"
+desc: "Our student run clubs have wrapped up yet another eventful academic year, part online and part offline. Despite this, they have managed to put together numerous events to keep our students busy and in touch with their extracurriculars to make an overall wholesome college experience. Let us take a fond look back at the amazing work our clubs have been upto."
 thumbnail: "./images/placeholder.jpg." 
 authors: "Sathyanarayann, Swathi "
 starred: "False"
