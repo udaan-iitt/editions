@@ -1,5 +1,5 @@
 --- 
-title: "To be decided"
+title: "Calendar: The year that went by,  in Student Events"
 category: "Campus News"
 date: "2022-06-26 12:00:00 +09:00"
 desc: "The year 2021-22 witnessed a lot of events, for the students, by the students. Despite half a year being online, the year saw a huge number of events and festivities, be it online or offline. Students came forth and actively contributed and participated, setting the spirit of college life ablaze. Read on for a compilation of all the events and activities that were conducted this year."
