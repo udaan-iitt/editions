@@ -1,12 +1,13 @@
 ---
-name: Submodule Updates
+name: Submodule Update Preview
 
 #############################
 # Start the job on all push #
 #############################
 on:
   push:
-    branches: [main]
+    branches:
+      - preview
 
 ###############
 # Set the Job #
@@ -17,8 +18,8 @@ jobs:
     runs-on: ubuntu-latest
     env:
       PARENT_REPOSITORY: 'NobleMathews/CollegeBugle'
-      CHECKOUT_BRANCH: 'main'
-      PR_AGAINST_BRANCH: 'main'
+      CHECKOUT_BRANCH: 'preview'
+      PR_AGAINST_BRANCH: 'preview'
       OWNER: 'NobleMathews'
 
     steps:

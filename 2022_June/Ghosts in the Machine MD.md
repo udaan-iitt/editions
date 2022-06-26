@@ -6,8 +6,9 @@ Desc: "A stimulating analysis of an 'advertisement' that shows a lot more than i
 Thumbnail: "./images/Illegal Numbers.png"
 Authors: "Cosmic Cutie"
 Starred: "false"
-Alt: "Ghosts_In_The_Machine_Review"
----
+Alt: "Ghosts in the Machine- A Critique"
+
+
 # Ghosts in the Machine - A Critique
 
 *They are far away and yet close,*
