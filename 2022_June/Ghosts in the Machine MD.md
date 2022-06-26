@@ -1,12 +1,12 @@
 ---
 Title: "Ghosts in the Machine- A Critique"
 Category: "Review"
-Date: " "
+Date: "2022-06-25 12:00:00 +09:00"
 Desc: "Understanding an ad that tells more than its shows. Secrets, that you never knew existed. Facts, which we all ignore.  "
-Thumbnail: " "
+Thumbnail: "./images/placeholder.jpg"
 Authors: "Cosmic Cutie"
-Starred: " "
-Alt: " "
+Starred: "False"
+Alt: "Ghosts in the Machine- A Critique"
 ---
 Pen name: Cosmic Cutie
 
