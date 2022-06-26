@@ -29,7 +29,7 @@ Starting from the elections to the end of their tenure, studies report that secr
 
 *Students General Secretary*
 
-<img src="images/profilecards/dinkar.png"
+<img src="images/profilecards/Dinkar.png"
      alt="Dinkar Profile"
      style="float: left; margin-right: 20rem; margin-bottom:40px; width: 90%;"/>
 
@@ -70,7 +70,7 @@ Always take students into confidence about the decisions or discussions happenin
 
 *Academic Affairs Secretary*
 
-<img src="images/profilecards/tapish.png"
+<img src="images/profilecards/Tapish.png"
      alt="Tapish Profile"
      style="float: left; margin-right: 20rem; margin-bottom:40px; width: 90%;"/>
 
@@ -111,7 +111,7 @@ Make sure you figure out and inform the students about how/whom to apprach in ca
 
 *Research Affairs Secretary*
 
-<img src="images/profilecards/venkatesh.png"
+<img src="images/profilecards/Venkatesh.png"
      alt="Venkatesh Profile"
      style="float: left; margin-right: 20rem; margin-bottom:40px; width: 90%;"/>
 
@@ -153,7 +153,7 @@ Just go with the flow.
 
 *Hostel Affairs Secretary*
 
-<img src="images/profilecards/suman.png"
+<img src="images/profilecards/Suman.png"
      alt="Suman Profile"
      style="float: left; margin-right: 20rem; margin-bottom:40px; width: 90%;"/>
 
@@ -188,7 +188,7 @@ All the best!!
 
 *Mess Affairs Secretary*
 
-<img src="images/profilecards/suhas.png"
+<img src="images/profilecards/Suhas.png"
      alt="Suhas Profile"
      style="float: left; margin-right: 20rem; margin-bottom:40px; width: 90%;"/>
 
@@ -222,7 +222,7 @@ Be open to suggestions and stay dedicated towards the work.
 
 *Mess Affairs Secretary*
 
-<img src="images/profilecards/natesh.png"
+<img src="images/profilecards/Natesh.png"
      alt="Natesh Profile"
      style="float: left; margin-right: 20rem; margin-bottom:40px; width: 90%;"/>
 
@@ -270,7 +270,7 @@ Be open to suggestions and stay dedicated towards the work.
 
 *Cultural Affairs Secretary*
 
-<img src="images/profilecards/shakuntala.png"
+<img src="images/profilecards/Shakuntala.png"
      alt="Shakuntala Profile"
      style="float: left; margin-right: 20rem; margin-bottom:40px; width: 90%;"/>
 
@@ -308,7 +308,7 @@ Well, we always try to give our best for every event. But it's important to list
 
 *Sports Secretary*
 
-<img src="images/profilecards/prerith.png"
+<img src="images/profilecards/Prerith.png"
      alt="Prerith Profile"
      style="float: left; margin-right: 20rem; margin-bottom:40px; width: 90%;"/>
 
@@ -355,7 +355,7 @@ Learn negotiating and management skills. I learnt it the hard way. Being too pol
 
 *Literary Affairs Secretary*
 
-<img src="images/profilecards/prabhat.png"
+<img src="images/profilecards/Prabhat.png"
      alt="Prabhat Profile"
      style="float: left; margin-right: 20rem; margin-bottom:40px; width: 90%;"/>
 
@@ -414,7 +414,7 @@ I used the word "LAS" above, but I believe this applies for all the student repr
 
 *Placement Coordinator*
 
-<img src="images/profilecards/rishabh.png"
+<img src="images/profilecards/Rishabh.png"
      alt="Rishabh Profile"
      style="float: left; margin-right: 20rem; margin-bottom:40px; width: 90%;"/>
 
@@ -458,7 +458,7 @@ Connect students before sitting for any company with the just graduated batch st
 
 *Internship Coordinator*
 
-<img src="images/profilecards/amit.png"
+<img src="images/profilecards/Amit.png"
      alt="Amit Profile"
      style="float: left; margin-right: 20rem; margin-bottom:40px; width: 90%;"/>
 
@@ -492,7 +492,7 @@ Since this was the first time IGC position was brought into the Secretariat, alo
 
 *GCU Head*
 
-<img src="images/profilecards/aasim.png"
+<img src="images/profilecards/Aasim.png"
      alt="Aasim Profile"
      style="float: left; margin-right: 20rem; margin-bottom:40px; width: 90%;"/>
 
@@ -528,7 +528,7 @@ Do lead your team by example but do ensure every member in your council is invol
 
 *Principal Coordinator, NSS*
 
-<img src="images/profilecards/keerthana.png"
+<img src="images/profilecards/Keerthana.png"
      alt="Keerthana Profile"
      style="float: left; margin-right: 20rem; margin-bottom:40px; width: 90%;"/>
 
@@ -629,7 +629,7 @@ She's just perfect for the role of a club's coordinator in my opinion. The most 
 
 *Coordinator, Photography and Films Club*
 
-<img src="images/profilecards/anant.png"
+<img src="images/profilecards/Anant.png"
      alt="Anant Profile"
      style="float: left; margin-right: 20rem; margin-bottom:40px; width: 90%;"/>
 
@@ -676,7 +676,7 @@ Our club just gets questioned a lot. Make sure we answer with our dedication and
 
 *Coordinator, Actomania*
 
-<img src="images/profilecards/jabili.png"
+<img src="images/profilecards/Jabili.png"
      alt="Jabili Profile"
      style="float: left; margin-right: 20rem; margin-bottom:40px; width: 90%;"/>
 
@@ -713,7 +713,7 @@ I was unable to conduct more offline workshops and events due to hectic academic
 
 *Coordinator, Artista*
 
-<img src="images/profilecards/lakshana.png"
+<img src="images/profilecards/Lakshana.png"
      alt="Lakshana Profile"
      style="float: left; margin-right: 20rem; margin-bottom:40px; width: 90%;"/>
 
@@ -752,7 +752,7 @@ I believe you will do it right because hopefully you also would've been in the c
 
 *Coordinator, Xcite CLub*
 
-<img src="images/profilecards/ajay.png"
+<img src="images/profilecards/Ajay.png"
      alt="Ajay Profile"
      style="float: left; margin-right: 20rem; margin-bottom:40px; width: 90%;"/>
 
@@ -793,7 +793,7 @@ I know these are all hangover thoughts after any fictional movie but what if the
 
 *Coordinator, Debate and Oratory Club*
 
-<img src="images/profilecards/sneha.png"
+<img src="images/profilecards/Sneha.png"
      alt="Sneha Profile"
      style="float: left; margin-right: 20rem; margin-bottom:40px; width: 90%;"/>
 
@@ -846,7 +846,7 @@ On a work related personal note, she's very focused and a quick learner. I recei
 
 *Coordinator, Quizzing Club*
 
-<img src="images/profilecards/ayush.png"
+<img src="images/profilecards/Ayush.png"
      alt="Ayush Profile"
      style="float: left; margin-right: 20rem; margin-bottom:40px; width: 90%;"/>
 
@@ -887,7 +887,7 @@ Congratulations on becoming the new head! There are many talented quizzers who j
 
 *Coordinator, Digital Wizards*
 
-<img src="images/profilecards/aditya.png"
+<img src="images/profilecards/Aditya.png"
      alt="Aditya Profile"
      style="float: left; margin-right: 20rem; margin-bottom:40px; width: 90%;"/>
 
@@ -927,7 +927,7 @@ Humorous and takes jokes in good spirit. He has come a long way and I'm sure he'
 
 *Coordinator,Techmaniacs*
 
-<img src="images/profilecards/pavan.png"
+<img src="images/profilecards/Pavan.png"
      alt="Pavan Profile"
      style="float: left; margin-right: 20rem; margin-bottom:40px; width: 90%;"/>
 
@@ -966,7 +966,7 @@ Technical culture in our IIT is weaker than expected. Our college’s culture sh
 
 *Coordinator, Gagan Vedhi*
 
-<img src="images/profilecards/devansh.png"
+<img src="images/profilecards/Devansh.png"
      alt="Devansh Profile"
      style="float: left; margin-right: 20rem; margin-bottom:40px; width: 90%;"/>
 
@@ -1020,7 +1020,7 @@ I am really lucky to have a friend like you.
 
 *Coordinator, Winged Voyage*
 
-<img src="images/profilecards/saurabh.png"
+<img src="images/profilecards/Saurabh.png"
      alt="Saurabh Profile"
      style="float: left; margin-right: 20rem; margin-bottom:40px; width: 90%;"/>
 
@@ -1060,7 +1060,7 @@ I would warn the successors of becoming lethargic after achieving small mileston
 
 *Coordinator, Aranya*
 
-<img src="images/profilecards/sandesh.png"
+<img src="images/profilecards/Sandesh.png"
      alt="Sandesh Profile"
      style="float: left; margin-right: 20rem; margin-bottom:40px; width: 90%;"/>
 
@@ -1139,7 +1139,7 @@ It’s amazing how he takes criticism in the best way and tries to improve himse
 ### Vraj B Patel
 *Coordinator, Fitness Club*
 
-<img src="images/profilecards/vraj.png"
+<img src="images/profilecards/Vraj.png"
      alt="Vraj Profile"
      style="float: left; margin-right: 20rem; margin-bottom:40px; width: 90%;"/>
 
@@ -1182,7 +1182,7 @@ It’s amazing how he takes criticism in the best way and tries to improve himse
 
 *Coordinator, E-Cell*
 
-<img src="images/profilecards/dhyaan.png"
+<img src="images/profilecards/Dhyaan.png"
      alt="Dhyaan Profile"
      style="float: left; margin-right: 20rem; margin-bottom:40px; width: 90%;"/>
 
@@ -1234,7 +1234,7 @@ One thing that inspires and astonishes me is that he can speak many languages Mo
 </br>
 
 
-<img src="images/profilecards/utkarsh.png"
+<img src="images/profilecards/Utkarsh.png"
      alt="Utkarsh Profile"
      style="float: left; margin-right: 20rem; margin-bottom:40px; width: 90%;"/>
 
@@ -1265,14 +1265,16 @@ Coordinate with your team members properly, Focus on the masses not the few one 
 >I have worked closely with him in the E-Cell as well as Tirutsava. He always took the initiative for every task and is very responsible and committed to his role. He is always there if you have difficulties in any task while working under him. His guidance is always spot on.
 I thank him for sharing his experiences and guiding me throughout his tenure as E-Cell Head.
 >
->*-Krithi*
+>*-Sameer*
+</details>
+
 </details>
 
 >Dear Secretaries and Coordinators,
 
 Thank you for the amazing work you've put into your positon and going the extra mile everyday to make the college a comfortable space. As the leader, you have continued to manage everything efficiently
 on behalf of all the community. Yours is a job that brings the college to life, and we appreciate you. We believe you’ve set a wonderful example for the present council and for the years to come.
-</details>
+
 
 </br>
 
