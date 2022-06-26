@@ -128,8 +128,8 @@ When everything was back to normal, a two-day **'Cheriyal painting workshop'** w
 
 The Independence Day celebrations were held online due to the then-ongoing pandemic. Our beloved director unfurled the flag at the transit campus. After the national anthem and march past by the security, our director addressed the students. Later the cultural programs began which included some patriotic performances by students, faculty, and their children.
 
-![img](./images/Student_Act/ADS_9418.jpg)
-![img](./images/Student_Act/ADS_9444.jpg)
+![img](./images/Student_Act/ADS_9418.JPG)
+![img](./images/Student_Act/ADS_9444.JPG)
 
 
 # **Diwali**
