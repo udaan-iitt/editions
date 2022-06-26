@@ -2,14 +2,12 @@
 Title: "Seasons of Symphony"
 Category: "Story"
 Date: "2022-06-21 10:00:00 +09:00"
-Desc: "to be added"
+Desc: "Angona, a young university student with inability to walk, encounters an exuberant girl who turns her monochrome and secluded life upside down. As she struggles to find herself, a shocking secret awaits her."
 Thumbnail: "./images/placeholder.jpg "
 Authors: "Keshav Kumar Manjhi"
 Starred: "False"
 Alt: "Seasons of Symphony"
 ---
-# Seasons of Symphony 
-
 <h2 align="center">Winter</h2>
 
 [//]: # (`<A picture of Winter>`)

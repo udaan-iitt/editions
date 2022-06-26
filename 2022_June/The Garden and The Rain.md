@@ -9,31 +9,37 @@ starred: "false"
 alt: "The Garden and the Rain"
 ---
 
-The green bushes along the rocky path,  
-Bench among the tiny stretch of grass,  
-Trees at the edge of the wooden fence,  
-The pond is filled with water from the rains.  
+<p style="text-align: center;align:center;">
+The green bushes along the rocky path,<br>  
+Bench among the tiny stretch of grass,<br>   
+Trees at the edge of the wooden fence,<br>   
+The pond is filled with water from the rains.<br> 
+</p>
 
+<p style="text-align: center;align:center;">
+I see the butterfly hovering on flowers,<br> 
+And the birds chirping from the leaves,<br>  
+While the grasshoppers hop on the lawn,<br> 
+And there is the harbinger of rain.<br>  
+</p>
 
-I see the butterfly hovering on flowers,  
-And the birds chirping from the leaves,  
-While the grasshoppers hop on the lawn,  
-And there is the harbinger of rain.  
+<p style="text-align: center;align:center;">
+Sitting on the bench, I watch the garden,<br>  
+As I enjoy the serenity of the nature,<br>  
+Who knew a storm was rising above,<br>  
+Clouds turned dark, scaring away the dove.<br>  
+</p>
 
+<p style="text-align: center;align:center;">
+Lightning rolls through the clouds,<br>  
+Breeze turns into strong winds,<br>  
+Shaking the giant trees at the edges,<br>  
+I run for a shelter from nature’s rages.<br>  
+</p>
 
-Sitting on the bench, I watch the garden,  
-As I enjoy the serenity of the nature,  
-Who knew a storm was rising above,  
-Clouds turned dark, scaring away the dove.  
-
-
-Lightning rolls through the clouds,  
-Breeze turns into strong winds,  
-Shaking the giant trees at the edges,  
-I run for a shelter from nature’s rages.  
-
-
-Then clouds burst and a downpour begins,  
-Turning the arranged garden into a mess,  
-Watching, I wonder, does it take time,  
-For the rocky dry path to turn to slime.  
+<p style="text-align: center;align:center;">
+Then clouds burst and a downpour begins,<br>  
+Turning the arranged garden into a mess,<br>  
+Watching, I wonder, does it take time,<br>  
+For the rocky dry path to turn to slime.<br>  
+</p>
