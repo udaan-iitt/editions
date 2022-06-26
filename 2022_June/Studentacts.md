@@ -138,7 +138,7 @@ Diwali is considered to be one of the most exciting festivals of the year. The f
 
 In the evening, a pooja was held followed by a bonfire. Then came the most exciting part of the event where students lit crackers and lanterns followed by a DJ. It was a pretty nice evening well spent enjoying with friends. Diwali did bring light into a lot of our lives and memories.
 
-![img](./images/Student_Act/Copy of DSC_0426.jpg)
+![img](./images/Student_Act/DSC_0426.jpg)
 ![img](./images/Student_Act/DSC_0586.jpg)
 
 # **Christmas Eve**
@@ -172,7 +172,7 @@ The Republic day celebrations happened in online mode. The national flag was unf
 The festival of colours was spent in a very joyous manner. All the students on campus gathered in the OAT and played Holi. The day was filled with colours, music, and enjoyment.
 
 ![img](./images/Student_Act/ADS_8690.jpg)
-![img](./images/Student_Act/ADS_8662.jpg)
+![img](./images/Student_Act/ADS_8762.jpg)
 
 <a id="have-we-met-before"></a>
 # Have we met before
