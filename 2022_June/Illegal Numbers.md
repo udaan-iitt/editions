@@ -1,12 +1,12 @@
 ---
 title: "Illegal Numbers"
 category: "Op-ed"
-date: "2022-06-23"
+date: "2022-06-23 12:00:00 +09:00"
 desc: ""
 thumbnail: "./images/Illegal Numbers.png"
 authors: "Cosmic Cutie"
 starred: "false"
-alt: ""
+alt: "Illegal_numbers"
 ---
 
 

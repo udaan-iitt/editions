@@ -4,7 +4,7 @@ category: "Story"
 date: "2022-06-23 12:00:00 +09:00"
 desc: "Jupiter and Venus. How unjust their fates. To our eyes, they appear so close, so intimate—about to kiss each other. But in reality, they are separated by millions of miles."
 thumbnail: "./images/Saba.jpg"
-authors: "Sarvesh"
+authors: "Sarvesh Nikas"
 starred: "false"
 alt: "Jupiter and Venus"
 ---
@@ -38,7 +38,7 @@ Had she changed? Was it Saba who stood before him, or was it Mrs Raza? She certa
  
 "Winds," he said, trying to look into her big hazel eyes. 
 
-"Winds? Still haven't lost your love for the winds?" She laughed the way a Mrs Raza would laugh. Laugh of a rich and discreet woman and sat on a chair beside the swing.  
+"Winds? Still haven't lost your love for the winds?" She laughed the way a Mrs Raza would laugh. Laugh of a rich and discreet woman who sat on a chair beside the swing.  
 	
 She asked him about the journey and how long he planned to stay. She asked him about his daughter Mathilde and what she did. She asked him about France, and she asked him about his home. But she did not ask him about Adele.    
 	
@@ -80,9 +80,10 @@ Everything she said seemed practised. Everything she said sounded like a sad poe
 "So tell me about her", Saba said, sounding as sober as she could. Her voice showed no signs of having had a breakdown a few seconds before. Her face showed no signs of a quarter of a bottle of whiskey.   
 	
 "Adele?"
+
 "Yes, Adele. Adele," she said. 
 	
-She continued, in a 13-year-old girl’s voice, "Your strongest muse!" She must be magic! Tell me everything about her. Tell me, please tell me you have brought her to Banaras with you."   
+She continued, in a 13-year-old girl’s voice, "Your strongest muse! She must be magic! Tell me everything about her. Tell me, please tell me you have brought her to Banaras with you."   
  	
 "She is no more. She passed away two years ago”, Ram answered after a minute. His voice always cracked whenever he talked about Adele, but today it hadn't. For the first time in two years, he seemed to accept the reality. Saba had made him accept the undeniable ugly truth of death. 
 
