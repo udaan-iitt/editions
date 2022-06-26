@@ -9,8 +9,6 @@ starred: "True"
 alt: "Tirutsava - Behind the Scenes"
 ---
 
-# Tirutsava - Behind the Scenes
-
 **Tirutsava** is the annual techno-cultural fest of IIT Tirupati. **Tirutsava'22** was a three-day-long event that took place in the month of April this year. Generally, one or two byte-sized pre-fests are conducted before the main fest to grab the attention of the audience. So this year, the fest was divided into three phases,
 
 - *The Inception*, to kick-start the _Tiru-utsava_ with a bunch of exciting events
