@@ -1,15 +1,13 @@
 ---
 Title: "Ghosts in the Machine- A Critique"
 Category: "Review"
-Date: " "
-Desc: "Understanding an ad that tells more than its shows. Secrets, that you never knew existed. Facts, which we all ignore.  "
-Thumbnail: " "
+Date: "2022-06-26 12:00:00 +09:00"
+Desc: "A stimulating analysis of an 'advertisement' that shows a lot more than it appears to show. Secrets, that you never knew existed. Facts, you always ignore."
+Thumbnail: "./images/Illegal Numbers.png"
 Authors: "Cosmic Cutie"
-Starred: " "
-Alt: " "
+Starred: "false"
+Alt: "Ghosts_In_The_Machine_Review"
 ---
-Pen name: Cosmic Cutie
-
 # Ghosts in the Machine - A Critique
 
 *They are far away and yet close,*
@@ -59,7 +57,7 @@ Words flash onto the screen:
 The visuals switch across various city skylines as various clips from the radio are played. A segment of a news report from the *Tiananmen square protests* of 1989 along with the famous sound-bite of *Reagan* requesting *Gorbachev* to tear down *the Berlin wall* play, as the visuals show a conductor in front of an orchestra, telling us that they control the music.
 
 Clearly, the *4th PSYOPs Group* wants us to think of it being involved in the breakup of the *Soviet Union* and the protests in *China*. Ironically, the *USA* was quick to deny involvement in these events when accused of manufacturing crises to destabilize its geopolitical rivals.
-Now the *4th PSYOPs Group* seems to be taking unofficial credit. Almost like saying "Come on guys, it had *nothing* to do with us" <wink, wink>
+Now the *4th PSYOPs Group* seems to be taking unofficial credit. Almost like saying "Come on guys, it had *nothing* to do with us" _*wink, wink*_
 
 The scene shifts to a chessboard, meant to represent how the *4th PSYOPs Group* (like most intelligence organizations) sees the world:
 
@@ -234,6 +232,7 @@ As the singer says her last goodnight, the masked figures appear in the forest a
 The video ends with the logo of the *4th PSYOPs Group* on the screen. A gray cloud with three thunderbolts with the motto:
 
 *"Verbum Vincet"*
+
 *"The World will Conquer"*
 
 *"These are the psywar soldiers"* says the voice as a link to the recruitment web-page flashes on the screen.
@@ -241,21 +240,20 @@ The video ends with the logo of the *4th PSYOPs Group* on the screen. A gray clo
 
 The reactions to the video were interesting. Some of the top comments:
 
-`   `"This glows harder than a Christmas tree in February"
+> `   `"This glows harder than a Christmas tree in February"
+
+> `   `"Me: “No way could I trust the government less than I already do.” 
+>
+> `   `4th PSYOP Group: “hold my beer”
 
 
-`   `"Me: “No way could I trust the government less than I already do.”
-
-` `4th PSYOP Group: “hold my beer”
-
-
-`   `"Finally saying the quiet part out loud.
-
-`   `WE are the targets just as much as an enemy.
-
-`   `Question everything.
-
-`   `Think for yourselves without the sphere of societal or social media influence."
+> `   `"Finally saying the quiet part out loud.
+>
+> `   `WE are the targets just as much as an enemy.
+>
+> `   `Question everything.
+>
+> `   `Think for yourselves without the sphere of societal or social media influence."
 
 While the *4th PSYOPs Group* must be commended for leaving the comments section open, it must be admitted that the general public did not take this well.
 
@@ -266,7 +264,7 @@ Firstly, an army recruitment ad needs to be very well crafted. The focus must be
 The ad here has been well crafted, no doubt. But the story it tells is that of a shadowy group controlling things via manipulation. Not one of a group that the average person can sympathize with. The use of threatening statements like *"We are everywhere"* and *"Everything we touch is a weapon"*, while making the video sound cool, just alienated the audience from the *4th PSYOPs Group.*
 
 That takes us to the next lesson.
-Secondly, there must be an attempt to reassure the target audience that this one is on their side.
+There must be an attempt to reassure the target audience that this one is on their side.
 When the tactics used to manipulate individuals psychologically are brazenly boasted about, the audience wonders whether such tactics have been used against them. It is one thing to wage *PSYWAR*, it is another thing entirely to brag about doing so and rub it into the faces of your targets.
 
 In conclusion, I don't think the ad was a total failure for the *4th PSYOPs Group.* They generated attention and got people talking about them, which probably translates to increased application rates in the future. However, the  *4th PSYOPs Group*, being so eager to quote *Sun Tzu*, might appreciate this particular nugget of his wisdom.
@@ -280,5 +278,6 @@ In conclusion, I don't think the ad was a total failure for the *4th PSYOPs Grou
 `   `*-Sun Tzu*
 
 *Psychological operations are best carried out by the formless and soundless.*
+
 
 
