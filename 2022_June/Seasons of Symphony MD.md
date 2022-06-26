@@ -1,12 +1,12 @@
 ---
 Title: "Seasons of Symphony"
 Category: "Story"
-Date: " "
-Desc: " "
-Thumbnail: " "
+Date: "2022-06-21 10:00:00 +09:00"
+Desc: "to be added"
+Thumbnail: "./images/placeholder.jpg "
 Authors: "Keshav Kumar Manjhi"
-Starred: " "
-Alt: " "
+Starred: "False"
+Alt: "Seasons of Symphony"
 ---
 # Seasons of Symphony 
 
