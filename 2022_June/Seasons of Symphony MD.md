@@ -10,7 +10,7 @@ Alt: " "
 ---
 # Seasons of Symphony 
 
-### *Winter*
+<h2 align="center">Winter</h2>
 
 [//]: # (`<A picture of Winter>`)
 
@@ -153,7 +153,7 @@ kid."
 together. Since *Leisha* knew she would find her in the music room in the morning, she'd go there while bunking classes and always sit with or
 talk to her. *Angona*, who had lived like a lone doll until then, liked having a friend, someone to talk to. Someone to spend time with.
 
-### *Summer*
+<h2 align="center">Summer</h2>
 
 [//]: # (`<A picture of Summer>`)
 
@@ -272,7 +272,7 @@ she clenched her fists.
 "I know, it's alright. You should take your time. But please, don't cage yourself with this thought, Ango. I'm sure
 nothing will happen, and even if anything has to happen, I'm here with you now, na. I will fix it." *Leisha* held *Angona's* hands and kept her head on her lap.
 
-### *Autumn* 
+<h2 align="center">Autumn</h2>
 
 [//]: # (`<A picture of Autumn>`)
 
@@ -384,10 +384,3 @@ The beeps changed.
 The doctors' eyes
 widened as they dilated with hope. Heartbeat. Applause. *Angona* smiled and cried at the same time as she heard the entire crowd roaring for
 her. Hope. The kites in the city fly again. The Sun perished below the horizon, but two stars glowed lustrously as the dark sky enveloped the city.
-
-
-
-` `*Keshav Kumar Manjhi*
-
-` `*CS21B027*
-
