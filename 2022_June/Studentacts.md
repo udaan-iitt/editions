@@ -40,10 +40,10 @@ Just the way all students were oscillating to and fro from home to campus, all t
 
 This year, the Intra-IIT Cultural and Literary fest was named *‘Fiesta’* and was held in two phases, online and offline. Students were first divided into houses based on their branches, and WhatsApp groups were formed. The houses were then given their first task, to give themselves a name along the lines of this year’s theme, _Mythology_. The houses came up with the names *Airavat, Ekalavya, Garuda, Brahmastra, and Thunder Phoenix*. All the cultural and literary clubs hosted a plethora of contests for the teams to participate in and started sending out mails announcing the details. The online phase of Fiesta commenced in March and saw astounding participation from every house. There was fierce competition to grab the trophy. The offline events started in full vigour right after Tirutsava 2k22. The campus was once again a buzz of activity with students actively participating and giving these events their all. The grand finale to Fiesta came with the much anticipated Ethnic Night. On the fine evening of 24th April, a colourful crowd all dressed in traditional attire from various parts of the country, made its way to the OAT for the Ethnic night celebrations and stage events of Fiesta. As part of the Ethnic night celebrations, a dazzling fashion show and a mesmerising talent showcase were conducted. Finales of contests like *Vibrato, Concerto, Rhythm*, etc were also held on stage for everyone to witness. The grand celebrations came to an end with a DJ night which served as an opportunity for students to dance their hearts out and celebrate.
 
-![img](./images/placeholder.png)
-![img](./images/placeholder.png)
-![img](./images/placeholder.png)
-![img](./images/placeholder.png)
+![img](./images/placeholder.jpg)
+![img](./images/placeholder.jpg)
+![img](./images/placeholder.jpg)
+![img](./images/placeholder.jpg)
 
 <a id="kridan"></a>
 # **Kridan**
@@ -51,8 +51,8 @@ This year, the Intra-IIT Cultural and Literary fest was named *‘Fiesta’* and
 
 The Intra-IIT Sports meet was given a name for the first time this year. The name *Kridan* is a blend of the words *Kreda* and *Maidan*. All the students of our campus were divided into four teams namely *Radiants, Shershaahs, House of Warriors, and The Arsenal*. Team leaders were selected and respective WhatsApp groups were formed for further information exchange. Once the teams were formed, the Intra-IIT Sports meet was launched on the 11th of April. Online fitness challenges were conducted which were met with enthusiastic participation. For the offline sports contests, team selections were held which saw tough competition, and with the students’ return to campus, offline events and competitions were kicked off. Team fixtures and order of tournaments were released and Kridan was off to an energetic start. For the first time, team jerseys were designed and provided for all the competing students to invoke team spirit and motivation. Kridan was a huge success with students rushing around the campus in their respective team jerseys, actively participating in tournaments to lead their house to victory. The month long sports tournament has left a lasting impact on all our minds. The offline tournaments were also enjoyed by a patriotic crowd cheering for their teams to win. The prizes for all the tournaments were later distributed on the Gymkhana day along with the trophy for the winning team.
 
-![img](./images/placeholder.png)
-![img](./images/placeholder.png)
+![img](./images/placeholder.jpg)
+![img](./images/placeholder.jpg)
 
 <a id="intra-iit-tech-meet"></a>
 # **Intra IIT tech meet**
@@ -78,8 +78,8 @@ The Guidance and Counselling Unit of IITT, Sarathi, has been keeping up the good
 
 The NSS team had a very busy year both online and offline as they conducted and involved students in numerous community service events and activities. On the occasion of Gandhi Jayanthi, students, professors and other administrative officials of IITT volunteered in cleaning the institute premises. Masks and sweets were distributed to housekeeping staff as a token of gratitude, and students were encouraged to cut down plastic usage for a week. On the occasion of the 53rd NSS day on 24th September 2021, NSS IITT hosted the **‘Let's Plant a Tree’** activity, which saw active participation from students at home, who planted trees and uploaded pictures of the same. Team NSS, along with professors of IITT in association with *JCI*, distributed groceries worth Rs. 25,000 to people of a nearby village whose income had been affected by the pandemic. They also conducted a poster-making and video-making contest on awareness of the pandemic, and a poster-making contest on **‘India: Then vs Now’** on the occasion of Independence day. For Swachchtha Pakhwada 2021, NSS IITT held a pledge and tree plantation event, a best out of waste contest, a poster-making contest, a bag-making contest, a mass cleaning campaign where students cleaned their own rooms and gave a day off to housekeeping staff, an essay writing contest on the theme **‘Role of Engineers in Rural Development’**, a stress relief activity focusing on creativity, and initiated kitchen gardening along with the horticulture officer. Under the schools and Elderly homes division of NSS IITT, a total of 25 activities were organized over a month in collaboration with the *SOS organisation and the Ullas Trust*. Apart from that, a mask activity where masks and meals were donated to homeless children in the neighbourhood, and a **Cook-Up activity** to promote students' interaction with their parents and grandparents was conducted on the Instagram page. They also conducted an activity called **Know Your Social Worker**, an online project competition **‘Science Hack 2.0’**, and distributed the donations by the students. The Health team of NSS IITT organised a poster-making contest for a tobacco-free campus, a talk on **‘Tobacco: A Devil In Disguise'**, a dental checkup in association with *Haripriya Dental Hospital*, a stress management seminar in collaboration with GCU, an eye checkup in collaboration with *Kartika Eye and ENT hospital*, a voluntary blood donation camp in collaboration with *NTR Blood donation trust*, and started an Instagram post series to provide awareness on diseases.
 
-![img](./images/placeholder.png)
-![img](./images/placeholder.png)
+![img](./images/placeholder.jpg)
+![img](./images/placeholder.jpg)
 
 <a id="cdc"></a>
 # **CDC**
@@ -97,10 +97,10 @@ Where’s the fun in an online fest? With the grace of covid and the covid commi
 
 The much-awaited day 1 of Tirutsava 2022 started off with many cultural events including *Expressivo, Enigma, and Funky Feet*, and Tech events such as the *App Development contest and Web Development contest* which saw active participation. The inaugural ceremony was held that evening followed by a fashion show by our students. Later that evening the stage was lit up by the many dancers from various parts of our country performing as a part of the group dance contest *‘Funky Feet’*. 
 
-![img](./images/placeholder.png)
-![img](./images/placeholder.png)
-![img](./images/placeholder.png)
-![img](./images/placeholder.png)
+![img](./images/placeholder.jpg)
+![img](./images/placeholder.jpg)
+![img](./images/placeholder.jpg)
+![img](./images/placeholder.jpg)
 
 On the second day, events such as *Squid Games, JAM, Ideathon, and Treasure Hunt* took place with much energy and zeal. That evening, for the pro show, the mesmerising *'Shri Rama Chandra'*, the winner of Indian Idol - 2013, immersed the audience in an enthralling musical performance. A huge crowd from in and around Tirupati gathered in the OAT to witness his performance. 
 
@@ -116,8 +116,8 @@ Despite being an on and off year, SPIC MACAY managed to conduct various activiti
 
 When everything was back to normal, a two-day **'Cheriyal painting workshop'** was conducted on April 30 and May 1. This event was refreshing as the participants got an opportunity to explore this ancient art form. An Offline event inviting *Sri Sikkil Gurucharan* accompanied by *Padma Vibhushan Sangita Kalanidhi Kalaimamani Dr Umayalapuram K Sivaraman on Mridangam, Sri Sanjeev V on Violin, KanjiraMan Sri B Shree Sundar Kumar on Kanjira* was held on 28th May 2022 in our campus. 
 
-![img](./images/placeholder.png)
-![img](./images/placeholder.png)
+![img](./images/placeholder.jpg)
+![img](./images/placeholder.jpg)
 
 <a id="festivals"></a>
 # **Festivals**
@@ -128,8 +128,8 @@ When everything was back to normal, a two-day **'Cheriyal painting workshop'** w
 
 The Independence Day celebrations were held online due to the then-ongoing pandemic. Our beloved director unfurled the flag at the transit campus. After the national anthem and march past by the security, our director addressed the students. Later the cultural programs began which included some patriotic performances by students, faculty, and their children.
 
-![img](./images/placeholder.png)
-![img](./images/placeholder.png)
+![img](./images/placeholder.jpg)
+![img](./images/placeholder.jpg)
 
 
 # **Diwali**
@@ -138,16 +138,15 @@ Diwali is considered to be one of the most exciting festivals of the year. The f
 
 In the evening, a pooja was held followed by a bonfire. Then came the most exciting part of the event where students lit crackers and lanterns followed by a DJ. It was a pretty nice evening well spent enjoying with friends. Diwali did bring light into a lot of our lives and memories.
 
-![img](./images/placeholder.png)
-![img](./images/placeholder.png)
-
+![img](./images/placeholder.jpg)
+![img](./images/placeholder.jpg)
 
 # **Christmas Eve**
 
 On the eve of Christmas, a Christmas tree was set up and the area around it was decorated with candles. A wish stand was set up where everyone could write their wishes for this Christmas and could tie it up to the stand set up nearby. The next day, an open mic event was conducted where students could come up and showcase their talents. This open mic witnessed many stunning performances which received a huge response from the audience. We had a Santa Claus at the open mic who entertained everyone with his acts. Later that night, a movie was screened, just like a cherry on the cake.
 
-![img](./images/placeholder.png)
-![img](./images/placeholder.png)
+![img](./images/placeholder.jpg)
+![img](./images/placeholder.jpg)
 
 
 # **New Year**
@@ -172,9 +171,8 @@ The Republic day celebrations happened in online mode. The national flag was unf
 
 The festival of colours was spent in a very joyous manner. All the students on campus gathered in the OAT and played Holi. The day was filled with colours, music, and enjoyment.
 
-![img](./images/placeholder.png)
-![img](./images/placeholder.png)
-
+![img](./images/placeholder.jpg)
+![img](./images/placeholder.jpg)
 
 <a id="have-we-met-before"></a>
 # Have we met before
@@ -188,8 +186,8 @@ When it comes to memories, the fleeting moments spent with friends be it randoml
 
 College days are the most memorable days when people find friends who would come with them in all walks of life. To acknowledge all those friendships, on December 20th, a Signature day event was conducted for all the graduating students where they were given white shirts and some paints to leave a message to their pals. All the students gathered in the OAT and had some fun-filled memories which they will look back at with a smile on their faces.
 
-![img](./images/placeholder.png)
-![img](./images/placeholder.png)
+![img](./images/placeholder.jpg)
+![img](./images/placeholder.jpg)
 
 <a id="trek-to-tada-waterfalls"></a>
 # **Trek to Tada Waterfalls**
