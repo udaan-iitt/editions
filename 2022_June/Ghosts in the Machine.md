@@ -7,7 +7,7 @@ Thumbnail: "./images/placeholder.jpg"
 Authors: "Cosmic Cutie"
 Starred: "false"
 Alt: "Ghosts in the Machine- A Critique"
-
+---
 
 # Ghosts in the Machine - A Critique
 
