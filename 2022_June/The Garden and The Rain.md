@@ -2,7 +2,7 @@
 title: "The Garden and the Rain"
 category: "Poetry"
 date: "2022-06-21 10:00:00 +09:00"
-desc: "The description of a beautiful garden which is yet to be destroyed by a rain"
+desc: "How fleeting is beauty? Catch yourself in a lovely garden, before the rain catches you"
 thumbnail: "./images/The Garden and The Rain.jpg"
 authors: "Iftekhar Ahmed"
 starred: "false"

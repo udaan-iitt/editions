@@ -3,17 +3,18 @@ title: "Faculty Interview with Prof. Raghavendra Kanakagiri"
 category: "Campus News"
 date: "2022-06-23 12:00:00 +09:00"
 desc: "From pepper spray and Clash of Clans to Julia and Panchayat, read on to experience a fantastic interview with Prof Raghavendra! "
-thumbnail: "../2077_Test/images/broken.jpg"
+thumbnail: "./images/faculty_interview/Raghavendra_Sir_cover.jpeg"
 authors: "Pranathi, Debeshee"
 starred: "false"
 alt: "Interview"
 ---
 
+# Faculty Interview with Prof. Raghavendra Kanakagiri
 
 OK! Brace yourself, guys! Here we have Professor *K*, the First *PCLer*, long-time *Clash of Clans* pro, computer architecture enthusiast, and unanimously one of the coolest persons on campus, Dr Raghavendra Kanakagiri! CS students know him from the fun and exciting Computer Organisation classes. He runs the Parallel Computing Lab (PCL) at IIT Tirupati, where the students get to explore a wide range of projects and dabble in exciting research problems *(friendly reminder for the juniors to join!).* 
 
 
-![img](./images/faculty_interview.png)
+![img](./images/faculty_interview/faculty_interview.png)
 
 In an enjoyable and hilarious interaction, Dr Raghavendra shared briefly about his journey as a student. A self-proclaimed last-bencher, he described his passion for fun and his thirst to keep learning and exploring. He recollected, “I took up engineering because everyone else was doing it. I did not just read from the book and write answers, though. Rather, I used to explore. Even for my Masters, I wanted to live in a different city and go to different places. During my Masters, I thought I should do a PhD.” He believes his path was not set or well-defined in advance. In contrast, he observes that there are students here at IIT Tirupati who already know what they want to do. They are very sure of which subject they want to work on and what they want to do after graduation. 
 
@@ -66,9 +67,12 @@ I’ve seen that the students here are very focused. They already know what they
 
 I think the answer is the same as above. Too much focus is great, but sometimes I feel you should explore other things also. What I mean is, as students, some of you feel so pressured to fix on an area in your first year or second year. You may email a faculty and continue working on that, and might not explore any other areas because there is so much peer pressure. You are in your second-year undergrad, not your second year of  PhD! In my second year of PhD, I didn't know what I wanted to work on (_laughs_).  It is okay to email faculty and say, “I don't know much, but I am willing to spend one hour per day. I want to learn and work with you.” It can be from other (EE/Mech) departments as well. They are experts in their domain. You can also work with faculty in other IITs, IIITs, or IISc. But be honest with them. Don't say I am only dedicated or only married to you! If you say you are working on this, but you are also exploring something else, if you are honest, you can explore more in your second and third years. Then maybe you will know what you want to freeze on in your 4th year. So, please loosen up a bit. It's bothering me that you asked about a quarter-life crisis. Please, no quarter-life crisis! I don’t believe that there is some greater purpose to life. You are here; it’s just an accident that happened. Have you read _Douglas Adams_ - one of his biggest questions is what is the ultimate answer to the universe - it's fun to read! But I won't spoil it for you right now. 
 
-&lt;Insert image hall_of_fame.png  with following caption here>
 
->Dr Raghavendra has set up this beautiful tradition where he sends an excellent book, (with express delivery!), whenever a student asks a singular question or answers a particularly interesting question in class. Their pictures also make it to this special page in his class notes labelled ‘Hall of Fame’, in an attempt to encourage students to read - “because reading good books will change their perspective of the world!”
+![img](./images/faculty_interview/hall_of_fame.png)
+
+>Dr Raghavendra has set up this beautiful tradition where he gifts an excellent book, (with express delivery!), whenever a student asks a singular question or answers a particularly interesting question in class. Their pictures also make it to this special page in his class notes labelled ‘Hall of Fame’, in an attempt to encourage students to read - “because reading good books will change their perspective of the world!”
+
+
 
 **_How should students approach professors? Especially when they’re writing emails but have no prior experience communicating through emails._**
 
@@ -80,11 +84,13 @@ My grades were not out of the stadium when I applied for Postdoc. I said I wante
 
 I am working on tensor computations - what a matrix is for 2 dimensions, a tensor is for n-dimensions. Everyone may have heard of it because of its frequent use in Machine Learning. I’m not working on it from the perspective of ML and DL, though. I am working on making tensor computations scalable and running them on distributed machines - parallelising them. An example of tensor contraction is just multiplication. A 2D tensor multiplied with another 2D tensor gets you a 2D tensor output. That in itself is interesting because how would I distribute the data across thousands of nodes,say 100k cores and efficiently execute this operation in a huge distributed setting. Tensors are not just important in ML and DL, but also in quantum chemistry. Much of their expression of operations is in tensor algebra. Tensors are becoming the backbone of many operations. Making them run faster is important. For me, building systems is interesting. Systems as in, not software applications, but those which actually interact with hardware, and I can extract performance. One of the other things I am working on is, exploring and learning numerical methods because the group I work with is very strong in numerical methods. They are more of mathematicians than computer scientists. I am catching up, bugging lots of students and faculty to learn more. And I think now I am in good shape. 
 
-After an hour of exciting question answering, full of incredible anecdotes and laughter, we reached the penultimate interview, “Do you ever have free time? If you do, what do you do in your leisure?”. Pat came the reply, “I do whatever my wife tells me to. Right now, she’s making me watch Panchayat!”. Dr Raghavendra confirmed that he loves to play games and plays Clash of Clans for half an hour every day. “I can't live without the game!” he says. He is also an avid reader and highly recommends [GoodReads](https://www.goodreads.com/), a platform with various interest groups where people discuss books. Some highlights of excellent books are ‘The Pillars of the Earth’, which transports you to 11th century Europe and ‘A Brief History of Humankind’, which started out as a course by the author, Yuval Noah Harari. “You guys may read books like ‘_How to be a successful entrepreneur at 20 or 10 or 5_’! But apart from being a successful entrepreneur, you can be a successful, happy person!” he added. We immediately replied that if he wrote a book titled ‘How to be a successful, happy person’, we’d be the first ones to read it! We concluded with more laughter as Dr Raghavendra thanked the interview team for listening to the ‘last-benchers’ for a change. **_“_**Thank you on behalf of the last benchers. Our voice is being represented for the first time!” (_laughs_)
+After an hour of exciting question answering, full of incredible anecdotes and laughter, we reached the penultimate interview, “Do you ever have free time? If you do, what do you do in your leisure?”. Pat came the reply, “I do whatever my wife tells me to. Right now, she’s making me watch Panchayat!”. Dr Raghavendra confirmed that he loves to play games and plays _Clash of Clans_ for half an hour every day. “I can't live without the game!” he says. He is also an avid reader and highly recommends [GoodReads](https://www.goodreads.com/), a platform with various interest groups where people discuss books. Some highlights of excellent books are ‘The Pillars of the Earth’, which transports you to 11th century Europe and ‘A Brief History of Humankind’, which started out as a course by the author, Yuval Noah Harari. “You guys may read books like ‘_How to be a successful entrepreneur at 20 or 10 or 5_’! But apart from being a successful entrepreneur, you can be a successful, happy person!” he added. We immediately replied that if he wrote a book titled ‘How to be a successful, happy person’, we’d be the first ones to read it! We concluded with more laughter as Dr Raghavendra thanked the interview team for listening to the ‘last-benchers’ for a change. “Thank you on behalf of the last benchers. Our voice is being represented for the first time!” (_laughs_)
 
 We take a moment to thank Dr Raghavendra for taking the time out to be a part of this. 
 
 Thank you for walking with us through this captivating interaction. We now leave you with this beautiful take on teaching from one of the most inspiring teachers we’ve had the honour of knowing. 
 
 >“Once you start teaching, you realise that you can't go back. It's really fun interacting with students. The amount of fun you can have as a faculty, you can't have in any other place. I have even been to Vegas 5-6 times. I think it's the epitome of human achievement - from a barren desert long ago to its glittery and dazzling state now; it is such a great place to be. The thrill you get when you gamble at the casino is great, but teaching, standing in front of a class, beats that! It is unmatched!”
+>
 > &#x2013; Dr Raghavendra Kanakagiri
+>
