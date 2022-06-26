@@ -2,7 +2,7 @@
 title: "Tirutsava - Behind the Scenes"
 category: "Campus News"
 date: "2022-06-21 10:00:00 +09:00"
-desc: "The word Utsava means a festival or any joyful occasion. But it takes a lot for the Tirutsava to be a joyful one. Here's what it's like behind the scenes, from the main actors themselves."
+desc: "The word Utsava means a festival or any joyful occasion. But it takes a lot for the 'Tirutsava' to be a joyful one. Here's what it's like behind the scenes, from the main actors themselves."
 thumbnail: "./images/Tirutsava Behind the scenes.jpg"
 authors: "Chaitali, Mathew, Mohith"
 starred: "True"
@@ -11,15 +11,15 @@ alt: "Tirutsava - Behind the Scenes"
 
 # Tirutsava - Behind the Scenes
 
-**Tirutsava** is the annual techno-cultural fest of IIT Tirupati. **Tirutsava'22** was a 3-day-long event that took place in the month of April this year. Generally, one or two byte-sized pre-fests are conducted every year before the main fest to grab the initial attention. So this year, the fest was divided into three phases,
+**Tirutsava** is the annual techno-cultural fest of IIT Tirupati. **Tirutsava'22** was a three-day-long event that took place in the month of April this year. Generally, one or two byte-sized pre-fests are conducted before the main fest to grab the attention of the audience. So this year, the fest was divided into three phases,
 
 - *The Inception*, to kick-start the _Tiru-utsava_ with a bunch of exciting events
 - *The Avenue*, wholly dedicated to online gaming events
 - *The Conclusion*, the main fest
 
-The whole success of the fest depends on the back-end work done by the Tirutsava team. Behind the smiling faces and sound of happiness on the fest days, there lies a lot of hard work taken for months, and we (here at team Udaan) would like to take this up and pen down the *Scenes Behind the Tirutsava.*
+The success of the fest depends on the backend work done by *Tean Tirutsava*. Behind the smiling faces and sound of happiness on the fest days, there lies a lot of hard work spread out over months! And in this _Udaan_ special, we would like to give you a glimpse of what happens *behind the scenes at Tirutsava.*
 
-So, where does this all begin? The whole process of fest preparation starts with the selection of a fest head. This fest head is actually a new role introduced beginning with this year’s fest. The technical and cultural affairs secretaries used to act as fest heads for all the previous fests. Srikarah Volaity was selected as the fest head, by the end of October 2021.
+So, where does this all begin? The process of fest preparation starts with the selection of a fest head. This fest head is actually a new role introduced beginning with this year’s fest. The technical and cultural affairs secretaries used to act as fest heads for all the previous fests. Srikarah Volaity was selected as the fest head, by the end of October 2021.
 
 
 >*“The Head should initially decide what committees are necessary for the fest. He then must do a rigorous process in selecting the committee heads. You can pretty much assume this role to be that of a manager. In many situations, the fest head has the final call. He needs to take care that the committees are working efficiently.”*  
@@ -76,7 +76,7 @@ With the right team set in, the work for the fest started quickly. But won’t i
 >*“My goal was to make the fest more friendly and captivating enough. It shouldn’t feel like it is somebody else’s fest; you are participating in your own fest. The content should make us feel that this is our fest.”*
 >-Krithi
 
->>*“Our vision was to prepare a hybrid fest as there was so much ambiguity regarding offline fest, and we didn’t want this to affect the committee's work. We want our fest to reach out to more students and institutes outside Tirupati. Making it hybrid will help us achieve this.”*
+>*“Our vision was to prepare a hybrid fest as there was so much ambiguity regarding offline fest, and we didn’t want this to affect the committee's work. We want our fest to reach out to more students and institutes outside Tirupati. Making it hybrid will help us achieve this.”*
 >-Anu Anand
 
 >*“At first, we thought the fest was going to be offline. But then there was covid third wave spread, and many covid restrictions were imposed on the campus. So our vision was to conduct the fest offline so that there would be minimal covid spread from people who come from outside the campus. But since the restrictions were lifted, we were mainly focused on checking any nuisance people from entering the campus.”*
@@ -273,4 +273,4 @@ So let's hear out what our heads had to say for the upcoming heads.
 To conclude, working for the fest is a different sum of experiences and emotions. It is a test for your skills and mental levels. But the heads are ensuring that taking up this would be a loving challenge. After all, it is *our* college fest and only *we* can make it a successful one.
 
 
-A special thanks to V Sathyanarayann, G Swathi and Sneha MS for taking out their time and hosting the interviews. 
+A special thanks to *V Sathyanarayann*, *G Swathi* and *Sneha MS* for their initiative, time and support in conducting the interviews amidst the chaos of the fest.
