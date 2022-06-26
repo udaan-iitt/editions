@@ -42,6 +42,6 @@ Here ends a short overview of my love for cooking. But, why should you cook? Wel
 Just get in the kitchen, gather the required ingredients and start off! My advice would be - Don’t be afraid of how stuff is going to turn out. It may turn out to be delicious, exemplary, or maybe barely edible...but there's very little probability that it would turn out so bad that it's inedible. So, just enjoy the process and learn from it. Celebrate your little successes, learn from the minor setbacks, and forget them right away. Cooking is not a competition; it's meant to be a process through which you create a hearty and nourishing meal for you and your loved ones to enjoy. So treat it as such. Give it time, give it love, give it patience, and I am sure it’ll turn out delicious!
 
 
-**P.S: To check out the various recipes I’ve cooked, check out my page on Instagram @reckless_recursion and follow me!**
+*P.S: To check out the various recipes I’ve cooked, check out my page on Instagram @reckless_recursion and follow me!*
 
-**P.P.S: A special thank you to the two men who made cooking a fun activity and made me fall in love with it: Chef Ranveer Brar and Chef Sanjyot Keer (YFL).**
+*P.P.S: A special thank you to the two men who made cooking a fun activity and made me fall in love with it: Chef Ranveer Brar and Chef Sanjyot Keer (YFL).*
