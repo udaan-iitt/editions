@@ -153,7 +153,3 @@ Enter a hacker named Seth Schoen, who proceeded to turn DeCSS.exe into a [465-st
  
 Censoring a 465-stanza haiku is considerably harder than censoring an executable file since censoring art results in much more backlash than censoring a binary string. Even though the poem is mathematically equivalent to a binary string, the emotions associated with a poem are simply not found in a binary string.
 Poems speak to the soul (in this case, to the compiler as well) in a way that numbers simply do not. Besides giving Schoen a place in the annals of hacker history, the haiku showed the world that source code must be protected by free speech laws,  even if (and especially when) the algorithm it describes is a way to break the law.
-
----
-<div style="text-align: right"> - Cosmic Cutie </div>
-
