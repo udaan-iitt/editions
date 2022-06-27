@@ -8,7 +8,7 @@ Authors: "Vipin Kumar Sharma"
 Starred: "False"
 Alt: "Gandikota: The Grand Canyon of India"
 ---
-# **Gandikota: The Grand Canyon of India**
+
 ![img](./images/Gandikota/gowrisha-cv-X-sOxP6ZeV8-unsplash.jpg)
 Only 200 kilometers away from the IIT Tirupati campus, there’s a place that will take your breath away as you experience one of the most marvelous sites of India, and in our very own Andhra Pradesh- GANDIKOTA!!!
 
