@@ -19,13 +19,11 @@ If you ask me how exactly I became the pretty decent, perhaps even arguably good
 - I forgot about all my worries when I was in the kitchen. Tests, scores, and ranks all seemed to be at bay when I was chopping vegetables or mixing up marinades or, for that matter, doing anything in the kitchen.       
 - I realised that my creativity was at its peak when I was cooking. I could make tweaks to the recipe, and they always turned out well.                 
 - That sense of accomplishment that struck when I saw my near and dear ones eat what I had cooked was indescribable.  
-<style>
-.imageColumn {
-   float: left;
-   width: 25%;
-   padding: 10px;
+
+img[src*='./images/Cooking/20220616_212332.jpg'] {
+float: left;
+margin: 10px 10px 10px 0;
 }
-</style>
 <div class="alignRow">
   <div class="imageColumn">
     <img src="./images/Cooking/20220616_212332.jpg" alt="Noodles" style="width:100%">
