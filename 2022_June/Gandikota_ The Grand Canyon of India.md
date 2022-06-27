@@ -16,7 +16,11 @@ The beautiful sites of Gandikota not only represent the beautiful old archaeolog
 
 Gandikota fort (which is a small sand fort) was founded by a subordinate of the 12th century A.D. Kalyani Chalukya dynasty, Kaka Raja, and [Pemmasani Ramalinga Nayudu](https://en.wikipedia.org/wiki/Pemmasani_Ramalinga_Nayudu) (which is a fort of 101 towers) was founded by the Chola Dynasty. Madhava and Ranganatha are the main idols present in the temple. A heritage festival is also organized in the fort area in October every year. 
 
-![img](./images/Gandikota/gowrisha-cv-X-sOxP6ZeV8-unsplash.jpg)
+
+|  |  |
+|:-:|:-:|
+|<img src="./images/Gandikota/gowrisha-cv-X-sOxP6ZeV8-unsplash.jpg" alt="noodles" width="100%" >|<img src="./images/Gandikota/gandikota3.jpeg" alt="pasta" width="100%">
+|  |  |
 
 Gandikota is well connected by roads from nearby towns i.e. Anantapur, Kadapa, and Tirupati, and 15 km from Jammalamudugu. The nearest main railway station is Muddanuru which is 26 km. Students and youngsters usually like to visit the site by bike to feel the fresh mist in the air. For adventure lovers, the trekking towards the river situated in the canyon can be extremely memorable because it provides a glimpse similar to the Grand Canyon of the USA.
 
