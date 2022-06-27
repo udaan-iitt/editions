@@ -9,7 +9,11 @@ starred: "True"
 alt: "Tirutsava-Behind_the_Scenes"
 ---
 
-**Tirutsava** is the annual techno-cultural fest of IIT Tirupati. **Tirutsava'22** was a three-day-long event that took place in the month of April this year. Generally, one or two byte-sized pre-fests are conducted before the main fest to grab the attention of the audience. So this year, the fest was divided into three phases,
+**Tirutsava** is the annual techno-cultural fest of IIT Tirupati. **Tirutsava'22** was a three-day-long event that took place in the month of April this year. 
+
+To everyone outside IIT Tirupati, _Tirutsava_ is a high profile student festival that attracts students from colleges all around India to participate, compete and showcase their talents every year. To those within the institute, Tirutsava is a product of passion and team work, driven by a vision – to become the best institutional event that connects like-minded people and attracts talent from across the country. The name is derived from the fusion of the words, "Tiru", from Tirupati, the city which houses our esteemed institute and "Utsava" which literally translates to “festival”. It is all about lights, colors, music and magic.
+
+Generally, one or two byte-sized pre-fests are conducted before the main fest to grab the attention of the audience. So this year, the fest was divided into three phases,
 
 - *The Inception*, to kick-start the _Tiru-utsava_ with a bunch of exciting events
 - *The Avenue*, wholly dedicated to online gaming events
@@ -77,28 +81,28 @@ With the right team set in, the work for the fest started quickly. But won’t i
 >*“Our vision was to prepare a hybrid fest as there was so much ambiguity regarding offline fest, and we didn’t want this to affect the committee's work. We want our fest to reach out to more students and institutes outside Tirupati. Making it hybrid will help us achieve this.”*                       
 >-Anu Anand
 
->*“At first, we thought the fest was going to be offline. But then there was covid third wave spread, and many covid restrictions were imposed on the campus. So our vision was to conduct the fest offline so that there would be minimal covid spread from people who come from outside the campus. But since the restrictions were lifted, we were mainly focused on checking any nuisance people from entering the campus.”*                    
+>*“At first, we thought the fest was going to be offline. But then there was covid third wave spread, and many covid restrictions were imposed on the campus. So our vision was to conduct the fest offline so that there would be minimal covid spread from people who come from outside the campus. But since the restrictions were lifted, we were mainly focused on checking any unwanted incidents due to outside people entering the campus.”*                    
 >-Siddhartha, Sreeram Pavan
 
 But not everything will go smoothly, and the team has faced many challenges while planning for the fest. The biggest one is the ambiguity due to the covid third wave and its effects on sending everyone back to the online phase.                             
 
 
-Communication and coordination are essential aspects of an event, whether within or amongst various teams. Effective communication is a must to divide work and get it done efficiently. Making a highly diverse event, like Tirutsava, a success involves the working of several committees in tandem with each other. With the online-offline nature of the fest and several gaps during the entire planning phase, our committees had a task keeping up with effective communication and coordination among each other.              
+Communication and coordination are essential aspects of an event, whether within or amongst various teams. Effective communication is a must to divide work and get it done efficiently. Making a highly diverse event like Tirutsava a success involves the working of several committees in tandem with each other. With the online-offline nature of the fest and several gaps during the entire planning phase, our committees had a herculean task keeping up effective communication and coordination among each other.              
 
-The content team, which is involved in coming up with new ideas, felt offline was a much better place to jam on new ideas.             
+The content team, which was involved in coming up with new ideas, felt offline mode was a much better place to jam on new ideas.             
 
->*“As it was online, I think ideally we did whatever best we could, whilst offline we met a lot of times and brainstormed together, but as it later transitioned to online, we couldn’t sit together and laugh and get it done.”*                              
+>*“As it was online, I think ideally we did whatever best we could, whilst offline we met a lot of times and brainstormed together, but as it later transitioned to online again, we couldn’t sit together and laugh and get it done.”*                              
 >-Krithi
 
 On how well the content team is working, the content head adds,                    
->*“I think it is. Pretty chill since it is a small college and we are passionate about writing; hence we gather around and work on any opportunity to write stuff; since we already know each other, we don’t have to use the time to open up.”*                          
+>*“I think it is pretty chill since it is a small college and we are passionate about writing; hence we gather around and work on any opportunity to write stuff; since we already know each other, we don’t have to use the time to open up.”*                          
 
 >*“Getting sponsors for the fest is not an easy task, and this job is highly demotivating since you know companies sometimes will directly turn down your offer. Initially, it was very hard to manage but our core team is very supportive. Even if one of us was depressed or demotivated, the other members used to give us motivation.”*                                   
 >-Rohith Yerra
 
 Well, communication was not a cakewalk for every committee. 
 
->*“My co-members did not work as a team sometimes. They are getting these individual parts, so they are just thinking, "I only need to do this". They do some styling for themselves and don't care whether this styling would malfunction or whether their tile will debuff others' or not."*
+>*“My co-members did not work as a team sometimes. They would focus on their individual parts and think, "I only need to do this". They would do some styling for themselves and not care whether it would malfunction or negatively impact others' work or not."*
 >-Shubham                               
 
 >*“The team members were somewhat demotivated in the month of January itself and that’s the same case last year. We were having regular meets and telling them that this is the way things happen and they were supportive to some extent. Once the team is supportive, we can get stuff done.”*                        
@@ -124,10 +128,10 @@ Planning out any event and making it enjoyable involves the contribution of many
 
 The content team head says they worked the most with the design people. She explains,                   
 
->*“We worked the most with the Design team since if you go to Instagram, you see the content and the caption, design.. and design and content go together. I worked with the design team head the most and, of course, the sponsorship committee.”*                       
+>*“We worked the most with the Design team since if you go to Instagram, you see the content and the caption. Design and content go together. I worked with the design team head the most and, of course, the sponsorship committee.”*                       
 >-Krithi
 
-The hospitality team head says they worked with Logistics, security, and the transportation committees to make arrangements for students and guests who would visit the institute during the fest. The three groups were essentially combined to work as one, he explains.                           
+The hospitality team head says they worked with logistics, security, and the transportation committees to make arrangements for students and guests who would visit the institute during the fest. The three groups were essentially combined to work as one, he explains.                           
 
 When it comes to managing and executing plans, there are bound to be errors and delays. The planning of this year’s Tirutsava started almost three months late, which made the scheduling very tight. The ambiguity regarding if the fest would be online or offline did add some extra pressure on the committees.                        
 
@@ -170,7 +174,7 @@ The committee heads kept themselves entertained and motivated with movies, music
 >*“Nothing, we just did some music, etc... Saying let's just take a break, we will do it some other day, not a big deal. Even if it got delayed by 1 or 2 days, it was not a big deal. We can handle it.”*                
 >-Shubham
 
->*“You let out our frustration and focus. That’s the way to deal with it.”*                  
+>*“You let out your frustration and focus. That’s the way to deal with it.”*                  
 >-Krithi
 
 >*“Movies, songs, etc. That's how I managed my stress and pressure.”*             
@@ -190,12 +194,12 @@ The finance committee head had plans to fully optimize the financial resources a
 
 The sponsorship committee head felt that his expectations were far off the mark.                                  
 
->*“I thought initially that this work is pretty chill. I applied for this position without thinking if it would be online or offline. I thought it would be online and it is going to be pretty chill like in 2021. But there was an interval when I spoke with the previous heads and they told me how responsible it is. So within two or three weeks I got a clarity that this is not a position I can take for granted.”*                    
+>*“I thought initially that this work is pretty chill. I applied for this position without thinking if it would be online or offline. I thought it would be online and it is going to be pretty chill like in 2021. But there was an interval when I spoke with the previous heads and they told me how much of a responsibility it is. So within two or three weeks I got a clarity that this is not a position I can take for granted.”*                    
 >-Rohit Yerra
 
 One of the major spoilsports was when the students were asked to return home in view of the third wave.                           
 
->*“The main expectation was to have stayed here and complete offline;  reality hit hard when the third wave hit us. We had experience working online and hence we were able to manage the mix mode. It wasn’t that difficult. Our expectations matched reality.”*                    
+>*“The main expectation was to have stayed here and completed preparation offline; reality hit hard when the third wave hit us. We had experience working online and hence we were able to manage the mix mode. It wasn’t that difficult. Our expectations matched reality.”*                    
 >-Pranav
 
 One learns from experiences and mistakes. Our committee heads learnt a lot from their tenure as heads. Not just management skills but something more.                   
@@ -208,20 +212,20 @@ One learns from experiences and mistakes. Our committee heads learnt a lot from 
 
 The finance head adds that there is probably nothing as a committee that needs no effort.                         
 
->*“If you need to be something or take up a responsibility as such there is a lot of effort. Honestly speaking, I took up finance head because it was less effort. My point is that there is no committee that goes with less effort. So what I learnt is that if there is a role, everything is of an equal effort. Maybe sometimes it is equally split but it does happen that you need to put everything all at once.”*                  
+>*“If you need to be something or take up a responsibility, as such, there is a lot of effort. Honestly speaking, I took up finance head because it was less effort. My point is that there is no committee that goes with less effort. So what I learnt is that if there is a role, everything is of significant effort. Maybe sometimes it is equally split but it does happen that you need to put everything all at once.”*                  
 >-Prasanna
 
->*“I learnt how to motivate them to do a job;  how I should behave with each one differently; They might be in different situations; deal with that situation.”*      
+>*“I learnt how to motivate people to do a job; how I should behave with each one differently; They might be in different situations; deal with that situation.”*      
 >-Anu Anand
 
 >*“As a person it taught me two things. How to manage people and the other about companies. It taught us how to communicate with companies.”*              
 >-Dhyaan
 
->*“It taught me how the coordination between team members should  be, how information should be passed around and everyone should take responsibility. It also taught me how important it is to have business and  communication skills in addition to technical skills. I learnt to put forward my ideas.”*                  
+>*“It taught me how the coordination between team members should be, how information should be passed around and everyone should take responsibility. It also taught me how important it is to have business and communication skills in addition to technical skills. I learnt to put forward my ideas.”*                  
 >-Rohit Yerra
 
 The content head feels that she learnt to say no and be assertive about it when the time comes.                
->*“I think I learned a little on prioritizing stuff like a head; (I am always a core member) a lot of work was handed to me I had to give it to people I learnt to say no to people.”*                        
+>*“I think I learned a little on prioritizing stuff like a head; I am always a core member and often, a lot of work is handed to me. As head, I had to delegate it to people. I learnt to say no to people.”*                        
 >-Krithi
 
 The positions of fest head and committee heads are very important. They have very little room for making any errors. The position involves a lot of pressure at times while taking crucial decisions. We don’t know what’s ahead of us; the heads need to be prepared to face whatever lies ahead.                               
@@ -235,7 +239,7 @@ So let's hear out what our heads had to say for the upcoming heads.
 >*“Dear next-fest-head, the first important thing I have to say for you is that you should be able to manage your time well. You might think that you have a lot of time when actually you don’t have it on the ground. Also, be cautious of the people working under you and ensure that they are working. If possible and if you think it is necessary, add in a few more committees to distribute the work more evenly.”*                            
 >-Srikarah
 
->*“The next heads have to make a proper study on what they have to do and their plans. They should learn from our mistakes. And also contact previous heads. Focus on marketing sponsorship. You need to look at what sort of events went well this year and communicate with other students; get to know which aspects of the generalised events are popular and what they enjoy doing in them, and chalk out a proper plan for two to three months after heads are selected.”*                    
+>*“The next heads have to make a proper study on what they have to do and their plans. They should learn from our mistakes. And also contact previous heads. Focus on marketing and sponsorship. You need to look at what sort of events went well this year and communicate with other students. Get to know which aspects of the generalised events are popular and what they enjoy doing in them, and chalk out a proper plan for two to three months after heads are selected.”*                    
 >-Pranav, Anand
 
 >*“For the content committee head, work will be simple if you are into writing. Also, make sure that your team is closer than ever because if one person is not able to work then someone else will cover for them. Otherwise, chill out!”*                     
@@ -250,9 +254,10 @@ So let's hear out what our heads had to say for the upcoming heads.
 >*“For the next web development head, please appoint your core members on the basis of their backend development skills. Because adding content to the website is not a difficult task. But managing the backend of a website is difficult, so bring in students who are good at backend development.”*                  
 >-Shubham
 
->*“If you take up the post of finance committee head, I would suggest you first go talk to the fest head and tell him or her that "this is my post, let's draw a line, this is what I do, If something is related to my committee, it goes to me not you". This way you will get a centralized view. And avoid doing stuff at the last moment. Once you know a lot, you can optimize where you don’t know a lot; you cannot exercise skills/plans that you don’t have.”*                  
+>*“If you take up the post of finance committee head, I would suggest you first go talk to the fest head and tell him or her that "this is my post, let's draw a line, this is what I do. If something is related to my committee, it goes to me, not you". This way you will get a centralized view. And avoid doing stuff at the last moment. Once you know a lot, you can optimize where you don’t know a lot; you cannot exercise skills/plans that you don’t have.”*                  
 >-Prasanna
 
-To conclude, working for the fest is a different sum of experiences and emotions. It is a test for your skills and mental levels. But the heads are ensuring that taking up this would be a loving challenge. After all, it is *our* college fest and only *we* can make it a successful one.                                    
+To conclude, working for the fest is a different sum of experiences and emotions. It is a test for your skills and mental levels. But the heads of **Tirutsava'22** ensured that taking this up would be a loving challenge. After all, it is *our* college fest and only *we* can make it a successful one. We hope you enjoyed these interesting insights and join us in looking forward to an electrifying _Tirutsava_ next year!  
+
 
 A special thanks to *V Sathyanarayann*, *G Swathi* and *Sneha M S* for their initiative, time and support in conducting the interviews amidst the chaos of the fest.         
