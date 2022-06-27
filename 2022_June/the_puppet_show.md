@@ -3,8 +3,8 @@ title: "The Puppet Show"
 category: "Experiences"
 date: "2021-01-30 11:00:00 +09:00"
 desc: "A comical tribute to the secretaries and coordinators of the year 2021-2022, for all the work and effort that goes behind what what we see"
-thumbnail: "./images/placeholder.jpg"
-authors: "Krithi, Debeshee, Sneha MS, Sneha Battula"
+thumbnail: "./images/Puppet_Show.jpg"
+authors: "Krithi, Debeshee, Sneha M S, Sneha Battula"
 starred: "true"
 alt: "The Puppet Show"
 ---
@@ -39,7 +39,7 @@ Starting from the elections to the end of their tenure, studies report that secr
 From managing the campus bio-bubble and handling quarantine to containing the campus outbreak, he was instrumental in helping out the institute and students with regards to navigating those rough waters and resuming normal student activities on campus after almost 2 years. With a strong, progressive stand on student issues including hostel in-times, Dinkar has ensured a smoother sailing for all students ahead.
 
 **Dear Future Secretary,**                  
-Try to approach the administration well in advance for issues students are facing or any proposal you have in mind. As last minute proposals are not kept into consideration because proper thought process can’t be put into it from the admin side.
+Try to approach the administration well in advance for issues students are facing or any proposal you have in mind. Last minute proposals are not taken into consideration because proper thought process can’t be put into them from the admin side.
 
 Always take students into confidence about the decisions or discussions happening in institute level committees.
 
@@ -56,7 +56,7 @@ Always take students into confidence about the decisions or discussions happenin
 >
 >*-Shreyansh*
 
->A mastermind. He’s the mind you want to have in your team. His assurance and presence can give us the confidence to achieve few impossible tasks. A person with diverse mentality and is a good friend. His greatest talent is his convincing skills and bold nature. He can literally convince any higher official with his words and can go against the whole institute if he feels it’s right. He did have a few accomplishments like successfully handling a protest(inside campus), lifting the restrictions of the girls' hostel and handling the situation of congestion in boys hostel during Covid time. These are actually enough to explain how greatly his tenure has been. Overall, he is everyone’s godfather.                 
+>A mastermind. He’s the mind you want to have in your team. His assurance and presence can give us the confidence to achieve few impossible tasks. A person with diverse mentality and a good friend. His greatest talent is his convincing skills and bold nature. He can literally convince any higher official with his words and can go against the whole institute if he feels it’s right. He did have a few accomplishments like successfully handling a protest(inside campus), lifting the restrictions of the girls' hostel and handling the situation of congestion in boys hostel during Covid time. These are actually enough to explain how greatly his tenure has been. Overall, he is everyone’s godfather.                 
 >
 >*-Yerra*
 
@@ -77,19 +77,19 @@ Always take students into confidence about the decisions or discussions happenin
 ---
 
 **What is your most commendable achievement from your tenure as AAS?**       
-It was the academic year when ERP got started for the first time in our college and it started with the course registration module in it. Since everyone including the academics section was new in it, it was really difficult for them as well as students to use it smoothly. So a lot of issues used to arise and at any time whether it was night 12 am, I had to talk to Arun Sir and sort the issue out. A lot of extensions in the deadline were requested. The drive was not smooth but happened successfully anyways. Although there were issues with it, but I was still happy that everyone registered successfully at least 😅.            
+This was the academic year when ERP was intoduced in our college for the first time and all students began to use it for course registration. Since everyone including the academics section were new to it, it was really difficult for them as well as the students to use it smoothly. So a lot of issues arose during this period irrespective of the time. There were instances when I had to talk to Arun Sir and sort the issue out even at midnight. A lot of extensions in the deadline were requested. The drive was not smooth but was successful anyways. Although there were other issues with it, I was still happy that everyone registered successfully 😅.            
 
 **Any regrets regarding your tenure?**       
-I was not able to coordinate with my team well. Starting off with hybrid mode, there were no physical meetings, then the main problem was all the students who face any kind of issue or doubt used to contact me directly and I was not able to refuse them to help and was not able to make them follow the flow that has to be followed in order to sort out a query. I was hoping that there is a correct flow where the students could just reach out to the CRs and that can be conveyed to the AAC members and then to me.                            
+I was not able to coordinate with my team well. Starting off with hybrid mode, there were no physical meetings, then the main problem was all the students who faced any kind of issue or doubts contacted me directly and I was unable to refuse to help them. Most importantly I wasn't  able to make them understand the process that had to be followed in order to sort out a query. I was hoping that they would stick to the correct workflow where the students could reach out to the CRs and their issues could be conveyed to the AAC members and then to me.                            
 
 **Dear Future Secretary,**                          
-Make sure you figure out and inform the students about how/whom to apprach in case of any queries or issues. Keep the CRs and the members of AAC in the loop. So that everyone will know the answer to common queries. This will make your work easier.
+Make sure you figure out and inform the students about how and whom to apprach in case of any queries or issues. Keep the CRs and the members of AAC in the loop, so that everyone will know the answer to common queries. This will make your work easier.
 
 ---------------------
 
 *Thoughts and reviews from the student community*
 
->In a year which saw the institute transition back to offline classes and exams, we students couldn’t have asked for a better AAS than Tapish. A year or so of online functioning had seen a communication gap and friction appear between academics and student body. Tapish bridged this gap, making sure that student grievances were put forward and redressed in a timely manner. With initiatives like a Career development forum to connect students with their peers and alumni for guidance regarding higher education and placements, the impact of his tenure will be felt long after he’s left!            
+>In a year which saw the institute transition back to offline classes and exams, we students couldn’t have asked for a better AAS than Tapish. A year or so of online functioning had seen a communication gap and friction appear between academics and the student body. Tapish bridged this gap, making sure that student grievances were put forward and redressed in a timely manner. With initiatives like a Career development Forum to connect students with their peers and alumni for guidance regarding higher education and placements, the impact of his tenure will be felt long after he’s left!            
 >         
 >*-Shreyansh*
 
@@ -97,7 +97,7 @@ Make sure you figure out and inform the students about how/whom to apprach in ca
 >
 >*-Debeshee*
 
->Here is one such person who bothered Tapish with all such doubts/queries he mentions above. 😅But honestly none of the messages were left unanswered (Even when he was the Events Management Head). Getting such messages from everyone is truly overwhelming but you handled the situation like a pro. It was wonderful working with you as part of the AAC (probably didn’t do much). It was an awesome learning experience because of which I can now proudly say I know how certain things  work in our college.      
+>Here is one such person who bothered Tapish with all such doubts/queries he mentions above. 😅 But honestly none of the messages were left unanswered (Even when he was the Events Management Head). Getting such messages from everyone is truly overwhelming but you handled the situation like a pro. It was wonderful working with you as part of the AAC (probably didn’t do much). It was an awesome learning experience because of which I can now proudly say I know how certain things work in our college.      
 >
 >*-Sneha*
 
@@ -123,10 +123,10 @@ I learned how the administration process works in the institute. Democratically 
 **What is your most commendable achievement from your tenure as RAS?**  
 I was always approachable to the scholars at any time either through phone or email. I was diligent to respond to their concerns and tried to resolve the dynamic issues with the help of concerned authorities.
 
-I thank my research affairs council members & and our 2021-22 batch secretaries for continuous support during my tenure.                              
+I thank my research affairs council members & and our 2021-22 batch secretaries for their continuous support during my tenure.                              
 
 **What do you wish you’d done differently?**       
-First, I had a wish to make every individual scholar happy with my representation, but in reality, it is impossible. Individual opinion always conflicts with group interests. Finally, I  decided to prioritize group interests over individual-centric opinions.
+Firstly, I had a wish to make every scholar happy with my representation, but in reality, it is impossible. Individual opinions always conflict with group interests. Finally, I  decided to prioritize group interests over individual opinions.
 
 **Any mistakes that you want to warn your successors about?**             
 Don't take any responsibility beyond your arm's length.
@@ -139,7 +139,7 @@ Just go with the flow.
 
 *Thoughts and reviews from the student community*
 
->He is a level-headed person. He maintains a good share of goodwill with research scholars and administration. This allows him to put research scholars concerns in front of administration with much ease. He is also good at managing the team by delegating the work to the committee. I would say in majority of time in his term as RAS went hassle free.       
+>He is a level-headed person. He maintained a good share of goodwill with research scholars and administration. This allowed him to put the concerns of the research scholars before the administration with much ease. He was also good at managing the team by delegating the work to the committee. I would say his term as the RAS was majorly hassle free.       
 >
 >*-Ishaan*
 
@@ -173,7 +173,7 @@ I should have made hostel representatives more accountable to the students.
 >
 >*-Debeshee*
 
->Suman is the most student friendly person I've come across who took immediate action to solve problems raised by students. He is so polite and respects everyone, from the highest authority to the cleaning staff. He never gave up on students' interests. He believed in people working with him and gave them full freedom to work. I have never seen him taking a decision without discussing the issue with seniors and council members to come up with the best possible solution. I personally learned a lot from him and admire his work ethic.
+>Suman is the most student friendly person I've come across who took immediate action to solve problems raised by the students. He is so polite and respects everyone, from the highest authority to the cleaning staff. He never gave up on students' interests. He believed in people working with him and gave them full freedom to work. I have never seen him taking a decision without discussing the issue with the seniors and the council members to come up with the best possible solution. I personally learned a lot from him and admire his work ethic.
 All the best!!    
 >
 >*-Jose*
@@ -195,20 +195,20 @@ All the best!!
 ---
 
 **What is your most commendable achievement from your tenure ?**               
-I was able to work with more dedication than I ever thought possible. Working with a great team and changing the tender is one of my great achievements.      
+I was able to work with more dedication than I ever thought possible. Working with a great team and changing the mess tender is one of my great achievements.      
 
 **Any Regerts or anything you wish you'd done differently?**
-In the beginning of my tenure, I use to look into some unnecessary conversations happening around in the WhatsApp groups and other platforms and felt bad about the comments and stuff. Later I got habituated, peiople always say things. But I regret caring about this in the beginning.        
+In the beginning of my tenure, I use to look into some unnecessary conversations happening around in the WhatsApp groups and other platforms and felt bad about the comments and stuff. Later I got habituated, people always say things. But I regret caring about this in the beginning.        
 
 **Dear future secretary,**             
-Be open to suggestions and stay dedicated towards the work.
+Be open to suggestions and stay dedicated towards your work.
 
 -----------
 
 *Thoughts and reviews from the student community*
 >Suhas and I met for the first time on our fresher's night, and his sincerity has always surprised me. He was the type of guy who was always eager to explore and master the unknown. His ideology of dealing with issues and his calmness moulded my way of analysing and solving a situation.           
 >
->When we returned to campus after the devastating second wave of the COVID-19 virus, the situation was chaotic; he inspired us with his hard-working nature and determined character. During the tenders for the mess contract, he worked and fought for the students to provide them with better food at a lower cost; he always tried to do his best in the students' favour. He ended his term on a high note by instituting ice cream night on campus and inspired not only our batch but our junior batches to do the best in whatever the duties they are responsible for.       
+>When we returned to campus after the devastating second wave of the COVID-19 virus, the situation was chaotic; he inspired us with his hard-working nature and determined character. During the tenders for the mess contract, he worked and fought for the students to ensure we all got better food at a lower cost; he always tried to do his best in the students' favour. He ended his term on a high note by instituting ice cream night on campus and inspired not only our batch but also our junior batches to do their best in whatever duties they are responsible for.       
 >
 >*-Charan*
 
@@ -220,7 +220,7 @@ Be open to suggestions and stay dedicated towards the work.
 </summary>
 </br>
 
-*Mess Affairs Secretary*
+*Technical Affairs Secretary*
 
 <img src="images/profilecards/Natesh.png"
      alt="Natesh Profile"
@@ -233,20 +233,20 @@ Be open to suggestions and stay dedicated towards the work.
 - We started the first Tech Summit, a series of Intra IIT tech competitions (with the hopes of seeing this transform into a tech fest in the coming years)
 - We setup the ideasquare room with most of the necessary equipment for students projects
 - got some good industry colaborations
-- Apart from that, main challenge is getting students interested in these activities and clubs moving forward from the initial basic level stuff and start to work on more complex and advanced projects. We took the first step in solving this by revamping the club's org structure and introducing interest groups and tech teams.
+- Apart from that, the main challenge is getting students interested in these activities and clubs moving forward from the initial basic level stuff and start to work on more complex and advanced projects. We took the first step in solving this by revamping the club's org structure and introducing interest groups and tech teams.
 
 **Any Regerts or anything you wish you'd done differently?**                
-- Main regret is letting people who didn't know how to use 3d printer to use it. Here's a message for students: if are interested in something like 3d printing and you want to use the machine, better learn how to use it, no one is going to (and no one is expected to) do your work for you just because they are a club core. They can teach you but not do your work for you lol.                  
-- I also regret not getting the impressed budget plan for ideasquare (basically a monthly budget) approved in my tenure, but i do hope the next team will get it approved asap.               
+- Main regret is letting people who didn't know how to use the 3d printer use it. Here's a message for students: if are interested in something like 3d printing and you want to use the machine, better learn how to use it, no one is going to (and no one is expected to) do your work for you just because they are part of the club core. They can teach you, but not do your work for you!! lol.                  
+- I also regret not getting the impressed budget plan for ideasquare (basically a monthly budget) approved in my tenure, but I do hope the next team will get it approved asap.               
 - Another regret is definitely not being able to properly renovate the ideasquare room like we planned. Though that was mainly because of pressure from above.                                
 - One last thing is I didn't give any goodies for students who won in Intra IIT Tech summit when all others did (we did give prize money though).      
-- Even though this one is not on us, the online Inter IIT Tech Meet was unfortunately a big flop due to the unethical way it was organized. Hope it didnt demotivate anyone. Never let IIT KGP organize anything ever again or simply don't participate in the events they organize (We have seen the toxic culture they follow and how it reflects in the events they organize way too many times.
-- Apart from this I feel like I didn't oversee the activities of Digital Wizards and E-Cell as I was a bit too busy with Techmaniacs, Ideasquare and Gagan Vedhi. While digital wizards team did a phenomenal job the E-cell team utterly failed in organising even a single event to promote entrepreneurship, which was reflected even in many of directors remarks. On retrospect I should have helped them more and focused more on that side as well.
+- Even though this one is not on us, the online Inter IIT Tech Meet was unfortunately a big flop due to the unethical way it was organized. Hope it didn't demotivate anyone. Never let IIT KGP organize anything ever again or simply don't participate in the events they organize (We have seen the toxic culture they follow and how it reflects in the events they organize way too many times.
+- Apart from this I feel like I didn't oversee the activities of Digital Wizards and E-Cell as I was a bit too busy with Techmaniacs, Ideasquare and Gagan Vedhi. While the Digital Wizards team did a phenomenal job the E-cell team utterly failed in organising even a single event to promote entrepreneurship, which was reflected even in many of director's remarks. In retrospect I should have helped them more and focused more on that side as well.
 
 **Dear Future anybody who takes up a tech-related POR,**    
-- One suggestion will be for club's core teams to focus on actually doing projects (which will help their CVs as well) rather than simply organizing workshop after workshop every month, all the KT stuff needs to happen within the first month of the joining of first years, and later on the focus should be on projects and clearing doubts for freshers.
-- Regular open house to show these projects should also be organized. This way other students also see what is it they will also be able to do if they join the club later. Moreover more visibility a club gets through the projects they work on, it will definitely help in many ways like getting more budget, more collabs with companies etc.. (What you show is what you get).
-- Also one ways to maximize audience is by having fewer but more marketed and inclusive events like the tech summit etc. Try to get outside speakers like entrepreneurs etc... to this as next year one of the main focus areas for TAC and E-cell will be to properly setup the startup pre-incubation hub and motivate entrepreneurship more among students.
+- One suggestion will be for clubs' core teams to focus on actually doing projects (which will help their CVs as well) rather than simply organizing workshop after workshop every month, all the KT stuff needs to happen within the first month of the joining of first years, and later on the focus should be on projects and clearing doubts for freshers.
+- Regular open house to show these projects should also be organized. This way other students will also be able to see what all they can do if they join the club later. Moreover, more visibility a club gets through the projects they work on, it will definitely help in many ways like getting more budget, more collabs with companies etc.. (What you show is what you get).
+- Also one way to maximize audience is by having fewer but more marketed and inclusive events like the Tech summit. Try to get outside speakers like entrepreneurs etc... to these events, as next year one of the main focus areas for TAC and E-cell will be to properly setup the startup pre-incubation hub and motivate entrepreneurship more among students.
 
 -----------
 
@@ -256,7 +256,7 @@ Be open to suggestions and stay dedicated towards the work.
 >
 >*-Prabhat*
 
->Natesh is an inspiring and visionary leader. During his tenure, he constantly motivated us to come up with creative ideas and restore technical culture of our college
+>Natesh is an inspiring and visionary leader. During his tenure, he constantly motivated us to come up with creative ideas and restore the technical culture of our college.
 >
 >*-Venkatesa*
 
