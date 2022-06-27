@@ -22,6 +22,7 @@ If you ask me how exactly I became the pretty decent, perhaps even arguably good
 
 ![img](./images/Cooking/20220616_212332.jpg)
 ![img](./images/Cooking/20211026_135303.jpg)
+<img src="/images/Cooking/20211026_135303.jpg" alt="Employee data" width="50" height="60" title="Employee Data title">
 
 So, it was done. Cooking became my favourite pastime, and my efforts only increased during the lockdown when the college (everything really) was online. This period only fueled the fire (A cooking pun, I couldn’t resist); with amazing Chefs like Chef Ranveer Brar and Chef Sanjyot Keer releasing videos frequently, I had so much stuff to work with. In addition to the aforementioned setting, since essential commodities were not readily available (blame COVID), I had no other way but to improvise. Hence, this was when I learned how to bake bread, make my own cheese from milk, hand-pulled pasta and noodles at home, and many more things this article isn't big enough to describe.            
 
