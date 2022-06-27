@@ -22,10 +22,10 @@ If you ask me how exactly I became the pretty decent, perhaps even arguably good
 
 <div class="alignRow">
 <div class="imageColumn">
-<img src="./images/Cooking/20220616_212332.jpg" alt="Noodles" style="width:100%">
+![img](./images/Cooking/20220616_212332.jpg")
 </div>
 <div class="imageColumn">
-<img src="/images/Cooking/20211026_135303.jpg" alt="Pasta" style="width:100%">
+![img](./images/Cooking/20211026_135303.jpg)
 </div>     
 </div>
 
