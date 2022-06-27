@@ -1,12 +1,12 @@
 ---
-Title: "PRIDE 101"
-Category: "Op-Ed"
-Date: "2022-06-21 10:00:00 +09:00"
-Desc: "Pride is a month-long celebration of LGBTQPIA2+ lives, history and culture. Despite the existence of thousands of Queer people in India, it is still considered very much taboo. The only way to make our society less ignorant and inclusive is by educating ourselves and opening our minds. This is an introductory guide to understanding Pride and why it is imperative that we talk about it more."
-Thumbnail: "./images/pride101.jpg "
-Authors: "Malavika, Sathyanarayann, Sneha Battula"
-Starred: "True"
-Alt: "Pride 101"
+title: "PRIDE 101"
+category: "Op-Ed"
+date: "2022-06-21 10:00:00 +09:00"
+desc: "Pride is a month-long celebration of LGBTQPIA2+ lives, history and culture. Despite the existence of thousands of Queer people in India, it is still considered very much taboo. The only way to make our society less ignorant and inclusive is by educating ourselves and opening our minds. This is an introductory guide to understanding Pride and why it is imperative that we talk about it more."
+thumbnail: "./images/pride101.jpg"
+authors: "Malavika, Sathyanarayann, Sneha Battula"
+starred: "True"
+alt: "Pride 101"
 ---
 # **PRIDE 101**
 
