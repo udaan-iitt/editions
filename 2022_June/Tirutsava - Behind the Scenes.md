@@ -6,7 +6,7 @@ desc: "The word Utsava means a festival or any joyful occasion. But it takes a l
 thumbnail: "./images/Tirutsava Behind the scenes.jpg"
 authors: "Chaitali, Mathew, Mohith"
 starred: "True"
-alt: "Tirutsava - Behind the Scenes"
+alt: "Tirutsava-Behind_the_Scenes"
 ---
 
 **Tirutsava** is the annual techno-cultural fest of IIT Tirupati. **Tirutsava'22** was a three-day-long event that took place in the month of April this year. Generally, one or two byte-sized pre-fests are conducted before the main fest to grab the attention of the audience. So this year, the fest was divided into three phases,
@@ -15,9 +15,9 @@ alt: "Tirutsava - Behind the Scenes"
 - *The Avenue*, wholly dedicated to online gaming events
 - *The Conclusion*, the main fest
 
-The success of the fest depends on the backend work done by *Tean Tirutsava*. Behind the smiling faces and sound of happiness on the fest days, there lies a lot of hard work spread out over months! And in this _Udaan_ special, we would like to give you a glimpse of what happens *behind the scenes at Tirutsava.*
+The success of the fest depends on the backend work done by *Team Tirutsava*. Behind the smiling faces and sound of happiness on the fest days, there lies a lot of hard work spread out over months! And in this _Udaan_ special, we would like to give you a glimpse of what happens *behind the scenes at Tirutsava.*
 
-So, where does this all begin? The process of fest preparation starts with the selection of a fest head. This fest head is actually a new role introduced beginning with this year’s fest. The technical and cultural affairs secretaries acted as fest heads for all the previous years. Srikarah Volaity was selected as the fest head, by the end of October 2021.
+So, where does this all begin? The process of fest preparation starts with the selection of a fest head. This fest head is actually a new role introduced beginning with this year’s fest. The Technical and Cultural Affairs Secretaries acted as fest heads for all the previous years. Srikarah Volaity was selected as the fest head, by the end of October 2021.
 
 
 >*“The Head should initially decide what committees are necessary for the fest. He then must do a rigorous process in selecting the committee heads. You can pretty much assume this role to be that of a manager. In many situations, the fest head has the final call. He needs to take care that the committees are working efficiently.”*  
@@ -36,35 +36,35 @@ And then we have the committees.
 - Creative Cell headed by Abhimenyu and Lakshana
 - Hospitality Committee headed by Prerith Sagar
 
->*“So the committee heads were selected based on the interviews taken by a panel of different advisors and myself. Firstly from the responses we got, potential candidates were screened out based on their previous experiences, and then the heads were chosen based on the interviews.”*
+>*“So the committee heads were selected based on the interviews taken by a panel of different advisors and myself. Firstly, from the application responses we got, potential candidates were screened out based on their previous experiences, and then the heads were chosen based on the interviews.”*
 >-Srikarah
 
 The first six committees were formed by the second week of November. The other four committees were formed by mid-January. 
 
->*“There was this ambiguity whether the fest would take place offline or online. And some committees, for example take creative cell, will function only when the fest takes place in offline mode. So initially we have formed the committees that should function, regardless of the fest being offline or online. Once I got confirmation that the fest would take place in a hybrid mode, then I formed the other committees.”*                
+>*“There was this ambiguity about whether the fest would take place offline or online. And some committees, for example take creative cell, would function only when the fest takes place in offline mode. So initially we formed the committees that would function, regardless of the fest being offline or online. Once I got confirmation that the fest would take place in a hybrid mode, I formed the other committees.”*                
 >-Srikarah
 
-The committees were formed, keeping in mind the different types of necessities we will encounter in conducting a fest. Since we have seen what all committees were part of this fest, let's dive into what work each one does.               
+The committees were formed, keeping in mind the different types of necessities we would encounter in conducting a fest. Now that we have seen what committees were part of this fest, let's dive into what work each one does.               
 
->*“As part of the Events management committee, as the name suggests, we deal with the management aspect of fest activities and events. We were involved in planning around 30 to 35 events. We classified them as literary, cultural, or technical as you have seen them now.”*                   
+>*“As part of the Events Management Committee, as the name suggests, we deal with the management aspect of fest activities and events. We were involved in planning around 30 to 35 events. We classified them as literary, cultural, or technical.”*                   
 >-Pranav
 
->*“As part of the Content development team, we deal with all of the content-related stuff of the Tirutsava, including works like WhatsApp forwards, captions for posters, Instagram, sponsorship proposals, etc. Basically, all written material.”*                             
+>*“As part of the Content Development Team, we deal with all of the content-related stuff of the Tirutsava, including works like WhatsApp forwards, captions for posters, Instagram, sponsorship proposals, etc. Basically, all written and digital material.”*                             
 >-Krithi
 
->*“The website development committee takes care of all the frontend and backend of the Tirutsava website. We basically add events to the website alongside their descriptions and posters and report back information about the registrations for all events. We also take care of the merchandise-related things too.”*              
+>*“The website development committee takes care of all the frontend and backend of the Tirutsava website. We basically add events to the website alongside their descriptions and posters and report back to the corresponding teams with information about the registrations for all events. We also take care of the merchandise-related logistics too.”*              
 >-Shubham
 
->*“The sponsorship committee takes care of all fundings and getting money to conduct the fest. We also call upon stalls which were set up during the fest. We do have work even after the fest ends since some companies will choose to give funding only after the fest completes. At the beginning, when the committee was formed, we set an initial target of sponsors to get and will start working to get them.”*                
->-Dhyaan, Rohith
+>*“The Sponsorship Committee takes care of all funding required to conduct the fest. We also call upon stalls which were set up during the fest. We do have work even after the fest ends since some companies will choose to give funding only after the fest completes. At the beginning, when the committee was formed, we set an initial target of sponsors to get and will start working to get them.”*                
+>-Dhyaan, Rohith 
  
->*“The graphic design committee takes care of all the graphics and design related work of Tirutsava. We make posters for every event, make and submit designs for the website and prepare designs for offline marketing like banners, pamphlets, and brochures. We also do some designs for the creative cell.”*                    
+>*“The Graphic Design Committee takes care of all the graphics and design related work of Tirutsava. We make posters for every event, submit designs for the website and prepare designs for offline marketing like banners, pamphlets, and brochures. We also create some designs for the creative cell.”*                    
 >-Rama
 
 >*“So, the finance committee is basically taking care of how the budget for the whole fest is planned out and how we are going to channel those funds that the sponsorship committee managed to get. The work comprises all planning sorts of things. We would try to optimise funds in the channels the other committees have spent towards and take care of the technical and logistic difficulties of fund management.”*                                              
 >-Prasanna
 
-The selection of core members did not take much time after committee heads were elected. Mails were sent out asking interested people to join the committees. Based on the responses received, interviews were taken, and potential candidates were screened out and selected as core members. Now the selection criteria depend on what committee you want to join. Prior experience and essential skills are necessary for getting selected. Some committees may also require you to have technical proficiencies. Take, for example, the web development committee, which requires you to build the website and have experience in various frontend libraries. Also, for getting in the graphic design committee, you should be comfortable with using Adobe Photoshop and Canva.                    
+The selection of core members did not take much time after committee heads were elected. Mails were sent out asking interested people to join the committees. Based on the responses received, interviews were taken, and potential candidates were screened out and selected as core members. Now the selection criteria depends on what committee you want to join. Prior experience and essential skills are necessary for getting selected. Some committees may also require you to have technical proficiencies. Take, for example, the Web Development Committee, which requires you to build the website and have experience in various frontend libraries. Also, for getting a place in the Graphic Design Committee, you should be comfortable with using Adobe Photoshop and Canva.                    
 
 With the right team set in, the work for the fest started quickly. But won’t it be nice having a goal and a vision to work for? So let's hear out what vision our heads had for this fest.                           
  
