@@ -10,7 +10,7 @@ Alt: "Seasons of Symphony"
 ---
 <h2 align="center">Winter</h2>
 
-[//]: # (`<A picture of Winter>`)
+![img](./images/SoS/SoS-Winter.jpg)
 
 A pale tangerine glow filled the horizon as the Sun rose from the old establishments in the East. Hawkers began their daily routine of selling
 *chai* outside the main gate of *Presidency University*. The yellow *Ambassadors* started filling the streets with worn-out engine throttles
@@ -153,7 +153,7 @@ talk to her. *Angona*, who had lived like a lone doll until then, liked having a
 
 <h2 align="center">Summer</h2>
 
-[//]: # (`<A picture of Summer>`)
+![img](./images/SoS/SoS-Summer.jpg)
 
 The Sun started to scorch the streets as they slowly became emptier, owing to the intense heat that enveloped the *City of Joy*. One could see an umpteen number of fruit
 vendors selling ripe *Amrapali*, *Langda*, *Chausa*, and *Bainganpalli*, and how coconut juice had become a new delicacy of the age. *Leisha* pressed a
@@ -272,7 +272,7 @@ nothing will happen, and even if anything has to happen, I'm here with you now, 
 
 <h2 align="center">Autumn</h2>
 
-[//]: # (`<A picture of Autumn>`)
+![img](./images/SoS/SoS-Autumn.jpg))
 
 *Angona* sat in her wheelchair, in a closed room alone, speaking over a phone call. The room was small, and she wore a badge with the words *'Contestant number 15'* inscribed. She wore a white top and green frock with a small nose pin that shined silver against the light.
 
