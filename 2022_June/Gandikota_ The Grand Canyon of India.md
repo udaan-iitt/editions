@@ -27,3 +27,4 @@ Other attractions nearby the site are Jamia Masjid, Museum, Gandikota Dam, Mylav
 
 So friends, what are you waiting for? Go on a weekend trip to Gandikota and feel the historical beauty of nature!!!
 
+![img](./images/Gandikota/gandikota3.jpeg)
