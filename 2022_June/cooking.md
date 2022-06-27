@@ -20,14 +20,10 @@ If you ask me how exactly I became the pretty decent, perhaps even arguably good
 - I realised that my creativity was at its peak when I was cooking. I could make tweaks to the recipe, and they always turned out well.                 
 - That sense of accomplishment that struck when I saw my near and dear ones eat what I had cooked was indescribable.  
 
-img[src*='./images/Cooking/20220616_212332.jpg'] {
-float: left;
-margin: 10px 10px 10px 0;
-}
-<div class="alignRow">
-  <div class="imageColumn">
-    <img src="./images/Cooking/20220616_212332.jpg" alt="Noodles" style="width:100%">
-  </div>
+
+<p align='right'>
+   <img src="./images/Cooking/20220616_212332.jpg" alt="Noodles" style="width:100%">
+</p>
   <div class="imageColumn">
     <img src="./images/Cooking/20211026_135303.jpg" alt="Pasta" style="width:100%">
   </div>
