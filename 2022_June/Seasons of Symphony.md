@@ -20,13 +20,13 @@ thin strings wrapped around some spool held down in some street. The morning bus
 *Leisha* walked down the filled roads of the *College Street* with earphones plugged into her ears. She wore a black top under a light blue denim
 jacket which hung on her thin frame. Her curly hair danced on her forehead as she walked, almost as if dancing to some unknown melody that
 only she knew of. A small brown knapsack dangled down from one of her shoulders and seemed to whirl in unison with her brown body. She stopped
-at a tiny shop and asked, "*Frooty*?" The old man fished out a small yellow bottle filled with bright orange coloured mango juice and put it
+at a tiny shop and asked, "*Frooty*?" The old man fished out a small yellow bottle filled with bright orange-coloured mango juice and put it
 on the counter. "Pochish taka". *Leisha* fished out an old twenty rupee note and a 5-rupee coin and handed them to him. She took a sip from the
 bottle and headed inside the university gate.
 
 Mornings on campus were usually full of commotion. One guy would run with a half-eaten slice of bread sticking out of his mouth as he was
 late. Groups of friends would assemble in circles to chit-chat about the latest gossip in the college. Couples would decide where to meet after
-classes while holding each other, while Professors would scuttle across from one classroom building to another. "Hey, you bunking again?" *Arko*
+classes while holding each other, and Professors would scuttle across from one classroom building to another. "Hey, you bunking again?" *Arko*
 appeared from nowhere in front of *Leisha* as he extended his porky hand toward her. She unplugged her earphones and handed him the leftover
 drink in the bottle, "What else do you expect me to do?"
 
@@ -34,7 +34,7 @@ drink in the bottle, "What else do you expect me to do?"
 
 "Oh, come on, I need to finish this journal I am writing. Anyway, sociology classes are B-O-O-O-R-I-N-N-G!" *Leisha* pulled the strap of her knapsack to tighten it and started towalk away, shouting, "Will see you in the evening!" 
 
-"Kothay?" Where? 
+"Kothay?"  Where? 
 
 "Just come to the cafeteria!"
 
@@ -45,8 +45,8 @@ lining the old palewhite walls. There was red-white graffiti on the pillars, mos
 *Leisha* passed through the rooms to her right leisurely, trying to find the ambience she needed to let her thoughts flow. As she went past one
 of the rooms, she paused. A piece of soft music pervaded the air and filled the corridor with an intense but sweet essence. She slowly opened
 the door of the room and quietly stepped inside. The room was pretty huge, full of musical instruments. She could see a drum-set in one
-corner of the room, and a pair of old tablas and one harmonium, covered with a pale grey dusty cloth, lay on the other. A couple of flutes were
-also kept on one of the wooden tables.. The room was empty save for this other girl sitting in a wheelchair, playing the grand piano placed in
+corner of the room, and a pair of old tablas and a harmonium, covered with a pale grey dusty cloth, lay on the other. A couple of flutes were
+also kept on one of the wooden tables. The room was empty save for this other girl sitting in a wheelchair, playing the grand piano placed in
 front of the middle of the rear wall. She was facing the other way, so she didn't realise *Leisha's* presence in the room. She went from C major
 to A and then to its minor. The tunes were so blissfully beautiful that *Leisha* sat behind her on one of the chairs and froze in awe. Her fingers
 clicked the keys on one side and then the other, and then she pressed ten keys together at the end of one chorus and restarted from the left.
@@ -115,7 +115,9 @@ The next day, *Leisha* bunked her morning class again to run into *Angona* in th
 
 "Well, I don't like them, and I have my own stuff to do." *Leisha* sat down on a chair and spread herself like an exhausted starfish.
 
-"What stuff?" "Ah well, I like to write, and so I'm writing this journal, more like a book kinda thingy, but I don't really get time to write it, so I just bunk the classes I don't wanna do." *Leisha* pulled out a pack of chewing gum from her pocket, popped one into her mouth, and started chewing it. "Want it?" she said as she handed out the packet to *Angona*. She took one and tossed it in her mouth. "Why do you always play the piano alone? Why did you stop when I came in?" *Leisha*
+"What stuff?" 
+
+"Ah well, I like to write, and so I'm writing this journal, more like a book kinda thingy, but I don't really get time to write it, so I just bunk the classes I don't wanna do." *Leisha* pulled out a pack of chewing gum from her pocket, popped one into her mouth, and started chewing it. "Want it?" she said as she handed out the packet to *Angona*. She took one and tossed it in her mouth. "Why do you always play the piano alone? Why did you stop when I came in?" *Leisha*
 interrogated as her eyes peeked straight into hers. 
 
 "I just don't like playing in front of anyone," said *Angona*. 
@@ -198,8 +200,7 @@ kinds of stories." *Angona* turned as *Leisha* came back and sat beside her on h
 "My story?" 
 
 "What happened in that accident, really? Or why do you never play the piano in front of me or anyone else despite being such a hell of a talent."
-*Leisha* stared into *Angona's* eyes as she looked down. The Sun was covered by the haze of the white clouds as two kites soared up in the sky as
-they fought with each other.
+*Leisha* stared into *Angona's* eyes as she looked down. The Sun was covered by the haze of the white clouds. Two kites soared up in the sky as they fought with each other.
 
 "It's just that I've never shared these things with anyone, ever..." *Angona* kept staring at her lap. 
 
@@ -227,7 +228,7 @@ A pause.
 had lost everything, and it felt like I had killed him. If I had never asked him to accompany me for the piano performance, he would still be
 here, alive. After that point, I just stopped playing the piano for months. I couldn't walk. My father died because of me. I just didn't
 know what to do or if I could even do anything. Maa insisted I should play the piano again, so I started again when I was fourteen. But
-everything was so difficult. I would cry, lying on my bed for hours, believing I was good for nothing, just a stupid crippled b\*tch.\"
+everything was so difficult. I would cry, lying on my bed for hours, believing I was good for nothing, just a stupid crippled bitch.\"
 
 
 *Leisha* held her hand tightly, "I am so sorry, I had no idea about any of this..." 
@@ -264,7 +265,7 @@ can't and won't ever hurt anybody. And it wasn't your piano either. I know I hav
 playing your piano again, properly, and not hide it from people." *Leisha* looked into her eyes, "I want to save you. I want to free you from this.
 I want you to live as you should... by embracing your gift."
 
-"But it's just hard... what if something happens again..?" *Angona* looked down as
+"But it's just hard... what if something happens again...?" *Angona* looked down as
 she clenched her fists.
 
 "I know, it's alright. You should take your time. But please, don't cage yourself with this thought, Ango. I'm sure
@@ -291,9 +292,9 @@ because some dumb girl made me participate in this. You know this is my first pe
 sideways and looked up at the fan, which rotated around slowly.
 
 "Oh yeah, I'm dumb, huh? You'd have been sitting in your home watching weird
-Kdramas anyway, so better do something productive." *Leisha* taunted her playfully.
+K-dramas anyway, so better do something productive." *Leisha* taunted her playfully.
 
-"Yeah, now, shut up. I gotta go to the rehearsal hall, and
+"Okay, now, shut up. I've gotta go to the rehearsal hall, and
 I'll switch off my phone now for submission. So, I'll talk to you later. Bye-bye!"
 
 "Yes, yes, alright. All the best, Ango! And DO NOT PANIC. You
@@ -308,8 +309,9 @@ Silence.
 minutes." The woman nodded her head with a small pleasant smile on her face. *Leisha* was wearing a white robe, lying on a bed with a light blue
 blanket covering her legs and her bald head shining against the light. She started typing:
 
-*"Hey, Ango. It's me. I know you're probably wondering why you are reading this mail. Honestly, I don't know this myself. But, there is something I hid from you. I was not at my cousin's place all this time. I was getting my treatment... I was admitted to the hospital for chemotherapy. I always wanted to tell you, but I could never muster the courage to say this to you, and you were already going through so much that it just felt like I should not burden you with anything else. Also, it's not like I will surely die. I mean, I might live. Who knows. Maybe God is just playing cards with me. I might win. Haha. You know you always ask me, 'how do you stay so cheerful and full of energy?' Well, I don't have much time left, and I had so less time to spend with you. I just wanted to live all of it entirely and show you how you can also live your life fully, Ango. I know you've had your lows; in fact, you suffered so much... you're one of the bravest people I know of, and I'm so proud to have you in my life. I'm so proud of myself too that I could help you, so you could play again. I'm so happy for both of us, for the things we achieved together with each other. You're the best thing that ever happened to me, and you don't even realise it. I don't care if you can't walk, because I want to walk with you. I don't care if you can't get up because I can crouch and hug you. I don't care if you cannot stand up because you can take a stand for yourself. And if I could, I would not hesitate to spend the rest of my life with you, beside you, and close to you. And, whatever happens, you need to promise me that you'll never stop playing. You'll always keep playing the piano. I don't want you to stop. I want you to fly. I want you to do so many things. You're an angel, who grew her wings to fly with me, healed her soul to be blissful with me, and I'm just a pilgrim to the temple of your beautiful soul. You might think you're just a crippled* _b*tch, but you're
-my b*tch. So, please take care of yourself. I LOVE YOU, LEISHA!\"_
+*"Hey, Ango. It's me. I know you're probably wondering why you are reading this mail. Honestly, I don't know this myself. But, there is something I hid from you. I was not at my cousin's place all this time. I was getting my treatment... I was admitted to the hospital for chemotherapy. I always wanted to tell you, but I could never muster the courage to say this to you, and you were already going through so much that it just felt like I should not burden you with anything else. Also, it's not like I will surely die. I mean, I might live. Who knows. Maybe God is just playing cards with me. I might win. Haha. You know you always ask me, 'how do you stay so cheerful and full of energy?' Well, I don't have much time left, and I had so less time to spend with you. I just wanted to live all of it entirely and show you how you can also live your life fully, Ango. I know you've had your lows; in fact, you suffered so much... you're one of the bravest people I know of, and I'm so proud to have you in my life. I'm so proud of myself too that I could help you, so you could play again. I'm so happy for both of us, for the things we achieved together with each other. You're the best thing that ever happened to me, and you don't even realise it. I don't care if you can't walk, because I want to walk with you. I don't care if you can't get up because I can crouch and hug you. I don't care if you cannot stand up because you can take a stand for yourself. And if I could, I would not hesitate to spend the rest of my life with you, beside you, and close to you. And, whatever happens, you need to promise me that you'll never stop playing. You'll always keep playing the piano. I don't want you to stop. I want you to fly. I want you to do so many things. You're an angel, who grew her wings to fly with me, healed her soul to be blissful with me, and I'm just a pilgrim to the temple of your beautiful soul. You might think you're just a crippled* _bitch, but you're
+my bitch. So, please take care of yourself. 
+I LOVE YOU, LEISHA!\"_
 
 *Angona* sat in her wheelchair on the stage, spotlights on her. Her hands shook, and her body shivered. A thought crossed her mind. It was
 someone's face. It was her. "You can do it!" she heard. She looked at the audience, but she couldn't see anything. The absolute silence
@@ -319,7 +321,7 @@ gently put it on the keyboard. Her fingers lightly rubbed a white key as she clo
 
 *Leisha* couldn't see anything. Her eyes were closed, and so was her consciousness. She was in a dream with *Angona*. No, she was drifting
 apart. Her headspace was dying out, she was in pain, but she could not feel it anymore. She could not think or sense anything. It was a state
-of absolute silence in her mind, blessed with an image of *Angona's* chubby face.she could feel her existence receding, but she did not want
+of absolute silence in her mind, blessed with an image of *Angona's* chubby face. She could feel her existence receding, but she did not want
 to do anything about it. She was oblivious to everything, slowly drifting away. The surgeons outside operated upon her in the tension and
 heat of the Intensive Care Unit. Her heartbeat beeped every two seconds as she lay down with a happy dead face.
 
@@ -345,7 +347,7 @@ the machine's beeps also changed. Somewhere in the city, two kites were fighting
 set as twilight hit in. The doctors kept operating upon *Leisha's* frail body, with her beautiful eyes closed before the world. *Angona* kept on
 hitting different kinds of notes and pushed her excellence every second. Another chorus, another series of beautiful sargam that spread through
 the air. 
-Baba. Accident. Wheelchair.Elements of her anxiety slowly started to revolve around her mind.
+Baba. Accident. Wheelchair. Elements of her anxiety slowly started to revolve around her mind.
 
 Stop. 
 
