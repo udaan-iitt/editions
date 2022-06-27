@@ -1,5 +1,5 @@
 ---
-title: "The Puppet Show"
+title: "The Puppet Show: A Token of Appreciation"
 category: "Experiences"
 date: "2021-01-30 11:00:00 +09:00"
 desc: "A comical tribute to the secretaries and coordinators of the year 2021-2022, for all the work and effort that goes behind what what we see"
@@ -36,7 +36,7 @@ Starting from the elections to the end of their tenure, studies report that secr
 ---
 
 **Most Commendable Achievements from his tenure as the SGS**           
-From managing the campus bio-bubble and handling quarantine to containing the campus outbreak, he was instrumental in helping out the institute and students with regards to navigating those rough waters and resuming normal student activities on campus after almost 2 years. With a strong, progressive stand on student issues including hostel in-times, Dinkar has ensured a smoother sailing for all students ahead.
+From managing the campus bio-bubble and handling quarantine to containing the campus outbreak, he was instrumental in helping out the institute and students with regards to navigating those rough waters and resuming normal student activities on campus after almost 2 years. With a strong, progressive stand on student issues including hostel in-times, Dinkar has ensured smoother sailing for all students ahead.
 
 **Dear Future Secretary,**                  
 Try to approach the administration well in advance for issues students are facing or any proposal you have in mind. Last minute proposals are not taken into consideration because proper thought process can’t be put into them from the admin side.
@@ -264,22 +264,22 @@ Be open to suggestions and stay dedicated towards your work.
 </details>
 <br/>
 <details>
-<summary><b>Shakuntala</b>
+<summary><b>Shakunthala</b>
 </summary>
 </br>
 
 *Cultural Affairs Secretary*
 
-<img src="images/profilecards/Shakuntala.png"
-     alt="Shakuntala Profile"
+<img src="images/profilecards/Shakunthala.png"
+     alt="Shakunthala Profile"
      style="float: left; margin-right: 20rem; margin-bottom:40px; width: 90%;"/>
 
 ---
 
 **What is your most commendable achievement from your tenure ?**           
-The first big cultural event that we celebrated in college after the COVID break was Diwali. The Institute was calling the students back in batches and our team was not completely on campus by then, so the transition and communication was a little tough along with the COVID restrictions but at the end of the day, we were happy with how everything worked out as we started getting positive feedback from the students.         
+The first big cultural event that we celebrated in college after the COVID break was Diwali. The institute was calling students back in batches and our team was not completely on campus by then, so the transition and communication was a little tough along with the COVID restrictions but at the end of the day, we were happy with how everything worked out as we got positive feedback from the students.         
 
-One of the most heartwarming moments was from the Signature day event conducted for the graduating students. We knew the event was going to be a success once we saw their faces and overheard them saying “badia cheez he bhai!!” with joy.                       
+One of the most heartwarming moments was from the Signature day event conducted for the graduating students. We knew the event was a success once we saw their faces and overheard them saying “badia cheez hai bhai!!” with joy.                       
 
 One of my favourite events was Christmas. For the first time it was celebrated over two days and many students enthralled us with their talents!                            
 
@@ -294,7 +294,7 @@ Well, we always try to give our best for every event. But it's important to list
 >
 >*-Debeshee*
 
->Apparently, this has to be 50 to 100 words about the talents of my close friend, Shakunthala, the cultural secretary, oh yeah... the former cultural secretary. She has the talent of doing all the work just by sitting in her bed the whole day. Don't mistake it for her laziness. It's an art, and she is an artist. Only she can make our great director and DoSA laugh in the meetings. She is the first-ever secretary to be  on the meme page.
+>Apparently, this has to be 50 to 100 words about the talents of my close friend, Shakunthala, the cultural secretary, oh yeah... the former cultural secretary. She has the talent of doing all the work just by sitting in her bed the whole day. Don't mistake it for her laziness. It's an art, and she is an artist. Only she can make our great director and DoSA laugh in the meetings. She is the first-ever secretary to be on the meme page.
 >
 >*-Keerthana*
 
@@ -318,7 +318,7 @@ Well, we always try to give our best for every event. But it's important to list
 Best part of being any secretary is the ability to bring changes. The fact that I was able to get jerseys for everyone who participated in Kridaan is one thing I am really proud of. Also there were instances where the previous Intra IIT was halted due to fights among students (not the sole reason). I am proud of the fact that we conducted Kridaan in the most peaceful manner. Students took everything with a sporting spirit. And we saw commendable participation from  women as well. This lays a good foundation for the next inter IIT Tournaments.
 
 **What do you wish you’d done differently?**   
-- Budget Planning. Plan for everything from the beginning. I couldn’t get this done because of the online-offline ambiguity. But funds were approved later. But doing this before is less complicated.    
+- Budget Planning. Plan for everything from the beginning. I couldn’t get this done because of the online-offline ambiguity. However the funds were approved later. But doing this before is less complicated.    
 - E-sports is another aspect I lost track of. I hope the next secretary launches and lays foundation for this gaming culture.
 
 **Dear future secretary,**             
@@ -336,11 +336,11 @@ Learn negotiating and management skills. I learnt it the hard way. Being too pol
 >
 >*-Dheeraj*
 
->Being in a POR during the pandemic time has been a tricky job for all, but I believe that even with the hurdles, he has been one of the best sports secretaries our college has ever seen. Conducting winter sports tournament, Kridan, and other tournaments successfully with a little experience is a great accomplishment. These tournaments have improved both in terms of conducting and participation. From my first year till now, I have seen an increase in the number of people showing up for playing sports. Not only in terms of conducting these events, I feel that he has also done well in managing his committee and bringing in new reforms, like the hall of fame, etc. as well. Though it is not possible right now, I would have loved to watch our college get some real wins in Inter-IIT under his leadership.
+>Being in a POR during the pandemic time has been a tricky job for all, but I believe that even with the hurdles, he has been one of the best sports secretaries our college has ever seen. Conducting winter sports tournament, Kridan, and other tournaments successfully with a little experience is a great accomplishment. These tournaments have improved both in terms of conducting and participation. From my first year till now, I have seen an increase in the number of people showing up for playing sports. Not only in terms of conducting these events, I feel that he has also done well in managing his committee and bringing in new reforms, like the hall of fame, etc. Though it is not possible right now, I would have loved to watch our college get some real wins in Inter-IIT under his leadership.
 >
 >*-Srikarah*
 
->An adventurer. After he was elected as a sports secretary, I was worried that he will take up the job forward. Selecting me as a part of sports council, further enhanced my doubts on him. But after being a member of his council, the way he’s planned various activities, and events changed my opinion on him. Organizing KRIDAN followed by prize distribution ceremony on Gymkhana day is a mind-blowing situation that I cannot get over in my entire B.Tech life. He is a person who takes pride in his work and make sure it never fails at any cost. Finally, he’s a great friend and hard-worker.
+>An adventurer. After he was elected as a sports secretary, I was worried how he would take up the resposiblity because being the SS is not easy. Selecting me as part of the sports council, further enhanced my doubts on him. But after being a member of his council i got an oppurtunity to witness first hand the way he planned various activities, and events. This changed my opinion of him. Organizing KRIDAN followed by prize distribution ceremony on Gymkhana day is a mind-blowing situation that has left me perplexed.Kudos!! He is a person who takes pride in his work and make sure it never fails at any cost. Most important of all, he’s a hard-worker and a great friend.
 >
 >*-Yerra*
 
@@ -361,8 +361,8 @@ Learn negotiating and management skills. I learnt it the hard way. Being too pol
 
 ---
 
-**What is your most commendable achievement from your tenure ?**
-If I had to mention my most important achievement, that would be the LAC. Everyone in the LAC is interested and have contributed to lots of activities in their own way, and while I can't take credit for their existence and their awesomeness, I will take credit for assembling this passionate little team! We had meetings every once in a while and we came up with a bunch of ideas, most of which never saw the light of reality. But the few ideas that did, did have a lasting impact. And I believe that's important, because it encourages ideation and it reinforces the belief that any idea can come to fruition if we diligently work at it!              
+**What is your most commendable achievement from your tenure ?**     
+If I had to mention my most important achievement, that would be the LAC. Everyone in the LAC is interested and have contributed to lots of activities in their own way, and while I can't take credit for their existence and their awesomeness, I will take credit for assembling this passionate little team! We had meetings every once in a while and we came up with a bunch of ideas, most of which never saw the light of reality. But the few ideas that did, did have a lasting impact. And I believe that's important, because it encourages ideation and reinforces the belief that any idea can come to fruition if we diligently work towards it!              
 
 One example is "Have we met before": the first ever event that the LAC as a whole had organized. While the primary aim of the event was to increase the senior-junior interaction in the online mode, there was another agenda: to organize a large scale event that would bring the newly formed LAC together. While the idea of the event was inspired from the "Icebreaker session" held in December 2020, the planning, organization and execution took a complete detour. The event was organized on Discord and all the participants were divided into teams of 5-7, among which there was a volunteer who engaged the team and held activities. The amount of planning that went into it was insane! And I think that the success of that event set the environment for everything that followed.                  
 
@@ -384,7 +384,7 @@ I used the word "LAS" above, but I believe this applies for all the student repr
 >
 >*-Keshav*
 
->Prabhat is a super casual and fun person, who simultaneously maintains a sense of professionalism and formality. He is in short a comfort character who you can freely talk to about anything. He is always open to interesting conversations and always has a new point of view for anything and everything. His way of simultaneously maintaining a casual, fun environment and a strictly documented formal work flow is commendable. Overall, it is a joy to work under and with prabhat.
+>Prabhat is a super casual and fun person, who simultaneously maintains a sense of professionalism and informality. He is in short a comfort character who you can freely talk to about anything. He is always open to interesting conversations and always has a new point of view for anything and everything. His way of simultaneously maintaining a casual, fun environment and a strictly documented formal work flow is commendable. Overall, it is a joy to work under and with Prabhat.
 >
 >*-Sathyanarayann*
 
@@ -396,7 +396,7 @@ I used the word "LAS" above, but I believe this applies for all the student repr
 >
 >*-Krithi*
 
->You need help with anything… Just call Prabhat. The multi talented persona you are sooper lucky to meet
+>You need help with anything… Just call Prabhat. The multi talented persona you are sooper lucky to meet.
 >
 >*-Sneha*
 
@@ -421,26 +421,26 @@ I used the word "LAS" above, but I believe this applies for all the student repr
 ---
 
 **What is your most commendable achievement from your tenure ?**
-1. Core dream offer policy - allowing students placed in non core companies to use their dream offer for core companies irrespective of the package details.       
-2. 6 month internship - framing a way in which students can do 6 month intern in core companies with their academics. This increased the number of core opportunities in the institute.              
+1. Core dream offer policy - allowing students placed in non-core companies to use their dream offer for core companies irrespective of the package details.       
+2. 6 month internship - framing a way in which students can do 6 month intern in core companies alongside their academics. This increased the number of core opportunities in the institute.              
 3. Formation of sub teams for the career development activities namely - <br>
 &emsp;&emsp;a. Mock Placement Team<br>
 &emsp;&emsp;b. Student Repository Team<br>
 &emsp;&emsp;c. Social Media Outreach Team<br>
 &emsp;&emsp;d. Placement Talks Team<br>      
 
-**Any Regerts or anything you wish you'd done differently?**    
+**Any Regerts? or anything you wish you'd done differently?**    
 Improper planning of Student Repository and maintaining it.
 
 **Dear Future Placement Coordinator,**                  
 Maintain the repository from the very beginning.                                     
-Connect students before sitting for any company with the just graduated batch students who are placed in that company.
+Before students sit for any company, connect them with the just graduated batch students who are placed in that company.
 
 -----------
 
 *Thoughts and reviews from the student community*
 
->His was the term just after corona had hit the second wave. I've seen him work hard for the placement of each and every student eligible. There are people who exploit the power given them but he knew exactly how to balance everything. He'd be bold when demanding for the companies to come to the college and he'd even spoken to a lot of them which none of the previous Placement Coordinators did. All in all my respect for him as a friend, human and roommate grew over time as I saw him succeed.
+>His term was just after the second wave of Corona. I've seen him work hard for the placement of each and every student. There are people who exploit the power given to them but he knew exactly how to balance everything. He'd be bold while negotiating with the companies to come to the college and he had even spoken to a lot of them which none of the previous Placement Coordinators had ever done. All in all my respect for him as a friend, human and roommate grew over time as I saw him succeed.
 >
 >*-Aditya*
 
@@ -465,16 +465,16 @@ Connect students before sitting for any company with the just graduated batch st
 ---
 
 **What is your most commendable achievement from your tenure ?**
-One of the proudest moments for me personally was when all my batchmates, especially my friends received their internship offer. This had seemed like a distant dream at the beginning of my tenure. When I received emails about people's selection and shortlist, it felt like one more step towards the summit on sending them the "Congratulations!" mail. Also when few students gave their thanks for the CDC sessions and mock rounds, it felt great that all our genuine efforts towards helping the people was being appreciated.
+One of the proudest moments for me personally was when all my batchmates, especially my friends received their internship offer. This had seemed like a distant dream at the beginning of my tenure. When I received emails about shortlists and people's selection, it felt like one more step towards the summit on sending them the "Congratulations!" mail. Also when few students gave their thanks for the CDC sessions and mock rounds, it felt great that all our genuine efforts towards helping the students was being appreciated.
 
 **Any Regerts or anything you wish you'd done differently?**   
-Since this was the first time IGC position was brought into the Secretariat, along with the positives and the great things that happened throughout the year, one thing that I would want to do differently would be make students more aware about the global scenario we are living in and also to do justice to students who think that they were at a disadvantage because of me.
+Since this was the first time IGC position was brought into the Secretariat, along with the positives and the great things that happened throughout the year, one thing that I would want to do differently would be to make the students more aware about the global scenario we are living in and also to do justice to students who think that they were at a disadvantage because of me.
 
 -----------
 
 *Thoughts and reviews from the student community*
 
->So I met Amit on my second day at college, and from that day till now, I find him highly hardworking in all the fields in which he works. We even call him a "robot" for his dedication. He likes to help others; for me, he is my coding guru and a great friend. He is all set to be the next Satya Nadela, and I am sure he will be. He knows how to work under pressure and manage a team, so I would say he was and is the best person to be IGC. He is very caring for his friends, and his favourite sweet is ras malai, something he loves more than coding or helping others.
+>So, I met Amit on my second day at college, and from that day till now, I find him highly hardworking in all the fields he works in. We even call him a "robot" for his dedication. He likes to help others; He is my coding guru and a great friend. He is all set to be the next Satya Nadela, and I am sure he will be. He knows how to work under pressure and manage a team, so I would say he was and is the best person to be IGC. He is very caring and his favourite sweet is ras malai, something he loves more than coding or helping others.
 >
 >*-Aditya*
 
@@ -499,22 +499,22 @@ Since this was the first time IGC position was brought into the Secretariat, alo
 ---
 
 **What was the best part about being GCU Head?**           
-The best part of being the GCU student head was to hear the word "Thank you" in a low soft voice when people expressed their journey's either to us or when we became their mediator in arranging counseling sessions. It just gives a feel being noble and helpful amidst all the chaotic things I find myself involved into. A breath of fresh air, a pat at my own back. Those feelings are lovely!   
+The best part of being the GCU student head was to hear the word "Thank you" in a low soft voice when people express their journey either to us directly or when we become their mediator in arranging counseling sessions. It just gives a feeling of being noble and helpful amidst all the chaotic things I find myself involved into. A breath of fresh air, a pat at my own back. Those feelings are lovely!   
 
-**What were your most commendable achievements?**                                                                          
-It was creating solid steps for creating awareness about mental health and remove taboos regarding counseling. I am proud that by the end of my tenure my council has set  a stern foundation for the functioning of GCU which was a challenge given the hybrid scheme of things going on in our life. And as you know when you have the basement ready, several floors can be added into that building!
+**What were your most commendable achievements?**                                                                               
+It was creating solid steps for creating awareness about mental health and remove taboos regarding counseling. I am proud that by the end of my tenure my council had set a stern foundation for the functioning of GCU which was a challenge given the hybrid scheme of things going on in our life. And as you know when you have the basement ready, several floors can be added into that building!
 
 **Do you have any regrets regarding your tenure?**                                                      
-I wished I could had been better in assigning tasks to my team members so as to make them more involved in the work. And would have included more members in the council to have more fun based activities in the campus from GCU side.
+I wish I could have been better in assigning tasks to my team members so as to make them more involved in the work. And would have included more members in the council to have more fun based activities in the campus from GCU side.
 
 **Dear Future Head,**         
-Do lead your team by example but do ensure every member in your council is involved in the tasks assigned to them. At times, I took charge of tasks allotted to a part of my council. It resulted in their apprehension that Aasim will do it. Try to ensure full cooperation with Dr. Pooja V she is actually the driving force for the resurgence of this unit.
+Do lead your team by example but do ensure every member in your council is involved in the tasks assigned to them. At times, I took charge of tasks allotted to a part of my council. It resulted in their apprehension that Aasim will do it. Try to ensure full cooperation with Dr. Pooja V. She is  the actual driving force for the resurgence of this unit.
 
 -------------------------
 
 *Thoughts and reviews from the student community*
 
->Aasim is a hard worker who is willing to give everything he has to the tasks that have been given to him. As GCU head for the 2021–22 academic year, one of his goals was to increase GCU's reputation among IITT family members and promote the GCU motto to encourage those in need of assistance to go ahead and seek it with confidence. Another challenge was to spread awareness about GCU's presence, which he attempted to do by planning several student seminars and developing the Sarathi  website and Instagram account. Since maintaining privacy is of the biggest importance for a gcu student head, I have personally observed him considering how he may assist people while maintaining complete anonymity. He gave it his all to create the GCU constitution, which will serve as a guide for new members. I recall an instance when a person published an anonymous Instagram post about an incident happened, aasim took initiative asking for information about it with the intention of offering assistance and support. I'd want to wrap up by saying that the entire GCU team, including faculty advisor Pooja ma'am, put a lot of effort towards helping people and eradicating stigma surrounding mental health throughout the previous academic year.
+>Aasim is a hard worker who is willing to give everything he has to the tasks that have been assigned to him. As GCU head for the 2021–22 academic year, one of his goals was to increase GCU's reputation among IITT family members and promote the GCU motto to encourage those in need of assistance to go ahead and seek it with confidence. Another challenge was to spread awareness about GCU's presence, which he attempted to do by planning several student seminars and developing the Sarathi website and Instagram account. Since maintaining privacy is of the biggest importance for a GCU student head, I have personally observed him considering how he could assist people while maintaining complete anonymity. He gave it his all to create the GCU constitution, which will serve as a guide for all the new members. I recall an instance when a person published an anonymous Instagram post about an incident that happened, Aasim took the initiative of asking for information about it with the intention of offering assistance and support. I'd want to wrap up by saying that the entire GCU team, including the faculty advisor Pooja ma'am, put a lot of effort towards helping people and eradicating stigma surrounding mental health throughout the previous academic year.
 >
 >*-Dinkar*
 
@@ -535,7 +535,7 @@ Do lead your team by example but do ensure every member in your council is invol
 ---
 
 **What were your most commendable achievements during your tenure?**               
-We as a team NSS conducted blood donation camp very well. And I guess we also made NSS IIT T instagram active. I guess these are some of the achievements which I am really proud of.          
+We, as team NSS conducted blood donation camp successfully. We also made NSS IITT instagram active. These are some of the achievements which I am really proud of.          
 
 **Any regrets or changes that you wish you had made?**            
 Not mistakes but it would have been much better if it was offline.
@@ -547,16 +547,16 @@ Conduct many offline events. And as she was part of the team last year she knows
 
 *Thoughts and reviews from the student community*
 
->A really Interesting term, learnt a Lot of things from her about Social service, she taught us a lot of ideas
+>A really interesting term, learnt a lot of things from her about Social Service; The whole team learnt a lot.
 >
 >*-Ganesh*               
 
->As far as I observed, even in any hectic situation, she can handle things in a cool way and her team managing skills are always awesome!                   
-Also, She will be always available to reach out and responds immediately which helps team to perform better
+>As far as I observed, even in any hectic situation, she handled things in a cool way and her team managing skills are always awesome!                   
+Also, she was always available to reach out and responded immediately which helped team to perform better
 >
 >*-Chandni*
 
->Apart from those sudden meetings regarding work progress which were be planned at a very surprising point of time , working with her proved to be productive. She was my go to person whenever I have some doubts regarding work.      
+>Apart from those sudden meetings regarding work progress which were being planned at a very surprising point of time , working with her proved to be productive. She was my go to person whenever I have some doubts regarding work.      
 >
 >*-Swathi*
 
@@ -1270,6 +1270,9 @@ I thank him for sharing his experiences and guiding me throughout his tenure as 
 
 </details>
 
+
+
+-------------------------
 >Dear Secretaries and Coordinators,
 
 Thank you for the amazing work you've put into your positon and going the extra mile everyday to make the college a comfortable space. As the leader, you have continued to manage everything efficiently

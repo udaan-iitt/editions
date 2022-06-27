@@ -1,12 +1,12 @@
 ---
-Title: "Seasons of Symphony"
-Category: "Story"
-Date: "2022-06-21 10:00:00 +09:00"
-Desc: "Angona, a young university student with inability to walk, encounters an exuberant girl who turns her monochrome and secluded life upside down. As she struggles to find herself, a shocking secret awaits her."
-Thumbnail: "./images/Seasons of symphony.jpg"
-Authors: "Keshav Kumar Manjhi"
-Starred: "False"
-Alt: "Seasons of Symphony"
+title: "Seasons of Symphony"
+category: "Story"
+date: "2022-06-21 10:00:00 +09:00"
+desc: "Angona, a young university student with inability to walk, encounters an exuberant girl who turns her monochrome and secluded life upside down. As she struggles to find herself, a shocking secret awaits her."
+thumbnail: "./images/Seasons of symphony.jpg"
+authors: "Keshav Kumar Manjhi"
+starred: "False"
+alt: "Seasons of Symphony"
 ---
 <h2 align="center">Winter</h2>
 
