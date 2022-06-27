@@ -8,7 +8,7 @@ authors: "Malavika, Sathyanarayann, Sneha Battula"
 starred: "True"
 alt: "Pride 101"
 ---
-# **PRIDE 101**
+
 
 The word ‘Pride’ reminds us of June and rainbows. Most of us have a knowledge of the LGBT community and yet remain ignorant of it. We seem to have an unspoken rule to not talk about it, consider it taboo, or a joke. Even when we see Pride parades, activism and reform movements happening right in front of us, most of us just look in the other direction. It is high time these things change. 
 
@@ -48,6 +48,8 @@ It is essential, however, to note that the Pride movement is ongoing, in terms o
 And that is why _we need Pride_.
 
 Now that we have taken a look at the historical significance and the origin of the Pride movement, let us come back to the present-day scenario, where the community is represented by the acronym LGBTQPIA2+. Yes,  that is quite the mouthful. The acronym of  LGBT is the most popular and the most used one to describe the Queer community. Even if some might be aware of the terms that these letters stand for, they might not know what they mean. One cannot proceed to understand the importance of Pride or their role in it without understanding what each letter in the acronym stands for.
+
+![img](./images/pride/pride_inside.jpg)
 
 
 ### **Understanding the Acronym of LGBTQPIA2+:**
@@ -138,17 +140,15 @@ Okay that’s it for this article. We hope this was informative and gave you an 
 
 #### *Sources :*
 
-
-
-    1. [https://www.unifrog.org/know-how/the-history-of-pride#:~:text=The%20first%20Pride%20event%20was,element%20of%20celebration%20and%20protest](https://www.unifrog.org/know-how/the-history-of-pride#:~:text=The%20first%20Pride%20event%20was,element%20of%20celebration%20and%20protest).
-    2. [https://www.firstpost.com/world/explained-the-history-of-pride-month-and-why-it-is-celebrated-in-june-10745851.html](https://www.firstpost.com/world/explained-the-history-of-pride-month-and-why-it-is-celebrated-in-june-10745851.html)
-    3. [https://www.britannica.com/topic/riot](https://www.britannica.com/topic/riot)
-    4. [https://en.wikipedia.org/wiki/Stonewall_riots#Stonewall_Inn](https://en.wikipedia.org/wiki/Stonewall_riots#Stonewall_Inn)
-    5. [https://www.britannica.com/topic/Gay-Pride](https://www.britannica.com/topic/Gay-Pride)
-    6. [https://www.outlookindia.com/outlooktraveller/explore/story/71849/looking-back-at-the-history-of-the-pride-movement](https://www.outlookindia.com/outlooktraveller/explore/story/71849/looking-back-at-the-history-of-the-pride-movement)
-    7. [https://www.them.us/story/the-complete-history-of-pride](https://www.them.us/story/the-complete-history-of-pride)
-    8. [https://www.plannedparenthood.org/learn/gender-identity/sex-gender-identity](https://www.plannedparenthood.org/learn/gender-identity/sex-gender-identity)
-    9. [https://orwh.od.nih.gov/sex-gender](https://orwh.od.nih.gov/sex-gender)
-    10. [https://open.maricopa.edu/culturepsychology/chapter/sexuality-and-sexual-orientation/](https://open.maricopa.edu/culturepsychology/chapter/sexuality-and-sexual-orientation/)
-    11. [https://kidshealth.org/en/teens/sexual-orientation.html](https://kidshealth.org/en/teens/sexual-orientation.html)
-    12. [https://www.ucl.ac.uk/students/news/2020/dec/7-ways-you-can-be-better-lgbtq-ally](https://www.ucl.ac.uk/students/news/2020/dec/7-ways-you-can-be-better-lgbtq-ally)
+1. [Unifrog.org - Know the History of Pride](https://www.unifrog.org/know-how/the-history-of-pride#:~:text=The%20first%20Pride%20event%20was,element%20of%20celebration%20and%20protest)
+2. [The History of Pride Month](https://www.firstpost.com/world/explained-the-history-of-pride-month-and-why-it-is-celebrated-in-june-10745851.html)
+3. [The Riots](https://www.britannica.com/topic/riot)
+4. [Stonewall_Inn](https://en.wikipedia.org/wiki/Stonewall_riots#Stonewall_Inn)
+5. [Gay-Pride](https://www.britannica.com/topic/Gay-Pride)
+6. [Looking back at the history of the Pride Movement](https://www.outlookindia.com/outlooktraveller/explore/story/71849/looking-back-at-the-history-of-the-pride-movement)
+7. [Complete History of Pride](https://www.them.us/story/the-complete-history-of-pride)
+8. [Sex-Gender-Identity](https://www.plannedparenthood.org/learn/gender-identity/sex-gender-identity)
+9. [Sex-Gender](https://orwh.od.nih.gov/sex-gender)
+10. [Sexuality and Sexual Orientation](https://open.maricopa.edu/culturepsychology/chapter/sexuality-and-sexual-orientation/)
+11. [Sexual Orientation](https://kidshealth.org/en/teens/sexual-orientation.html)
+12. [7 Ways you can be a better LGBTQ Ally](https://www.ucl.ac.uk/students/news/2020/dec/7-ways-you-can-be-better-lgbtq-ally)

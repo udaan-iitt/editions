@@ -2,7 +2,7 @@
 title: "Saba"
 category: "Story"
 date: "2022-06-23 12:00:00 +09:00"
-desc: "Jupiter and Venus. How unjust their fates. To our eyes, they appear so close, so intimate—about to kiss each other. But in reality, they are separated by millions of miles."
+desc: "Jupiter and Venus. How unjust their fates. To our eyes, they appear so close, so intimate — about to kiss each other. But in reality, they are separated by millions of miles."
 thumbnail: "./images/Saba.jpg"
 authors: "Sarvesh Nikas"
 starred: "false"
