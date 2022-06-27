@@ -36,7 +36,7 @@ Starting from the elections to the end of their tenure, studies report that secr
 ---
 
 **Most Commendable Achievements from his tenure as the SGS**           
-From managing the campus bio-bubble and handling quarantine to containing the campus outbreak, he was instrumental in helping out the institute and students with regards to navigating those rough waters and resuming normal student activities on campus after almost 2 years. With a strong, progressive stand on student issues including hostel in-times, Dinkar has ensured a smoother sailing for all students ahead.
+From managing the campus bio-bubble and handling quarantine to containing the campus outbreak, he was instrumental in helping out the institute and students with regards to navigating those rough waters and resuming normal student activities on campus after almost 2 years. With a strong, progressive stand on student issues including hostel in-times, Dinkar has ensured smoother sailing for all students ahead.
 
 **Dear Future Secretary,**                  
 Try to approach the administration well in advance for issues students are facing or any proposal you have in mind. Last minute proposals are not taken into consideration because proper thought process can’t be put into them from the admin side.
@@ -264,14 +264,14 @@ Be open to suggestions and stay dedicated towards your work.
 </details>
 <br/>
 <details>
-<summary><b>Shakuntala</b>
+<summary><b>Shakunthala</b>
 </summary>
 </br>
 
 *Cultural Affairs Secretary*
 
-<img src="images/profilecards/Shakuntala.png"
-     alt="Shakuntala Profile"
+<img src="images/profilecards/Shakunthala.png"
+     alt="Shakunthala Profile"
      style="float: left; margin-right: 20rem; margin-bottom:40px; width: 90%;"/>
 
 ---
@@ -1270,6 +1270,9 @@ I thank him for sharing his experiences and guiding me throughout his tenure as 
 
 </details>
 
+
+
+-------------------------
 >Dear Secretaries and Coordinators,
 
 Thank you for the amazing work you've put into your positon and going the extra mile everyday to make the college a comfortable space. As the leader, you have continued to manage everything efficiently
