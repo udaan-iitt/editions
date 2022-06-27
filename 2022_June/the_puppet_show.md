@@ -1,5 +1,5 @@
 ---
-title: "The Puppet Show"
+title: "The Puppet Show: A Token of Appreciation"
 category: "Experiences"
 date: "2021-01-30 11:00:00 +09:00"
 desc: "A comical tribute to the secretaries and coordinators of the year 2021-2022, for all the work and effort that goes behind what what we see"
