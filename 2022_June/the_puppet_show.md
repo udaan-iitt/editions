@@ -4,7 +4,7 @@ category: "Experiences"
 date: "2021-01-30 11:00:00 +09:00"
 desc: "A comical tribute to the secretaries and coordinators of the year 2021-2022, for all the work and effort that goes behind what what we see"
 thumbnail: "./images/Puppet_Show.jpg"
-authors: "Krithi, Debeshee, Sneha MS, Sneha Battula"
+authors: "Krithi, Debeshee, Sneha M S, Sneha Battula"
 starred: "true"
 alt: "The Puppet Show"
 ---
