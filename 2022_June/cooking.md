@@ -19,11 +19,13 @@ If you ask me how exactly I became the pretty decent, perhaps even arguably good
 - I forgot about all my worries when I was in the kitchen. Tests, scores, and ranks all seemed to be at bay when I was chopping vegetables or mixing up marinades or, for that matter, doing anything in the kitchen.       
 - I realised that my creativity was at its peak when I was cooking. I could make tweaks to the recipe, and they always turned out well.                 
 - That sense of accomplishment that struck when I saw my near and dear ones eat what I had cooked was indescribable.  
+                                         
+<p float="left">
+  <img src="./images/Cooking/20220616_212332.jpg" width="49.5%" align="left" />
+  <img src="./images/Cooking/20211026_135303.jpg" width="49.5%" align="right"/><br>
+</p>
 
-![img](./images/Cooking/20220616_212332.jpg)      
-![img](./images/Cooking/20211026_135303.jpg) 
-
-So, it was done. Cooking became my favourite pastime, and my efforts only increased during the lockdown when the college (everything really) was online. This period only fueled the fire (A cooking pun, I couldn’t resist); with amazing Chefs like Chef Ranveer Brar and Chef Sanjyot Keer releasing videos frequently, I had so much stuff to work with. In addition to the aforementioned setting, since essential commodities were not readily available (blame COVID), I had no other way but to improvise. Hence, this was when I learned how to bake bread, make my own cheese from milk, hand-pulled pasta and noodles at home, and many more things this article isn't big enough to describe.            
+So, it was done. Cooking became my favourite pastime, and my efforts only increased during the lockdown when the college (everything really) was online. This period only fueled the fire (A cooking pun, I couldn’t resist); with amazing Chefs like Chef Ranveer Brar and Chef Sanjyot Keer releasing videos frequently, I had so much stuff to work with. In addition to the aforementioned setting, since essential commodities were not readily available (blame COVID), I had no other way but to improvise. Hence, this was when I learned how to bake bread, make my own cheese from milk, hand-pulled pasta and noodles at home, and many more things this article isn't big enough to describe.           
 
 I have come a long way - from adding schezwan sauce to Instant noodles to creating my own schezwan sauce and trying my hand at creating recipes, from having mom fry stuff for me to owning the kitchen when I cook. But the fundamental essence remains the same, “Chalo, Utho aur Khana Pakao!”. 
 
@@ -36,10 +38,12 @@ Here ends a short overview of my love for cooking. But, why should you cook? Wel
 - Cooking teaches you planning. In order to make intricate recipes, you need to have all ingredients in place, plan the cooking of different components, and make efficient use of available resources (e.g. no. of burners, available space and most important of all, time!)
 - Last but not least, cooking is fun!!!
 
-![img](./images/Cooking/20220304_212935.jpg)      
-![img](./images/Cooking/20220114_221133.jpg) 
+<p float="left">
+  <img src="./images/Cooking/20220304_212935.jpg" width="49.5%" align="left" height="212.5" />
+  <img src="./images/Cooking/20220114_221133.jpg" width="50%" height="212.5" align="right"/><br>
+</p>
 
-*What do you need to do in order to cook?*
+*What do you need to do in order to cook?*                    
 Just get in the kitchen, gather the required ingredients and start off! My advice would be - Don’t be afraid of how stuff is going to turn out. It may turn out to be delicious, exemplary, or maybe barely edible...but there's very little probability that it would turn out so bad that it's inedible. So, just enjoy the process and learn from it. Celebrate your little successes, learn from the minor setbacks, and forget them right away. Cooking is not a competition; it's meant to be a process through which you create a hearty and nourishing meal for you and your loved ones to enjoy. So treat it as such. Give it time, give it love, give it patience, and I am sure it’ll turn out delicious!
 
 
