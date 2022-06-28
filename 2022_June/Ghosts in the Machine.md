@@ -1,12 +1,12 @@
 ---
-Title: "Ghosts in the Machine- A Critique"
-Category: "Review"
-Date: "2022-06-26 12:00:00 +09:00"
-Desc: "A stimulating analysis of an 'advertisement' that shows a lot more than it appears to show. Secrets, that you never knew existed. Facts, you always ignore."
-Thumbnail: "./images/Ghosts in the Machine Review.png"
-Authors: "Cosmic Cutie"
-Starred: "false"
-Alt: "Ghosts in the Machine- A Critique"
+title: "Ghosts in the Machine- A Critique"
+category: "Review"
+date: "2022-06-26 12:00:00 +09:00"
+desc: "A stimulating analysis of an 'advertisement' that shows a lot more than it appears to show. Secrets, that you never knew existed. Facts, you always ignore."
+thumbnail: "./images/GhostsInTheMachine.png"
+authors: "Cosmic Cutie"
+starred: "false"
+alt: "Ghosts in the Machine- A Critique"
 ---
 
 *They are far away and yet close,*

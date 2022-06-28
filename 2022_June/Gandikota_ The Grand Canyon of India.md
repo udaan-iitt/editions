@@ -1,14 +1,14 @@
 ---
-Title: "Gandikota: The Grand Canyon of India"
-Category: "Reviews"
-Date: "2022-06-21 10:00:00 +09:00"
-Desc: "A Quick Getaway is all one needs after the hustle, bustle and stress of college life. Join the author as they transport you to one such perfect location for a quick and refreshing vacation."
-Thumbnail: "./images/Gandikota.jpg"
-Authors: "Vipin Kumar Sharma"
-Starred: "False"
-Alt: "Gandikota: The Grand Canyon of India"
+title: "Gandikota: The Grand Canyon of India"
+category: "Reviews"
+date: "2022-06-21 10:00:00 +09:00"
+desc: "A Quick Getaway is all one needs after the hustle, bustle and stress of college life. Join the author as they transport you to one such perfect location for a quick and refreshing vacation."
+thumbnail: "./images/Gandikota.jpg"
+authors: "Vipin Kumar Sharma"
+starred: "False"
+alt: "Gandikota: The Grand Canyon of India"
 ---
-# **Gandikota: The Grand Canyon of India**
+
 ![img](./images/Gandikota/gowrisha-cv-X-sOxP6ZeV8-unsplash.jpg)
 Only 200 kilometers away from the IIT Tirupati campus, there’s a place that will take your breath away as you experience one of the most marvelous sites of India, and in our very own Andhra Pradesh- GANDIKOTA!!!
 
