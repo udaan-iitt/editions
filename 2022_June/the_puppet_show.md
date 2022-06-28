@@ -9,20 +9,19 @@ starred: "true"
 alt: "The Puppet Show"
 ---
 
->The last year witnessed some major changes like adapting from the online environment and witnessing a multitude of offline events and opportunities, thanks to our student representatives.
->
->From handling the transition smoothly to launching full fledged initiatives, our student council worked towards constantly entertaining and providing opportunities for the community. It goes without saying that they deserve an enormous credit for all that they've accomplished.
->
->Hence, we set to gather some of our deepest sources to present these resourceful comical social profiles for our representatives. Adding a little bit of an Udaan touch, join us as we unravel our most beloved student council.
+The last year witnessed some major changes like adapting from the online environment and witnessing a multitude of offline events and opportunities, thanks to our student representatives.
 
-<details open>
-<summary style= font-size:2rem;> <b>Secretaries</b></summary>
-</br>
+From handling the transition smoothly to launching full fledged initiatives, our student council worked towards constantly entertaining and providing opportunities for the community. It goes without saying that they deserve an enormous credit for all that they've accomplished.
+
+Hence, we set to gather some of our deepest sources to present these resourceful comical social profiles for our representatives. Adding a little bit of an Udaan touch, join us as we unravel our most beloved student council.
+
+-------------------------
+## Secretaries
 
 Starting from the elections to the end of their tenure, studies report that secretaries often feel like they have no idea what they're being blamed for. Their daily life includes waking up to get hit with a randomly tagged mail about on the most random issues. The secretaries put tremendous effort throughout the year in ensuring a decent amount of the grand promises on the manifesto are fulfilled.  Let's take a look at what our secretaries have to say about their experience.
 
-
-<details>
+-------------------------
+<details open>
 <summary><b>Dinkar</b>
 </summary>
 </br>
@@ -559,19 +558,17 @@ Also, she was always available to reach out and responded immediately which help
 >Apart from those sudden meetings regarding work progress which were being planned at a very surprising point of time , working with her proved to be productive. She was my go to person whenever I have some doubts regarding work.      
 >
 >*-Swathi*
-
+</br>
 --------------
-
 </details>
-</br>
 
-<details open>
-<summary style= font-size:2rem;> <b>Coordinators </b></summary>
-</br>
+## Coordinators
 
 Apart from the mail where coordinators are announced, research finds no name of coordinators in any credit forum. They take care of everything from handling all the technical work to constantly improving the club and its policies, organising a new set of events and revamping the old events and also avoiding empty promises of prize money. Phew! Its high time we give them the well deserved recognition.
 
-<details>
+-------------------------
+
+<details open>
 <summary><b>Debeshee Das</b>
 
 </summary>
@@ -1268,13 +1265,10 @@ I thank him for sharing his experiences and guiding me throughout his tenure as 
 >*-Sameer*
 </details>
 
-</details>
-
-
 
 -------------------------
->Dear Secretaries and Coordinators,
-
+<br>
+**Dear Secretaries and Coordinators,**    
 Thank you for the amazing work you've put into your positon and going the extra mile everyday to make the college a comfortable space. As the leader, you have continued to manage everything efficiently
 on behalf of all the community. Yours is a job that brings the college to life, and we appreciate you. We believe you’ve set a wonderful example for the present council and for the years to come.
 
