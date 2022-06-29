@@ -155,8 +155,7 @@ When everything was back to normal, a two-day **'Cheriyal painting workshop'** w
 <br>      
 
 <a id="festivals"></a>
-# **Festivals**          
-<br>                                                  
+# **Festivals**                                                           
 ## **Independence Day**              
 The Independence Day celebrations were held online due to the then-ongoing pandemic. Our beloved director unfurled the flag at the transit campus. After the national anthem and march past by the security, our director addressed the students. Later the cultural programs began which included some patriotic performances by students, faculty, and their children.
 
