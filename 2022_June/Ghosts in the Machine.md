@@ -124,19 +124,18 @@ The last image we see is that of a hand scrolling down a phone. The message here
 Times change, and we change with the times.
 Before continuing, I would like to take a brief pause to explain the idea of [*generations in warfare*](https://en.wikipedia.org/wiki/Generations_of_warfare).
 
-`   `The first generation relied on large numbers of troops armed with melee weapons, as used in ancient times. The knights on horseback wearing chainmail is an example shown in the video.
+The first generation relied on large numbers of troops armed with melee weapons, as used in ancient times. The knights on horseback wearing chainmail is an example shown in the video.
+The second generation is marked by the use of firearms, ranging from muskets to machine guns. The gun-wielding soldiers in the second panel of the video is an example.
 
-`   `The second generation is marked by the use of firearms, ranging from muskets to machine guns. The gun-wielding soldiers in the second panel of the video is an example.
+The third generation is characterized by the importance placed on speed and stealth, with combatants trying to out-maneuver their enemies. The drone feed shown in the video serves as an example here.
 
-`      `The third generation is characterized by the importance placed on speed and stealth, with combatants trying to out-maneuver their enemies. The drone feed shown in the video serves as an example here.
+The fourth generation blurs the line between state and non-state actors. The protestor about to throw a *Molotov cocktail* is the common image which comes to mind when one thinks of state-backed coups.
 
-`         `The fourth generation blurs the line between state and non-state actors. The protestor about to throw a *Molotov cocktail* is the common image which comes to mind when one thinks of state-backed coups.
-
-`            `The fifth generation, described as a "war of information and perception", involves the increased use of non-violent tactics like social engineering and disinformation. It is a battle for hearts and minds. The visual of the hand scrolling down the phone is a clear example of this. The *4th PSYOPs Group* seems to be saying that in the age of information, they are the experts in the mostly non-violent tactics required for the 5th generation of warfare.
+The fifth generation, described as a "war of information and perception", involves the increased use of non-violent tactics like social engineering and disinformation. It is a battle for hearts and minds. The visual of the hand scrolling down the phone is a clear example of this. The *4th PSYOPs Group* seems to be saying that in the age of information, they are the experts in the mostly non-violent tactics required for the 5th generation of warfare.
 
 *"Supreme excellence consists of breaking the enemy's resistance without fighting"* 
 
-`   `- *Sun Tzu*
+- *Sun Tzu*
 
 The music is briefly cut as we see a tape explaining the idea of psychological warfare begin to play.
 
@@ -235,20 +234,20 @@ The video ends with the logo of the *4th PSYOPs Group* on the screen. A gray clo
 
 The reactions to the video were interesting. Some of the top comments:
 
-> `   `"This glows harder than a Christmas tree in February"
+>"This glows harder than a Christmas tree in February"
 
-> `   `"Me: “No way could I trust the government less than I already do.” 
+>"Me: “No way could I trust the government less than I already do.” 
 >
-> `   `4th PSYOP Group: “hold my beer”
+> 4th PSYOP Group: “hold my beer”
 
 
-> `   `"Finally saying the quiet part out loud.
+> "Finally saying the quiet part out loud.
 >
-> `   `WE are the targets just as much as an enemy.
+> WE are the targets just as much as an enemy.
 >
-> `   `Question everything.
+> Question everything.
 >
-> `   `Think for yourselves without the sphere of societal or social media influence."
+> Think for yourselves without the sphere of societal or social media influence."
 
 While the *4th PSYOPs Group* must be commended for leaving the comments section open, it must be admitted that the general public did not take this well.
 
@@ -270,7 +269,7 @@ In conclusion, I don't think the ad was a total failure for the *4th PSYOPs Grou
 
 *Thereby you can be the director of the opponent's fate.”*
 
-`   `*-Sun Tzu*
+>*-Sun Tzu*
 
 *Psychological operations are best carried out by the formless and soundless.*
 
