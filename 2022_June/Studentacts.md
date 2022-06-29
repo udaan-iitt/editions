@@ -252,7 +252,6 @@ The first-ever Gymkhana Day was hosted on April 30th to commemorate the co-curri
 |  |  |
 |:-:|:-:|
 |<img src="./images/Student_Act/Gymkhana'22-177.jpg" alt="noodles" width="100%" >|<img src="./images/Student_Act/Gymkhana'22-45.jpg" alt="pasta" width="100%">
-|  |  |
 
 <a id="conclusion"></a>
 # **Conclusion**
