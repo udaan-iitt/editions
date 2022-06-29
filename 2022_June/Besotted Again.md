@@ -1,7 +1,7 @@
 ---
 title: "Besotted Again"
 category: "Poetry"
-date: "2022-06-21 10:00:00 +09:00"
+date: "2022-06-29 12:47:00 +09:00"
 desc: "A poem about the perpetuality of love, loss and reality"
 thumbnail: "./images/Besotted Again.jpg"
 authors: "Iftekhar Ahmed"

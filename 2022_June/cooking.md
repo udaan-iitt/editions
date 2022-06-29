@@ -1,7 +1,7 @@
 ---
 title: "The Art of Cooking"
 category: "Op-Ed"
-date: "2021-01-30 11:00:00 +09:00"
+date: "2022-06-29 12:35:00 +09:00"
 desc: "When JEE prep met inspiration in the kitchen -  here's a recipe for why you should give cooking a fair chance!"
 thumbnail: "./images/Cooking.png"
 authors: "Ishaan Kulkarni"

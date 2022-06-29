@@ -1,7 +1,7 @@
 ---
 title: "Fariyaad"
 category: "Poetry"
-date: "2022-06-24 10:00:00 +09:00"
+date: "2022-06-29 12:30:00 +09:00"
 desc: "Ever wanted to share your feelings with someone you liked, but never had courage to do so? Do the flashbacks of their memories still rip your heart out?"
 thumbnail: "./images/Fariyaad.jpg"
 authors: "Amrit Singh Gill"
