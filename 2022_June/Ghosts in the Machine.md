@@ -14,7 +14,8 @@ alt: "Ghosts in the Machine- A Critique"
 *Some in the front rows,*                
 *Some hide in plain disguise*                    
 *…Away from all prying eyes.*               
-<br>      
+<br>
+
 *Every State has agents to act on its behalf*
 
 One such shadowy wing of the *USA*, the [*4th PSYOPs Group*](https://en.wikipedia.org/wiki/4th_Psychological_Operations_Group), released what appears to be an “[*advertisement*](https://www.youtube.com/watch?v=VA4e0NqyYMw)” on May 3, 2022. I put the word “advertisement" inside quotes, since I believe the video to be a very well-designed and clever instance of psychological warfare.
@@ -107,7 +108,7 @@ Ever since the fall of the *Soviet Union*, the *USA* has enjoyed its position as
 
 *"Hide your capabilities and bide your time"*
 
-` `*- Deng Xiaoping*
+>*- Deng Xiaoping*
 
 With the rise of *China* and *Russia*, the world moved from being unipolar to being multipolar.
 References to threats in the east could be a way of psychologically priming the public for a war in East Asia against *China*. *Taiwan* is a flashpoint, and *China* has an excess of young people of military age. While one hopes that war can be averted, the *4th PSYOPs Group* seems to believe in the idea of [*Thucydides' trap*](https://en.wikipedia.org/wiki/Thucydides_Trap), i.e. the idea that war is inevitable when the dominant power is challenged by a rising power.
@@ -135,7 +136,7 @@ The fifth generation, described as a "war of information and perception", involv
 
 *"Supreme excellence consists of breaking the enemy's resistance without fighting"* 
 
-- *Sun Tzu*
+>*-Sun Tzu*
 
 The music is briefly cut as we see a tape explaining the idea of psychological warfare begin to play.
 
@@ -177,7 +178,7 @@ Firstly, I propose that there are two distinct definitions of "truth". The first
 Multiple visuals flash across the screen, but I would like to focus on one in particular. It is of a corpse floating on water just off a hilly coast.
 I believe that this is a reference to [*Operation Mincemeat*](https://en.wikipedia.org/wiki/Operation_Mincemeat), one of the grand successes of *British intelligence* during the second world war. The story goes as follows:
 
-` `An unclaimed corpse was taken from a morgue by intelligence officials and dressed up as a *Royal Marines* officer. False intelligence in the form of fake letters which suggested that a planned attack on *Sicily* was a feint, was placed on the corpse before the corpse was released near the southern coast of *Spain*. *Spain*, despite claiming to be neutral, shared the recovered intelligence with *Nazi Germany*. The plan seemed to work, with the *Axis* powers refusing to send reinforcements to Sicily.
+An unclaimed corpse was taken from a morgue by intelligence officials and dressed up as a *Royal Marines* officer. False intelligence in the form of fake letters which suggested that a planned attack on *Sicily* was a feint, was placed on the corpse before the corpse was released near the southern coast of *Spain*. *Spain*, despite claiming to be neutral, shared the recovered intelligence with *Nazi Germany*. The plan seemed to work, with the *Axis* powers refusing to send reinforcements to Sicily.
 
 This subtle reference is inserted into the video as an image lasting less than a second.
 One has to respect the amount of thought that went into making the video.
