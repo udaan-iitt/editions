@@ -9,11 +9,12 @@ starred: "false"
 alt: "Ghosts in the Machine- A Critique"
 ---
 
-*They are far away and yet close,*
-*Some in the shadows,*
-*Some in the front rows,*
-*Some hide in plain disguise*
-*…Away from all prying eyes.*
+*They are far away and yet close,*        
+*Some in the shadows,*             
+*Some in the front rows,*                
+*Some hide in plain disguise*                    
+*…Away from all prying eyes.*               
+<br>      
 *Every State has agents to act on its behalf*
 
 One such shadowy wing of the *USA*, the [*4th PSYOPs Group*](https://en.wikipedia.org/wiki/4th_Psychological_Operations_Group), released what appears to be an “[*advertisement*](https://www.youtube.com/watch?v=VA4e0NqyYMw)” on May 3, 2022. I put the word “advertisement" inside quotes, since I believe the video to be a very well-designed and clever instance of psychological warfare.
@@ -50,7 +51,7 @@ Words flash onto the screen:
 The visuals switch across various city skylines as various clips from the radio are played. A segment of a news report from the *Tiananmen square protests* of 1989 along with the famous sound-bite of *Reagan* requesting *Gorbachev* to tear down *the Berlin wall* play, as the visuals show a conductor in front of an orchestra, telling us that they control the music.
 
 Clearly, the *4th PSYOPs Group* wants us to think of it being involved in the breakup of the *Soviet Union* and the protests in *China*. Ironically, the *USA* was quick to deny involvement in these events when accused of manufacturing crises to destabilize its geopolitical rivals.
-Now the *4th PSYOPs Group* seems to be taking unofficial credit. Almost like saying "Come on guys, it had *nothing* to do with us" _*wink, wink*_
+Now the *4th PSYOPs Group* seems to be taking unofficial credit. Almost like saying "Come on guys, it had *nothing* to do with us!" _*wink, wink*_
 
 The scene shifts to a chessboard, meant to represent how the *4th PSYOPs Group* (like most intelligence organizations) sees the world:
 
@@ -165,7 +166,8 @@ Is this a *Kafka trap*, where denial of guilt is evidence of guilt? This shows t
 
 When someone films a video of themselves licking an ice-cream tub and putting it back into the fridge with several others, every single tub of ice cream has to be discarded. Merely by insinuating that something is tainted, one destroys trust in it without actually having to taint anything. The *4th PSYOPs Group* now forces us to question every piece of media we consume, without having to corrupt any media.
 
-*"We can deceive, persuade, change, influence, inspire"* ,says the text…
+*"We can deceive, persuade, change, influence, inspire"* ,says the text…         
+                            
 …The voice says *"It is expected and encouraged to study foreign languages and the social sciences such as history, economics and sociology."*.
 
 It is said that truth is the first casualty in war.

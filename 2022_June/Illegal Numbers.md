@@ -1,6 +1,6 @@
 ---
 title: "Illegal Numbers"
-category: "Op-ed"
+category: "Op-Ed"
 date: "2022-06-23 12:00:00 +09:00"
 desc: "This image was illegal to display. Here's why."
 thumbnail: "./images/Illegal Numbers.png"
