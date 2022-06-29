@@ -1,7 +1,7 @@
 ---
 title: "Faculty Interview with Prof. Raghavendra Kanakagiri"
 category: "Campus News"
-date: "2022-06-29 12:17:00 +09:00"
+date: "2022-06-29 12:40:00 +09:00"
 desc: "From pepper spray and Clash of Clans to Julia and Panchayat, read on to experience a fantastic interview with Prof Raghavendra! "
 thumbnail: "./images/Raghavendra_Sir_cover.jpeg"
 authors: "Pranathi, Debeshee"

@@ -1,7 +1,7 @@
 --- 
 title: "Recent Activity Detected: The Student Clubs of IIT-T"
 category: "Campus News"
-date: "2022-06-29 12:02:00 +09:00"
+date: "2022-06-29 12:56:00 +09:00"
 desc: "Our student run clubs have wrapped up yet another eventful academic year, part online and part offline. Despite this, they have managed to put together numerous events to keep our students busy and in touch with their extracurriculars to create a wholesome college experience. Let us take a fond look back at the amazing stuff our clubs have been upto."
 thumbnail: "./images/Clubact.jpg" 
 authors: "Sathyanarayann, Swathi "
@@ -18,7 +18,6 @@ With the return of students, all the cultural activities resumed with much enthu
 |  |  |
 |:-:|:-:|
 |<img src="./images/Club_Act/DSC_0058.jpg" alt="noodles" width="100%" >|<img src="./images/Club_Act/DSC_0082.jpg" alt="pasta" width="100%">
-|  |  |
 
 **PFC** was pretty active with a lot of events to cover and activities to conduct. The club made an innovative short film on Covid, named **'[Spoiler Alert](https://www.youtube.com/watch?v=l1q7N2tetK4&ab_channel=PFCIITTirupati)'**, where two people’s past and present selves meet one another. They even compiled a video for the pioneer Chemical Engineering batch. As part of _Commemoration of 75 years of Independence_, they compiled the winning entries of all the events and also conducted photography contests on the themes of **Incredible India** and **Frontline Workers**. They helped in the making of posters which include the New Year greeting and 2022 year calendar. The most awaited Fresher’s intro video **'[Aagman 2021](https://www.youtube.com/watch?v=npNp-UG5B-4&ab_channel=PFCIITTirupati)'** was released. They covered various events conducted on campus which include Tirutsava, Diwali, Trek to Tada waterfalls, open mics, Fiesta, Gymkhana Day, etc.
 
@@ -27,14 +26,12 @@ Our music club, **Sargam**, kept up the pace by conducting various online and of
 |  |  |
 |:-:|:-:|
 |<img src="./images/Club_Act/41.jpg" alt="noodles" width="100%" >|<img src="./images/Club_Act/ADS_5351.jpg" alt="pasta" width="100%">
-|  |  |
 
 **Xcite**, our dance club came up with **Dance Week** as a part of _Commemoration of 75 years of Independence_. All the responses were compiled and streamed on Youtube, namely **'[Stream](https://www.youtube.com/watch?v=Yxk3LvKgAd8&ab_channel=DancesocietyofIITTP)'**. They even organized a **'K-pop Challenge'** where the participants were asked to perform to a particular K-pop song in any preferred dance form. They also conducted a workshop to help beginners by collaborating with the club’s alumni and seniors. Once students were back on campus, the club put up some stellar performances during the open mic events. Flash Mobs, conducted as a part of promotion of Tirutsava, were eye-catching! The club even conducted various workshops. An online freshers' exclusive solo dance competition, **'Spark'**, was organized. 
 
 |  |  |
 |:-:|:-:|
 |<img src="./images/Club_Act/DSC_0076.jpg" alt="noodles" width="100%" >|<img src="./images/Club_Act/D2-10.jpg" alt="pasta" width="100%">
-|  |  |
 
 The previous academic year saw a plethora of literary activities to keep our students engaged. The Debate Club, which had now been expanded to **Debate and Oratory Club**, held numerous activities, beginning with the flagship event **'Standpoint'**, as part of the _Commemoration of 75 years of Independence_, and then another one (fresher's special edition) for Republic Day. The Debate and Oratory Club has kept the literary community of our college engaged by hosting up to 12 offline debate events, 5 casual oratory sessions, and a two-part freshers introduction. In addition to hosting debates, the Debate and Oratory Club sent teams to 11 intercollegiate events, including international competitions such as the **Aristotle Cup** hosted by a university in the Philippines. Oratory events such as '**Survivor**' and '**Share your Experiences**' were held to get participants, especially first time speakers, comfortable and familiar with speaking in front of large groups. The student body responded enthusiastically to all of these events.
 
@@ -49,7 +46,6 @@ The technical front of IITT was pretty active with a lot of events being held. T
 |  |  |
 |:-:|:-:|
 |<img src="./images/Club_Act/ADS_4962-5.jpg" alt="noodles" width="100%" >|<img src="./images/Club_Act/ADS_5354-1.jpg" alt="pasta" width="100%">
-|  |  |
 
 **Digital Wizards** was one of the busiest and most active clubs on campus.  A 10 days workshop on data structures and algorithms namely the **'DSA Series'** was organized. They covered 80+practice problems, 20+ problems in sessions, 20+ problems in contests, spanning 10 online workshops organized by the code club team, a session on OOPS by **Coding Ninjas**, and 2 informal sessions. The club conducted various sessions on topics like Cyber Security, Competitive Programming, Web-Development, App Development, Machine Learning, and so on. Offline workshops were conducted on various topics which include Node, REACT, Competitive Coding once students returned. For **Tirutsava**, the club came up with some interesting events such as the CTF, App development, and web development contests. They collaborated with **Algo-Academy** and conducted a workshop where top industry experts gave information about placements and internships. The company held a contest and winners were given prize money.
 
@@ -60,6 +56,5 @@ Campus life be it online or offline, would be incomplete without sports. Our spo
 |  |  |
 |:-:|:-:|
 |<img src="./images/Club_Act/DSC_0032.jpg" alt="noodles" width="100%" >|<img src="./images/Club_Act/ADS_8504.jpg" alt="pasta" width="100%">
-|  |  |
 
 All our student run clubs have done an amazing job at keeping the spirit of college life active this year. Although things were uncertain with the covid pandemic, and the students were able to return to the campus only after half the year, all of our clubs have been working tirelessly to make sure the students enjoy their campus life to the fullest. We look forward to more exciting club activities in the upcoming offline (hopefully) academic year. 
