@@ -153,6 +153,8 @@ kid."
 together. Since *Leisha* knew she would find her in the music room in the morning, she'd go there while bunking classes and always sit with or
 talk to her. *Angona*, who had lived like a lone doll until then, liked having a friend, someone to talk to. Someone to spend time with.
 
+-----------
+
 <h2 align="center">Summer</h2>
 
 ![img](./images/SoS/SoS-Summer.jpg)
@@ -270,6 +272,8 @@ she clenched her fists.
 
 "I know, it's alright. You should take your time. But please, don't cage yourself with this thought, Ango. I'm sure
 nothing will happen, and even if anything has to happen, I'm here with you now, na. I will fix it." *Leisha* held *Angona's* hands and kept her head on her lap.
+
+-----------
 
 <h2 align="center">Autumn</h2>
 
