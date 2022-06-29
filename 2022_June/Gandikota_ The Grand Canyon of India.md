@@ -1,6 +1,6 @@
 ---
 title: "Gandikota: The Grand Canyon of India"
-category: "Reviews"
+category: "Review"
 date: "2022-06-21 10:00:00 +09:00"
 desc: "A Quick Getaway is all one needs after the hustle, bustle and stress of college life. Join the author as they transport you to one such perfect location for a quick and refreshing vacation."
 thumbnail: "./images/Gandikota.jpg"

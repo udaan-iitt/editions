@@ -2,26 +2,25 @@
 title: "The Puppet Show: A Token of Appreciation"
 category: "Experiences"
 date: "2021-01-30 11:00:00 +09:00"
-desc: "A comical tribute to the secretaries and coordinators of the year 2021-2022, for all the work and effort that goes behind what what we see"
+desc: "A comical tribute to the secretaries and coordinators of the year 2021-2022, for all the work and effort that goes behind what we see"
 thumbnail: "./images/Puppet_Show.jpg"
 authors: "Krithi, Debeshee, Sneha M S, Sneha Battula"
 starred: "true"
 alt: "The Puppet Show"
 ---
 
->The last year witnessed some major changes like adapting from the online environment and witnessing a multitude of offline events and opportunities, thanks to our student representatives.
->
->From handling the transition smoothly to launching full fledged initiatives, our student council worked towards constantly entertaining and providing opportunities for the community. It goes without saying that they deserve an enormous credit for all that they've accomplished.
->
->Hence, we set to gather some of our deepest sources to present these resourceful comical social profiles for our representatives. Adding a little bit of an Udaan touch, join us as we unravel our most beloved student council.
+The last year witnessed some major changes like adapting from the online environment and witnessing a multitude of offline events and opportunities, thanks to our student representatives.
 
-<details open>
-<summary style= font-size:2rem;> <b>Secretaries</b></summary>
-</br>
+From handling the transition smoothly to launching full fledged initiatives, our student council worked towards constantly entertaining and providing opportunities for the community. It goes without saying that they deserve an enormous credit for all that they've accomplished.
 
-Starting from the elections to the end of their tenure, studies report that secretaries often feel like they have no idea what they're being blamed for. Their daily life includes waking up to get hit with a randomly tagged mail about on the most random issues. The secretaries put tremendous effort throughout the year in ensuring a decent amount of the grand promises on the manifesto are fulfilled.  Let's take a look at what our secretaries have to say about their experience.
+Hence, we set to gather some of our deepest sources to present these resourceful comical social profiles for our representatives. Adding a little bit of an Udaan touch, join us as we unravel our most beloved student council.
 
+-------------------------
+## Secretaries
 
+Starting from the elections to the end of their tenure, studies report that secretaries often feel like they have no idea what they're being blamed for. Their daily life includes waking up to get hit with a randomly tagged mail about the most random issues. The secretaries put tremendous effort throughout the year in ensuring a decent amount of the grand promises on the manifesto are fulfilled. Let's take a look at what our secretaries have to say about their experience.
+
+-------------------------
 <details>
 <summary><b>Dinkar</b>
 </summary>
@@ -216,7 +215,7 @@ Be open to suggestions and stay dedicated towards your work.
 </details>
 <br/>
 <details>
-<summary><b>Natesh Aravind</b>
+<summary><b>Natesh Aravind S</b>
 </summary>
 </br>
 
@@ -264,7 +263,7 @@ Be open to suggestions and stay dedicated towards your work.
 </details>
 <br/>
 <details>
-<summary><b>Shakunthala</b>
+<summary><b>Yerneni Sri Shakunthala</b>
 </summary>
 </br>
 
@@ -302,7 +301,7 @@ Well, we always try to give our best for every event. But it's important to list
 </details>
 <br/>
 <details>
-<summary><b>Prerith Sagar</b>
+<summary><b>Prerith Sagar S</b>
 </summary>
 </br>
 
@@ -486,7 +485,7 @@ Since this was the first time IGC position was brought into the Secretariat, alo
 </details>
 <br/>
 <details>
-<summary><b>Aasim</b>
+<summary><b>Mohd Aasim Khan</b>
 </summary>
 </br>
 
@@ -518,11 +517,15 @@ Do lead your team by example but do ensure every member in your council is invol
 >
 >*-Dinkar*
 
+>Search for qualities of a good counsellor and you'll get good listener, patient, observant, compassion as the go-to traits. Aasim embodies these. Even more, he embodies dedication and in a year where students and faculty were reeling mentally from the worst of Covid, GCU needed someone like him at the helm to guide all those who needed help.   
+>
+>*-Shreyansh*
+
 -------------
 </details>
 <br/>
 <details>
-<summary><b>Keerthana</b>
+<summary><b>Keerthana Reddy</b>
 </summary>
 </br>
 
@@ -559,17 +562,16 @@ Also, she was always available to reach out and responded immediately which help
 >Apart from those sudden meetings regarding work progress which were being planned at a very surprising point of time , working with her proved to be productive. She was my go to person whenever I have some doubts regarding work.      
 >
 >*-Swathi*
-
---------------
+</br>
 
 </details>
-</br>
 
-<details open>
-<summary style= font-size:2rem;> <b>Coordinators </b></summary>
-</br>
+--------------
+## Coordinators
 
 Apart from the mail where coordinators are announced, research finds no name of coordinators in any credit forum. They take care of everything from handling all the technical work to constantly improving the club and its policies, organising a new set of events and revamping the old events and also avoiding empty promises of prize money. Phew! Its high time we give them the well deserved recognition.
+
+-------------------------
 
 <details>
 <summary><b>Debeshee Das</b>
@@ -670,7 +672,7 @@ Our club just gets questioned a lot. Make sure we answer with our dedication and
 </details>
 <br/>
 <details>
-<summary><b>Jabili</b>
+<summary><b>Matcha Jabili</b>
 </summary>
 </br>
 
@@ -707,7 +709,7 @@ I was unable to conduct more offline workshops and events due to hectic academic
 </details>
 <br/>
 <details>
-<summary><b>Lakshana</b>
+<summary><b>Gurram Lakshana</b>
 </summary>
 </br>
 
@@ -746,7 +748,7 @@ I believe you will do it right because hopefully you also would've been in the c
 </details>
 <br/>
 <details>
-<summary><b>Ajay</b>
+<summary><b>Durusoju Ajay</b>
 </summary>
 </br>
 
@@ -787,7 +789,7 @@ I know these are all hangover thoughts after any fictional movie but what if the
 </details>
 <br/>
 <details>
-<summary><b>Sneha</b>
+<summary><b>Sneha M S</b>
 </summary>
 </br>
 
@@ -840,7 +842,7 @@ On a work related personal note, she's very focused and a quick learner. I recei
 </details>
 <br/>
 <details>
-<summary><b>Ayush</b>
+<summary><b>Ayush Prasad</b>
 </summary>
 </br>
 
@@ -960,7 +962,7 @@ Technical culture in our IIT is weaker than expected. Our college’s culture sh
 </details>
 <br/>
 <details>
-<summary><b>Devansh Sharma</b>
+<summary><b>Devansh Verma</b>
 </summary>
 </br>
 
@@ -1176,7 +1178,7 @@ It’s amazing how he takes criticism in the best way and tries to improve himse
 </details>
 <br/>
 <details>
-<summary><b>Dhyaan Nayak</b>
+<summary><b>Dhyaan Sandeep Nayak</b>
 </summary>
 </br>
 
@@ -1268,13 +1270,10 @@ I thank him for sharing his experiences and guiding me throughout his tenure as 
 >*-Sameer*
 </details>
 
-</details>
-
-
 
 -------------------------
->Dear Secretaries and Coordinators,
-
+<br>
+**Dear Secretaries and Coordinators,**    
 Thank you for the amazing work you've put into your positon and going the extra mile everyday to make the college a comfortable space. As the leader, you have continued to manage everything efficiently
 on behalf of all the community. Yours is a job that brings the college to life, and we appreciate you. We believe you’ve set a wonderful example for the present council and for the years to come.
 
