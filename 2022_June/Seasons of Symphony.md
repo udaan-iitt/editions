@@ -1,7 +1,7 @@
 ---
 title: "Seasons of Symphony"
 category: "Story"
-date: "2022-06-21 10:00:00 +09:00"
+date: "2022-06-29 12:45:00 +09:00"
 desc: "Angona, a young university student with inability to walk, encounters an exuberant girl who turns her monochrome and secluded life upside down. As she struggles to find herself, a shocking secret awaits her."
 thumbnail: "./images/Seasons of symphony.jpg"
 authors: "Keshav Kumar Manjhi"
@@ -273,7 +273,7 @@ nothing will happen, and even if anything has to happen, I'm here with you now, 
 
 <h2 align="center">Autumn</h2>
 
-![img](./images/SoS/SoS-Autumn.jpg))
+![img](./images/SoS/SoS-Autumn.jpg)
 
 *Angona* sat in her wheelchair, in a closed room alone, speaking over a phone call. The room was small, and she wore a badge with the words *'Contestant number 15'* inscribed. She wore a white top and green frock with a small nose pin that shined silver against the light.
 

@@ -1,11 +1,11 @@
 ---
 title: "Tirutsava - Behind the Scenes"
 category: "Campus News"
-date: "2022-06-21 10:00:00 +09:00"
+date: "2022-06-28 12:45:00 +09:00"
 desc: "The word Utsava means a festival or any joyful occasion. But it takes a lot for the 'Tirutsava' to be a joyful one. Here's what it's like behind the scenes, from the main actors themselves."
 thumbnail: "./images/Tirutsava Behind the scenes.jpg"
 authors: "Chaitali, Mathew, Mohith"
-starred: "True"
+starred: "true"
 alt: "Tirutsava-Behind_the_Scenes"
 ---
 

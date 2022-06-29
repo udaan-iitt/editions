@@ -1,7 +1,7 @@
 ---
 title: "Ghosts in the Machine- A Critique"
 category: "Review"
-date: "2022-06-26 12:00:00 +09:00"
+date: "2022-06-29 12:25:00 +09:00"
 desc: "A stimulating analysis of an 'advertisement' that shows a lot more than it appears to show. Secrets, that you never knew existed. Facts, you always ignore."
 thumbnail: "./images/GhostsInTheMachine.png"
 authors: "Cosmic Cutie"
@@ -9,11 +9,13 @@ starred: "false"
 alt: "Ghosts in the Machine- A Critique"
 ---
 
-*They are far away and yet close,*
-*Some in the shadows,*
-*Some in the front rows,*
-*Some hide in plain disguise*
-*…Away from all prying eyes.*
+*They are far away and yet close,*        
+*Some in the shadows,*             
+*Some in the front rows,*                
+*Some hide in plain disguise*                    
+*…Away from all prying eyes.*               
+<br>
+
 *Every State has agents to act on its behalf*
 
 One such shadowy wing of the *USA*, the [*4th PSYOPs Group*](https://en.wikipedia.org/wiki/4th_Psychological_Operations_Group), released what appears to be an “[*advertisement*](https://www.youtube.com/watch?v=VA4e0NqyYMw)” on May 3, 2022. I put the word “advertisement" inside quotes, since I believe the video to be a very well-designed and clever instance of psychological warfare.
@@ -50,7 +52,7 @@ Words flash onto the screen:
 The visuals switch across various city skylines as various clips from the radio are played. A segment of a news report from the *Tiananmen square protests* of 1989 along with the famous sound-bite of *Reagan* requesting *Gorbachev* to tear down *the Berlin wall* play, as the visuals show a conductor in front of an orchestra, telling us that they control the music.
 
 Clearly, the *4th PSYOPs Group* wants us to think of it being involved in the breakup of the *Soviet Union* and the protests in *China*. Ironically, the *USA* was quick to deny involvement in these events when accused of manufacturing crises to destabilize its geopolitical rivals.
-Now the *4th PSYOPs Group* seems to be taking unofficial credit. Almost like saying "Come on guys, it had *nothing* to do with us" _*wink, wink*_
+Now the *4th PSYOPs Group* seems to be taking unofficial credit. Almost like saying "Come on guys, it had *nothing* to do with us!" _*wink, wink*_
 
 The scene shifts to a chessboard, meant to represent how the *4th PSYOPs Group* (like most intelligence organizations) sees the world:
 
@@ -106,7 +108,7 @@ Ever since the fall of the *Soviet Union*, the *USA* has enjoyed its position as
 
 *"Hide your capabilities and bide your time"*
 
-` `*- Deng Xiaoping*
+>*- Deng Xiaoping*
 
 With the rise of *China* and *Russia*, the world moved from being unipolar to being multipolar.
 References to threats in the east could be a way of psychologically priming the public for a war in East Asia against *China*. *Taiwan* is a flashpoint, and *China* has an excess of young people of military age. While one hopes that war can be averted, the *4th PSYOPs Group* seems to believe in the idea of [*Thucydides' trap*](https://en.wikipedia.org/wiki/Thucydides_Trap), i.e. the idea that war is inevitable when the dominant power is challenged by a rising power.
@@ -123,19 +125,18 @@ The last image we see is that of a hand scrolling down a phone. The message here
 Times change, and we change with the times.
 Before continuing, I would like to take a brief pause to explain the idea of [*generations in warfare*](https://en.wikipedia.org/wiki/Generations_of_warfare).
 
-`   `The first generation relied on large numbers of troops armed with melee weapons, as used in ancient times. The knights on horseback wearing chainmail is an example shown in the video.
+The first generation relied on large numbers of troops armed with melee weapons, as used in ancient times. The knights on horseback wearing chainmail is an example shown in the video.
+The second generation is marked by the use of firearms, ranging from muskets to machine guns. The gun-wielding soldiers in the second panel of the video is an example.
 
-`   `The second generation is marked by the use of firearms, ranging from muskets to machine guns. The gun-wielding soldiers in the second panel of the video is an example.
+The third generation is characterized by the importance placed on speed and stealth, with combatants trying to out-maneuver their enemies. The drone feed shown in the video serves as an example here.
 
-`      `The third generation is characterized by the importance placed on speed and stealth, with combatants trying to out-maneuver their enemies. The drone feed shown in the video serves as an example here.
+The fourth generation blurs the line between state and non-state actors. The protestor about to throw a *Molotov cocktail* is the common image which comes to mind when one thinks of state-backed coups.
 
-`         `The fourth generation blurs the line between state and non-state actors. The protestor about to throw a *Molotov cocktail* is the common image which comes to mind when one thinks of state-backed coups.
-
-`            `The fifth generation, described as a "war of information and perception", involves the increased use of non-violent tactics like social engineering and disinformation. It is a battle for hearts and minds. The visual of the hand scrolling down the phone is a clear example of this. The *4th PSYOPs Group* seems to be saying that in the age of information, they are the experts in the mostly non-violent tactics required for the 5th generation of warfare.
+The fifth generation, described as a "war of information and perception", involves the increased use of non-violent tactics like social engineering and disinformation. It is a battle for hearts and minds. The visual of the hand scrolling down the phone is a clear example of this. The *4th PSYOPs Group* seems to be saying that in the age of information, they are the experts in the mostly non-violent tactics required for the 5th generation of warfare.
 
 *"Supreme excellence consists of breaking the enemy's resistance without fighting"* 
 
-`   `- *Sun Tzu*
+>*-Sun Tzu*
 
 The music is briefly cut as we see a tape explaining the idea of psychological warfare begin to play.
 
@@ -165,7 +166,8 @@ Is this a *Kafka trap*, where denial of guilt is evidence of guilt? This shows t
 
 When someone films a video of themselves licking an ice-cream tub and putting it back into the fridge with several others, every single tub of ice cream has to be discarded. Merely by insinuating that something is tainted, one destroys trust in it without actually having to taint anything. The *4th PSYOPs Group* now forces us to question every piece of media we consume, without having to corrupt any media.
 
-*"We can deceive, persuade, change, influence, inspire"* ,says the text…
+*"We can deceive, persuade, change, influence, inspire"* ,says the text…         
+                            
 …The voice says *"It is expected and encouraged to study foreign languages and the social sciences such as history, economics and sociology."*.
 
 It is said that truth is the first casualty in war.
@@ -176,7 +178,7 @@ Firstly, I propose that there are two distinct definitions of "truth". The first
 Multiple visuals flash across the screen, but I would like to focus on one in particular. It is of a corpse floating on water just off a hilly coast.
 I believe that this is a reference to [*Operation Mincemeat*](https://en.wikipedia.org/wiki/Operation_Mincemeat), one of the grand successes of *British intelligence* during the second world war. The story goes as follows:
 
-` `An unclaimed corpse was taken from a morgue by intelligence officials and dressed up as a *Royal Marines* officer. False intelligence in the form of fake letters which suggested that a planned attack on *Sicily* was a feint, was placed on the corpse before the corpse was released near the southern coast of *Spain*. *Spain*, despite claiming to be neutral, shared the recovered intelligence with *Nazi Germany*. The plan seemed to work, with the *Axis* powers refusing to send reinforcements to Sicily.
+An unclaimed corpse was taken from a morgue by intelligence officials and dressed up as a *Royal Marines* officer. False intelligence in the form of fake letters which suggested that a planned attack on *Sicily* was a feint, was placed on the corpse before the corpse was released near the southern coast of *Spain*. *Spain*, despite claiming to be neutral, shared the recovered intelligence with *Nazi Germany*. The plan seemed to work, with the *Axis* powers refusing to send reinforcements to Sicily.
 
 This subtle reference is inserted into the video as an image lasting less than a second.
 One has to respect the amount of thought that went into making the video.
@@ -233,20 +235,20 @@ The video ends with the logo of the *4th PSYOPs Group* on the screen. A gray clo
 
 The reactions to the video were interesting. Some of the top comments:
 
-> `   `"This glows harder than a Christmas tree in February"
+>"This glows harder than a Christmas tree in February"
 
-> `   `"Me: “No way could I trust the government less than I already do.” 
+>"Me: “No way could I trust the government less than I already do.” 
 >
-> `   `4th PSYOP Group: “hold my beer”
+> 4th PSYOP Group: “hold my beer”
 
 
-> `   `"Finally saying the quiet part out loud.
+> "Finally saying the quiet part out loud.
 >
-> `   `WE are the targets just as much as an enemy.
+> WE are the targets just as much as an enemy.
 >
-> `   `Question everything.
+> Question everything.
 >
-> `   `Think for yourselves without the sphere of societal or social media influence."
+> Think for yourselves without the sphere of societal or social media influence."
 
 While the *4th PSYOPs Group* must be commended for leaving the comments section open, it must be admitted that the general public did not take this well.
 
@@ -268,7 +270,7 @@ In conclusion, I don't think the ad was a total failure for the *4th PSYOPs Grou
 
 *Thereby you can be the director of the opponent's fate.”*
 
-`   `*-Sun Tzu*
+>*-Sun Tzu*
 
 *Psychological operations are best carried out by the formless and soundless.*
 
