@@ -1,7 +1,7 @@
 ---
 title: "The Garden and the Rain"
 category: "Poetry"
-date: "2022-06-29 12:15:00 +09:00"
+date: "2022-06-29 12:37:00 +09:00"
 desc: "How fleeting is beauty? Catch yourself in a lovely garden, before the rain catches you"
 thumbnail: "./images/The Garden and The Rain.jpg"
 authors: "Iftekhar Ahmed"

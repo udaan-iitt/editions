@@ -1,7 +1,7 @@
 ---
 title: "Fitoor"
 category: "Poetry"
-date: "2022-06-29 12:53:00 +09:00"
+date: "2022-06-29 12:03:00 +09:00"
 desc: "Love makes you do crazy things. Sometimes you smile for no reason and sometimes you smile, even when you are dying from inside."
 thumbnail: "./images/Fitoor.jpg"
 authors: "Amrit Singh Gill"

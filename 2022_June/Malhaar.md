@@ -1,7 +1,7 @@
 ---
 title: "Malhaar"
 category: "Poetry"
-date: "2022-06-29 12:20:00 +09:00"
+date: "2022-06-29 12:35:00 +09:00"
 desc: "The wounds of love can only be healed by the one who made them. Join Amrit in his Malhaar where he describes his sentiments."
 thumbnail: "./images/Malhaar.jpg"
 authors: "Amrit Singh Gill"
