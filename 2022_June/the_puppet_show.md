@@ -1217,7 +1217,7 @@ Make a plan of action for the entire term at the very start keeping in mind the 
 >Dhyaan is a passionate and talented young man who finds his passion in many things. One such passion is music. During the lockdown, he learned to play flute and even started a youtube channel to upload his flute videos. He is also good at sports and plays table tennis, badminton, volleyball and also chess in which is he has got a good rating.                
 One thing that inspires and astonishes me is that he can speak many languages Most people find it almost effortless to talk to him and make friends. One thing about him is that he likes to debate almost anything, from physics topics like time dilation to philosophical topics like the existence of the god, etc. He is also a great fan of Indian history discusses topics like Indian politics and Geopolitics making intriguing theories about some issues, making anyone to fall in love with the subject. Moreover, he manifests his interest in entrepreneurship and new ideas and is also a great team player.
 >
->*-Aashrit*
+>*-Aashrith*
 
 >Chess Wizard - IITT’s very own Magnus Carlsen who makes you swoon at his melodious flute notes. The most friendly and approachable person.
 >
