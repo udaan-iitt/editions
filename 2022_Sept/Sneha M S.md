@@ -91,4 +91,5 @@ At some point of time in the near future, everything will become cloud integrate
 
 Secondly, all of us have some notion or the other about what research is. A set picture. In my head, it was another career path I would never impose on myself (*the other being a desk job as a software engineer; PS: no offence to any software enthusiasts, it’s just a personal preference.*) But there always was this nagging question somewhere in the back of my head as to why people take up research, if it’s as dull and greyscale as I’m imagining it to be. So, this was also an opportunity for me to see what it would be like to be a researcher. And honestly, it was nothing like the greyscale image, my prejudiced gray matter had expected it to be. It was cosmic.
 
+
 *An adventure seeker at heart, Sneha loves to explore both the real and fictional worlds. When she's not daydreaming about the Star Wars movie she would love to direct one day, you can find her procrastinating about anything and everything. Currently pursuing a degree in Mechanical Engineering at IIT Tirupati, she is trying her best to make the best of her remaining college life.*
