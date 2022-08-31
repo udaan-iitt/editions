@@ -1,3 +1,12 @@
+title: "Summer Internship at Tandon School of Engineering, NYU"
+category: "Experience"
+date: " "
+desc: " "
+thumbnail: " "
+authors: "Sneha M S"
+starred: "False"
+alt: "Summer Internship at Tandon School of Engineering, NYU"
+
 # Summer Internship at Tandon School of Engineering, NYU
 
 #### Sneha M S
