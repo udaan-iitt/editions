@@ -6,11 +6,13 @@ desc: " "
 thumbnail: " "
 authors: "Sneha M S"
 starred: "False"
-alt: "Summer Internship at Tandon School of Engineering, NYU"
+alt: "Summer Research Program at Tandon School of Engineering, NYU"
 ---
-# Summer Internship at Tandon School of Engineering, NYU
+# Summer Research Program at Tandon School of Engineering, NYU
 
 #### Sneha M S
+
+*Sneha shares her summer research experience at the Tandon School of Engineering, NYU. She describes her work with Additive Manufacturing and the potential integration of Cyber Security into this new promising field of Industry 4.0.*
 
 *“You need to experience and experiment with different things to discover what brings you joy!!”*
 
