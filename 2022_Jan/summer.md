@@ -6,6 +6,7 @@ desc: "They say love heals, but what if it’s not meant to be? Join Sarvesh to 
 thumbnail: "./images/summer.jpg"
 authors: "Sarvesh Nikas"
 starred: "false"
+abio: "NONE"
 alt: "Summer"
 ---
 

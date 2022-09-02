@@ -6,6 +6,7 @@ desc: "A poem about the perpetuality of love, loss and reality"
 thumbnail: "./images/Besotted Again.jpg"
 authors: "Iftekhar Ahmed"
 starred: "false"
+abio: "NONE"
 alt: "Besotted Again"
 ---
 

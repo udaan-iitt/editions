@@ -6,6 +6,7 @@ desc: "Angona, a young university student with inability to walk, encounters an 
 thumbnail: "./images/Seasons of symphony.jpg"
 authors: "Keshav Kumar Manjhi"
 starred: "False"
+abio: "NONE"
 alt: "Seasons of Symphony"
 ---
 <h2 align="center">Winter</h2>

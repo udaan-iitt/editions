@@ -6,6 +6,7 @@ desc: "“My first feeling was that there was no way to continue. Writing isn’
 thumbnail: "./images/ed1/cstory.jpg"
 authors: "Prabhat, Noble"
 starred: "false"
+abio: "NONE"
 alt: "Story Writing"
 ---
 

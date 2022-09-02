@@ -6,6 +6,7 @@ desc: "This article will be exploring some of the myths surrounding Covid-19 and
 thumbnail: "./images/ed2/covid.jpg"
 authors: "Krithi, Sneha, Prabhat"
 starred: "false"
+abio: "NONE"
 alt: "emails"
 ---
 

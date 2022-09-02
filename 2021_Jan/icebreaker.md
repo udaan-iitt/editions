@@ -6,6 +6,7 @@ desc: "A pandemic, delayed academic year and a virtual medium did not stop our s
 thumbnail: "./images/ed1/icebreaker.jpg"
 authors: "Debeshee Das"
 starred: "false"
+abio: "NONE"
 alt: "IceBreaker"
 ---
 

@@ -6,6 +6,7 @@ desc: "“Even philosophers will praise war as ennobling mankind, forgetting the
 thumbnail: "./images/hut.jpg"
 authors: "Keshav Kumar Manjhi"
 starred: "false"
+abio: "NONE"
 alt: "The Man in the Hut"
 ---
 

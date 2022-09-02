@@ -68,6 +68,7 @@ desc: "Prabhat is like the peoples president no? like how Dr Kalam was the peopl
 thumbnail: "./images/prabot.jpg"
 authors: "Debeshee and Deepmind"
 starred: "false"
+abio: "NONE"
 alt: "prabot__text_if_images_fail_to_load"
 ---
 </pre>

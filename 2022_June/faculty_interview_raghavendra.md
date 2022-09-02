@@ -6,6 +6,7 @@ desc: "From pepper spray and Clash of Clans to Julia and Panchayat, read on to e
 thumbnail: "./images/Raghavendra_Sir_cover.jpeg"
 authors: "Pranathi, Debeshee"
 starred: "false"
+abio: "NONE"
 alt: "Interview"
 ---
 

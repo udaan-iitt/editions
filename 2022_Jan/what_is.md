@@ -6,6 +6,7 @@ desc: "What is life? What is love? What even are dreams? Well Iftekar might have
 thumbnail: "./images/turth.jpg"
 authors: "Iftekhar Ahmed"
 starred: "false"
+abio: "NONE"
 alt: "What is...?"
 ---
 <p style="text-align: center;align:center;">What is Life?<br>

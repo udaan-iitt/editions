@@ -6,6 +6,7 @@ desc: "The year 2021-22 witnessed a lot of events, for the students, by the stud
 thumbnail: "./images/Student Activities.jpg" 
 authors: "Sathyanarayann, Swathi"
 starred: "False"
+abio: "NONE"
 alt: "placeholder"
 
 ---

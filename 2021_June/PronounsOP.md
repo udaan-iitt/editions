@@ -6,6 +6,7 @@ desc: "Anyone in the society is free to choose their gender identity, and it is 
 thumbnail: "./images/ed2/pronouns.jpg"
 authors: "Sneha M S"
 starred: "false"
+abio: "NONE"
 alt: "Pronouns"
 ---
 

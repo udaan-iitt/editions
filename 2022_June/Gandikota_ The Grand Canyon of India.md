@@ -6,6 +6,7 @@ desc: "A Quick Getaway is all one needs after the hustle, bustle and stress of c
 thumbnail: "./images/Gandikota.jpg"
 authors: "Vipin Kumar Sharma"
 starred: "False"
+abio: "NONE"
 alt: "Gandikota: The Grand Canyon of India"
 ---
 

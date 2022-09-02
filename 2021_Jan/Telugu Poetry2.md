@@ -6,6 +6,7 @@ desc: "Join the poet on his commentary on the lifestyle and vanity of humans, an
 thumbnail: "./images/ed1/poem.jpg"
 authors: "G V Tarun Kumar"
 starred: "false"
+abio: "NONE"
 alt: "Poetry Modern man"
 ---
 

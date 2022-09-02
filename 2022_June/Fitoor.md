@@ -6,6 +6,7 @@ desc: "Love makes you do crazy things. Sometimes you smile for no reason and som
 thumbnail: "./images/Fitoor.jpg"
 authors: "Amrit Singh Gill"
 starred: "false"
+abio: "NONE"
 alt: "Fitoor"
 ---
 

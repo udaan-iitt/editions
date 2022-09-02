@@ -6,6 +6,7 @@ desc: "We dedicate this article to our freshers, answering some of their common 
 thumbnail: "./images/faq.jpg"
 authors: "IITT Family"
 starred: "true"
+abio: "NONE"
 alt: "Freshers Asked Questions"
 ---
 Every year there comes a new batch of learners full of dreams, aspirations, goals, and a variety of doubts and questions about their coming years. This time we decided to dedicate an article to our freshers, answering some of their common queries.  Ranging from academics to college life experiences, read on to find out some useful information! 

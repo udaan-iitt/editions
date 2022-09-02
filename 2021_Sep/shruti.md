@@ -6,6 +6,7 @@ desc: "Salesforce provides customer relationship management service and also pro
 thumbnail: "./images/salesforce.jpg"
 authors: "Shruti Priya"
 starred: "false"
+abio: "NONE"
 alt: "salesforce"
 ---
 

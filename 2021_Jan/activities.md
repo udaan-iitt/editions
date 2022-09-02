@@ -6,6 +6,7 @@ desc: "Join Shreyansh as he takes a look at how student run clubs and societies 
 thumbnail: "./images/ed1/campus.jpg"
 authors: "Shreyansh Mehra"
 starred: "true"
+abio: "NONE"
 alt: "Activities"
 ---
 <style>

@@ -6,6 +6,7 @@ desc: "Texas Instruments, Dallas-based pioneer developer of silicon transistors,
 thumbnail: "./images/texas.jpg"
 authors: "Soumitro"
 starred: "false"
+abio: "NONE"
 alt: "texas"
 ---
 

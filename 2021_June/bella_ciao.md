@@ -6,6 +6,7 @@ desc: "After 4 years of life at college, a student turning into an alumnus walks
 thumbnail: "./images/ed2/run_life.jpg"
 authors: "Anirudh"
 starred: "false"
+abio: "NONE"
 alt: "Wisdom Engineering"
 ---
 

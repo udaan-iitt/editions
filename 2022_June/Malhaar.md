@@ -6,6 +6,7 @@ desc: "The wounds of love can only be healed by the one who made them. Join Amri
 thumbnail: "./images/Malhaar.jpg"
 authors: "Amrit Singh Gill"
 starred: "false"
+abio: "NONE"
 alt: "Malhaar"
 ---
 

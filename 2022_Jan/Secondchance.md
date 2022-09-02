@@ -6,6 +6,7 @@ desc: "Some fourth years were asked what would they do differently if they could
 thumbnail: "./images/timetravel.jpg"
 authors: "Some fourth years"
 starred: "true"
+abio: "NONE"
 alt: "A Second Chance?"
 ---
 >*DISCLAIMER: The one who compiled this piece was in an extremely cranky mood, so please keep that in mind before reading any further.*

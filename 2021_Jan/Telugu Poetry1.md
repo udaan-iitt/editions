@@ -6,6 +6,7 @@ desc: "What could happen if sky was able to hear? What if water could roar? Nour
 thumbnail: "./images/ed1/poetry_sad.jpg"
 authors: "Kishore Siga"
 starred: "false"
+abio: "NONE"
 alt: "Poetry Heartbreak"
 ---
 

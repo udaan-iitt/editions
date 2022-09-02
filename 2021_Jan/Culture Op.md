@@ -6,6 +6,7 @@ desc: "Anirudh Sampath reflects on the relevance of culture to the current world
 thumbnail: "./images/ed1/culture.jpg"
 authors: "Anirudh Sampath"
 starred: "false"
+abio: "NONE"
 alt: "Culture"
 ---
 

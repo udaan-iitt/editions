@@ -6,6 +6,7 @@ desc: "A variety of experiences. A clutter of emotions. One underlying cause. Ye
 thumbnail: "./images/ed2/story.jpg"
 authors: "IIT-T Family"
 starred: "true"
+abio: "NONE"
 alt: "Lock Down"
 ---
 

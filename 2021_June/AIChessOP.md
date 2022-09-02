@@ -6,6 +6,7 @@ desc: "The power of Artificial Intelligence has helped propel forward a variety 
 thumbnail: "./images/ed2/aichess.jpg"
 authors: "Dhyaan Nayak"
 starred: "false"
+abio: "NONE"
 alt: "AI Chess"
 ---
 

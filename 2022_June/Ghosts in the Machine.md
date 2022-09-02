@@ -6,6 +6,7 @@ desc: "A stimulating analysis of an 'advertisement' that shows a lot more than i
 thumbnail: "./images/GhostsInTheMachine.png"
 authors: "Cosmic Cutie"
 starred: "false"
+abio: "NONE"
 alt: "Ghosts in the Machine- A Critique"
 ---
 

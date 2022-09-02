@@ -6,6 +6,7 @@ desc: "A collection of poems exploring the ups and downs of love while beautiful
 thumbnail: "./images/haal.jpg"
 authors: "Basharat Ahmad Wani"
 starred: "false"
+abio: "NONE"
 alt: "Haal-e-dil"
 ---
 <p style="text-align: center;align:center;">Mainae wafa ki galiyon mai jaana chood diya hai,<br> 

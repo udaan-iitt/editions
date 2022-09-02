@@ -6,6 +6,7 @@ desc: "A comical tribute to the secretaries and coordinators of the year 2021-20
 thumbnail: "./images/Puppet_Show.jpg"
 authors: "Krithi, Debeshee, Sneha M S, Sneha Battula"
 starred: "true"
+abio: "NONE"
 alt: "The Puppet Show"
 ---
 

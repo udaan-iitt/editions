@@ -6,6 +6,7 @@ desc: "With the pandemic extending longer than anticipated, the online world has
 thumbnail: "./images/ed2/events.jpg"
 authors: "Anant, Sathya, Krithi"
 starred: "false"
+abio: "NONE"
 alt: "Campus Events"
 ---
 

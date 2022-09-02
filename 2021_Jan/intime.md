@@ -6,6 +6,7 @@ desc: "A system brought about by good intentions is having some unforeseen conse
 thumbnail: "./images/ed1/system.jpg"
 authors: "Shreyansh Mehra"
 starred: "false"
+abio: "NONE"
 alt: "intime"
 ---
 
