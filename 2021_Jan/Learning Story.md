@@ -6,6 +6,7 @@ desc: "Join the author as he takes you along on a journey, a time that taught hi
 thumbnail: "./images/ed1/story.jpg"
 authors: "~ The Silent Repenter"
 starred: "false"
+abio: "NONE"
 alt: "Bike Story"
 ---
 

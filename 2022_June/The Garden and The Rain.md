@@ -6,6 +6,7 @@ desc: "How fleeting is beauty? Catch yourself in a lovely garden, before the rai
 thumbnail: "./images/The Garden and The Rain.jpg"
 authors: "Iftekhar Ahmed"
 starred: "false"
+abio: "NONE"
 alt: "The Garden and the Rain"
 ---
 

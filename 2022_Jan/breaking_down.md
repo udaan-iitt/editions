@@ -6,6 +6,7 @@ desc: "Inspired by actual events from the Israel-Gaza conflict, this fictional n
 thumbnail: "./images/breaking_down.jpg"
 authors: "S Ram Mohith"
 starred: "false"
+abio: "NONE"
 alt: "Breaking Down"
 ---
 I glanced at the clock next to my computer as I was about to complete my article and go for a break after a busy morning schedule. As a reporter and journalist, I knew that the ending of an article is crucial, because that is the part where people try to find the summary of the entire thing, so I must be careful with them.

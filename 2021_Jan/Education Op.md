@@ -6,6 +6,7 @@ desc: "The author walks us through the purpose of education. He then shows us th
 thumbnail: "./images/ed1/education.jpg"
 authors: "Sarvesh Nikas"
 starred: "false"
+abio: "NONE"
 alt: "Education"
 ---
 

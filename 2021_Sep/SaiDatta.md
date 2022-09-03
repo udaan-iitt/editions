@@ -6,6 +6,7 @@ desc: "The Goldman Sachs Group, Inc. is a leading global financial institution t
 thumbnail: "./images/goldman.jpg"
 authors: "Sai Datta"
 starred: "false"
+abio: "NONE"
 alt: "Goldman Sachs"
 ---
 As a final year student pursuing my bachelor’s in computer science, until the end of my 3rd semester in college I barely even heard of the word “Internship”. Suddenly the whole fuss about coding tests, interviews started and I was clueless. To start with I thought I was just not ready for work which I will be held responsible for, unlike the course projects. But as I went with the flow, I tried for all the opportunities that came my way. I heard about the Goldman Sachs opportunity from a friend who was going to intern there. I applied with zero hope, gave my best shot at the tests and interviews. A month later, I woke up to a mail from Goldman Sachs that read “We would like to extend an offer for you to join us as a summer intern”.

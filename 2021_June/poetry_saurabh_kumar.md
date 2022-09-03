@@ -6,6 +6,7 @@ desc: "\"Sometimes I feel this was all a dream...\""
 thumbnail: "./images/ed2/pair.jpg"
 authors: "Saurabh Kumar"
 starred: "false"
+abio: "NONE"
 alt: "Poetry Hindi 2"
 ---
 

@@ -6,6 +6,7 @@ desc: "This image was illegal to display. Here's why."
 thumbnail: "./images/Illegal Numbers.png"
 authors: "Cosmic Cutie"
 starred: "false"
+abio: "NONE"
 alt: "Illegal_numbers"
 ---
 

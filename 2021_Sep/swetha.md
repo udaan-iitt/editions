@@ -6,6 +6,7 @@ desc: "NVIDIA Corporation designs graphics processing units for the gaming and p
 thumbnail: "./images/nvidia.jpg"
 authors: "Swetha"
 starred: "false"
+abio: "NONE"
 alt: "NVIDIA"
 ---
 

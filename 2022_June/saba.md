@@ -6,6 +6,7 @@ desc: "Jupiter and Venus. How unjust their fates. To our eyes, they appear so cl
 thumbnail: "./images/Saba.jpg"
 authors: "Sarvesh Nikas"
 starred: "false"
+abio: "NONE"
 alt: "Jupiter and Venus"
 ---
 

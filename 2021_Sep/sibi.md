@@ -6,6 +6,7 @@ desc: "The Ohio State University is a public research university in Columbus, Oh
 thumbnail: "./images/ohio.jpg"
 authors: "Sibibalan"
 starred: "false"
+abio: "NONE"
 alt: "ohio"
 ---
 

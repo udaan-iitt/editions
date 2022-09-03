@@ -6,6 +6,7 @@ desc: "The Nanyang Technological University, Singapore, is the second oldest pub
 thumbnail: "./images/ntu.jpg"
 authors: "Ayush Prasad and Nirmal Rajpopat"
 starred: "false"
+abio: "NONE"
 alt: "ntu"
 ---
 

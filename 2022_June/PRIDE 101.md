@@ -6,6 +6,7 @@ desc: "Pride is a month-long celebration of LGBTQPIA2+ lives, history and cultur
 thumbnail: "./images/pride101.jpg"
 authors: "Malavika, Sathyanarayann, Sneha Battula"
 starred: "true"
+abio: "NONE"
 alt: "Pride 101"
 ---
 

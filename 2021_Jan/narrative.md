@@ -6,6 +6,7 @@ desc: "Life puts us in situations that we’re unprepared for. We all have been 
 thumbnail: "./images/ed1/lockdown.jpg"
 authors: "Prabhat Reddy"
 starred: "true"
+abio: "NONE"
 alt: "Experiences"
 ---
 

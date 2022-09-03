@@ -6,6 +6,7 @@ desc: "Friendship is one of the most beautiful relationships people can have; an
 thumbnail: "./images/ed1/friend.jpg"
 authors: "Dinkar"
 starred: "false"
+abio: "NONE"
 alt: "intime"
 ---
 

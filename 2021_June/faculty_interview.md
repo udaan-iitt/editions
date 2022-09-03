@@ -6,6 +6,7 @@ desc: "Read on to know more about Prof. Sridhar's responses to a wide range of q
 thumbnail: "./images/ed2/interview.jpg"
 authors: "Anu, Tejaswini, Debeshee"
 starred: "false"
+abio: "NONE"
 alt: "Interview"
 ---
 

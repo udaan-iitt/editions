@@ -6,6 +6,7 @@ desc: "Public speaking can feel intimidating. We’re here to help though, and h
 thumbnail: "./images/ed2/speaking.jpg"
 authors: "Sreenivasa Murthy, Sneha M S"
 starred: "false"
+abio: "NONE"
 alt: "Public Speaking"
 ---
 
