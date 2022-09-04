@@ -12,7 +12,7 @@ authors: "Seeram Pavan"
 
 starred: "False"
 
-alt: "./images/placeholder.jpg"
+thumbnail: "./images/ulccs-pavan.jpg"
 
 ---
 **About the company**
