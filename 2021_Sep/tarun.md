@@ -6,6 +6,7 @@ desc: "GSoC, is an international annual program in which Google awards stipends 
 thumbnail: "./images/gsoc.jpg"
 authors: "Tarun"
 starred: "false"
+abio: "NONE"
 alt: "GSOC"
 ---
 

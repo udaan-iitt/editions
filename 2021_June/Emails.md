@@ -6,6 +6,7 @@ desc: "The ability to communicate effectively via Email is a critical skill need
 thumbnail: "./images/ed2/letter.jpg"
 authors: "Debeshee Das, Shreyansh Mehra"
 starred: "false"
+abio: "NONE"
 alt: "emails"
 ---
 

@@ -6,6 +6,7 @@ desc: "Read this brutally honest feedback by Sarvesh to find out more about his 
 thumbnail: "./images/primainnotech.jpg"
 authors: "Sarvesh"
 starred: "false"
+abio: "NONE"
 alt: "Prima Innotech LLC"
 ---
 

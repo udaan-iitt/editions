@@ -6,6 +6,7 @@ desc: "My heart will beat for you, doesn't matter how far you are. But will you 
 thumbnail: "./images/Dooriyan.jpg"
 authors: "Amrit Singh Gill"
 starred: "false"
+abio: "NONE"
 alt: "Dooriyan"
 ---
 

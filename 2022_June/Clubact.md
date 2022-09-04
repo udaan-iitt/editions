@@ -6,6 +6,7 @@ desc: "Our student run clubs have wrapped up yet another eventful academic year,
 thumbnail: "./images/Clubact.jpg" 
 authors: "Sathyanarayann, Swathi "
 starred: "False"
+abio: "NONE"
 alt: "clubact"
 ---
 With the long-awaited end of the covid pandemic and return to normalcy finally arriving in the second half of the academic year 2021-2022, the sun rose on a campus filled with grateful students. With the return of all students, from those who had never seen the college to those who had dearly missed the college experience for two years, campus life started blooming. The halls were filled with chatter, and the mess lines grew longer. This was an ideal opportunity for our students to immerse themselves in club activities and celebrations in order to fully experience the hyped-up "campus life". Our student-run clubs, which were successful in keeping students engaged and active online, began actively conducting activities and events in the offline mode as well. From the online start to the offline finish of the academic year 2021-2022, let us take a fond look at the club activities that kept us involved. 

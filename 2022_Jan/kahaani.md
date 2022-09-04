@@ -7,6 +7,7 @@ All of us ponder on the road not taken, but does it really matter if it all lead
 thumbnail: "./images/kahaani.jpg"
 authors: "Amit Vikram Sharma"
 starred: "false"
+abio: "NONE"
 alt: "कहानी सो रही है"
 ---
 <p style="text-align: center;align:center;">दिनभर धूप में भागी हुई <br>

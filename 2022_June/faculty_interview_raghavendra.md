@@ -6,6 +6,7 @@ desc: "From pepper spray and Clash of Clans to Julia and Panchayat, read on to e
 thumbnail: "./images/Raghavendra_Sir_cover.jpeg"
 authors: "Pranathi, Debeshee"
 starred: "false"
+abio: "NONE"
 alt: "Interview"
 ---
 
@@ -28,7 +29,7 @@ Previously I would have thought it was weird, but when I visited IIT Kanpur, the
 
 What is that?!?! WOW!! I can just say wow right now!! I’m hearing this for the first time. I have always heard of mid-life crisis (_sounds of disbelief_).[^1]
 
-[^1]: If you’re hearing about the ‘quarter-life crisis’ for the first time, [here’s an article](https://udaaniitt.web.app/editions/2022_Jan/quarter_life_crisis/) from a previous Udaan edition that tells you a lot more!
+[^1]: If you’re hearing about the ‘quarter-life crisis’ for the first time, [here’s an article](https://udaaniitt.in/editions/2022_Jan/quarter_life_crisis/) from a previous Udaan edition that tells you a lot more!
 
 
 I don't know if this is true because I am not a social scientist, but your generation is exposed more to what people are achieving. You are constantly reminded of other people’s activity in your feed - on Linkedin, Facebook, or Instagram. People are either enjoying or getting internships at top places or going to graduate school and posting about it. You are constantly reminded of this, and I think that might be one reason some of you might feel that you are not achieving enough. Although it's cliché to tell you not to compare yourself, everybody has their own path. Sometimes you should compare a little, don't be completely relaxed. But as long as you are not completely going in the wrong direction, it's okay to take your time. So, don't worry about it too much, because you don't know. When I finished my undergraduation, nobody would have thought I would become a faculty; forget about being a faculty member at IIT! I myself didn't think I would finish PhD and become a faculty. You’ll be surprised after 20 years that some of your friends and colleagues are on a path or career that you would never have associated with them.

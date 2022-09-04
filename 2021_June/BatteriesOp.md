@@ -6,6 +6,7 @@ desc: "Read on to learn more about an innovative design for sustainable batterie
 thumbnail: "./images/ed2/batteries.jpg"
 authors: "Niheeth"
 starred: "false"
+abio: "NONE"
 alt: "Organic Batteries"
 ---
 

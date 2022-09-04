@@ -6,6 +6,7 @@ desc: "Join Pranjal as he takes you on a quest to explore the intricate dance of
 thumbnail: "./images/light_dark.jpg"
 authors: "Pranjal Shukla"
 starred: "false"
+abio: "NONE"
 alt: "Darkness and Light"
 ---
 

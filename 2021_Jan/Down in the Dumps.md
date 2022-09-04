@@ -6,6 +6,7 @@ desc: "“If you weren't built for this life, you'd be dead by now. I think the 
 thumbnail: "./images/ed1/mhealth.jpg"
 authors: "Anant Tyagi"
 starred: "false"
+abio: "NONE"
 alt: "mental health"
 ---
 

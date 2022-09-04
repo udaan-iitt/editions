@@ -6,6 +6,7 @@ desc: "The poem addresses the difficulties faced by farmers and the forbearence 
 thumbnail: "./images/ed2/farming.jpg"
 authors: "Sri Vibhav J"
 starred: "false"
+abio: "NONE"
 alt: "Poetry Telugu"
 ---
 

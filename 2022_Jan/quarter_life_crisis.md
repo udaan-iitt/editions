@@ -6,6 +6,7 @@ desc: "Feel like you're too young to be having a midlife crisis? It's not uncomm
 thumbnail: "./images/crisis.jpg"
 authors: "Saurav Gwalia and Sneha M S"
 starred: "false"
+abio: "NONE"
 alt: "Quarter Life Crisis"
 ---
 

@@ -6,6 +6,7 @@ desc: "I couldn't sleep until late-night after watching this"
 thumbnail: "./images/ed2/theboy.jpg"
 authors: "Anush Mangal"
 starred: "false"
+abio: "NONE"
 alt: "movie"
 ---
 

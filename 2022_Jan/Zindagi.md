@@ -6,6 +6,7 @@ desc: "Join Abhishek in his ode to life and its challenges, with the spirit to p
 thumbnail: "./images/zindagi.jpg"
 authors: "Abhishek"
 starred: "false"
+abio: "NONE"
 alt: "कहानी सो रही है"
 ---
 

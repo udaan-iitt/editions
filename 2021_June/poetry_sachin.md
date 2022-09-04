@@ -6,6 +6,7 @@ desc: "This poem is a brief explanation about the omnipresence of water and its 
 thumbnail: "./images/ed2/water.jpg"
 authors: "Sachin Kumar Sahu"
 starred: "false"
+abio: "NONE"
 alt: "Poetry Hindi"
 ---
 

@@ -6,6 +6,7 @@ desc: "They say a broken heart never loves again, but does the longing for love 
 thumbnail: "./images/shards.jpg"
 authors: "Iftekhar Ahmed"
 starred: "false"
+abio: "NONE"
 alt: "Broken Shards"
 ---
 

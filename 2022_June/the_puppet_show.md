@@ -6,6 +6,7 @@ desc: "A comical tribute to the secretaries and coordinators of the year 2021-20
 thumbnail: "./images/Puppet_Show.jpg"
 authors: "Krithi, Debeshee, Sneha M S, Sneha Battula"
 starred: "true"
+abio: "NONE"
 alt: "The Puppet Show"
 ---
 
@@ -1273,12 +1274,13 @@ I thank him for sharing his experiences and guiding me throughout his tenure as 
 
 -------------------------
 <br>
+
 **Dear Secretaries and Coordinators,**    
 Thank you for the amazing work you've put into your positon and going the extra mile everyday to make the college a comfortable space. As the leader, you have continued to manage everything efficiently
 on behalf of all the community. Yours is a job that brings the college to life, and we appreciate you. We believe you’ve set a wonderful example for the present council and for the years to come.
 
-
-</br>
+-----------------
+<br>
 
 <img src="images/AuthorBio.jpg"
      alt="List of contributors" />

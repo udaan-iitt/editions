@@ -6,6 +6,7 @@ desc: "MathWorks specializes in mathematical computing software. Its major produ
 thumbnail: "./images/mathworks.jpg"
 authors: "Shreyansh"
 starred: "false"
+abio: "NONE"
 alt: "MathWorks"
 ---
 

@@ -6,6 +6,7 @@ desc: "Artificial Intelligence has always caught the imagination of those who ta
 thumbnail: "./images/ed1/ai.jpg"
 authors: "Sachin Kumar Sahu"
 starred: "false"
+abio: "NONE"
 alt: "AI"
 ---
 

@@ -6,6 +6,7 @@ desc: "“When the going gets tough, the tough get going” - this perfectly cap
 thumbnail: "./images/ed2/club.jpg"
 authors: "Sathya, Anant, Krithi"
 starred: "false"
+abio: "NONE"
 alt: "Club Activities"
 ---
 

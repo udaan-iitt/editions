@@ -6,6 +6,7 @@ desc: "The word Utsava means a festival or any joyful occasion. But it takes a l
 thumbnail: "./images/Tirutsava Behind the scenes.jpg"
 authors: "Chaitali, Mathew, Mohith"
 starred: "true"
+abio: "NONE"
 alt: "Tirutsava-Behind_the_Scenes"
 ---
 

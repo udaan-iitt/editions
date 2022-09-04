@@ -6,6 +6,7 @@ desc: "Ever wanted to share your feelings with someone you liked, but never had 
 thumbnail: "./images/Fariyaad.jpg"
 authors: "Amrit Singh Gill"
 starred: "false"
+abio: "NONE"
 alt: "Fariyaad"
 ---
 

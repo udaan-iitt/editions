@@ -6,6 +6,7 @@ desc: "Who doesn’t hate Covid, all it has caused is pain and loss. I sometimes
 thumbnail: "./images/pandemic.jpg"
 authors: "S Ram Mohith"
 starred: "false"
+abio: "NONE"
 alt: "The rise of the planet of Touch me Not"
 ---
 *No, I'm not the plant.*

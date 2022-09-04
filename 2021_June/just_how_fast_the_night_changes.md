@@ -6,6 +6,7 @@ desc: "A real life story with love from the owner of the cycle named Preeti"
 thumbnail: "./images/ed2/locked.jpg"
 authors: "Sarvesh"
 starred: "false"
+abio: "NONE"
 alt: "Quarantine Stories"
 ---
 

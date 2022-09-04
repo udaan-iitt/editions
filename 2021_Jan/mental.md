@@ -6,6 +6,7 @@ desc: "Happiness can be found, even in the darkest of times, if one only remembe
 thumbnail: "./images/ed1/mental.jpg"
 authors: "R K Hembram, Shreyansh Mehra"
 starred: "false"
+abio: "NONE"
 alt: "Mental Health"
 ---
 

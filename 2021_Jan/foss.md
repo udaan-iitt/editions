@@ -6,6 +6,7 @@ desc: "Join Prabhat in his quest to convert everyone around him into a Free and 
 thumbnail: "./images/ed1/foss.png"
 authors: "Prabhat Reddy"
 starred: "false"
+abio: "NONE"
 alt: "intime"
 ---
 

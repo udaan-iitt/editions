@@ -6,6 +6,7 @@ desc: "Working at UCIL, Vipin Kumar Sharma is here to serve up a scoop of the nu
 thumbnail: "./images/fuel.jpg"
 authors: "Vipin Kumar Sharma & Team Udaan"
 starred: "false"
+abio: "NONE"
 alt: "A Glimpse of Nuclear Fuel"
 ---
 

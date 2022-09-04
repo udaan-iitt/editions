@@ -6,6 +6,7 @@ desc: "Amazon.com, Inc is a multinational conglomerate which focuses on e-commer
 thumbnail: "./images/amazon.jpg"
 authors: "Arpit and Sudheesh"
 starred: "false"
+abio: "NONE"
 alt: "amazon"
 ---
 Amazon came to our campus around October for taking interns for the Software Development role. Generally, they take two rounds for their summer intern hiring. The first one is an online test consisting of MCQs related to code debugging, coding questions related to data structures, work style assessment based on Amazon’s leadership principle, and Logical ability questions. Once it is cleared, you get an invite for a one-to-one technical interview round in which they ask questions based on coding. In our case, two questions were asked from this and the others were related to the resume.

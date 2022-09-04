@@ -7,6 +7,7 @@ Faded-Alan Walker"
 thumbnail: "./images/beauty.jpg"
 authors: "Iftekhar Ahmed"
 starred: "false"
+abio: "NONE"
 alt: "Dream Beauty"
 ---
 <p style="text-align: center;align:center;">Standing in front of the window,<br>

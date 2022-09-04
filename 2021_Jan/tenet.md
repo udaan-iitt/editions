@@ -6,6 +6,7 @@ desc: "'What's happened happened. Which is an expression of faith in the mechani
 thumbnail: "./images/ed1/tenet.jpg"
 authors: "Umaeshwer Shankar"
 starred: "false"
+abio: "NONE"
 alt: "movie"
 ---
 

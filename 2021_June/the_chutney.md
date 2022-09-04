@@ -6,6 +6,7 @@ desc: "The title says it all. Its a chutney. Mishmash of ideas."
 thumbnail: "./images/ed2/chutney.jpg"
 authors: "The WireMan"
 starred: "false"
+abio: "NONE"
 alt: "Chutney"
 ---
 

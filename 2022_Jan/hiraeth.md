@@ -6,6 +6,7 @@ desc: "“Growing up is the greatest dream of childhood and the greatest regret 
 thumbnail: "./images/growing.jpg"
 authors: "V Sathyanarayann"
 starred: "false"
+abio: "NONE"
 alt: "Hiraeth"
 ---
 
