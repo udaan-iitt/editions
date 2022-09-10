@@ -20,14 +20,13 @@ It all started with a mail from the Placement Office of the Institute sometime i
 A link and poster were, of course, attached. 
 
 >**International Research Experience for Students**    
->       
 >An Integrated Experience of Additive Manufacturing from Lab Scale to Industrial Scale.
  
-A small introduction before I get into the details.
-Myself Sneha, pursuing a degree in Mechanical Engineering at *IIT Tirupati*. I love trying out new things, and the above-mentioned mail gave me an amazing opportunity to do some exploration.
+A small introduction before I get into the details. Myself Sneha, pursuing a degree in Mechanical Engineering at *IIT Tirupati*. I love trying out new things, and the above-mentioned mail gave me an amazing opportunity to do some exploration.              
 
 *Disclaimer: I am not really comfortable with writing first-person narratives, so please bear with me.*
 
+So, continuing with the story...           
 The application process was not that complicated. I had to submit a resume, an academic transcript and an expression of interest. 
 
 A little detailing as to how I got these docs ready:
@@ -55,7 +54,7 @@ In order to accept the offer, I had to submit my updated information along with 
 
 The day finally arrived. The orientation session went really well. The entire cohort was introduced to one another. There were students from different ethnicities and cultures and from different educational backgrounds. We were twenty students in total, 10 each from different *Indian* and *American Universities*. Following this, there was another orientation session. Initially, none of us (the students) knew what that would be about. But attending that session gave us the bigger picture.       
                  
-The *IRES* program is one of the many research projects funded by the *NSF*. And we were all part of the bigger *Undergraduate Summer Research Program (UGSRP) of the Tandon School of Engineering, NYU*. Each summer, members of the *Tandon School of Engineering* faculty open up their labs to allow rising sophomore, junior, and senior undergraduate students to complete 10 weeks of hands-on research.           
+This *IRES* program was one of the many research projects funded by the *NSF*. And we were all part of the bigger [Undergraduate Summer Research Program (UGSRP)](https://engineering.nyu.edu/research-innovation/student-research/undergraduate-summer-research-program) of the *Tandon School of Engineering, NYU*. Each summer, members of the *Tandon School of Engineering* faculty open up their labs to allow rising sophomore, junior, and senior undergraduate students to complete 10 weeks of hands-on research.           
 
 As part of this program, we were supposed to attend the Student to Scholar(S2S) workshop lecture series. There were regular distinguished lectures, workshops and interactive sessions on what is/how to develop/construct a literature review, a research statement, a research proposal, research posters. There were even sessions on Professional Ethics, Leadership and Team Management as part of the S2S series. All these sessions were usually after the meetings with our cohort.                  
 
