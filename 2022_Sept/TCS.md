@@ -1,6 +1,13 @@
-# My Internship Experience at TCS Innovation Labs
-
-Description: Aashrith talks about his internship at TCS Innovation Labs and working on the Vehicle Routing Problem using Reinforcement Learning
+---
+title: "My Internship Experience at TCS Innovation Labs"
+category: "Experiences"
+date: "2022-09-01 12:00:00 +05:30"
+desc: "Aashrith talks about his internship at TCS Innovation Labs and working on the Vehicle Routing Problem using Reinforcement Learning"
+thumbnail: "./images/TCS Ashrith.jpg"
+authors: "Aashrith Sai Madasu"
+starred: "false"
+alt: "My Internship Experience at TCS Innovation Labs"
+---
 
 It was in my third semester that I came to know what Competitive Programming (CP) and Data Structures and Algorithms (DSA) were and why both are important for company interviews. I thought I didn't have enough time and started practicing coding immediately! During the winter break after the third semester, I used to solve DSA problems based on [Binary](https://en.wikipedia.org/wiki/Binary_tree)[Trees](https://en.wikipedia.org/wiki/Binary_tree) and [Binary Search Trees](https://en.wikipedia.org/wiki/Binary_search_tree). I was improving gradually. I also felt very confident about the DSA Lab course in the upcoming fourth semester at that time. Since DSA is kind of a big deal, if you want to get a good internship or a job, I suggest practicing it even before the professors teach you. I also practiced DSA in the summer break after the fourth semester for like a month and a half. I used to maintain a list of problems that I did every day with dates and links to the problems. The problems were mainly from [450dsa.com](https://450dsa.com/).
 

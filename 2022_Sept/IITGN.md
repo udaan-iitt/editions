@@ -3,11 +3,12 @@ title: "Internship Experience at IIT Gandhinagar"
 category: "Experiences"
 date: "2021-01-30 11:00:00 +09:00"
 desc: "Take a look at Venkatasa’s resourceful research internship at IIT Gandhinagar as he talks about the world of electronics and the internet of things."
-thumbnail: "./images/placeholder.jpg"
+thumbnail: "./images/IITGN-Venkatesa.jpg"
 authors: "J Venkatesa"
 starred: "false"
-alt: "J Venkatesa- IIT Gandhinagar"
+alt: "Internship Experience at IIT Gandhinagar"
 ---
+
 This summer, I got an excellent opportunity to do a Research Internship at IIT Gandhinagar. Through their portal, I applied for their [Summer Research Internship Program (SRIP)](https://srip.iitgn.ac.in/info/). After being shortlisted based on my profile and Statement of Purpose (SOP), I was called for an online interview. The 15 minute-long interview consisted of technical questions asked by the Professor and a couple of Ph.D. scholars working with him. They were satisfied with my answers, and the offer letter arrived a week later (Mid-April, 2022). For the next few weeks, they discussed the objectives of the two-month-long internship and details about the project over Zoom calls.                                                                 
 
 My project was titled **‘Design and Development of Low-Cost Air Quality Monitors’**. It involved skills in the fields of basic electronics, Arduino programming, and the Internet of Things (IoT).

@@ -1,30 +1,29 @@
-# The Hitchhiker’s Guide to the GRE
-Time is an illusion; exam-time doubly so.
-
-
 ---
-Aashrith and Mathew took it upon themselves to break-down the intricately layered and often feared Graduate Records Examination, the GRE, to its bare bones, understand it, and defeat it with preparation standards that were par excellence. Read on for a comprehensive and impeccable break-down of the GRE and authentic test-taker information that you will definitely find interesting! 
-
+title: "The Hitchhiker’s Guide to the GRE"
+category: "Experiences"
+date: "2022-09-01 12:00:00 +05:30"
+desc: "Time is an illusion; exam-time doubly so. Aashrith and Mathew took it upon themselves to break-down the intricately layered and often feared Graduate Records Examination, the GRE, to its bare bones, understand it, and defeat it with preparation standards that were par excellence. Read on for a comprehensive and impeccable break-down of the GRE and authentic test-taker information that you will definitely find interesting!"
+thumbnail: "./images/GRE guide.jpg"
+authors: "Mathew K J, Aashrith Sai Madasu"
+starred: "false"
+alt: "The Hitchhiker’s Guide to the GRE"
 ---
 
-## Introduction:
-
-The [Graduate Records Examination](https://en.wikipedia.org/wiki/Graduate_Record_Examinations) is an exam conducted by the [Educational Testing Service](https://en.wikipedia.org/wiki/Educational_Testing_Service) often used by top foreign universities as a criterion when evaluating applications. Though there is a gradual shift away from using the GRE, a good GRE score (valid for five years after writing the exam) will boost your application. Most universities use the GRE score only as a cutoff, so there is no marginal utility in increasing one's score beyond the cutoff of one's target university (In our opinion, crossing 330 is enough; the only real benefit to scoring higher than that is a boost to one's ego).
-
+## Introduction:              
+The [Graduate Records Examination](https://en.wikipedia.org/wiki/Graduate_Record_Examinations) is an exam conducted by the [Educational Testing Service](https://en.wikipedia.org/wiki/Educational_Testing_Service) often used by top foreign universities as a criterion when evaluating applications. Though there is a gradual shift away from using the GRE, a good GRE score (valid for five years after writing the exam) will boost your application. Most universities use the GRE score only as a cutoff, so there is no marginal utility in increasing one's score beyond the cutoff of one's target university (In our opinion, crossing 330 is enough; the only real benefit to scoring higher than that is a boost to one's ego).                          
 
 ## The structure of the exam:
-
-The GRE is divided into three parts:
+The GRE is divided into three parts:                   
 - Verbal
 - Quantitative
 - Analytical
 
-The verbal part consists of two sections of 20 objective questions each. These questions are designed to test the examinee's vocabulary and comprehension skills.
-The quantitative part is similarly divided into two sections of 20 objective math-based questions.
-The Analytical part consists of two sections - the issue section and the argument section. The examinee is expected to write two essays - one analyzing the given issue and one analyzing the given argument.
-
+The verbal part consists of two sections of 20 objective questions each. These questions are designed to test the examinee's vocabulary and comprehension skills.                                          
+The quantitative part is similarly divided into two sections of 20 objective math-based questions.                           
+The Analytical part consists of two sections - the issue section and the argument section. The examinee is expected to write two essays - one analyzing the given issue and one analyzing the given argument.                                          
 For the exam, the first two sections to appear are analytical, followed by alternating quantitative and verbal sections.
-In addition, the GRE also has an unscored research section, which ETS uses to set questions for later iterations of the same exam. Of course, one won't be told which section is the research section, since that defeats the purpose of having a research section. ETS expects one to treat every section as if it counted towards one's score (So in addition to paying them 217 USD for the privilege of writing the exam, one also gets to act as an unpaid test subject). If one does badly on a section, one need not lose hope - one can convince oneself it was the research section and move on.
+                            
+In addition, the GRE also has an unscored research section, which ETS uses to set questions for later iterations of the same exam. Of course, one won't be told which section is the research section, since that defeats the purpose of having a research section. ETS expects one to treat every section as if it counted towards one's score (So in addition to paying them 217 USD for the privilege of writing the exam, one also gets to act as an unpaid test subject). If one does badly on a section, one need not lose hope - one can convince oneself it was the research section and move on.                                                           
 
 The maximum possible score in the GRE is 340; 170 in Quantitative, 170 in Verbal.
 The lowest possible score (obtained by showing up to the exam hall and doing nothing else) is 260.

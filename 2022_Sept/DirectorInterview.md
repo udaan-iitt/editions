@@ -8,6 +8,7 @@ authors: "Debeshee Das, Sneha M S, Krithi Shailya, Sneha Battula"
 starred: "true"
 alt: "Interview with Director"
 ---
+
 >“You need to reach out to people. And sometimes they’ll be busy, they have so many things on their hand, and they might not be able to give you time. But find those mentors who’ll guide you. Just go for it. You miss 100% of the shots you don’t take.”
 >
 >*Prof K.N Satyanarayana*

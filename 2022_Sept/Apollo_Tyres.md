@@ -1,19 +1,14 @@
 ---
 title: "Summer Internship at Apollo Tyres Ltd."
 category: "Experience"
-date: " "
-desc: " "
+date: "2021-01-30 11:00:00 +09:00"
+desc: "Apollo Tyres Ltd. is an Indian multinational tyre manufacturer based in Gurugram, Haryana. It also boasts a new 250-acre facility in Chinna Pandur village near Sri City in Tirupati district which manufactures both passenger car radial (PCR) tyres and truck and bus radial (TBR) tyres. Rishitha talks about her experience working at the company with small insights for core people who wish to do a core internship."
 thumbnail: "./images/Apollo-Tyres-Rishita.jpg"
 authors: "T. Sai Rishitha"
 starred: "False"
 alt: "Summer Internship at Apollo Tyres Ltd."
 ---
-# Summer Internship at Apollo Tyres Ltd.
 
-#### T. Sai Rishitha
-
-*Apollo Tyres Ltd. is an Indian multinational tyre manufacturer based in Gurugram, Haryana. It also boasts a new 250-acre facility in Chinna Pandur village near Sri City in Tirupati district which manufactures both passenger car radial (PCR) tyres and truck and bus radial (TBR) tyres. Rishitha talks about her experience working at the company with small insights for core people who wish to do a core internship.* 
- 
 As a mechanical engineering student who wishes to do a core internship, the wait to get a good opportunity is quite long and agonizing. I, for instance, got this internship opportunity after the end semester exams which ended this May. The opportunity, however, proved to be exciting and the wait was worth it. Before I start describing my internship experience, let me first introduce you to the company at which I interned, *Apollo Tyres Ltd.*
  
 ### The Company
@@ -44,8 +39,3 @@ Before I give a review of what my second project was, let me explain what a trea
 Working on a problem statement relevant at the industry level provides you with a way to apply your theoretical knowledge on the subject. A good way of working on this skill is by doing projects under experienced mentors. Projects help you understand how to apply the theoretical knowledge you gain from books and what all parameters should be verified apart from the technical stuff before implementing your proposed technology or machinery. Interning helped me realise that an internship is not just another two credits on your grade sheet but a glimpse of the bigger picture on how an industry works; how much effort is needed to run the company,the importance of synchronisation among various units, tackling undesirable situations in time, etc. In short, industrial exposure is extremely beneficial, especially when one wants to become an entrepreneur.
  
 I had a wonderful and eye-opening experience at *Apollo tyres.* Talking with people and getting to know about their different outlooks on career, experiences and listening to their valuable suggestions proved to be of significant importance. The work culture and environment is far better than what one usually thinks of a tyre company. Interning here at *Apollo Tyres Ltd.* was indeed a memorable experience.
- 
- 
- 
- *Rishitha is a science enthusiast and a final year Mechanical Undergraduate at IIT Tirupati. She is passionate about defense technology, automobiles and aircrafts. She enjoys cooking, photography and watching biopics in her leisure time. You will often find her polishing her skills for a better self.*
- 

@@ -1,5 +1,4 @@
 ---
-
 title: "Internship Experience at IITM"
 category: "Experiences"
 date: "2022-09-01 12:00:00 +09:00"
@@ -7,8 +6,7 @@ desc: "Indian Institute of Technology, Madras, is one of the top-tier institutes
 thumbnail: "./images/IIT_Madras-Srinivaas.jpg"
 authors: "Giridara Srinivaas"
 starred: "False"
-alt: "Giridara Sirinivass - IITM"
-
+alt: "Internship Experience at IITM"
 ---
 
 **My Internship experience at IIT Madras**

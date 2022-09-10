@@ -1,4 +1,13 @@
-# Internship Experience at Texas Instruments
+---
+title: "Internship Experience at Texas Instruments"
+category: "Experiences"
+date: "2022-09-01 12:00:00 +05:30"
+desc: "Join Venkata Saket Ram Goteti as he narrates his experience as an intern at Texas Instruments. "
+thumbnail: "./images/Texas-Goteti.jpg"
+authors: "Venkata Saket Ram Goteti"
+starred: "false"
+alt: "Internship Experience at Texas Instruments"
+---
 
 I read a quote the other day over the internet which I felt would describe me best. 
 
@@ -16,7 +25,7 @@ I was assigned to the Systems Team of the High Speed Amps section. Any operation
 
 If you are wondering, there are tons of engineering disciplines which you might find, not just in Texas Instruments (TI), but in many other companies as well. Here we had, going in alphabetical order, an Application Engineer, Design Engineer, Facilities Engineer, Product Engineer, Product Marketing Engineer, Software Engineer, Systems Engineer (aka me), Test Engineer, and a Validation Engineer to name a few. Given the word limit in this blog, I would rather leave the job of explaining each discipline’s functionality to Google. 
 
-Finally, coming to my project, my job was to design an active probe for Texas Instruments. Now you must have come across oscilloscopes in your first year physics lab, and in case you missed it due to COVID, there’s one present in the Ideas2 Room - go take a look if you haven’t. They are fun and very useful. Now if you want to display and analyze a signal or voltage on a device or circuit, you use oscilloscopes. But there should be a medium to carry this signal from the device under test towards the inputs of the oscilloscope, without altering/interfering much with the original signal. This is where probes come to the rescue. The probes that are present in the Physics lab or in the Ideas2 room are called passive probes, meaning they contain only passive components such as resistors, capacitors or inductors. You must have also come across the concept of capacitive compensation of probes in your Principles of Measurement course. These probes are cheap, rugged and a safe choice for general-purpose measurements, probing and troubleshooting. A general characteristic of a probe should be such that it should offer high input impedance, otherwise any loading (drawing currents) of the circuit will alter the voltage we wanted to measure, causing misinterpretations. So high input impedance would ensure less loading and the circuit under test will behave similar to how it would have behaved if a probe wasn’t connected to it. 
+Finally, coming to my project, my job was to design an active probe for Texas Instruments. Now you must have come across oscilloscopes in your first year physics lab, and in case you missed it due to COVID, there’s one present in the Ideas² Room - go take a look if you haven’t. They are fun and very useful. Now if you want to display and analyze a signal or voltage on a device or circuit, you use oscilloscopes. But there should be a medium to carry this signal from the device under test towards the inputs of the oscilloscope, without altering/interfering much with the original signal. This is where probes come to the rescue. The probes that are present in the Physics lab or in the Ideas2 room are called passive probes, meaning they contain only passive components such as resistors, capacitors or inductors. You must have also come across the concept of capacitive compensation of probes in your Principles of Measurement course. These probes are cheap, rugged and a safe choice for general-purpose measurements, probing and troubleshooting. A general characteristic of a probe should be such that it should offer high input impedance, otherwise any loading (drawing currents) of the circuit will alter the voltage we wanted to measure, causing misinterpretations. So high input impedance would ensure less loading and the circuit under test will behave similar to how it would have behaved if a probe wasn’t connected to it. 
 
 But there are few limitations for passive probes. They *only take floating point measurements*, i.e., they measure voltage of a point with respect to ground, and in most cases we need differential measurements, wherein we are interested in voltage difference between two points on the circuit, neither of which is ground. The input impedance which I was talking about earlier is **frequency dependent**. That means, due to the presence of inevitable input capacitances, as we increase the frequency of the measured signal, the input impedance decreases. So there will be higher loading at higher frequencies and it would result in errors. 
 

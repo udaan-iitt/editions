@@ -3,10 +3,10 @@ title: "Internship Experience at Ericsson Research"
 category: "Experiences"
 date: "2021-01-30 11:00:00 +09:00"
 desc: "Join Kranthi as he talks about his internship experience at Ericsson research where he works on building reinforcement learning environments and analysing risk profiles."
-thumbnail: "./images/placeholder.jpg"
+thumbnail: "./images/Ericsson Kranthi.jpg"
 authors: "Kranthi Sedamaki"
 starred: "false"
-alt: "Kranthi Sedamaki- Ericsson Research"
+alt: "Internship Experience at Ericsson Research"
 ---
 ## A bit about myself
 
