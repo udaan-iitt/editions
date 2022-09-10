@@ -3,7 +3,7 @@ title: "Interview with the Director, Prof K.N. Satyanarayana"
 category: "Experiences"
 date: "2021-01-30 11:00:00 +09:00"
 desc: "Join us as we decode our Director’s lesser-known side, filled with interesting angles on what it took to get to his position, his favourite weather, academia versus industry, and more!"
-thumbnail: "./images/placeholder.jpg"
+thumbnail: "./images/Director.jpg"
 authors: "Debeshee Das, Sneha M S, Krithi Shailya, Sneha Battula"
 starred: "true"
 alt: "Interview with Director"
@@ -15,6 +15,8 @@ alt: "Interview with Director"
 
 *Finally! It’s our director in the house! Taking time out of his hectic schedule, our highly respected and beloved director, Prof. K.N. Satyanarayana, joined Team Udaan for an interview via Zoom, where we asked him about his life, academic journey, personal values, and some fun questions as well. With Sir at his desk and us in our homes during the semester break, we gathered for the much-anticipated tea-time chat!*
 
+![img](./images/within_articles/DirectorScreenshot.png)
+
 In an interaction that left us with nothing but awe and inspiration, Prof Satyanarayana talks about his daily routine and how he may not be very interested in watching movies, but how he always takes a morning walk with his wife and their dogs.
 
 Prof. Satyanarayana firmly believes that out of everything you learn in your college life, only 50-60% is what you learn in the classroom. The rest is what you learn outside, from your friends and peers, by challenging each other, networking, or exploring new things. Online teaching gives many options, but things like these are still missed out. Opening his heart to us, he says,
@@ -22,16 +24,24 @@ Prof. Satyanarayana firmly believes that out of everything you learn in your col
 
 Thank you, Sir, for sharing our concerns - all of us had missed the campus just as much and are glad to be back and have things unfold at their fullest potential. Speaking of full potential, we attempted to discover how the director manages to achieve his best daily despite his hectic schedule.
 
+![img](./images/within_articles/director1.jpg)
+
 **What is your routine as a very busy person?**
 
 >Typically I wake up at 5:45 or 6:00 am. Around 6:30, I walk around the campus for 35 - 40 min. On my way, I get into one of the buildings being constructed (to check on the progress). My wife and I go on these walks together with our two dogs. After we return, I do some exercises for about 10 min to keep my back flexible. My back complains if I don’t do it for a week. Then, I make my black coffee, go through the online newspaper for about 20-25 min, and get to the office between 9 - 9:30, where there is work. Go home for lunch and come back. Go home for dinner at around 7 pm and get back to work at around 8 pm until sometime around 11- 11:30 pm.
 
 Phew! Take it from our beloved director to turn a hectic schedule into a well-spaced and healthy routine! Setting our alarms to 6:00 am, we continued by talking about the growth of IIT Tirupati through the years. It’s no news that IIT Tirupati has close ties with IIT Madras in many ways.
 
+![img](./images/within_articles/director3.jpg)
+
+
 On the topic of what we should observe and adapt (or not adapt) from the older institution, Sir comments,
 >"IITM has been ranked as a top institution consistently for seven years. It has got very strong fundamentals. They are a little bit on the conservative side but are serious about what they do. Whereas with a new institution like us, we are much more agile, not bound by legacy issues; you have all these opportunities to adapt and get in quickly. However, I am biased about IITM, having studied there and worked there. But I see this in other institutions as well. On the whole, all the IITs are coming up really well."
 
 With our campus reaching greater heights in education and innovation each year, we couldn't agree more! As the director sipped his beverage, ready for his next question, we switched things up a bit.
+
+![img](./images/within_articles/director2.jpg)
+
 
 **What kind of weather makes you feel like your best self?**
 
@@ -41,6 +51,9 @@ Wouldn't we all love a little bit of a pour in the scorching summer seasons too?
 
 We then talked about some of Sir’s noble work with PARFI, the [Pan IIT Reach for India Foundation](https://paniitalumnifoundation.org/), of which Sir is a board member. The organisation comprises IIT alums who dropped out of their corporate sector jobs, looking to serve society. They train almost 8000-10000 people every year, make them job-ready, and ensure placements. Out of the 30 gurukuls, around 17-18 are construction-related, and the others focus on nursing,  warehousing, etc.. He says,
 >"One of the biggest challenges in our country is the lack of trained manpower. Most of our labourers are migrants from states like Jharkhand, Chhattisgarh, West Bengal and Orissa. The challenge is, how do we train them?."
+
+![img](./images/within_articles/main2.jpg)
+
 
 With Sir’s impactful initiatives changing many lives, we couldn’t help but wonder about what changed his life and impacted him the most.
 
@@ -72,6 +85,8 @@ Bracing ourselves for some performance feedback, we asked the director what he l
 He goes on to say with a laugh that despite it being vital for us to be focused and purposeful if a few students weren’t off the typical path, then where would the fun be found?
 
 Constructive criticism was also offered, which some of us could learn from. Sir believes that students of all IITs should be more passionate about their chosen fields. As students who have nailed school, coaching and college standards of education, he believes that we are very capable of doing well in the subjects we take if we delve into them with more interest and a hunger to learn. Mentioning that most students focus on placements with the primary intention of securing a glittery package, he emphasises the need to make a career out of what we do rather than simply make a rich number out of it. He feels that if the students were passionate, the faculty would naturally get more excited about teaching and not have to motivate themselves.
+
+
 
 > *“If you’re passionate about what you’re doing, it is not a big burden. You will enjoy what you’re doing.”*
 
