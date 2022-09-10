@@ -17,6 +17,8 @@ The project I was given was to create a **‘digital twin’** of a robot and it
 
 As this was a peak work time at the company, they organized events for respite. As luck would have it, a week after I joined, a bowling party was organized. I had a great time at the mall’s bowling alley.
 
+![img](./images/within_articles/ajnalens1.jpg)
+
 The office organized a yoga session on World Yoga Day, which **I skipped** as I had an **“unfortunate attack of the motions”**. The HR saw through my lie but played along. Little did I know what was coming next. He made me confirm that I was free on a Saturday but kept the actual reason a secret. He did make hints of the event being a grand one. I came to the event’s location with great expectations – of a food party or a gaming session on the day. To my surprise, everyone was gathered at what seemed to be a foothill of a hill. **To my shock**, my HR handed me a potted plant, pointed at the mountain and told me that it would be planted at the top of the hill. **I was dragged into going on the trek.** At the end of the day, I barely made it home. However, the climb gave a sense of achievement, and the view at the top was breathtaking.
 
 AjnaLens is deeply into spirituality, and I immersed myself in it. I participated in the daily morning bhajan sessions at 9.30 A.M. There were meditation sessions. Every major undertaking was done with the blessings of the divine.
