@@ -56,19 +56,19 @@ I will not go into the details of the project, but let me tell you that the proj
 
 Here are a few pics from my first walk to the campus in Waterloo:
 
-![College brook](brook.jpg)
+![img](./images/mitacs/brook.jpg)
 
-![College park](walk.jpg)
+![img](./images/mitacs/walk.jpg)
 
 And here are some from canada day celebrations in hamilton
 
-![Hamilton](hamilton_beach.jpg)
+![img](./images/mitacs/hamilton_beach.jpg)
 
-![Fireworks](fireworks.jpg)
+![img](./images/mitacs/fireworks.jpg)
 
 And here is a view of US from Niagara falls:
 
-![Niagra](niagra.jpg)
+![img](./images/mitacs/niagra.jpg)
 
 I also left my home whenever my uncle forced me to... ummm to keep this section actually fun, I will just leave it to Srikarah ;D…
 
@@ -76,20 +76,20 @@ Srikarah:
 
 What else could beat having a chance to explore a different country while doing your internship? 
 
-![S Lake](lake.jpg)
+![img](./images/mitacs/lake.jpg)
 
 There's generally plenty of time in hand for traveling and exploring new places during the internship. You also need not worry much about the expenses for all this, as mitacs gives you pretty handsome funding (but of course, you should worry about it if you do it recklessly, which I don't think we would… it's our hard-earned money, right? ;))
 
-![Niagra Srikarah](niagra_pro.jpg)
+![img](./images/mitacs/niagra_pro.jpg)
 
 My university was in Toronto, so I had the opportunity to explore the beautiful city of Toronto. I had a great time exploring Toronto, with a group of interns like me going out to places to visit every weekend. There was enjoying fireworks while being on a cruise in the middle of Niagara falls, being awestruck by the scenic view of the city from the CN tower, finding new cultures and people around the city, playing football in the beach (the good thing about beaches here is that..THEY HAVE FRESHWATER!!!…i.e no salt, no weird feeling on the tongue after swimming...cool, isn't it?), and a lot more.
 
 
-![S inst](institute.jpg)
+![img](./images/mitacs/institute.jpg)
 
 There also was one fun experience in the lab, we had a 3 day-long testing up our schedules and we couldn't just keep testing for 3 straight days in the lab, so we decided to have some fun. We brought a few sofas from the cafeteria and placed them inside the lab, connected our laptop to a huge TV and bought popcorn and snacks to eat while watching Netflix and ofcourse while testing :,-). It was our Netflix and chill, oh sorry, Netflix and testing xD.
 
-![City Srikarah](city.jpg)
+![img](./images/mitacs/city.jpg)
 
 
 The city is well connected via subways and you can go to any place without any hassle. This made the travel a lot easier. You can always find places that you want to visit based on your taste, and you can always make your stay fun. 
