@@ -62,28 +62,7 @@ The trickiest parts of this section are not tricky because of the math; rather, 
 
 If you answered 42, we urge you to read the question again.
 
-<style>
-    .spoiler {
-  visibility: hidden;
-}
-.spoiler::before {
-  visibility: visible;
-  content: "Hover to see the explanation"
-}
-.spoiler:hover {
-  visibility: visible;
-}
-.spoiler:hover::before {
-  display: none;
-}
-</style>
-
-<div class = "dummy">
-<div class="spoiler">
-The question does not state that every student studies either Spanish or German; there could be students who are studying neither.
-</div>
-<div>
-<br></br>
+> The question does not state that every student studies either Spanish or German; there could be students who are studying neither.
 
 In conclusion, there is nothing to worry about. Four percent of all test takers get a perfect score, and the average IIT Tirupati student is among the top one percent; getting 170 is practically guaranteed.
 
