@@ -11,18 +11,17 @@ alt: "Summer Internship at Apollo Tyres Ltd."
 
 As a mechanical engineering student who wishes to do a core internship, the wait to get a good opportunity is quite long and agonizing. I, for instance, got this internship opportunity after the end semester exams which ended this May. The opportunity, however, proved to be exciting and the wait was worth it. Before I start describing my internship experience, let me first introduce you to the company at which I interned, *Apollo Tyres Ltd.*
  
-### The Company
+## The Company
 *Apollo Tyres Ltd.* is an *Indian* multinational tyre manufacturer based in *Gurugram*, *Haryana*. The company operates 5 manufacturing facilities in *India*, 1 in the *Netherlands*, and 1 in *Hungary*. It has over 2,500 exclusive stores and nearly 5,000 dealerships across *India*. *India* generates 69% of the company’s sales followed by *Europe* (26%) and other regions (5%).
  
 To establish a new facility, the company and the state of *Andhra Pradesh* signed an MoU in 2016. The foundation stone was laid on January 9, 2018, for *Apollo Tyres'* 1,800-crore tyre plant in *Andhra Pradesh* by *Chief Minister N Chandrababu Naidu*. It is a 250-acre facility in *Chinna Pandur* village near *Sri City* in *Tirupati* district that manufactures both passenger car radial (PCR) tyres and truck and bus radial (TBR) tyres. 
  
 The company offers Internships for students from Electrical, Chemical & Mechanical backgrounds. The tasks that the intern has to perform majorly deal with Cost and Resources (Water, Electricity, fuel, etc.) optimisation. This is one of the major things that I would like to bring to the notice of core engineering students. Students assume that they are expected to work directly on topics related to tyre production, such as its composition, manufacturing processes, etc., and show reluctance towards the internship. 
  
-### Relevant Skills and Courses
+## Relevant Skills and Courses
 In this internship, I found concepts such as Turbines, Chimneys, Cooling Towers, Chillers, Air Handling Units, Compressors, Exhaust Systems, and Pneumatic and Hydraulic systems of great relevance. Courses in *Thermal Engineering*, *Fluid Mechanics*, and *Heat & Mass Transfer* proved to be of great help. Machines work under heavy loads all the time, so the chances for damage to machine elements are higher. The *Design of Machine Elements* course proved to be extremely useful in this regard. I would like to highlight the point that it is not always necessary that knowledge in core subjects is enough. I found that having good knowledge about interpersonal skills qas helpful while interacting with staff and collecting required information. Apart from that, data representation and presentation skills, such as using *Excel* and *PowerPoint* make your work stand out and it makes computation very easy and presentable.
  
-
-### Projects I worked on
+## Projects I worked on
 While interning, I worked on two projects. The first is Evaporation Losses & Remedial Actions and the second is Liner Damage in Tread Cassettes.
  
 My first project dealt with working on the efficiency and the incurred costs for alternative cooling mechanisms. In the industry, water is used as the primary coolant. However using water as the only coolant, causes a great deal of wastage of water. To explore alternatives for the same and determine their feasibility, I did a detailed cost and technical analysis on the following:
