@@ -17,6 +17,9 @@ I arrived at the IIT Gandhinagar campus on May 19, 2022, and the internship offi
 
 The first few days went in doing a literature review, referring to research papers and journals. In the next few weeks, testing of a few sensors and modules was performed to understand their usage and working. The next big task was integrating [ESP01](https://www.instructables.com/Getting-Started-With-the-ESP8266-ESP-01/) and the Wi-Fi module, with the Air Quality Monitor (AQM) assembly I had made. But, here came the challenge. I first designed it by establishing a Serial Communication between the Arduino and ESP01. The correct sensor readings were supposed to be visualized in the Cloud Platform ‘ThingSpeak’. But, a constant value of 0 was continuously displayed as the output. I tried different ways of resolving this error - all in vain. One fine day I realized how close I was to the end of the internship. Apparently, I had been working on this issue for 17 days! When I was about to lose hope, an idea struck. What if I tried transmitting data over [I2C Communication Protocol](https://www.geeksforgeeks.org/i2c-communication-protocol/)? I sat on a Sunday morning. Worked with full enthusiasm. And Hurray! The idea worked!! The correct values started getting printed, and thus, the final assembly was ready.
 
+![img](./images/within_articles/iitgn1.jpg)
+
+
 Meanwhile, I was assigned a small side project by my professor. It dealt with making a **Toxic Gas Detection System (TGDS)** - A device that can assess the toxicity levels of sewer manholes and alert the user to safeguard the lives of manual scavengers. The project was proposed under the initiative of [Safai Karmachari Andolan (SKA)](https://www.safaikarmachariandolan.org/), a human rights organization to eradicate manual scavenging. I was able to complete it in a few days. It was followed by testing the device at the Sewage Treatment Plant situated on campus.
 
 
