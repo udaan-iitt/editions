@@ -2,7 +2,7 @@
 title: "Internship Experience at Texas Instruments"
 category: "Experiences"
 date: "2022-09-11 12:00:00 +05:30"
-desc: "Join Venkata Saket Ram Goteti as he narrates his experience as an intern at Texas Instruments. "
+desc: "Electronics or Electrical? Ananlog or Digital? Join Venkata Saket Ram Goteti as he narrates how an Electronics lover had to intern as an Ananlog Design Intern at the world's leading semiconductor manufacturing company Texas Instruments"
 thumbnail: "./images/Texas-Goteti.jpg"
 authors: "Venkata Saket Ram Goteti"
 starred: "false"

@@ -2,7 +2,7 @@
 title: "The Hitchhiker’s Guide to the GRE"
 category: "Experiences"
 date: "2022-09-11 12:00:00 +05:30"
-desc: "Time is an illusion; exam-time doubly so. Aashrith and Mathew took it upon themselves to break-down the intricately layered and often feared Graduate Records Examination, the GRE, to its bare bones, understand it, and defeat it with preparation standards that were par excellence. Read on for a comprehensive and impeccable break-down of the GRE and authentic test-taker information that you will definitely find interesting!"
+desc: "Time is an illusion; exam-time doubly so. Mathew took it upon himself to explain the intricately layered and often feared Graduate Records Examination, the GRE, to its bare bones, understand it, and defeat it with preparation standards that were par excellence. Read on for a comprehensive and impeccable break-down of the GRE and authentic test-taker information that you will definitely find interesting!"
 thumbnail: "./images/GRE guide.jpg"
 authors: "Mathew K J"
 starred: "false"
