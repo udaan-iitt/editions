@@ -55,13 +55,15 @@ The questions in this section are extremely easy; those who prepared for JEE Adv
 When I finally took a practice test, I was surprised to see that I had scored 170 despite making two errors. Intrigued, I did some research and came to know that one need not answer every question correctly to get a perfect score. The GRE has an interesting system of [adaptive difficulty](https://www.ets.org/gre/revised_general/scores/how/) - those who do well in the first section are given harder papers in the second section and vice versa. The harder paper comes with a score bonus (and the easier paper comes with a score reduction). Knowing that this would offset any silly mistake I made, I turned my focus towards verbal.
 
 The trickiest parts of this section are not tricky because of the math; rather, they are tricky because of the deceptive wording of questions. For instance, consider this:
-
-> "There are 64 students in a class. 48 study German and 60 study Spanish. What is the maximum possible number of students who are studying both Spanish and German?"
-
+<details>
+<summary>
+"There are 64 students in a class. 48 study German and 60 study Spanish. What is the maximum possible number of students who are studying both Spanish and German?"
+</summary>
 If you answered 42, we urge you to read the question again.
 
-> The question does not state that every student studies either Spanish or German; there could be students who are studying neither.
-
+The question does not state that every student studies either Spanish or German; there could be students who are studying neither.
+</details>
+</br>
 In conclusion, there is nothing to worry about. Four percent of all test takers get a perfect score, and the average IIT Tirupati student is among the top one percent; getting 170 is practically guaranteed.
 
 ## Verbal Sections:
