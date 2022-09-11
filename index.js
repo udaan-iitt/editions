@@ -165,7 +165,7 @@ export const author_info = [
     role: '',
     year: '',
     desc1:
-      '',
+      'Aashrith is a final year undergraduate in Computer Science and Engineering at IIT Tirupati. He is passionate about technology, youtube, and making good connections with people. He loves learning from people about anything interesting and explores different things in technology and personal life.',
     desc2:
       '',
     link: '',
@@ -178,7 +178,7 @@ export const author_info = [
     role: '',
     year: '',
     desc1:
-      '',
+      'Abhishek Bharadwaj is a machine learning and data science enthusiast and final year student from the Chemical Engineering branch. He is interested in cooking, music and gardening. He is also interested in researching any unknown thing he comes across. He is interested in sharing knowledge with others, so you will often see him explaining anything new he knows to his friends.',
     desc2:
       '',
     link: '',
@@ -191,7 +191,7 @@ export const author_info = [
     role: '',
     year: '',
     desc1:
-      '',
+      'Amit likes to experiment and explore a lot, covering a lot of ground, considering all the options and then moving ahead gradually understanding the topic/project and diving more deeply into it. He is never satisfied with the simple outcome and is always working on improvement so as to give his best. The same goes for disturbing and poking others and watching anime as well ;)',
     desc2:
       '',
     link: '',
@@ -204,7 +204,7 @@ export const author_info = [
     role: '',
     year: '',
     desc1:
-      '',
+      'Arunkumar is a third-year mechanical engineering student with a passion for robots and computer-aided design (CAD). He is enthusiastic about technology, entrepreneurial success stories, and music. He watches web series and explores new domains in his free time.',
     desc2:
       '',
     link: '',
@@ -217,7 +217,7 @@ export const author_info = [
     role: '',
     year: '',
     desc1:
-      '',
+      'Bhargav is a final year Mechanical Undergraduate at IIT Tirupati. He is passionate about tennis, formula one and technology. He spends his free time binge-watching sitcoms and allots his weekends strictly for Formula One. If you run into any of his friends, ask them about his sense of humour, you will not be disappointed.',
     desc2:
       '',
     link: '',
@@ -230,7 +230,7 @@ export const author_info = [
     role: '',
     year: '',
     desc1:
-      '',
+      'Gagan is a computer science student doing his final year at IIT Tirupati. You will find him surfing the net for geopolitical and tech news if he’s not on his bicycle travelling ridiculous distances casually and gracefully, without breaking a sweat, like he’s just been taking a midnight stroll.',
     desc2:
       '',
     link: '',
@@ -243,7 +243,7 @@ export const author_info = [
     role: '',
     year: '',
     desc1:
-      'Plain ol me',
+      'Noble. Just Noble is your go-to guy for everything tech. Apart from being the backbone of Udaan, he has 48 hours a day and makes magic happen with anything that has the slightest whiff of computers and technology. A guy who lives up to his name and beats the charts on the kindness scale, Noble is a fan of ‘sad non-love songs’ (which are shockingly hard to find) and quirky anime food.',
     desc2:
       '',
     link: '',
@@ -256,7 +256,7 @@ export const author_info = [
     role: '',
     year: '',
     desc1:
-      '',
+      'Seeram Pavan is a final year B.Tech civil engineering student (2019-2023 batch) from IIT Tirupati. He is passionate about being an entrepreneur and loves travelling. During his internship duration, he explored all the tourist places in Kerala every Sunday.',
     desc2:
       '',
     link: '',
@@ -269,7 +269,7 @@ export const author_info = [
     role: '',
     year: '',
     desc1:
-      '',
+      'Pranav is a 4th Year B.Tech student in the EE department at IIT Tirupati who simply lives in the moment. He is an avid sports & movies fan with a sincere intention to "break bad" at some point in the future in some way or the other (which will probably never happen).',
     desc2:
       '',
     link: '',
@@ -282,7 +282,7 @@ export const author_info = [
     role: '',
     year: '',
     desc1:
-      '',
+      'Rishitha is highly interested in science and is a final year Mechanical Undergraduate at IIT Tirupati. She is passionate about Defense Technology, Automobiles and Aircrafts. She relaxes by involving in activities like cooking, photography and watching biopics. She sincerely works on polishing her skills for a better self.',
     desc2:
       '',
     link: '',
@@ -295,7 +295,7 @@ export const author_info = [
     role: '',
     year: '',
     desc1:
-      '',
+      'Two things that excite Saket the most and provide solace during tough times are Science and Cricket. Any form of Cricket irrespective of the country or team that is playing. You can find him fascinated by random science videos over the internet, wondering how the human brain can do such incredible things. He is also often bingeing sitcoms on a loop, eternally.',
     desc2:
       '',
     link: '',
@@ -308,7 +308,7 @@ export const author_info = [
     role: '',
     year: '',
     desc1:
-      '',
+      'Srikarah, or Shriek as his friends like to call him, is a final year Civil & Environmental Engineering undergraduate at IIT Tirupati. He is probably the most lively yet lifeless person you will ever meet. Shriek finished his summer research internship at York University under the Mitacs program in the summer of 2022. Apart from being super interested in researching and trying to know ‘the answers’, he is passionate about basketball, emojis and exclamation points!!!',
     desc2:
       '',
     link: '',
@@ -321,7 +321,7 @@ export const author_info = [
     role: '',
     year: '',
     desc1:
-      '',
+      ' Srinivaas is a final year Chemical Engineering Undergraduate at IIT Tirupati and is one of the most sincere and dedicated but down-to-earth students you would come across. He has amazing general knowledge and will definitely take you on a deep dive into Indian History and Mythology if given the chance. He spends his free time on youtube, and you can find him watching cricket matches or vibing to classic Tamil songs and acting out action sequences (particularly Rajnikanth). He also loves to put on some sigma male music, slowly lift his lungi to get into some Kollywood attack poses and let out some flying air kicks!',
     desc2:
       '',
     link: '',
@@ -334,7 +334,7 @@ export const author_info = [
     role: '',
     year: '',
     desc1:
-      '',
+      'J Venkatesa is a third-year electrical undergraduate interested in the field of electronics. He is passionate about technology, entrepreneurship and business. He is a travel enthusiast who loves playing chess and table tennis in his spare time.',
     desc2:
       '',
     link: '',
