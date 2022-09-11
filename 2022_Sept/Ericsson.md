@@ -1,8 +1,8 @@
 ---
 title: "Internship Experience at Ericsson Research"
 category: "Experiences"
-date: "2021-01-30 11:00:00 +09:00"
-desc: "Join Kranthi as he talks about his internship experience at Ericsson research where he works on building reinforcement learning environments and analysing risk profiles."
+date: "2022-09-11 12:00:00 +05:30"
+desc: "Join Kranthi as he talks about his internship experience at Ericsson research where he worked on building reinforcement learning environments and analysing risk profiles."
 thumbnail: "./images/Ericsson Kranthi.jpg"
 authors: "Kranthi Sedamaki"
 starred: "false"
@@ -20,7 +20,7 @@ After an initial resume screening, an interview was held for the shortlisted can
 
 Ericsson orders electronic components from many suppliers and delivers them to its end-user companies. The problem statement was to profile suppliers' risk index based on their delivery patterns. Additionally, we could work on developing a Reinforcement Learning (RL) environment and train agents to anticipate delays and place orders among suppliers based on their risk profile if we had stable methods for the initial problem statement. I was a bit overwhelmed at first because I did not understand the data, the jargon of the supply chain industry, and most of all, since I hadn't applied reinforcement learning anywhere.
 
-I was a bit relieved when I learned that I had the flexibility to work on my schedule—two 30-minute meetings with my mentor per week to sync up on the progress. My mentor offered me much freedom to choose my direction to proceed. I was comfortable with the basics of machine learning applications. Here's vital learning: most of the time, it's about the data and less about the model you are using. The ML models available in libraries like sci-kit-learn are stable and will produce excellent results without hyperparameter tuning. The critical part of improving a model's performance is fully engineering and pre-processing features from the dataset. Identifying such factors and creating new features using domain knowledge helps a lot in terms of the interpretability of the ML models.
+I was a bit relieved when I learned that I had the flexibility to work on my schedule — two 30-minute meetings with my mentor per week to sync up on the progress. My mentor offered me much freedom to choose my direction to proceed. I was comfortable with the basics of machine learning applications. Here's vital learning: most of the time, it's about the data and less about the model you are using. The ML models available in libraries like sci-kit-learn are stable and will produce excellent results without hyperparameter tuning. The critical part of improving a model's performance is fully engineering and pre-processing features from the dataset. Identifying such factors and creating new features using domain knowledge helps a lot in terms of the interpretability of the ML models.
 
 After a few iterations, we settled on a stable model for profiling the suppliers. We moved on to the next phase of developing an environment and training RL agents to split the order between the suppliers based on their risk index. It was my first time playing with RL, and once I got a few basic environments and agents up and running, it boosted my confidence. It was like teaching a child and watching it grow! My understanding from ML has translated well to RL as well. A library called [stable baselines3](https://stable-baselines3.readthedocs.io/en/master/) implements popular RL algorithms, which work well without any fine-tuning. It was up to the environment design that determined how the agent behaved. It was a bit tricky because creating an environment that captures the stochasticity of the company while being practical enough to train is a tricky balance. After making realistic assumptions covering most of the scenarios, the agent learned well.
 

@@ -1,7 +1,7 @@
 ---
 title: "Internship Experience at AjnaLens"
 category: "Experiences"
-date: "2022-09-01 12:00:00 +05:30"
+date: "2022-09-11 12:00:00 +05:30"
 desc: "Gagan’s shenanigans at AjnaLens - The Good, The Great and The Amazing"
 thumbnail: "./images/ajnalens-Gagan.png"
 authors: "Gagan Hegde"
@@ -13,7 +13,7 @@ alt: "Internship Experience at AjnaLens"
 
 My timing couldn’t have been better when I joined as a Unity Developer intern at AjnaLens. The organization was in the midst of developing a better-mixed reality headset and was experimenting with other products on the market. So I got to experience all the latest VR headsets. I don’t know anyone in my class who can boast that they went to their office to **play “Beat Saber”** multiple times so that **“they can better understand the working of the device”.**
 
-The project I was given was to create a **‘digital twin’** of a robot and its real environment. This **‘digital twin’** is a complete one-to-one scaled model of the actual scenario in the virtual world. The idea is that one could control the virtual robot, which would be reflected in a change in position of the robot at a remote location. In the process, I got work on a mini-robot arm. I set a client-server system to transmit the data over the network, facilitating the data transfer needed to send the position value to the real robot. The team I worked with couldn’t have been any better. Most of my colleagues were a few years older than me. I did not feel out of place at all. In fact, I would look forward to going to the office to meet up and work with all of them.
+The project I was given was to create a **‘digital twin’** of a robot and its real environment. This **‘digital twin’** is a complete one-to-one scaled model of the actual scenario in the virtual world. The idea is that one could control the virtual robot, which would be reflected as a change in position of the robot at a remote location. In the process, I got to work on a mini-robot arm. I set a client-server system to transmit the data over the network, facilitating the  data transfer required to send the position value to the real robot. The team I worked with couldn’t have been any better. Most of my colleagues were a few years older than me. I did not feel out of place at all. In fact, I would look forward to going to the office to meet up and work with all of them.
 
 As this was a peak work time at the company, they organized events for respite. As luck would have it, a week after I joined, a bowling party was organized. I had a great time at the mall’s bowling alley.
 

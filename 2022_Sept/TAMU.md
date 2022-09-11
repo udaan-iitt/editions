@@ -1,7 +1,7 @@
 ---
 title: "TAMU Summer Internship Experience"
 category: "Experiences"
-date: "2022-09-01 12:00:00 +05:30"
+date: "2022-09-11 12:00:00 +05:30"
 desc: "Here's Bhargav sharing with you his amazing experience of pursuing an internship at Texas A&M University."
 thumbnail: "./images/TEXASAnM-Bhargav.jpg"
 authors: "Nama Bhargav Sri Sai"
