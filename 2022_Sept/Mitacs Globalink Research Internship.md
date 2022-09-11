@@ -1,7 +1,16 @@
+---
+title: "Internship Experience"
+category: "Experiences"
+date: "2022-09-01 12:00:00 +09:00"
+desc: "Placeholder"
+thumbnail: "./images/mitacs-NobleSrikarah.jpg"
+authors: "Noble Saji Mathews"
+abio: "Noble Saji Mathews:Just Noble"
+starred: "False"
+alt: "Internship Experience Mitacs"
+---
+
 # Mitacs Globalink Research Internship
-
-![Thumbnail](mitacs.jpg)
-
 
 
 Hi there! I am Noble, the narrator of this piece about the Mitacs Globalink Research Internship. I will be joined by Srikarah sama, (forgive me for not including the honorific "sama" throughout) who was also selected for this prestigious scholarship program along with me.
