@@ -41,7 +41,7 @@ On the topic of what we should observe and adapt (or not adapt) from the older i
 
 With our campus reaching greater heights in education and innovation each year, we couldn't agree more! As the director sipped his beverage, ready for his next question, we switched things up a bit.
 
-<img src="(./images/within_articles/director2.jpg" alt="picture" width="100%" height="75%">
+<img src="./images/within_articles/director2.jpg" alt="picture" width="100%" height="75%">
 
 
 **What kind of weather makes you feel like your best self?**
