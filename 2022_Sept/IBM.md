@@ -9,13 +9,6 @@ starred: "false"
 alt: ""
 ---
  
-Debeshee Das - Internship Experience at IBM Research
-
-Description: 
-
- 
-THINK.
- 
 IBM employees have secured six Nobel Prizes and six Turing awards, among other achievements, while the company holds the world record for the largest number of patents every year. When it comes to a place with a delightful research culture, IBM Research is a model!
  
 IBM Research has an interesting Open Science Collaboration Program (OSCP) where the company collaborates with people from academia, usually for a year, to work on a common topic of interest. I was honoured to be recommended as the student intern who would be a part of this collaboration between IBM Research and my professor, Dr Sridhar Chimalakonda, to work largely on the topic of Source Code Representation Learning. There were some additional aspects to the selection process, including an aptitude test and a short interview, apart from reviewing the resume. By February 2022, I was all set to intern at IBM Research for three months in the summer.
