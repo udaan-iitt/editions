@@ -6,6 +6,7 @@ desc: "Doing an industrial internship at a construction project which has a humu
 thumbnail: "./images/ulccs-pavan.jpg" 
 authors: "Seeram Pavan"                    
 starred: "False" 
+abio: ""
 alt: "Internship with ULCCS"                       
 ---
 

@@ -6,6 +6,7 @@ desc: "Time is an illusion; exam-time doubly so. Mathew took it upon himself to 
 thumbnail: "./images/GRE guide.jpg"
 authors: "Mathew K J"
 starred: "false"
+abio: ""
 alt: "The Hitchhiker’s Guide to the GRE"
 ---
 

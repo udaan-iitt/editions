@@ -6,6 +6,7 @@ desc: "Gagan’s shenanigans at AjnaLens - The Good, The Great and The Amazing"
 thumbnail: "./images/ajnalens-Gagan.png"
 authors: "Gagan Hegde"
 starred: "false"
+abio: ""
 alt: "Internship Experience at AjnaLens"
 ---
 

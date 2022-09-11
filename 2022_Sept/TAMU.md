@@ -6,6 +6,7 @@ desc: "Here's Bhargav sharing with you his amazing experience of pursuing an int
 thumbnail: "./images/TEXASAnM-Bhargav.jpg"
 authors: "Nama Bhargav Sri Sai"
 starred: "false"
+abio: ""
 alt: "TAMU Summer Internship Experience"
 ---
 

@@ -6,6 +6,7 @@ desc: "Electronics or Electrical? Ananlog or Digital? Join Venkata Saket Ram Got
 thumbnail: "./images/Texas-Goteti.jpg"
 authors: "Venkata Saket Ram Goteti"
 starred: "false"
+abio: ""
 alt: "Internship Experience at Texas Instruments"
 ---
 

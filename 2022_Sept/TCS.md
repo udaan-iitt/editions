@@ -6,6 +6,7 @@ desc: "Aashrith talks about his internship at TCS Innovation Labs and working on
 thumbnail: "./images/TCS Ashrith.jpg"
 authors: "Aashrith Sai Madasu"
 starred: "false"
+abio: ""
 alt: "My Internship Experience at TCS Innovation Labs"
 ---
 

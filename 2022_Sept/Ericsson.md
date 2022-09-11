@@ -6,6 +6,7 @@ desc: "Join Kranthi as he talks about his internship experience at Ericsson rese
 thumbnail: "./images/Ericsson Kranthi.jpg"
 authors: "Kranthi Sedamaki"
 starred: "false"
+abio: ""
 alt: "Internship Experience at Ericsson Research"
 ---
 ## A bit about myself

@@ -6,6 +6,7 @@ desc: "Take a look at Venkatasa’s resourceful research internship at IIT Gandh
 thumbnail: "./images/IITGN-Venkatesa.jpg"
 authors: "J Venkatesa"
 starred: "false"
+abio: ""
 alt: "Internship Experience at IIT Gandhinagar"
 ---
 

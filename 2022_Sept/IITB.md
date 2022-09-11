@@ -6,6 +6,7 @@ desc: "If you're a skeptical about pursuing a research internship, fret not. You
 thumbnail: "./images/IITB-Pranav.jpg"               
 authors: "Pranav Hari Panicker"
 starred: "false"
+abio: ""
 alt: "Internship Experience at IITB"
 ---
 Hey everyone!         

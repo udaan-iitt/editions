@@ -6,6 +6,7 @@ desc: "Amit Kesari shares his incredible story of getting into and working at Sp
 thumbnail: "./images/sprinklr-amitKesari.jpg"
 authors: "Amit Kesari"
 starred: "false"
+abio: ""
 alt: "Internship experience at Sprinklr"
 ---
 

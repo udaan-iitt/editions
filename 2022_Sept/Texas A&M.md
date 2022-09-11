@@ -6,6 +6,7 @@ desc: "The Texas A&M University is one of the leading research institutions havi
 thumbnail: "./images/texasAnM-abhishek.jpg"
 authors: "Abhishek Bharadwaj"
 starred: "False"
+abio: ""
 alt: "Internship Experience at Texas A&M University"
 ---
 

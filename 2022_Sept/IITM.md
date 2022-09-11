@@ -6,6 +6,7 @@ desc: "Indian Institute of Technology, Madras, is one of the top-tier institutes
 thumbnail: "./images/IIT_Madras-Srinivaas.jpg"
 authors: "Giridara Srinivaas"
 starred: "False"
+abio: ""
 alt: "Internship Experience at IITM"
 ---
 

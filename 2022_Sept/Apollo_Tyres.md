@@ -6,6 +6,7 @@ desc: "Apollo Tyres Ltd. is an Indian multinational tyre manufacturer based in G
 thumbnail: "./images/Apollo-Tyres-Rishita.jpg"
 authors: "T. Sai Rishitha"
 starred: "False"
+abio: ""
 alt: "Summer Internship at Apollo Tyres Ltd."
 ---
 

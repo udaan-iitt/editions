@@ -6,6 +6,7 @@ desc: "It all has to begin somewhere. Join Arun as he narrates his journey from 
 thumbnail: "./images/binani .jpg"
 authors: "Arunkumar V"
 starred: "false"
+abio: ""
 alt: "Internship Experience at Binani Technologies"
 ---
 
