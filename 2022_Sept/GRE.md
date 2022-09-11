@@ -137,7 +137,7 @@ Before we conclude, we take a moment to reiterate that the GRE plays a very smal
 
 - CGPA
 - Doing good projects or research work (if one is planning for PhD or thesis based master’s)
-- Trying to get international internship opportunities (research ([MIT'ACS](https://en.wikipedia.org/wiki/Mitacs), [DAAD WISE](https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=50015295), etc) or normal) 
+- Trying to get international internship opportunities (research ([MITACS](https://en.wikipedia.org/wiki/Mitacs), [DAAD WISE](https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=50015295), etc) or normal) 
 - Having  a good SOP and good LORs (They don’t have to write glowing recommendations, you just have to interact with them or work with them so that they can claim to know you well enough to recommend you)
 
 A holistic evaluation will be done of a student’s profile.
