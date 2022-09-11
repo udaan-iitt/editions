@@ -6,6 +6,7 @@ desc: "Join us as we decode our Director’s lesser-known side, filled with inte
 thumbnail: "./images/placeholder.jpg"
 authors: "Debeshee Das, Sneha M S, Krithi Shailya, Sneha Battula"
 starred: "true"
+abio: ""
 alt: "Interview with Director"
 ---
 
