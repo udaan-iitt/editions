@@ -29,4 +29,4 @@ I met many of the other interns and had a lot of fun exchanging stories about co
 
 ![image](./images/within_articles/Debeshee-IBM.jpeg)
 
-![image](./images/within_articles/Debeshee-IBM2.jpeg)
+![image](./images/within_articles/debeshee-IBM2.jpeg)
