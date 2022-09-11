@@ -1,7 +1,7 @@
 ---
 title: "Internship Experience at IIT Bombay"
 category: "Experiences"
-date: "2021-01-30 11:00:00 +09:00"
+date: "2022-09-11 12:00:00 +05:30"
 desc: "Join Pranav as he walks you through his experience as a research intern at IIT Bombay."
 thumbnail: "./images/IITB-Pranav.jpg"
 authors: "Pranav Hari Panicker"
@@ -16,9 +16,9 @@ As a first-time research intern, I absolutely had no idea how it would pan out. 
 
 Broadly and vaguely speaking, the main area of focus for my project was the applications of deep learning to geospatial data. Initially, I had to go through certain tutorials and website documentation to get the hang of what exactly the project demanded from me. With the help of the PhD scholars already working under the Prof, I got a basic idea of what they were trying to do i.e., create a model using the commonly-used libraries of scikit-learn and TensorFlow for mapping soil moisture data in a 2D spatial surface. I was tasked with aiding them in further enhancing the said model with different & seemingly more efficient techniques.           
 
-With regard to this, I began working on a new framework altogether, known as ***GPflow***, to implement the same model more effectively. Constant support from the PhD guides during my frequent visits to the labs of the CSRE department at IITB (since I had a hybrid internship) helped me throughout this procedure of using GPflow to analyze 2D soil moisture data. I also spent a few days testing out and experimenting with a few of the devices in the geo-technological lab, which added a lovely and casual touch to the internship. To be frank, the offline aspect of the internship was like no other, as it provided an enjoyable and full-fledged learning experience.                 
+With regard to this, I began working on a new framework altogether, known as ***GPflow***, to implement the same model more effectively. Constant support from the PhD guides during my frequent visits to the labs of the CSRE department at IITB (since I had a hybrid internship) helped me throughout this process of using GPflow to analyze 2D soil moisture data. I also spent a few days testing out and experimenting with a few of the devices in the geo-technological lab, which added a lovely and casual touch to the internship. To be frank, the offline aspect of the internship was like no other, as it provided an enjoyable and full-fledged learning experience.                 
 
-I had also been using other DL techniques like ***SpaceGAN***, a form of generative adversarial networks (GAN), to create new data points in 2D space to help make up for the limited data points that were provided. Once again, it was back to the basics for someone like me, who had no idea about it. Learning and understanding these new and never-seen-before-or-heard-of technologies was the most exciting part of being involved in this research study.                
+I had also been using other DL techniques like ***SpaceGAN***, a form of [generative adversarial networks (GAN)](https://en.wikipedia.org/wiki/Generative_adversarial_network), to create new data points in 2D space to help make up for the limited data points that were provided. Once again, it was back to the basics for someone like me, who had no idea about it. Learning and understanding these new and never-seen-before-or-heard-of technologies was the most exciting part of being involved in this research study.                
 
 My implementation of these newer methods turned out to be quite satisfactory to my Prof and the rest of the team. Though there’s still quite a lot of work left for them to continue, I was able to come to an understanding that my work had ended up setting some basic groundwork, and it was beneficial to my own learning curve as well. One of the main things I’m looking forward to is having regular post-internship sessions with the guides from the dept (be it casual or work-oriented), just to keep in touch and have some fun discussions with them.                
 

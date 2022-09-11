@@ -1,7 +1,7 @@
 ---
 title: "Internship with ULCCS - Uralungal Labour Contract Co-operative society"    
 category: "Experiences"                 
-date: "2022-08-31 12:00:00 +09:00"                       
+date: "2022-09-11 12:00:00 +05:30"                       
 desc: "Doing an industrial internship at a construction project which has a humungous project value at a new location might sound a bit scary. Join Seeram Pavan as he describes his internship experience at ULCCS, Kerala."                                        
 thumbnail: "./images/ulccs-pavan.jpg" 
 authors: "Seeram Pavan"                    

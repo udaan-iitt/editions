@@ -1,10 +1,10 @@
 ---
 title: "The Hitchhiker’s Guide to the GRE"
 category: "Experiences"
-date: "2022-09-01 12:00:00 +05:30"
+date: "2022-09-11 12:00:00 +05:30"
 desc: "Time is an illusion; exam-time doubly so. Aashrith and Mathew took it upon themselves to break-down the intricately layered and often feared Graduate Records Examination, the GRE, to its bare bones, understand it, and defeat it with preparation standards that were par excellence. Read on for a comprehensive and impeccable break-down of the GRE and authentic test-taker information that you will definitely find interesting!"
 thumbnail: "./images/GRE guide.jpg"
-authors: "Mathew K J, Aashrith Sai Madasu"
+authors: "Mathew K J"
 starred: "false"
 alt: "The Hitchhiker’s Guide to the GRE"
 ---
@@ -18,10 +18,7 @@ The GRE is divided into three parts:
 - Quantitative
 - Analytical
 
-The verbal part consists of two sections of 20 objective questions each. These questions are designed to test the examinee's vocabulary and comprehension skills.                                          
-The quantitative part is similarly divided into two sections of 20 objective math-based questions.                           
-The Analytical part consists of two sections - the issue section and the argument section. The examinee is expected to write two essays - one analyzing the given issue and one analyzing the given argument.                                          
-For the exam, the first two sections to appear are analytical, followed by alternating quantitative and verbal sections.
+The verbal part consists of two sections of 20 objective questions each. These questions are designed to test the examinee's vocabulary and comprehension skills. The quantitative part is similarly divided into two sections of 20 objective math-based questions. The Analytical part consists of two sections - the issue section and the argument section. The examinee is expected to write two essays - one analyzing the given issue and one analyzing the given argument. For the exam, the first two sections to appear are analytical, followed by alternating quantitative and verbal sections.
                             
 In addition, the GRE also has an unscored research section, which ETS uses to set questions for later iterations of the same exam. Of course, one won't be told which section is the research section, since that defeats the purpose of having a research section. ETS expects one to treat every section as if it counted towards one's score (So in addition to paying them 217 USD for the privilege of writing the exam, one also gets to act as an unpaid test subject). If one does badly on a section, one need not lose hope - one can convince oneself it was the research section and move on.                                                           
 

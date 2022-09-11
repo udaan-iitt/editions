@@ -1,9 +1,9 @@
 ---
 title: "Summer Internship at Tandon School of Engineering, NYU"
 category: "Experience"
-date: "2021-01-30 11:00:00 +09:00"
-desc: "Hop in and read about Sneha's experience at the Tandon School of Engineering, NYU as a research intern as she describes her work with Digital Manufacturing and the potential integration of Cyber Security into this new promising field of Industry 4.0."
-thumbnail: "./images/NYU-sneha.jpg"
+date: "2022-09-11 12:00:00 +05:30"
+desc: "Hop in and read about Sneha's experience at the Tandon School of Engineering, NYU as a research intern where she describes her work with Digital Manufacturing and the potential integration of Cyber Security into this new promising field of Industry 4.0."
+thumbnail: "./images/NYU-sneha.jfif"
 authors: "Sneha M S"
 starred: "False"
 alt: "Summer Research Program at Tandon School of Engineering, NYU"
