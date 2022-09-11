@@ -159,7 +159,7 @@ export const author_info = [
   },
   {
     key: 'aashrith',
-    title: 'Debeshee Das',
+    title: 'Aashrith Sai Madasu',
     tagLine1: '',
     tagLine2: '',
     role: '',
@@ -172,7 +172,7 @@ export const author_info = [
   },
   {
     key: 'abhishek',
-    title: 'Debeshee Das',
+    title: 'Abhishek Bharadwaj',
     tagLine1: '',
     tagLine2: '',
     role: '',
@@ -185,7 +185,7 @@ export const author_info = [
   },
   {
     key: 'amit',
-    title: 'Debeshee Das',
+    title: 'Amit Kesari',
     tagLine1: '',
     tagLine2: '',
     role: '',
@@ -198,7 +198,7 @@ export const author_info = [
   },
   {
     key: 'arunkumar',
-    title: 'Debeshee Das',
+    title: 'Arunkumar V',
     tagLine1: '',
     tagLine2: '',
     role: '',
@@ -211,7 +211,7 @@ export const author_info = [
   },
   {
     key: 'bhargav',
-    title: 'Debeshee Das',
+    title: 'Nama Bhargav Sri Sai',
     tagLine1: '',
     tagLine2: '',
     role: '',
@@ -224,7 +224,7 @@ export const author_info = [
   },
   {
     key: 'gagan',
-    title: 'Debeshee Das',
+    title: 'Gagan Hegde',
     tagLine1: '',
     tagLine2: '',
     role: '',
@@ -250,7 +250,7 @@ export const author_info = [
   },
   {
     key: 'pavan',
-    title: 'Debeshee Das',
+    title: 'Sreeram Pavan',
     tagLine1: '',
     tagLine2: '',
     role: '',
@@ -263,7 +263,7 @@ export const author_info = [
   },
   {
     key: 'pranav',
-    title: 'Debeshee Das',
+    title: 'Pranav Hari Panicker',
     tagLine1: '',
     tagLine2: '',
     role: '',
@@ -276,7 +276,7 @@ export const author_info = [
   },
   {
     key: 'rishitha',
-    title: 'Debeshee Das',
+    title: 'T. Sai Rishitha',
     tagLine1: '',
     tagLine2: '',
     role: '',
@@ -289,7 +289,7 @@ export const author_info = [
   },
   {
     key: 'saket',
-    title: 'Debeshee Das',
+    title: 'Venkata Saket Ram Goteti',
     tagLine1: '',
     tagLine2: '',
     role: '',
@@ -328,7 +328,7 @@ export const author_info = [
   },
   {
     key: 'venkatesa',
-    title: 'Debeshee Das',
+    title: 'J Venkatesa',
     tagLine1: '',
     tagLine2: '',
     role: '',

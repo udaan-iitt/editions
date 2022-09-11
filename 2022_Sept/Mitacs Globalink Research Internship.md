@@ -1,5 +1,5 @@
 ---
-title: "Internship Experience"
+title: "Mitacs Globalink Research Internship"
 category: "Experiences"
 date: "2022-09-01 12:00:00 +09:00"
 desc: "Placeholder"
@@ -9,8 +9,6 @@ abio: "Srikarah Volaity: I am Srik"
 starred: "False"
 alt: "Internship Experience Mitacs"
 ---
-
-# Mitacs Globalink Research Internship
 
 
 Hi there! I am Noble, the narrator of this piece about the Mitacs Globalink Research Internship. I will be joined by Srikarah sama, (forgive me for not including the honorific "sama" throughout) who was also selected for this prestigious scholarship program along with me.
