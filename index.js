@@ -357,7 +357,7 @@ export const author_info = [
     tagLine2: '',
     role: '',
     year: '',
-    desc1: 'Kranthi is an upcoming senior at IIT Tirupati, pursuing a bachelor’s in Computer Science and Engineering. He likes playing with the latest tech in his code playgrounds and loves working with data and AI! You can find him reading non-fiction books and playing Catan with his friends when he is not working.',
+    desc1: 'Kranthi is a senior at IIT Tirupati, pursuing a bachelor\'s in Computer Science and Engineering. He likes playing with the latest tech in his code playgrounds and loves working with data and AI! You can find him reading non-fiction books and playing Catan with his friends when he is not working.',
     desc2:
       '',
     link: '',
