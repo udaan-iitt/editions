@@ -26,7 +26,7 @@ In addition, the GRE also has an unscored research section, which ETS uses to se
 The maximum possible score in the GRE is 340; 170 in Quantitative, 170 in Verbal.
 The lowest possible score (obtained by showing up to the exam hall and doing nothing else) is 260.
 So the effective range of the score is 80; 40 for Quantitative and 40 for Verbal.
-We do not fully understand why ETS chose to shift the scale up by 260 (We speculate that it is to make scores look better than they actually are, at least to people who don't understand how the GRE system works).
+I do not fully understand why ETS chose to shift the scale up by 260 (I speculate that it is to make scores look better than they actually are, at least to people who don't understand how the GRE system works).
 
 
 ## The importance of GRE for applications:
@@ -59,7 +59,7 @@ The trickiest parts of this section are not tricky because of the math; rather, 
 <summary>
 "There are 64 students in a class. 48 study German and 60 study Spanish. What is the maximum possible number of students who are studying both Spanish and German?"
 </summary>
-If you answered 42, we urge you to read the question again.
+If you answered 42, I urge you to read the question again.
 
 The question does not state that every student studies either Spanish or German; there could be students who are studying neither.
 </details>
@@ -121,7 +121,7 @@ So I began my essay with a quote from Optimus Prime, which was all I could recal
 
 I booked a slot in the afternoon to go write the exam (I am not a morning person, and the drive was three hours). I arrived well before the reporting time and ate breakfast (while watching an episode of Transformers (1984)). I did not do any last minute-prep or revision, to keep my mind clear. It was quite easy to remain calm before the exam since I knew that if I did badly, I could try again whenever I wished (the only consequence for failure was 217 USD).
 
-The exam center provided me with a pencil (they refused to give me a pen), a scratchpad and headphones (to block out the sound of all the keyboards in the exam hall). No water was allowed in the hall - we had to wait for a designated 10-minute break to drink water.
+The exam center provided me with a pencil (they refused to give me a pen), a scratchpad and headphones (to block out the sound of all the keyboards in the exam hall). No water was allowed in the hall - I had to wait for a designated 10-minute break to drink water.
 
 I was asked to sign an NDA before I started the exam, so I cannot reveal any concrete details about the contents of the exam. Though the exam was four hours long, it did not feel tiring. I had enough time during the break to eat some moong dal (I chose this for sentimental reasons - I had eaten the same thing during the break between paper 1 and paper 2 of Advanced) and drink water. As soon as the exam was over, my quantitative and verbal scores (unofficial) were displayed on the screen.
 
