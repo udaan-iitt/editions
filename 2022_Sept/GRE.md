@@ -85,13 +85,13 @@ The skills required for comprehension-based questions are completely different. 
 I found these questions the most difficult since they were usually very time-consuming and mentally exhausting. I would occasionally get lucky with a piece about something I was well-read on, only for the next piece to be about something whose existence I did not know about.
 Throughout preparation, my skills in this area showed only marginal improvement. Most of the mistakes I made in the verbal sections were usually in such questions.
 
-It is generally recommended to read publications like [Scientific American](https://www.scientificamerican.com), [MIT Technology Review](https://www.technologyreview.com), [Harvard Business Review](https://hbr.org/magazine), [Wall Street Journal](https://www.wsj.com/) and [The Economist](https://www.economist.com/) for practice with comprehension. While we agree that this is a useful strategy for those who struggle with comprehension, we feel that this does not really help one pinpoint the correct option from a list of similar options. 
+It is generally recommended to read publications like [Scientific American](https://www.scientificamerican.com), [MIT Technology Review](https://www.technologyreview.com), [Harvard Business Review](https://hbr.org/magazine), [Wall Street Journal](https://www.wsj.com/) and [The Economist](https://www.economist.com/) for practice with comprehension. While I agree that this is a useful strategy for those who struggle with comprehension, I feel that this does not really help one pinpoint the correct option from a list of similar options. 
 
 My strategy was to look at each option individually and decide whether to eliminate it or not. If more than one option remained at the end, I would sort them based on relevance and pick the best (if I had too much time on my hands after the section was over, I would come back to the question argue with myself if whether the second best option is actually the right option; I would try my best to pick out flaws with the chosen answer until I either ran out of flaws to pick out or picked out enough flaws to justify switching the answer).
 
 When doing verbal questions, one either gets the answer immediately (almost like a voice in one's head whispering the answer before one finishes reading the question) or spends a long time debating the relative merits of the presented options (almost like a second voice interrupting the first voice and proceeding to argue with it, while a third voice laughs in the background). The problem is that ETS designs some questions such that the first answer one thinks of is wrong. After encountering such questions, one learns that the first impulse must always be questioned (hence the joke among GRE aspirants - "if the answer you got is option A, redo the question").
 
-In conclusion, this section is the most difficult for the average engineering student. We advise all GRE aspirants to put a lot of effort into preparing for this section.
+In conclusion, this section is the most difficult for the average engineering student. I advise all GRE aspirants to put a lot of effort into preparing for this section.
 
 ## Analytical Section:
 
@@ -133,7 +133,7 @@ After the exam, I spent the last two days of summer trying to reverse-engineer t
 
 Overall, I feel that preparing for the GRE is better done over the long term with a couple of weeks of serious prep before the exam, rather than two whole months of dedicated preparation. I did not want to dedicate the whole summer to GRE, so I tried to cap the limit of time spent on prep at six hours per day (this did not matter - the most time I dedicated in a single day to prep was around 4 hours - the time taken to write a single practice test). Some people recommend taking 2 mock tests in a single day to build concentration and stamina which might be a critical factor for some of us. 
 
-Before we conclude, we take a moment to reiterate that the GRE plays a very small part in the overall application of a candidate. So we would advise others to work on other things like
+Before I conclude, I will take a moment to reiterate that the GRE plays a very small part in the overall application of a candidate. So I would advise others to work on other things like
 
 - CGPA
 - Doing good projects or research work (if one is planning for PhD or thesis based master’s)
@@ -142,6 +142,6 @@ Before we conclude, we take a moment to reiterate that the GRE plays a very smal
 
 A holistic evaluation will be done of a student’s profile.
 
-With all that said and done, if you are taking the GRE, we recommend you take it well before October 2022 if you are applying for Fall 2023, and similarly for future years. All the best for the exam, and Don’t Panic.
+With all that said and done, if you are taking the GRE, I recommend you take it well before October 2022 if you are applying for Fall 2023, and similarly for future years. All the best for the exam, and Don’t Panic.
 
 __Special thanks to  Aashrith Sai Madasu and Debeshee Das for contributing to this article.__
