@@ -19,18 +19,18 @@ The GRE is divided into three parts:
 - Quantitative
 - Analytical
 
-The verbal part consists of two sections of 20 objective questions each. These questions are designed to test the examinee's vocabulary and comprehension skills. The quantitative part is similarly divided into two sections of 20 objective math-based questions. The Analytical part consists of two sections - the issue section and the argument section. The examinee is expected to write two essays - one analyzing the given issue and one analyzing the given argument. For the exam, the first two sections to appear are analytical, followed by alternating quantitative and verbal sections.
+The verbal part consists of two sections of 20 objective questions each. These questions are designed to test the examinee's vocabulary and comprehension skills. The quantitative part is similarly divided into two sections of 20 objective math-based questions. The analytical part consists of two sections - the issue section and the argument section. The examinee is expected to write two essays - one analyzing the given issue and one analyzing the given argument. For the exam, the first two sections to appear are analytical, followed by alternating quantitative and verbal sections.
                             
 In addition, the GRE also has an unscored research section, which ETS uses to set questions for later iterations of the same exam. Of course, one won't be told which section is the research section, since that defeats the purpose of having a research section. ETS expects one to treat every section as if it counted towards one's score (So in addition to paying them 217 USD for the privilege of writing the exam, one also gets to act as an unpaid test subject). If one does badly on a section, one need not lose hope - one can convince oneself it was the research section and move on.                                                           
 
 The maximum possible score in the GRE is 340; 170 in Quantitative, 170 in Verbal.
 The lowest possible score (obtained by showing up to the exam hall and doing nothing else) is 260.
 So the effective range of the score is 80; 40 for Quantitative and 40 for Verbal.
-We do not fully understand why ETS chose to shift the scale up by 260 (We speculate that it is to make scores look better than they actually are, at least to people who don't understand how the GRE system works)
+I do not fully understand why ETS chose to shift the scale up by 260 (I speculate that it is to make scores look better than they actually are, at least to people who don't understand how the GRE system works).
 
 
 ## The importance of GRE for applications:
-Some universities are waiving off GRE (ie. not considering GRE scores any more. But it’s always safe to write the exam).
+Some universities are waiving off GRE (i.e. not considering GRE scores any more. But it’s always safe to write the exam).
 
 Universities consideration of GRE:
 - Required: When GRE is required, you obviously need to submit your scores in order to apply for the program.
@@ -38,7 +38,7 @@ Universities consideration of GRE:
 - Optional: In this case, you can choose to not submit your scores. If, however, your GPA is low or if you have already taken the GRE, it is better to submit the score as it will improve your profile.
 - Not accepted: In this case, the university will not give any field in the application to fill in your GRE scores, and even sending the score to the university will be of no use as they won’t consider it.
 
-## Why we chose to write the GRE:
+## Why I chose to write the GRE:
 
 I came to know about this exam from a webinar on higher studies which I attended a year earlier. The instructor gave us particularly tricky questions from the GRE in an attempt to make us think the exam was difficult (and convince us to buy his company's test-prep products). After I failed to answer half the questions in the webinar, I felt that the GRE would be an interesting challenge. I asked my seniors (Sibibalan 'Sibi' Jeevanandam, Debeshee Das and Shreyansh Mehra, who I would like to thank for the guidance they provided) for information about the exam and guidance on how to prepare for it.
 
@@ -59,7 +59,7 @@ The trickiest parts of this section are not tricky because of the math; rather, 
 <summary>
 "There are 64 students in a class. 48 study German and 60 study Spanish. What is the maximum possible number of students who are studying both Spanish and German?"
 </summary>
-If you answered 42, we urge you to read the question again.
+If you answered 42, I urge you to read the question again.
 
 The question does not state that every student studies either Spanish or German; there could be students who are studying neither.
 </details>
@@ -74,7 +74,7 @@ I personally found that learning the etymology of a word really helps me to reme
 
 Consider the word 'antebellum'. Knowing that 'ante' is the latin prefix meaning 'before' and that 'bellum' is the latin root word for war, one can guess that 'antebellum' refers to the time before the war. Consider a phrase like "Bellum omnium contra omnes" - knowing that 'omnis' is the latin root word for 'all' and that 'contra' is the latin prefix for 'against', one can infer the phrase's meaning - "a war of all against all". 
 
-While I did not spend too much time brushing up on Greek and Latin, I feel that the time I did spend helped my vocabulary skills a lot. The benefit of doing this extends far beyond the GRE - anyone learning biology, philosophy or Romance languages can attest to the importance of having a working knowledge of Greek and Latin vocabulary.
+While I did not spend too much time brushing up on Greek and Latin, I feel that the time I did spend helped my vocabulary skills a lot. The benefit of doing this extends far beyond the GRE - anyone learning biology, philosophy or romance languages can attest to the importance of having a working knowledge of Greek and Latin vocabulary.
 
 The skills required for comprehension-based questions are completely different. One must be able to read and understand passages quickly. The comprehensions could broadly be divided into a few types:
 1) Science (usually my favorite - easy to understand and reason through)
@@ -117,11 +117,11 @@ So I began my essay with a quote from Optimus Prime, which was all I could recal
 (the "Freedom is the right of all sentient beings" quote, for anyone who is wondering)
 
 
-## Exam day:
+## Exam Day:
 
 I booked a slot in the afternoon to go write the exam (I am not a morning person, and the drive was three hours). I arrived well before the reporting time and ate breakfast (while watching an episode of Transformers (1984)). I did not do any last minute-prep or revision, to keep my mind clear. It was quite easy to remain calm before the exam since I knew that if I did badly, I could try again whenever I wished (the only consequence for failure was 217 USD).
 
-The exam center provided me with a pencil (they refused to give me a pen), a scratchpad and headphones (to block out the sound of all the keyboards in the exam hall). No water was allowed in the hall - we had to wait for a designated 10-minute break to drink water.
+The exam center provided me with a pencil (they refused to give me a pen), a scratchpad and headphones (to block out the sound of all the keyboards in the exam hall). No water was allowed in the hall - I had to wait for a designated 10-minute break to drink water.
 
 I was asked to sign an NDA before I started the exam, so I cannot reveal any concrete details about the contents of the exam. Though the exam was four hours long, it did not feel tiring. I had enough time during the break to eat some moong dal (I chose this for sentimental reasons - I had eaten the same thing during the break between paper 1 and paper 2 of Advanced) and drink water. As soon as the exam was over, my quantitative and verbal scores (unofficial) were displayed on the screen.
 
@@ -137,11 +137,11 @@ Before I conclude, I will take a moment to reiterate that the GRE plays a very s
 
 - CGPA
 - Doing good projects or research work (if one is planning for PhD or thesis based master’s)
-- Trying to get international internship opportunities (research ([MITACS](https://en.wikipedia.org/wiki/Mitacs), [DAAD WISE](https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=50015295), etc) or normal) 
-- Having  a good SOP and good LORs (They don’t have to write glowing recommendations, you just have to interact with them or work with them so that they can claim to know you well enough to recommend you)
+- Trying to get international internship opportunities (research ([MITACS](https://en.wikipedia.org/wiki/Mitacs), [DAAD WISE](https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=50015295), etc.) or normal) 
+- Having  a good SOP and good LORs (They don’t have to write glowing recommendations, you just have to interact with them or work with them so that they can claim to know you well enough to recommend you).
 
 A holistic evaluation will be done of a student’s profile.
 
-With all that said and done, if you are taking the GRE, I recommend you take it well before October 2022 if you are applying for Fall 2023, and similarly for future years. All the best for the exam, and Don’t Panic.
+With all that said and done, if you are taking the GRE, I recommend you take it well before October 2022 if you are applying for Fall 2023, and similarly for future years. All the best for the exam, and Don’t Panic!
 
 __Special thanks to  Aashrith Sai Madasu and Debeshee Das for contributing to this article.__
