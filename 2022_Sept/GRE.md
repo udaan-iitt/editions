@@ -1,6 +1,6 @@
 ---
 title: "The Hitchhiker’s Guide to the GRE"
-category: "Experiences"
+category: "Op-Ed"
 date: "2022-09-11 12:00:00 +05:30"
 desc: "Time is an illusion; exam-time doubly so. Mathew took it upon himself to explain the intricately layered and often feared Graduate Records Examination, the GRE, to its bare bones, understand it, and defeat it with preparation standards that were par excellence. Read on for a comprehensive and impeccable break-down of the GRE and authentic test-taker information that you will definitely find interesting!"
 thumbnail: "./images/GRE guide.jpg"
@@ -19,18 +19,18 @@ The GRE is divided into three parts:
 - Quantitative
 - Analytical
 
-The verbal part consists of two sections of 20 objective questions each. These questions are designed to test the examinee's vocabulary and comprehension skills. The quantitative part is similarly divided into two sections of 20 objective math-based questions. The Analytical part consists of two sections - the issue section and the argument section. The examinee is expected to write two essays - one analyzing the given issue and one analyzing the given argument. For the exam, the first two sections to appear are analytical, followed by alternating quantitative and verbal sections.
+The verbal part consists of two sections of 20 objective questions each. These questions are designed to test the examinee's vocabulary and comprehension skills. The quantitative part is similarly divided into two sections of 20 objective math-based questions. The analytical part consists of two sections - the issue section and the argument section. The examinee is expected to write two essays - one analyzing the given issue and one analyzing the given argument. For the exam, the first two sections to appear are analytical, followed by alternating quantitative and verbal sections.
                             
 In addition, the GRE also has an unscored research section, which ETS uses to set questions for later iterations of the same exam. Of course, one won't be told which section is the research section, since that defeats the purpose of having a research section. ETS expects one to treat every section as if it counted towards one's score (So in addition to paying them 217 USD for the privilege of writing the exam, one also gets to act as an unpaid test subject). If one does badly on a section, one need not lose hope - one can convince oneself it was the research section and move on.                                                           
 
 The maximum possible score in the GRE is 340; 170 in Quantitative, 170 in Verbal.
 The lowest possible score (obtained by showing up to the exam hall and doing nothing else) is 260.
 So the effective range of the score is 80; 40 for Quantitative and 40 for Verbal.
-We do not fully understand why ETS chose to shift the scale up by 260 (We speculate that it is to make scores look better than they actually are, at least to people who don't understand how the GRE system works)
+I do not fully understand why ETS chose to shift the scale up by 260 (I speculate that it is to make scores look better than they actually are, at least to people who don't understand how the GRE system works).
 
 
 ## The importance of GRE for applications:
-Some universities are waiving off GRE (ie. not considering GRE scores any more. But it’s always safe to write the exam).
+Some universities are waiving off GRE (i.e. not considering GRE scores any more. But it’s always safe to write the exam).
 
 Universities consideration of GRE:
 - Required: When GRE is required, you obviously need to submit your scores in order to apply for the program.
@@ -38,7 +38,7 @@ Universities consideration of GRE:
 - Optional: In this case, you can choose to not submit your scores. If, however, your GPA is low or if you have already taken the GRE, it is better to submit the score as it will improve your profile.
 - Not accepted: In this case, the university will not give any field in the application to fill in your GRE scores, and even sending the score to the university will be of no use as they won’t consider it.
 
-## Why we chose to write the GRE:
+## Why I chose to write the GRE:
 
 I came to know about this exam from a webinar on higher studies which I attended a year earlier. The instructor gave us particularly tricky questions from the GRE in an attempt to make us think the exam was difficult (and convince us to buy his company's test-prep products). After I failed to answer half the questions in the webinar, I felt that the GRE would be an interesting challenge. I asked my seniors (Sibibalan 'Sibi' Jeevanandam, Debeshee Das and Shreyansh Mehra, who I would like to thank for the guidance they provided) for information about the exam and guidance on how to prepare for it.
 
@@ -52,14 +52,14 @@ Shortly after I began preparation, Aashrith Sai Madasu contacted me and told me 
 
 The questions in this section are extremely easy; those who prepared for JEE Advanced will find this to be a cakewalk (provided their math skills haven't atrophed). I was pleasantly surprised by this fact, but also slightly worried since I am prone to making silly mistakes. I personally prefer a very hard paper which nobody completes over an easy paper where people easily get full. I remember constantly worrying that messing up a single question will cause me to lose a perfect score. As a consequence, I used to write several practice papers and spent hours poring over every mistake I made.
 
-When I finally took a practice test, I was surprised to see that I had scored 170 despite making two errors. Intrigued, I did some research and came to know that one need not answer every question correctly to get a perfect score. The GRE has an interesting system of [adaptive difficulty](https://www.ets.org/gre/revised_general/scores/how/) - those who do well in the first section are given harder papers in the second section and vice versa. The harder paper comes with a score bonus (and the easier paper comes with a score reduction). Knowing that this would offset any silly mistake I made, I turned my focus towards verbal.
+When I finally took a practice test, I was surprised to see that I had scored 170 despite making two errors. Intrigued, I did some research and came to know that one need not answer every question correctly to get a perfect score. The GRE has an interesting system of [adaptive difficulty](https://www.ets.org/gre/test-takers/general-test/prepare/test-structure.html) - those who do well in the first section are given harder papers in the second section and vice versa. The harder paper comes with a score bonus (and the easier paper comes with a score reduction). Knowing that this would offset any silly mistake I made, I turned my focus towards verbal.
 
 The trickiest parts of this section are not tricky because of the math; rather, they are tricky because of the deceptive wording of questions. For instance, consider this:
 <details>
 <summary>
 "There are 64 students in a class. 48 study German and 60 study Spanish. What is the maximum possible number of students who are studying both Spanish and German?"
 </summary>
-If you answered 42, we urge you to read the question again.
+If you answered 42, I urge you to read the question again.
 
 The question does not state that every student studies either Spanish or German; there could be students who are studying neither.
 </details>
@@ -74,7 +74,7 @@ I personally found that learning the etymology of a word really helps me to reme
 
 Consider the word 'antebellum'. Knowing that 'ante' is the latin prefix meaning 'before' and that 'bellum' is the latin root word for war, one can guess that 'antebellum' refers to the time before the war. Consider a phrase like "Bellum omnium contra omnes" - knowing that 'omnis' is the latin root word for 'all' and that 'contra' is the latin prefix for 'against', one can infer the phrase's meaning - "a war of all against all". 
 
-While I did not spend too much time brushing up on Greek and Latin, I feel that the time I did spend helped my vocabulary skills a lot. The benefit of doing this extends far beyond the GRE - anyone learning biology, philosophy or Romance languages can attest to the importance of having a working knowledge of Greek and Latin vocabulary.
+While I did not spend too much time brushing up on Greek and Latin, I feel that the time I did spend helped my vocabulary skills a lot. The benefit of doing this extends far beyond the GRE - anyone learning biology, philosophy or romance languages can attest to the importance of having a working knowledge of Greek and Latin vocabulary.
 
 The skills required for comprehension-based questions are completely different. One must be able to read and understand passages quickly. The comprehensions could broadly be divided into a few types:
 1) Science (usually my favorite - easy to understand and reason through)
@@ -85,17 +85,17 @@ The skills required for comprehension-based questions are completely different. 
 I found these questions the most difficult since they were usually very time-consuming and mentally exhausting. I would occasionally get lucky with a piece about something I was well-read on, only for the next piece to be about something whose existence I did not know about.
 Throughout preparation, my skills in this area showed only marginal improvement. Most of the mistakes I made in the verbal sections were usually in such questions.
 
-It is generally recommended to read publications like [Scientific American](https://www.scientificamerican.com), [MIT Technology Review](https://www.technologyreview.com), [Harvard Business Review](https://hbr.org/magazine), [Wall Street Journal](https://www.wsj.com/) and [The Economist](https://www.economist.com/) for practice with comprehension. While we agree that this is a useful strategy for those who struggle with comprehension, we feel that this does not really help one pinpoint the correct option from a list of similar options. 
+It is generally recommended to read publications like [Scientific American](https://www.scientificamerican.com), [MIT Technology Review](https://www.technologyreview.com), [Harvard Business Review](https://hbr.org/magazine), [Wall Street Journal](https://www.wsj.com/) and [The Economist](https://www.economist.com/) for practice with comprehension. While I agree that this is a useful strategy for those who struggle with comprehension, I feel that this does not really help one pinpoint the correct option from a list of similar options. 
 
 My strategy was to look at each option individually and decide whether to eliminate it or not. If more than one option remained at the end, I would sort them based on relevance and pick the best (if I had too much time on my hands after the section was over, I would come back to the question argue with myself if whether the second best option is actually the right option; I would try my best to pick out flaws with the chosen answer until I either ran out of flaws to pick out or picked out enough flaws to justify switching the answer).
 
 When doing verbal questions, one either gets the answer immediately (almost like a voice in one's head whispering the answer before one finishes reading the question) or spends a long time debating the relative merits of the presented options (almost like a second voice interrupting the first voice and proceeding to argue with it, while a third voice laughs in the background). The problem is that ETS designs some questions such that the first answer one thinks of is wrong. After encountering such questions, one learns that the first impulse must always be questioned (hence the joke among GRE aspirants - "if the answer you got is option A, redo the question").
 
-In conclusion, this section is the most difficult for the average engineering student. We advise all GRE aspirants to put a lot of effort into preparing for this section.
+In conclusion, this section is the most difficult for the average engineering student. I advise all GRE aspirants to put a lot of effort into preparing for this section.
 
 ## Analytical Section:
 
-Practicing for this section was an easy task, since 200 or so [essay](https://www.ets.org/gre/revised_general/prepare/analytical_writing/issue/pool) [prompts](https://www.ets.org/gre/revised_general/prepare/analytical_writing/argument/pool) have been published by ETS. What is more, it is almost certain that the prompt one gets on one's exam is picked from the pool of published prompts. My plan was to write two essays a day for two months (in the end, I had written only 10 essays in total). In addition, I wanted to brush up on my history since it is said that using historical examples to back up claims in an argument essay significantly strengthens the case one makes in one's essay ("brushing up on history", in my case, consisted almost entirely of looking at history memes).
+Practicing for this section was an easy task, since 200 or so [essay](https://www.ets.org/content/dam/ets-org/pdfs/gre/issue-pool.pdf) [prompts](https://www.ets.org/content/dam/ets-org/pdfs/gre/argument-pool.pdf) have been published by ETS. What is more, it is almost certain that the prompt one gets on one's exam is picked from the pool of published prompts. My plan was to write two essays a day for two months (in the end, I had written only 10 essays in total). In addition, I wanted to brush up on my history since it is said that using historical examples to back up claims in an argument essay significantly strengthens the case one makes in one's essay ("brushing up on history", in my case, consisted almost entirely of looking at history memes).
 
 Since the essay was to be typed on a barebones text editor (not even a copy-paste function, let alone spell-check), I began using [Notepad++](https://notepad-plus-plus.org/) (with no extensions and autocomplete turned off) to practice the essay. The worst part was getting used to light-mode; I had headaches the first few times I wrote essays. It is said that there is a soft limit on the essay score - wordcount÷100. So I made sure that all my essays crossed 600 words. I initially felt that my typing skills would need improvement since I am not a fast typer, but it turned out that the bottleneck when it came to writing essays was not typing speed but the speed of thinking what to type.
 
@@ -117,11 +117,11 @@ So I began my essay with a quote from Optimus Prime, which was all I could recal
 (the "Freedom is the right of all sentient beings" quote, for anyone who is wondering)
 
 
-## Exam day:
+## Exam Day:
 
 I booked a slot in the afternoon to go write the exam (I am not a morning person, and the drive was three hours). I arrived well before the reporting time and ate breakfast (while watching an episode of Transformers (1984)). I did not do any last minute-prep or revision, to keep my mind clear. It was quite easy to remain calm before the exam since I knew that if I did badly, I could try again whenever I wished (the only consequence for failure was 217 USD).
 
-The exam center provided me with a pencil (they refused to give me a pen), a scratchpad and headphones (to block out the sound of all the keyboards in the exam hall). No water was allowed in the hall - we had to wait for a designated 10-minute break to drink water.
+The exam center provided me with a pencil (they refused to give me a pen), a scratchpad and headphones (to block out the sound of all the keyboards in the exam hall). No water was allowed in the hall - I had to wait for a designated 10-minute break to drink water.
 
 I was asked to sign an NDA before I started the exam, so I cannot reveal any concrete details about the contents of the exam. Though the exam was four hours long, it did not feel tiring. I had enough time during the break to eat some moong dal (I chose this for sentimental reasons - I had eaten the same thing during the break between paper 1 and paper 2 of Advanced) and drink water. As soon as the exam was over, my quantitative and verbal scores (unofficial) were displayed on the screen.
 
@@ -133,15 +133,15 @@ After the exam, I spent the last two days of summer trying to reverse-engineer t
 
 Overall, I feel that preparing for the GRE is better done over the long term with a couple of weeks of serious prep before the exam, rather than two whole months of dedicated preparation. I did not want to dedicate the whole summer to GRE, so I tried to cap the limit of time spent on prep at six hours per day (this did not matter - the most time I dedicated in a single day to prep was around 4 hours - the time taken to write a single practice test). Some people recommend taking 2 mock tests in a single day to build concentration and stamina which might be a critical factor for some of us. 
 
-Before we conclude, we take a moment to reiterate that the GRE plays a very small part in the overall application of a candidate. So we would advise others to work on other things like
+Before I conclude, I will take a moment to reiterate that the GRE plays a very small part in the overall application of a candidate. So I would advise others to work on other things like
 
 - CGPA
 - Doing good projects or research work (if one is planning for PhD or thesis based master’s)
-- Trying to get international internship opportunities (research ([MITACS](https://en.wikipedia.org/wiki/Mitacs), [DAAD WISE](https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=50015295), etc) or normal) 
-- Having  a good SOP and good LORs (They don’t have to write glowing recommendations, you just have to interact with them or work with them so that they can claim to know you well enough to recommend you)
+- Trying to get international internship opportunities (research ([MITACS](https://en.wikipedia.org/wiki/Mitacs), [DAAD WISE](https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=50015295), etc.) or normal) 
+- Having  a good SOP and good LORs (They don’t have to write glowing recommendations, you just have to interact with them or work with them so that they can claim to know you well enough to recommend you).
 
 A holistic evaluation will be done of a student’s profile.
 
-With all that said and done, if you are taking the GRE, we recommend you take it well before October 2022 if you are applying for Fall 2023, and similarly for future years. All the best for the exam, and Don’t Panic.
+With all that said and done, if you are taking the GRE, I recommend you take it well before October 2022 if you are applying for Fall 2023, and similarly for future years. All the best for the exam, and Don’t Panic!
 
 __Special thanks to  Aashrith Sai Madasu and Debeshee Das for contributing to this article.__

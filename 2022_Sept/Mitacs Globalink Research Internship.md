@@ -1,7 +1,7 @@
 ---
 title: "Mitacs Globalink Research Internship"
 category: "Experiences"
-date: "2022-09-01 12:00:00 +09:00"
+date: "2022-09-11 12:00:00 +05:30"
 desc: "One the other side of the big-blue ocean, Noble and Srikarah had one of the most happening, eventful and exciting summer internships one could hope for! Mitacs Globalilnk provides fully funded research internships in Canadian Universities while opening up a whole new avenue of opportunities and experiences. Walk through this detailed account to find out why this highly coveted and competitive internship is something you might want to try out!"
 thumbnail: "./images/mitacs-NobleSrikarah.jpg"
 authors: "Noble Saji Mathews, Srikarah Volaity"

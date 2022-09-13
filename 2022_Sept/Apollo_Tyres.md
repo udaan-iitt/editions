@@ -1,6 +1,6 @@
 ---
 title: "Summer Internship at Apollo Tyres Ltd."
-category: "Experience"
+category: "Experiences"
 date: "2022-09-11 12:00:00 +05:30"
 desc: "Apollo Tyres Ltd. is an Indian multinational tyre manufacturer based in Gurugram, Haryana. It also boasts a new 250-acre facility in Chinna Pandur village near Sri City in Tirupati district which manufactures both passenger car radial (PCR) tyres and truck and bus radial (TBR) tyres. Rishitha talks about her experience working at the company with small insights for core people who wish to do a core internship."
 thumbnail: "./images/Apollo-Tyres-Rishita.jpg"

@@ -1,7 +1,7 @@
 ---
 title: "Internship Experience at IBM Research"
 category: "Experiences"
-date: "2022-09-01 12:00:00 +05:30"
+date: "2022-09-11 12:00:00 +05:30"
 desc: "Join Debeshee as she walks you through her interesting experience with open-source, software engineering research, playground swings, graphs, Bangalore traffic and unlimited pizza, at IBM Research!"
 thumbnail: "./images/IBM Debeshee.jpg"
 authors: "Debeshee Das"
