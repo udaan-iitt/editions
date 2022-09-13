@@ -243,7 +243,7 @@ export const author_info = [
     role: '',
     year: '',
     desc1:
-      'Noble. Just Noble is your go-to guy for everything tech. Apart from being the backbone of Udaan, he has 48 hours a day and makes magic happen with anything that has the slightest whiff of computers and technology. A guy who lives up to his name and beats the charts on the kindness scale, Noble is a fan of ‘sad non-love songs’ (which are shockingly hard to find) and quirky anime food.',
+      'Noble. Just Noble is your go-to guy for everything tech. Apart from being the backbone of Udaan, he has 48 hours a day and makes magic happen with anything that has the slightest whiff of computers and technology. A guy who lives up to his name and beats the charts on the kindness scale, Noble is a fan of ‘sad non-love songs’ (which are shockingly hard to find), a Potterhead, and loves a quirky anime or a good mystery novel',
     desc2:
       '',
     link: '',
@@ -321,7 +321,7 @@ export const author_info = [
     role: '',
     year: '',
     desc1:
-      ' Srinivaas is a final year Chemical Engineering Undergraduate at IIT Tirupati and is one of the most sincere and dedicated but down-to-earth students you would come across. He has amazing general knowledge and will definitely take you on a deep dive into Indian History and Mythology if given the chance. He spends his free time on youtube, and you can find him watching cricket matches or vibing to classic Tamil songs and acting out action sequences (particularly Rajnikanth). He also loves to put on some sigma male music, slowly lift his lungi to get into some Kollywood attack poses and let out some flying air kicks!',
+      'Srinivaas is a final year Chemical Engineering Undergraduate at IIT Tirupati and is one of the most sincere and dedicated but down-to-earth students you would come across. He has amazing general knowledge and will definitely take you on a deep dive into Indian History and Mythology if given the chance.',
     desc2:
       '',
     link: '',
