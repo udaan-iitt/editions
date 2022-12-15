@@ -33,6 +33,12 @@ export const newsletter = [
     link: 'https://www.linkedin.com/in/anant-tyagi-80430a1ba',
   },
   {
+    key: 'deepmind',
+    email: 'deepmind1712@gmail.com?subject=Send me to know da wae',
+    title: 'Deepmind',
+    link: 'mailto:deepmind1712@gmail.com?subject=Send me to know da wae',
+  },
+  {
     key: 'sathyanarayann',
     email: 'ee20b046@iittp.ac.in',
     title: 'Sathyanarayann',
