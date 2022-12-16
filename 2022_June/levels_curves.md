@@ -10,6 +10,8 @@ abio: "NONE"
 alt: "Illegal_numbers"
 ---
 
+![https://imgur.com/T7zQu8I](https://imgur.com/T7zQu8I.png)
+
 In April 2007, the Advanced Access Content System (AACS) License Administrator and the Motion Picture Association (MPA) took legal action against those who published a particular number. This sixteen-byte prime was the encryption key used in HD DVDs and Blu-ray discs. When the cease and desist letters began to be sent to institutions which published this key, there was outrage. People do not take kindly to being told that there are numbers one cannot speak of. The whole idea of "owning" a number or making a number "illegal" seemed absurd. Predictably, the number began to be spread more and more by people who wanted to make it known to the AACS that their heavy-handed response to leaked keys was unacceptable, leading to the number in question becoming hugely popular. The number became a part of popular culture, finding itself in songs, poems, music videos and T-shirts. The number was compressed down to hexadecimal form and used to generate colours in the RGB scale, resulting in the creation of a "free speech flag" (pictured). 
 
 Enough beating around the bush.
