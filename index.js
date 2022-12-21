@@ -98,6 +98,12 @@ export const newsletter = [
     title: 'Saurabh Kumar',
     link: 'https://www.linkedin.com/in/saurabh-kumar-089ab4241',
   },
+  {
+    key: 'keshav',
+    email: 'cs21b027@iittp.ac.in',
+    title: 'Keshav',
+    link: 'https://www.linkedin.com/in/keshav-manjhi-a8a2a321b',
+  },
 ];
 export const pastmembers = [
   {
