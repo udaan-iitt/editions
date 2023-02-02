@@ -136,7 +136,7 @@ On the second day, events such as *Squid Games, JAM, Ideathon, and Treasure Hunt
 The last and the final day witnessed events such as *Robosphera, Crime Busters, Talky Jockey*, and many more. Apart from these events, *Data Science and Ethical Hacking* workshops were conducted. The fest came to an end on a very high note. As a part of the pro show, we had *DJ Esha* and *Ashtrix* whose energetic beats brought dancers out of everybody and left the students with a night to remember.
 <br>
 
-The fest proved to be an amazing and memorable experience. Despite being hybrid, Tirutsava 2022 proved to be a grand success. Many of the students got a chance to understand how things needed to be dealt with as they got a chance to work being part of various committees. With all the technical, cultural, and literary events, students got a chance to explore their talents and interests. To read a more detailed account on what goes on behind the scenes to pull off a success like Tirutsava 2022, [click here.](https://udaaniitt.in/editions/2022_June/Tirutsava_Behind_the_Scenes/)
+The fest proved to be an amazing and memorable experience. Despite being hybrid, Tirutsava 2022 proved to be a grand success. Many of the students got a chance to understand how things needed to be dealt with as they got a chance to work being part of various committees. With all the technical, cultural, and literary events, students got a chance to explore their talents and interests. To read a more detailed account on what goes on behind the scenes to pull off a success like Tirutsava 2022, [click here.](https://udaaniitt.in/editions/2022_Summer/Tirutsava_Behind_the_Scenes/)
 
 ------
 

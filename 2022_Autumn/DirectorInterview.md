@@ -134,7 +134,7 @@ To all the people binging on your next show, take a break and make some friends.
 
 As pointed out rightly by our Director, letting go of the things that don’t align with your interests is a choice we could make. We can also agree that we have all been in situations as he described where we’d have loved to lash out and make things worse for the momentary satisfaction of relieving some stress. Perhaps we may take a leaf out of his book and experience the benefits of balancing our emotional urges.
 
-Approaching the end of an eventful evening, we decided to finish off with a classic Udaan Touch to the interview. Inspired by our article on a hypothetical [Second chance](https://udaaniitt.in/editions/2022_Jan/Secondchance/) at life for the final years, we asked our Director how his life would have been if not for his current line of choices.
+Approaching the end of an eventful evening, we decided to finish off with a classic Udaan Touch to the interview. Inspired by our article on a hypothetical [Second chance](https://udaaniitt.in/editions/2022_Winter/Secondchance/) at life for the final years, we asked our Director how his life would have been if not for his current line of choices.
 
 **If not engineering, what would you have done?**
 
