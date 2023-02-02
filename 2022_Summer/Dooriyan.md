@@ -5,7 +5,7 @@ date: "2022-06-29 12:55:00 +09:00"
 desc: "My heart will beat for you, doesn't matter how far you are. But will you even remember me when you will leave me alone?"
 thumbnail: "./images/Dooriyan.jpg"
 authors: "Amrit Singh Gill"
-starred: "false"
+starred: false
 abio: "NONE"
 alt: "Dooriyan"
 ---

@@ -3,9 +3,9 @@ title: "The Boy: A review"
 category: "Review"
 date: "2021-06-02 12:00:00 +09:00"
 desc: "I couldn't sleep until late-night after watching this"
-thumbnail: "./images/ed2/theboy.jpg"
+thumbnail: "./images/theboy.jpg"
 authors: "Anush Mangal"
-starred: "false"
+starred: false
 abio: "NONE"
 alt: "movie"
 ---
@@ -31,4 +31,3 @@ The movie&rsquo;s plot is well-defined as a whole. However, it seems ways too ab
 In short, the movie writer Stacey Menear has done an excellent job. You can undoubtedly watch this movie with your friends at night (or alone if you are not weak-hearted).
 
 If I were a movie critic (which I am not), I would give this movie three and a half stars (and I have cut the stars because I couldn&rsquo;t sleep until late-night after watching this).
-

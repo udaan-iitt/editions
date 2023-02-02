@@ -3,13 +3,12 @@ title: "The Chutney"
 category: "Experiences"
 date: "2021-06-05 12:00:00 +09:00"
 desc: "The title says it all. Its a chutney. Mishmash of ideas."
-thumbnail: "./images/ed2/chutney.jpg"
+thumbnail: "./images/chutney.jpg"
 authors: "The WireMan"
-starred: "false"
+starred: false
 abio: "NONE"
 alt: "Chutney"
 ---
-
 
 The standard ‘Mom’ alarm rings: “Beta, wake up, go buy two packets of milk and one coconut. Hurry up! The shops will close soon.” This has been my ever-reliable alarm during the lockdown. Online classes, assignment deadlines or whatever may it be, it rings every alternate day sharp at 7’o clock. On the days I am deep in my slumber, it’s my Dad who is the victim of this.
 
@@ -26,4 +25,3 @@ As I walked right down the middle of empty main roads, my mind was racing with a
 The recipe for a chutney remains the same, but with our own twists and variants. A gentle reminder of our own lives in a sense. I always had these words drilled into my head: “Be your better self, work hard and improve yourself.” During a pandemic, these words ring hollow. This is why I love the chutney. It doesn’t do anything different, it’s almost the same, but still is important. The same inexpensive dish brings satisfaction and smiles to millions of people. It shows you that even if you don’t do anything spectacular, your days can bring you a sense of satisfaction. Yes, there are deadlines, assignments, grades, and so on. But, none of these things are supposed to be important in the long run. You do your part and leave the rest. Just like the chutney.
 
 As I enter my home and wash my hands with soap, I hear an apologetic voice: “Beta, I forgot. We needed coriander too.” Me, slightly annoyed that I will probably have to wash my hands again, decide to go out again. Coriander. Hmm. Well, Coriander and Khichdi can be our next topic, why not?
-

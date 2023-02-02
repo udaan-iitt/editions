@@ -5,7 +5,7 @@ date: "2021-06-06 10:00:00 +09:00"
 desc: "The Goldman Sachs Group, Inc. is a leading global financial institution that delivers a broad range of financial services. Explore the journey of interning at Goldman Sachs with Sai Datta."
 thumbnail: "./images/goldman.jpg"
 authors: "Sai Datta"
-starred: "false"
+starred: false
 abio: "NONE"
 alt: "Goldman Sachs"
 ---

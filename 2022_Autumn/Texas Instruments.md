@@ -5,7 +5,7 @@ date: "2022-09-11 12:00:00 +05:30"
 desc: "Electronics or Electrical? Analog or Digital? Join Venkata Saket Ram Goteti as he narrates how an Electronics lover had to intern as an Ananlog Design Intern at the world's leading semiconductor manufacturing company Texas Instruments"
 thumbnail: "./images/Texas-Goteti.jpg"
 authors: "Venkata Saket Ram Goteti"
-starred: "false"
+starred: false
 abio: ""
 alt: "Internship Experience at Texas Instruments"
 ---

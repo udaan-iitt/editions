@@ -5,7 +5,7 @@ date: "2022-06-29 12:17:00 +09:00"
 desc: "A poem about the perpetuality of love, loss and reality"
 thumbnail: "./images/Besotted_Again.jpg"
 authors: "Iftekhar Ahmed"
-starred: "false"
+starred: false
 abio: "NONE"
 alt: "Besotted Again"
 ---

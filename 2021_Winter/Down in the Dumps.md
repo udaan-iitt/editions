@@ -1,11 +1,11 @@
 ---
-title: 'Down in the Dumps'
+title: "Down in the Dumps"
 category: "Poetry"
 date: "2021-01-27 12:00:00 +09:00"
 desc: "“If you weren't built for this life, you'd be dead by now. I think the problem is people don't share enough of their pain with the world, so they never know who else is in pain, too, and what others are going through. We're never really alone in anything.” — Darnell Lamont Walker"
-thumbnail: "./images/ed1/mhealth.jpg"
+thumbnail: "./images/mhealth.jpg"
 authors: "Anant Tyagi"
-starred: "false"
+starred: false
 abio: "NONE"
 alt: "mental health"
 ---

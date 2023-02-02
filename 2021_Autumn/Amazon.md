@@ -5,7 +5,7 @@ date: "2021-06-06 10:00:00 +09:00"
 desc: "Amazon.com, Inc is a multinational conglomerate which focuses on e-commerce, cloud computing, digital streaming, and artificial intelligence. Join Arpit and Sudheesh as they share their internship experiences at Amazon!"
 thumbnail: "./images/amazon.jpg"
 authors: "Arpit and Sudheesh"
-starred: "false"
+starred: false
 abio: "NONE"
 alt: "amazon"
 ---

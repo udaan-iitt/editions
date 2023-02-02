@@ -3,18 +3,16 @@ title: "Busting Misinformation on Covid-19"
 category: "Op-Ed"
 date: "2021-06-07 12:00:00 +09:00"
 desc: "This article will be exploring some of the myths surrounding Covid-19 and the extent to which they are true. The aim is to provide logic and reasoning to each of these myths, to help us understand why it is not rational to believe and practice them. This would help clarify their credibility and prevent unnecessary fear against information that has no scientific basis."
-thumbnail: "./images/ed2/covid.jpg"
+thumbnail: "./images/covid.jpg"
 authors: "Krithi, Sneha, Prabhat"
-starred: "false"
+starred: false
 abio: "NONE"
 alt: "emails"
 ---
 
-
 Curiosity is a fundamental human trait. We all tend to question and seek answers to quench our curiosity. Understandably, people living in isolation amidst the widespread pandemic are more likely to experience excessive panic and stress, kindling their interest to learn more about what the nation is currently fighting against. The only option available to avail these answers from the comfort of our homes, is from our very own search engines. With such a vast conflicting and contradictory collection of data we find in the depths of the net, it is no wonder there exists a right to a wrong and a good to a bad. In between wanting to do as much as possible to prevent getting affected by the virus and having no way to distinguish reliable information on the internet, we usually go with the most effortless “Better safe than sorry” approach which can prove to be harmful in some cases.
 
 This article will be exploring some of these myths and the extent to which they are true. The aim is to provide logic and reasoning to each of these myths and decipher them to help us understand why it is not rational to believe and practice them. This would help clarify their credibility and prevent unnecessary fear against information that has no scientific basis.
-
 
 # Table of Contents
 
@@ -40,25 +38,22 @@ This article will be exploring some of these myths and the extent to which they 
 20. [Cow urine doesn’t cure COVID.](#cow-urine-does-not-cure-covid)
 21. [Believing you’ll recover from COVID will help you, but doing only that will not help you.](#covid-and-positivity)
 
-
-
 <a id="are-vaccines-safe-and-effective"></a>
 
 # The vaccines have been developed so quickly; are they truly safe?
 
 Developing a vaccine indeed involves years of research. Earlier, the vaccine development involved a series of steps, but in the case of the coronavirus vaccine, the scientists and regulators worked in tandem, accelerating the whole process without compromises on any protocols and any step. The vaccines approved in India have proven to be effective with some mild side effects as stated below.
 
-*Covishield*: Some mild symptoms may occur like injection site tenderness, injection site pain, headache, fatigue, myalgia, malaise, pyrexia, chills and arthralgia, nausea.
+_Covishield_: Some mild symptoms may occur like injection site tenderness, injection site pain, headache, fatigue, myalgia, malaise, pyrexia, chills and arthralgia, nausea.
 
-*Covaxin*: Some mild symptoms or AEFIs (Adverse event following immunization) may occur, like injection site pain, headache, fatigue, fever, body ache, abdominal pain, nausea and vomiting, dizziness-giddiness, tremor, sweating, cold, cough, and injection site swelling. No other vaccine-related serious adverse effects have been reported.
+_Covaxin_: Some mild symptoms or AEFIs (Adverse event following immunization) may occur, like injection site pain, headache, fatigue, fever, body ache, abdominal pain, nausea and vomiting, dizziness-giddiness, tremor, sweating, cold, cough, and injection site swelling. No other vaccine-related serious adverse effects have been reported.
 
 Despite these side effects, the vaccines seem to be effective. **Vaccine effectiveness studies show that they reduce the risk of COVID-19, including severe illness, in fully vaccinated people.** Research also suggests that getting two doses of vaccine is better than a single dose.
 
 References:
 
--   [What are the expected immediate and delayed side effects of this vaccine? - India Times](https://economictimes.indiatimes.com/industry/miscellaneous/india-comes-out-with-a-list-of-detailed-answers-for-faqs-on-covid-19-vaccines/what-are-the-expected-immediate-and-delayed-side-effects-of-this-vaccine/slideshow/81387415.cms)
--   [COVID-19 Vaccines Work | CDC](https://www.cdc.gov/coronavirus/2019-ncov/vaccines/effectiveness/work.html)
-
+- [What are the expected immediate and delayed side effects of this vaccine? - India Times](https://economictimes.indiatimes.com/industry/miscellaneous/india-comes-out-with-a-list-of-detailed-answers-for-faqs-on-covid-19-vaccines/what-are-the-expected-immediate-and-delayed-side-effects-of-this-vaccine/slideshow/81387415.cms)
+- [COVID-19 Vaccines Work | CDC](https://www.cdc.gov/coronavirus/2019-ncov/vaccines/effectiveness/work.html)
 
 <a id="waiting-period-before-vaccination-after-recovery"></a>
 
@@ -68,8 +63,7 @@ As per the new guidelines released by the National Expert Group On Vaccine Admin
 
 Reference:
 
--   [New Recommendations of NEGVAC - Union Ministry of Health and Family Welfare](https://pib.gov.in/PressReleasePage.aspx?PRID=1719925)
-
+- [New Recommendations of NEGVAC - Union Ministry of Health and Family Welfare](https://pib.gov.in/PressReleasePage.aspx?PRID=1719925)
 
 <a id="waiting-period-before-donating-blood-after-vaccination"></a>
 
@@ -79,8 +73,7 @@ As per the new guidelines released by the National Expert Group On Vaccine Admin
 
 Reference:
 
--   [New Recommendations of NEGVAC - Union Ministry of Health and Family Welfare](https://pib.gov.in/PressReleasePage.aspx?PRID=1719925)
-
+- [New Recommendations of NEGVAC - Union Ministry of Health and Family Welfare](https://pib.gov.in/PressReleasePage.aspx?PRID=1719925)
 
 <a id="nebulizer-not-a-replacement-for-oxygen-cylinder"></a>
 
@@ -90,9 +83,8 @@ Firstly, let’s understand what a nebulizer is. It is “a machine that turns l
 
 References:
 
--   [Fact check: No, nebulizer cannot be used as substitute for oxygen cylinder | Deccan Herald](https://www.deccanherald.com/national/fact-check-no-nebulizer-cannot-be-used-as-substitute-for-oxygen-cylinder-978547.html)
--   [Oxygen saturation of 92 or 93 should not be considered critical, says Randeep Guleria | The Hindu](https://www.thehindu.com/news/national/oxygen-saturation-of-92-or-93-should-not-be-considered-critical-says-randeep-guleria/article34498589.ece)
-
+- [Fact check: No, nebulizer cannot be used as substitute for oxygen cylinder | Deccan Herald](https://www.deccanherald.com/national/fact-check-no-nebulizer-cannot-be-used-as-substitute-for-oxygen-cylinder-978547.html)
+- [Oxygen saturation of 92 or 93 should not be considered critical, says Randeep Guleria | The Hindu](https://www.thehindu.com/news/national/oxygen-saturation-of-92-or-93-should-not-be-considered-critical-says-randeep-guleria/article34498589.ece)
 
 <a id="vaccine-does-not-make-you-impotent"></a>
 
@@ -102,8 +94,7 @@ This is a common misconception regarding many vaccines, not just Covid-19. Peopl
 
 Reference:
 
--   [India Covid-19: Misleading claims shared about vaccines - BBC News](https://www.bbc.com/news/55768656)
-
+- [India Covid-19: Misleading claims shared about vaccines - BBC News](https://www.bbc.com/news/55768656)
 
 <a id="vaccine-does-not-contain-pork"></a>
 
@@ -113,9 +104,8 @@ Some Islamic scholars in India have said that no Muslim should have Covid-19 vac
 
 References:
 
--   [India Covid-19: Misleading claims shared about vaccines - BBC News](https://www.bbc.com/news/55768656)
--   [No pork-derived products: AstraZeneca counters Indonesian Muslims&rsquo; concern over Covid-19 Vaccine | India Today](https://www.indiatoday.in/coronavirus-outbreak/vaccine-updates/story/no-pork-derived-products-astrazeneca-counters-indonesian-muslim-concern-covid-19-vaccine-1781874-2021-03-21)
-
+- [India Covid-19: Misleading claims shared about vaccines - BBC News](https://www.bbc.com/news/55768656)
+- [No pork-derived products: AstraZeneca counters Indonesian Muslims&rsquo; concern over Covid-19 Vaccine | India Today](https://www.indiatoday.in/coronavirus-outbreak/vaccine-updates/story/no-pork-derived-products-astrazeneca-counters-indonesian-muslim-concern-covid-19-vaccine-1781874-2021-03-21)
 
 <a id="vaccine-does-not-contain-microchip"></a>
 
@@ -125,8 +115,7 @@ Once again this proves how social media is a hub for the spread of misinformatio
 
 Reference:
 
--   [India Covid-19: Misleading claims shared about vaccines - BBC News](https://www.bbc.com/news/55768656)
-
+- [India Covid-19: Misleading claims shared about vaccines - BBC News](https://www.bbc.com/news/55768656)
 
 <a id="take-precautions-after-vaccination"></a>
 
@@ -136,8 +125,7 @@ There are so many cases of vaccinated people getting affected by Covid. Ain’t 
 
 Reference:
 
--   [Can you resume normal life after taking Covid-19 vaccine? - Coronavirus Outbreak | India Today](https://www.indiatoday.in/coronavirus-outbreak/story/resume-normal-life-after-taking-covid-19-vaccine-mask-1795861-2021-04-28)
-
+- [Can you resume normal life after taking Covid-19 vaccine? - Coronavirus Outbreak | India Today](https://www.indiatoday.in/coronavirus-outbreak/story/resume-normal-life-after-taking-covid-19-vaccine-mask-1795861-2021-04-28)
 
 <a id="vaccinate-after-getting-infected"></a>
 
@@ -149,9 +137,8 @@ However, immune protection is not always equal. The strength of the immune respo
 
 References:
 
--   [Yes, you should get a vaccine even if you’ve already had the coronavirus | Scroll](https://scroll.in/article/990792/yes-you-should-get-a-vaccine-even-if-youve-already-had-the-coronavirus)
--   [Reinfection with COVID-19 | CDC](https://www.cdc.gov/coronavirus/2019-ncov/your-health/reinfection.html)
-
+- [Yes, you should get a vaccine even if you’ve already had the coronavirus | Scroll](https://scroll.in/article/990792/yes-you-should-get-a-vaccine-even-if-youve-already-had-the-coronavirus)
+- [Reinfection with COVID-19 | CDC](https://www.cdc.gov/coronavirus/2019-ncov/your-health/reinfection.html)
 
 <a id="non-vegetarian-food-and-infection"></a>
 
@@ -161,8 +148,7 @@ This is one such myth circulating in social media and the internet. Please under
 
 Reference:
 
--   [COVID-19: Is It Safe To Consume Non-Vegetarian Foods? Know The Facts Here | Netmeds](https://www.netmeds.com/health-library/post/covid-19-is-it-safe-to-consume-non-vegetarian-foods-know-the-facts-here)
-
+- [COVID-19: Is It Safe To Consume Non-Vegetarian Foods? Know The Facts Here | Netmeds](https://www.netmeds.com/health-library/post/covid-19-is-it-safe-to-consume-non-vegetarian-foods-know-the-facts-here)
 
 <a id="lemonade-does-not-make-you-immune-to-covid"></a>
 
@@ -174,8 +160,7 @@ Lemons are high in vitamin C, a potent antioxidant that can improve your immune 
 
 Reference:
 
--   [Build Your Immunity to Fight Covid: Lemon juice in warm water - Lifestyle News | India Today](https://www.indiatoday.in/lifestyle/health/story/build-your-immunity-to-fight-covid-lemon-juice-in-warm-water-1795185-2021-04-26)
-
+- [Build Your Immunity to Fight Covid: Lemon juice in warm water - Lifestyle News | India Today](https://www.indiatoday.in/lifestyle/health/story/build-your-immunity-to-fight-covid-lemon-juice-in-warm-water-1795185-2021-04-26)
 
 <a id="alcohol-does-not-cure-covid"></a>
 
@@ -185,8 +170,7 @@ Okay, so where do we begin with this one? Although there is almost no backup log
 
 Reference:
 
--   [Alcohol and coronavirus (COVID-19): Myths and effects on the body | Medical News Today](https://www.medicalnewstoday.com/articles/alcohol-and-covid-19#summary)
-
+- [Alcohol and coronavirus (COVID-19): Myths and effects on the body | Medical News Today](https://www.medicalnewstoday.com/articles/alcohol-and-covid-19#summary)
 
 <a id="young-people-and-covid"></a>
 
@@ -196,8 +180,7 @@ With the escalating rise in the numbers in the wake of the second wave, it is be
 
 Reference:
 
--   [India Covid-19 fact check: Are more young people falling ill? Are vaccinated people getting infected? | CNN](https://edition.cnn.com/2021/05/03/india/india-coronavirus-fact-check-intl-hnk-dst/index.html)
-
+- [India Covid-19 fact check: Are more young people falling ill? Are vaccinated people getting infected? | CNN](https://edition.cnn.com/2021/05/03/india/india-coronavirus-fact-check-intl-hnk-dst/index.html)
 
 <a id="wearing-mark-does-not-reduce-oxygen-level"></a>
 
@@ -207,8 +190,7 @@ It is widely believed that face masks tend to reduce the oxygen supply and cause
 
 Reference:
 
--   [No, Face Masks Don&rsquo;t Lower Oxygen Levels | WebMD](https://www.webmd.com/lung/news/20201103/dont-believe-the-myth-face-masks-dont-lower-oxygen-levels#1)
-
+- [No, Face Masks Don&rsquo;t Lower Oxygen Levels | WebMD](https://www.webmd.com/lung/news/20201103/dont-believe-the-myth-face-masks-dont-lower-oxygen-levels#1)
 
 <a id="coronavirus-and-heat"></a>
 
@@ -218,8 +200,7 @@ This myth stems from the common belief that hot temperatures kill germs. While t
 
 Reference:
 
--   [Will Heat Kill the COVID-19 Spread This Summer? | WebMD](https://www.webmd.com/lung/coronavirus-heat)
-
+- [Will Heat Kill the COVID-19 Spread This Summer? | WebMD](https://www.webmd.com/lung/coronavirus-heat)
 
 <a id="amount-of-alcohol-in-sanitizer"></a>
 
@@ -229,8 +210,7 @@ When we come into contact with an object/a person with traces of the virus, the 
 
 Reference:
 
--   [How much alcohol should hand sanitizer contain? Efficacy and more | Medical News Today](https://www.medicalnewstoday.com/articles/how-much-alcohol-should-hand-sanitizer-contain)
-
+- [How much alcohol should hand sanitizer contain? Efficacy and more | Medical News Today](https://www.medicalnewstoday.com/articles/how-much-alcohol-should-hand-sanitizer-contain)
 
 <a id="thermal-scanners-cannot-detect-covid"></a>
 
@@ -240,8 +220,7 @@ All public places like grocery shops, malls, examination centres, etc use therma
 
 Reference:
 
--   [Mythbusters | WHO](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters#thermal-scanners)
-
+- [Mythbusters | WHO](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters#thermal-scanners)
 
 <a id="spraying-alcohol-on-body"></a>
 
@@ -251,8 +230,7 @@ Disinfectants such as alcohol and chlorine are useful to decontaminate surfaces 
 
 Reference:
 
--   [Mythbusters – India Research Center | hsph.harvard.edu](https://www.hsph.harvard.edu/india-center/myths-vs-facts/)
-
+- [Mythbusters – India Research Center | hsph.harvard.edu](https://www.hsph.harvard.edu/india-center/myths-vs-facts/)
 
 <a id="5g-cannot-cause-covid"></a>
 
@@ -262,8 +240,7 @@ This myth gives a stark flashback of the times when you tell your parents that y
 
 Reference:
 
--   [5G Doesn’t Cause COVID-19, But the Rumor It Does Spread Like a Virus | SPH](https://www.bu.edu/sph/news/articles/2021/5g-doesnt-cause-covid-19-but-myth-went-viral/)
-
+- [5G Doesn’t Cause COVID-19, But the Rumor It Does Spread Like a Virus | SPH](https://www.bu.edu/sph/news/articles/2021/5g-doesnt-cause-covid-19-but-myth-went-viral/)
 
 <a id="cow-urine-does-not-cure-covid"></a>
 
@@ -273,12 +250,10 @@ In today’s edition of “How did we even come up with this”, we have a bizar
 
 Reference:
 
--   [Cow urine, bleach, oregano oil: Medical COVID-19 quackery has big ramifications for public health | CBC](https://www.cbc.ca/news/canada/edmonton/false-advertising-covid-19-fake-medical-advice-1.5520301)
-
+- [Cow urine, bleach, oregano oil: Medical COVID-19 quackery has big ramifications for public health | CBC](https://www.cbc.ca/news/canada/edmonton/false-advertising-covid-19-fake-medical-advice-1.5520301)
 
 <a id="covid-and-positivity"></a>
 
 # Believing you’ll recover from COVID will help you, but doing only that will not help you.
 
 Having a positive mindset can be very helpful in dealing with this situation, even in its highs and lows. However, it is necessary to extend the positive mindset to following preventive measures to help avoid the virus. Just believing that one will not get affected by the virus and not wearing a mask or practising social distancing norms will not help in any way. While it is a good practice to have a healthy mindset and reassure the affected people with positivity and hope, one must also follow and spread awareness on the right protocols to follow during this pandemic.
-

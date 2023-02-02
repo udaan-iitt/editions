@@ -5,7 +5,7 @@ date: "2022-09-11 12:00:00 +05:30"
 desc: "Gagan’s shenanigans at AjnaLens - The Good, The Great and The Amazing"
 thumbnail: "./images/ajnalens-Gagan.png"
 authors: "Gagan Hegde"
-starred: "false"
+starred: false
 abio: ""
 alt: "Internship Experience at AjnaLens"
 ---

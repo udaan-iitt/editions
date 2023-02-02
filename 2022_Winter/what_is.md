@@ -5,7 +5,7 @@ date: "2021-01-28 10:00:00 +09:00"
 desc: "What is life? What is love? What even are dreams? Well Iftekar might have the answers you’re looking for!"
 thumbnail: "./images/turth.jpg"
 authors: "Iftekhar Ahmed"
-starred: "false"
+starred: false
 abio: "NONE"
 alt: "What is...?"
 ---

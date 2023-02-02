@@ -5,7 +5,7 @@ date: "2021-01-30 11:00:00 +09:00"
 desc: "Some fourth years were asked what would they do differently if they could go back in time and do B.Tech again. We asked another fourth year to react to these responses. Was it a toast or a roast?"
 thumbnail: "./images/timetravel.jpg"
 authors: "Some fourth years"
-starred: "true"
+starred: true
 abio: "NONE"
 alt: "A Second Chance?"
 ---

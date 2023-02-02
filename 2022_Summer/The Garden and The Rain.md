@@ -5,7 +5,7 @@ date: "2022-06-29 12:37:00 +09:00"
 desc: "How fleeting is beauty? Catch yourself in a lovely garden, before the rain catches you"
 thumbnail: "./images/The_Garden_and_The_Rain.jpg"
 authors: "Iftekhar Ahmed"
-starred: "false"
+starred: false
 abio: "NONE"
 alt: "The Garden and the Rain"
 ---

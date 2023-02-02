@@ -5,7 +5,7 @@ date: "2021-06-06 10:00:00 +09:00"
 desc: "Read this brutally honest feedback by Sarvesh to find out more about his internship at Prima Innotech LLC"
 thumbnail: "./images/primainnotech.jpg"
 authors: "Sarvesh"
-starred: "false"
+starred: false
 abio: "NONE"
 alt: "Prima Innotech LLC"
 ---

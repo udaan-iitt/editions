@@ -6,7 +6,7 @@ desc: "One the other side of the big-blue ocean, Noble and Srikarah had one of t
 thumbnail: "./images/mitacs-NobleSrikarah.jpg"
 authors: "Noble Saji Mathews, Srikarah Volaity"
 abio: ""
-starred: "False"
+starred: false
 alt: "Internship Experience Mitacs"
 ---
 

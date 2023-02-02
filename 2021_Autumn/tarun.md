@@ -5,7 +5,7 @@ date: "2021-06-06 10:00:00 +09:00"
 desc: "GSoC, is an international annual program in which Google awards stipends to students who successfully complete a free and open-source software coding project during the summer. Take a read on Tarun’s summer internship at Google Summer of Code"
 thumbnail: "./images/gsoc.jpg"
 authors: "Tarun"
-starred: "false"
+starred: false
 abio: "NONE"
 alt: "GSOC"
 ---

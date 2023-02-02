@@ -5,7 +5,7 @@ date: "2021-06-06 10:00:00 +09:00"
 desc: "Texas Instruments, Dallas-based pioneer developer of silicon transistors, pocket calculators, and semiconductor microprocessors, produces a wide range of electronics and hardware. Take a look at Soumitro’s Internship Experience at Texas Instruments."
 thumbnail: "./images/texas.jpg"
 authors: "Soumitro"
-starred: "false"
+starred: false
 abio: "NONE"
 alt: "texas"
 ---

@@ -5,7 +5,7 @@ date: "2022-06-28 12:30:00 +09:00"
 desc: "A comical tribute to the secretaries and coordinators of the year 2021-2022, for all the work and effort that goes behind what we see"
 thumbnail: "./images/Puppet_Show.jpg"
 authors: "Krithi, Debeshee, Sneha M S, Sneha Battula"
-starred: "true"
+starred: true
 abio: "NONE"
 alt: "The Puppet Show"
 ---

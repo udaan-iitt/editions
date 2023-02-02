@@ -5,7 +5,7 @@ date: "2021-01-28 10:00:00 +09:00"
 desc: "We dedicate this article to our freshers, answering some of their common queries.  Ranging from academics to college life experiences, read on to find out some useful information!"
 thumbnail: "./images/faq.jpg"
 authors: "IITT Family"
-starred: "true"
+starred: true
 abio: "NONE"
 alt: "Freshers Asked Questions"
 ---

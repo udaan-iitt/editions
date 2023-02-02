@@ -5,7 +5,7 @@ date: "2022-09-11 12:00:00 +05:30"
 desc: "Join us as we decode our Director’s lesser-known side, filled with interesting angles on what it took to get to his position, his favourite weather, academia versus industry, and more!"
 thumbnail: "./images/Director.jpg"
 authors: "Debeshee Das, Sneha M S, Krithi Shailya, Sneha Battula"
-starred: "true"
+starred: true
 abio: ""
 alt: "Interview with Director"
 ---

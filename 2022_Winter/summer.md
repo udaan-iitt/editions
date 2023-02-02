@@ -5,7 +5,7 @@ date: "2021-01-28 10:00:00 +09:00"
 desc: "They say love heals, but what if it’s not meant to be? Join Sarvesh to see the scars of love that never heal."
 thumbnail: "./images/summer.jpg"
 authors: "Sarvesh Nikas"
-starred: "false"
+starred: false
 abio: "NONE"
 alt: "Summer"
 ---

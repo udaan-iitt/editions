@@ -5,7 +5,7 @@ date: "2022-06-29 12:56:00 +09:00"
 desc: "Our student run clubs have wrapped up yet another eventful academic year, part online and part offline. Despite this, they have managed to put together numerous events to keep our students busy and in touch with their extracurriculars to create a wholesome college experience. Let us take a fond look back at the amazing stuff our clubs have been upto."
 thumbnail: "./images/Clubact.jpg" 
 authors: "Sathyanarayann, Swathi "
-starred: "False"
+starred: false
 abio: "NONE"
 alt: "clubact"
 ---

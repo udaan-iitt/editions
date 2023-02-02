@@ -5,7 +5,7 @@ date: "2022-06-28 12:00:00 +09:00"
 desc: "Pride is a month-long celebration of LGBTQPIA2+ lives, history and culture. Despite the existence of thousands of Queer people in India, it is still considered very much taboo. The only way to make our society less ignorant and inclusive is by educating ourselves and opening our minds. This is an introductory guide to understanding Pride and why it is imperative that we talk about it more."
 thumbnail: "./images/pride101.jpg"
 authors: "Malavika, Sathyanarayann, Sneha Battula"
-starred: "true"
+starred: true
 abio: "NONE"
 alt: "Pride 101"
 ---

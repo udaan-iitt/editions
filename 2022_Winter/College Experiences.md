@@ -5,7 +5,7 @@ date: "2021-01-30 11:00:00 +09:00"
 desc: "Whether it 'hasn't been your day, your week, your month or even your year' or it has been the year of a lifetime, 2021 was a wild ride of emotions. So strap in and experience the emotions and memories that defined this past year for our authors!"
 thumbnail: "./images/ce.jpg"
 authors: "Students of IITT"
-starred: "true"
+starred: true
 abio: "NONE" 
 alt: "College Experiences - 2021 Edition"
 ---

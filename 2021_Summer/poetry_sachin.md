@@ -3,9 +3,9 @@ title: "जल है तो ही जीवन है (Hindi)"
 category: "Poetry"
 date: "2021-06-02 12:00:00 +09:00"
 desc: "This poem is a brief explanation about the omnipresence of water and its usefulness in our lifestyles."
-thumbnail: "./images/ed2/water.jpg"
+thumbnail: "./images/water.jpg"
 authors: "Sachin Kumar Sahu"
-starred: "false"
+starred: false
 abio: "NONE"
 alt: "Poetry Hindi"
 ---
@@ -14,7 +14,7 @@ alt: "Poetry Hindi"
 कोई जीव जंतु या पौधा,<br>
 जल के बिना पनप नहीं सकता।<br>
 पानी बिना देख लो जग में,<br>
- कोई जीवित रह नही सकता।<br>
+कोई जीवित रह नही सकता।<br>
 
 सुबह से काम शुरु पानी से,<br>
 खाना पीना सब पानी से।<br>

@@ -5,7 +5,7 @@ date: "2022-06-29 12:40:00 +09:00"
 desc: "From pepper spray and Clash of Clans to Julia and Panchayat, read on to experience a fantastic interview with Prof Raghavendra! "
 thumbnail: "./images/Raghavendra_Sir_cover.jpeg"
 authors: "Pranathi, Debeshee"
-starred: "false"
+starred: false
 abio: "NONE"
 alt: "Interview"
 ---

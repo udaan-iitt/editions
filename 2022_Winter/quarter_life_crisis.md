@@ -5,7 +5,7 @@ date: "2021-01-28 10:00:00 +09:00"
 desc: "Feel like you're too young to be having a midlife crisis? It's not uncommon for those in their 20s to be going through their own quarter-life crisis. Join Saurav on a journey of self exploration and empowerment."
 thumbnail: "./images/crisis.jpg"
 authors: "Saurav Gwalia and Sneha M S"
-starred: "false"
+starred: false
 abio: "NONE"
 alt: "Quarter Life Crisis"
 ---

@@ -5,7 +5,7 @@ date: "2022-06-29 12:22:00 +09:00"
 desc: "The most hurtful wounds are the ones that don't bleed. You're often haunted by the ghosts of your past. You can choose to hold yourself back, or heal yourself together. Whatever you decide, just leave the door open."
 thumbnail: "./images/Leave_the_door_open.jpg"
 authors: "Sathyanarayann"
-starred: "false"
+starred: false
 abio: "NONE"
 alt: "placeholder"
 ---

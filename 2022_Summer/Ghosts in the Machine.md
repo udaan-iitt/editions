@@ -5,7 +5,7 @@ date: "2022-06-29 12:25:00 +09:00"
 desc: "A stimulating analysis of an 'advertisement' that shows a lot more than it appears to show. Secrets, that you never knew existed. Facts, you always ignore."
 thumbnail: "./images/GhostsInTheMachine.png"
 authors: "Cosmic Cutie"
-starred: "false"
+starred: false
 abio: "NONE"
 alt: "Ghosts in the Machine- A Critique"
 ---

@@ -2,10 +2,10 @@
 title: "सच तो हो ना तुम? (Hindi)"
 category: "Poetry"
 date: "2021-06-02 12:00:00 +09:00"
-desc: "\"Sometimes I feel this was all a dream...\""
-thumbnail: "./images/ed2/pair.jpg"
+desc: '"Sometimes I feel this was all a dream..."'
+thumbnail: "./images/pair.jpg"
 authors: "Saurabh Kumar"
-starred: "false"
+starred: false
 abio: "NONE"
 alt: "Poetry Hindi 2"
 ---
@@ -17,7 +17,7 @@ alt: "Poetry Hindi 2"
 तुम तो सच हो ना?<br>
 तो आते क्यों नहीं नज़रों के सामने?<br>
 फिलहाल तो केवल सपनों में है दस्तक तुम्हारी, <br>
-सच तो हो ना तुम?क्या कहा? 
+सच तो हो ना तुम?क्या कहा?
 
 तुम्हारी ये जो बातें हैं,<br>
 बातें हैं या महज़ यादें हैं मेरी; <br>
@@ -26,7 +26,7 @@ alt: "Poetry Hindi 2"
 इन शब्दों को भी,<br>
 कि आखिर मतलब क्या हैं छिपा इनमें? <br>
 खैर, होता है प्यार कम जतानें से-कहा था तुमने। <br>
-वैसे सच तो हो न तुम?क्या कहा? 
+वैसे सच तो हो न तुम?क्या कहा?
 
 और ये जो तुम हो,<br>
 मेरे साथ हो या अपने में ही गुम हो?<br>
@@ -35,6 +35,6 @@ alt: "Poetry Hindi 2"
 क्या वजह चाहिए अब बातों के लिए?क्या कहा?<br>
 आखिर,सच तो हो न तुम?<br>
 या फिर यूं कहूँ- <br>
-"सच में तो हो न तुम;साथ मेरे?" 
+"सच में तो हो न तुम;साथ मेरे?"
 
--Sj 
+-Sj

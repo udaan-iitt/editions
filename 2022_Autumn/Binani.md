@@ -5,7 +5,7 @@ date: "2022-09-11 12:00:00 +05:30"
 desc: "It all has to begin somewhere. Join Arun as he narrates his journey from hunting for an internship to successfully completing one."
 thumbnail: "./images/binani.jpg"
 authors: "Arunkumar V"
-starred: "false"
+starred: false
 abio: ""
 alt: "Internship Experience at Binani Technologies"
 ---

@@ -5,7 +5,7 @@ date: "2021-01-28 10:00:00 +09:00"
 desc: "A collection of poems exploring the ups and downs of love while beautifully depicting how a mother’s love for her child is like nothing else in the world. "
 thumbnail: "./images/haal.jpg"
 authors: "Basharat Ahmad Wani"
-starred: "false"
+starred: false
 abio: "NONE"
 alt: "Haal-e-dil"
 ---

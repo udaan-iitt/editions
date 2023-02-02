@@ -3,9 +3,9 @@ title: "Test Page for Edition 2"
 category: "Test"
 date: "2022-05-20 12:00:00 +09:00"
 desc: "Testing out features to implement in Edition 2"
-thumbnail: "./images/ed2/aiw.jpg"
+thumbnail: "./images/aiw.jpg"
 authors: "Noble"
-starred: "false"
+starred: false
 abio: "NONE"
 alt: "Nooble"
 ---

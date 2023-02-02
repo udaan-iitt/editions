@@ -5,7 +5,7 @@ date: "2022-06-29 12:47:00 +09:00"
 desc: "This image was illegal to display. Here's why."
 thumbnail: "./images/Illegal_Numbers.png"
 authors: "Cosmic Cutie"
-starred: "false"
+starred: false
 abio: "NONE"
 alt: "Illegal_numbers"
 ---

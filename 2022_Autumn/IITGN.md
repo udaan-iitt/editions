@@ -5,7 +5,7 @@ date: "2022-09-11 12:00:00 +05:30"
 desc: "Take a look at Venkatasa’s resourceful research internship at IIT Gandhinagar as he talks about the world of electronics and the internet of things."
 thumbnail: "./images/IITGN-Venkatesa.jpg"
 authors: "J Venkatesa"
-starred: "false"
+starred: false
 abio: ""
 alt: "Internship Experience at IIT Gandhinagar"
 ---

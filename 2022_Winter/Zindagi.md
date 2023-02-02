@@ -5,7 +5,7 @@ date: "2021-01-28 10:00:00 +09:00"
 desc: "Join Abhishek in his ode to life and its challenges, with the spirit to prevail above it all."
 thumbnail: "./images/zindagi.jpg"
 authors: "Abhishek"
-starred: "false"
+starred: false
 abio: "NONE"
 alt: "कहानी सो रही है"
 ---

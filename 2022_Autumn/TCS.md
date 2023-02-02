@@ -5,7 +5,7 @@ date: "2022-09-11 12:00:00 +05:30"
 desc: "Aashrith talks about his internship at TCS Innovation Labs and working on the Vehicle Routing Problem using Reinforcement Learning"
 thumbnail: "./images/TCS-2.jpg"
 authors: "Aashrith Sai Madasu"
-starred: "false"
+starred: false
 abio: ""
 alt: "My Internship Experience at TCS Innovation Labs"
 ---

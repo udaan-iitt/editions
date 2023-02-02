@@ -3,13 +3,12 @@ title: "కర్షకుడి సమరభేరి (Telugu)"
 category: "Poetry"
 date: "2021-06-02 12:00:00 +09:00"
 desc: "The poem addresses the difficulties faced by farmers and the forbearence that they exhibit while fighting against those problems."
-thumbnail: "./images/ed2/farming.jpg"
+thumbnail: "./images/farming.jpg"
 authors: "Sri Vibhav J"
-starred: "false"
+starred: false
 abio: "NONE"
 alt: "Poetry Telugu"
 ---
-
 
 వరదలు, కరువులు, తుఫానులొచ్చి<br>
 చేతిన కాపు కొట్టుకుపోతే <br>
@@ -41,4 +40,3 @@ alt: "Poetry Telugu"
 నా శక్తి, యుక్తి, కలం, గళం, బలం, సకలం నీకు అంకితం<br>
 నీతో నే నిలబడతా ..!<br>
 నీకై నే నిలబడతా..!
-

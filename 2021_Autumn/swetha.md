@@ -5,7 +5,7 @@ date: "2021-06-06 10:00:00 +09:00"
 desc: "NVIDIA Corporation designs graphics processing units for the gaming and professional markets, as well as system on a chip units for the mobile computing and automotive market. Delve into Swetha’s summer internship experience at NVIDIA"
 thumbnail: "./images/nvidia.jpg"
 authors: "Swetha"
-starred: "false"
+starred: false
 abio: "NONE"
 alt: "NVIDIA"
 ---

@@ -5,7 +5,7 @@ date: "2022-09-11 12:00:00 +05:30"
 desc: "Join Debeshee as she walks you through her interesting experience with open-source, software engineering research, playground swings, graphs, Bangalore traffic and unlimited pizza, at IBM Research!"
 thumbnail: "./images/IBM_Debeshee.jpg"
 authors: "Debeshee Das"
-starred: "false"
+starred: false
 abio: ""
 alt: ""
 ---

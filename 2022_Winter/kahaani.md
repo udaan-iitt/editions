@@ -6,7 +6,7 @@ desc: "“Two roads diverged in a yellow wood, and sorry i could not travel both
 All of us ponder on the road not taken, but does it really matter if it all leads to the same?"
 thumbnail: "./images/kahaani.jpg"
 authors: "Amit Vikram Sharma"
-starred: "false"
+starred: false
 abio: "NONE"
 alt: "कहानी सो रही है"
 ---

@@ -3,9 +3,9 @@ title: "Just how fast the night changes"
 category: "Experiences"
 date: "2021-06-02 12:00:00 +09:00"
 desc: "A real life story with love from the owner of the cycle named Preeti"
-thumbnail: "./images/ed2/locked.jpg"
+thumbnail: "./images/locked.jpg"
 authors: "Sarvesh"
-starred: "false"
+starred: false
 abio: "NONE"
 alt: "Quarantine Stories"
 ---
@@ -14,7 +14,7 @@ alt: "Quarantine Stories"
 > and I have been thinking about it lately<br>
 > Does it ever drive you crazy<br>
 > Just how fast the night changes?<br>
-> 
+>
 > &#x2013; One Direction
 
 After spending ten days in quarantine, I walk towards room no. A-010. It&rsquo;s been a year, Aur Dil Dhak-Dhak Kar Rha Hai. I open the door, and a stream of rotten-stinky-rusty air comes out. The clothes that I had left hanging a year ago are still hanging, and my bed wrapped in a red-black bedsheet is no more.
@@ -32,4 +32,3 @@ Anyway, if we don&rsquo;t meet now, we can meet after ten years with hanging bel
 Enough of dreaming. Come back to reality. Really getting sleepy now. Gotta call it off. See you around if the campus reopens. If you have any suggestions or wanna rant about Corona or about your Love in the Time Of Corona, I would love to hear. Maybe make a canvas out of it and paint it with some fictitious characters. Maybe?
 
 P.S: When we get back to campus, and if anyone finds a bed wrapped in a red-black bedsheet, that is mine. Please return it.
-

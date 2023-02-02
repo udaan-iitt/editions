@@ -5,7 +5,7 @@ date: "2022-09-11 12:00:00 +05:30"
 desc: "Here's Bhargav sharing with you his amazing experience of pursuing an internship at Texas A&M University."
 thumbnail: "./images/opt-lasers-KshEaH06rV8-unsplash.jpg"
 authors: "Nama Bhargav Sri Sai"
-starred: "false"
+starred: false
 abio: ""
 alt: "TAMU Summer Internship Experience"
 ---

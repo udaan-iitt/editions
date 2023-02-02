@@ -3,9 +3,9 @@ title: "If nature could .. (Telugu)"
 category: "Poetry"
 date: "2021-01-07 12:00:00 +09:00"
 desc: "What could happen if sky was able to hear? What if water could roar? Nourish the poem penned down by Kishore Siga, as he paints a possibility where Nature is equipped with human senses."
-thumbnail: "./images/ed1/poetry_sad.jpg"
+thumbnail: "./images/poetry_sad.jpg"
 authors: "Kishore Siga"
-starred: "false"
+starred: false
 abio: "NONE"
 alt: "Poetry Heartbreak"
 ---
@@ -33,6 +33,3 @@ alt: "Poetry Heartbreak"
 <p style="text-align: center;align:center; margin-bottom:0px!important;">ఈ పంచభూతాలకు కరుణ ఉండి ఉంటే,</p>
 <p style="text-align: center;align:center; margin-bottom:0px!important;">ఈ కథలో జీవితాలని ముంచేస్తున్న </p>
 <p style="text-align: center;align:center; margin-bottom:0px!important;">కన్నీటి ప్రవాహాన్ని అడ్డుకునేది కదా..</p>
-
-
-

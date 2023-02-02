@@ -5,7 +5,7 @@ date: "2022-09-11 12:00:00 +05:30"
 desc: "The Texas A&M University is one of the leading research institutions having the largest student body in the United States. Join Abhishek as he narrates his experience as a research intern at this prestigious institution."
 thumbnail: "./images/texasAnM-abhishek.jpg"
 authors: "Abhishek Bharadwaj"
-starred: "False"
+starred: false
 abio: ""
 alt: "Internship Experience at Texas A&M University"
 ---

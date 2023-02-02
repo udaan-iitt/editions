@@ -5,7 +5,7 @@ date: "2021-01-28 10:00:00 +09:00"
 desc: "Join Pranjal as he takes you on a quest to explore the intricate dance of ‘good’ and ‘evil’ in society and life."
 thumbnail: "./images/light_dark.jpg"
 authors: "Pranjal Shukla"
-starred: "false"
+starred: false
 abio: "NONE"
 alt: "Darkness and Light"
 ---

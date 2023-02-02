@@ -6,7 +6,7 @@ desc: "'Where are you now? Was it all in my fantasy? Where are you now? Were you
 Faded-Alan Walker"
 thumbnail: "./images/beauty.jpg"
 authors: "Iftekhar Ahmed"
-starred: "false"
+starred: false
 abio: "NONE"
 alt: "Dream Beauty"
 ---

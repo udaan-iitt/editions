@@ -5,7 +5,7 @@ date: "2022-06-29 12:45:00 +09:00"
 desc: "Angona, a young university student with inability to walk, encounters an exuberant girl who turns her monochrome and secluded life upside down. As she struggles to find herself, a shocking secret awaits her."
 thumbnail: "./images/Seasons_of_symphony.jpg"
 authors: "Keshav Kumar Manjhi"
-starred: "False"
+starred: false
 abio: "NONE"
 alt: "Seasons of Symphony"
 ---

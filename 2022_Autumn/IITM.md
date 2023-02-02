@@ -5,7 +5,7 @@ date: "2022-09-11 12:00:00 +05:30"
 desc: "Indian Institute of Technology, Madras, is one of the top-tier institutes in India that has ample facilities to conduct advanced studies in many fields. Dive into Giridara Srinivaas experience as a research intern at IITM."
 thumbnail: "./images/IIT_Madras-Srinivaas.jpg"
 authors: "Giridara Srinivaas"
-starred: "False"
+starred: false
 abio: ""
 alt: "Internship Experience at IITM"
 ---

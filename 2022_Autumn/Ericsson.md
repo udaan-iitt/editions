@@ -5,7 +5,7 @@ date: "2022-09-11 12:00:00 +05:30"
 desc: "Join Kranthi as he talks about his internship experience at Ericsson research where he worked on building reinforcement learning environments and analysing risk profiles."
 thumbnail: "./images/Ericsson_Kranthi.jpg"
 authors: "Kranthi Sedamaki"
-starred: "false"
+starred: false
 abio: ""
 alt: "Internship Experience at Ericsson Research"
 ---

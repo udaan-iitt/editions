@@ -5,7 +5,7 @@ date: "2021-01-28 10:00:00 +09:00"
 desc: "“Even philosophers will praise war as ennobling mankind, forgetting the Greek who said: 'War is bad in that it begets more evil than it kills.” Immanuel Kant. "
 thumbnail: "./images/hut.jpg"
 authors: "Keshav Kumar Manjhi"
-starred: "false"
+starred: false
 abio: "NONE"
 alt: "The Man in the Hut"
 ---

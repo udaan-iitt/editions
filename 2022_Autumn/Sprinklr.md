@@ -5,7 +5,7 @@ date: "2022-09-11 12:00:00 +05:30"
 desc: "Amit Kesari shares his incredible story of getting into and working at Sprinklr as a summer intern. From the tough interviews to the joy of receiving a PPO, tag along on his journey as he explains valuable lessons from experience!"
 thumbnail: "./images/sprinklr-amitKesari.jpg"
 authors: "Amit Kesari"
-starred: "false"
+starred: false
 abio: ""
 alt: "Internship experience at Sprinklr"
 ---

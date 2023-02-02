@@ -3,9 +3,9 @@ title: "The modern man (Telugu)"
 category: "Poetry"
 date: "2021-01-07 12:00:00 +09:00"
 desc: "Join the poet on his commentary on the lifestyle and vanity of humans, and where it went wrong"
-thumbnail: "./images/ed1/poem.jpg"
+thumbnail: "./images/poem.jpg"
 authors: "G V Tarun Kumar"
-starred: "false"
+starred: false
 abio: "NONE"
 alt: "Poetry Modern man"
 ---
@@ -21,6 +21,3 @@ alt: "Poetry Modern man"
 <p style="text-align: center;align:center;">నీ కళ్ళకు ప్రపంచ వెలుగు చూపిన అమ్మ జాతి కళ్ళు నేడు ఈ ప్రపంచమనే చీకటిలో వెలుగు కోసం ఎదురు చూస్తున్నాయి!</p>
 <p style="text-align: center;align:center;">జన్మనిచ్చిన తల్లిజాతికే జన్మ లేకుండా చేస్తున్నావు!</p>
 <p style="text-align: center;align:center;">ఓ మనిషి అవుకు జీవిత పోరాటం లో ఒక మరమనిషి!</p>
-
-
-
