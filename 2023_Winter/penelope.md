@@ -2,11 +2,12 @@
 title: Penelope
 category: Poetry
 date: 2023-01-28T13:04:42.189Z
-desc: "It takes a lot of hope, faith and courage for a woman to wait for her
-  husband to return safely from a war. Join Iftekhar as he describes how
-  Penelope, wife of Odysseus, spends her days weaving a piece of cloth and then
-  unraveling it at night, as she waits for her husband to return home from the
-  Trojan War. "
+desc: "It takes a lot of hope, faith, and strength for a woman to wait for her
+  husband to return safely from a war. Inspired by the legends, paying tribute
+  to the pain of the families of warriors, join Iftekhar as he describes
+  Penelope, wife of Odysseus, who spends her days weaving a piece of cloth and
+  then unraveling it every night as she waits for her husband to return home
+  from the Trojan War. "
 authors: Iftekhar Ahmed
 starred: false
 abio: None
@@ -25,8 +26,6 @@ Waiting for her faith to fall,<br>
 She knows it’s incomplete clothe,<br>
 Keeping those wolves at bay.<br></p>
 
-
-
 <p style="text-align: center;align:center;">So when every dusk falls,<br>
 Her needles start a reverse walk,<br>
 Untangling the woven clothe,<br>
@@ -42,9 +41,7 @@ And hope of him riding back,<br>
 Riding on shimmering waves,<br>
 And ending all her agonies.<br></p>
 
-
-
 <p style="text-align: center;align:center;">Every night she cuts her heart,<br>
 Every day she heals her heart,<br>
-While glimpsing at faraway sea,<br>
+While glimpsing at the faraway sea,<br>
 The sea that took her other half.<br></p>
