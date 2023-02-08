@@ -9,9 +9,12 @@ desc: The exam is in 8 hours. Focus. You need to study. Ping! Instagram
 authors: Prabhat
 starred: false
 abio: >
-  Aka Pace577. Aka an institution and inspiration.
-
-  The most harmless and passion-driven guy you'll ever meet. You can find me talking about the most random and insightful topics at any given time of the day. If you get on my bad side, be sure to expect a slightly mean anonymous mail. Who am I kidding, I don't have a bad side, I'm Prabhat. 
+  Prabhat is a hopelessly open-minded optimist who hopes that one day he'll have
+  learned everything about everything. You can find him neck-deep in work or
+  aimlessly goofing around, there is no in-between. During his B.Tech (2018-22),
+  he served as the Literary Affairs Secretary (2021-22) and as the
+  Editor-in-Chief of Udaan for its first 4 editions. He's currently pursuing his
+  MS degree in Artificial Intelligence at C-MInDS, IIT Bombay.
 alt: Social Media
 ---
 # Table of Contents
