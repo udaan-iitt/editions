@@ -5,6 +5,7 @@ date: 2023-02-08T14:20:49.567Z
 desc: Why is the college taking so long to install routers in the G-Block?!
   Well, it may not be entirely their fault. Read on to find out as Charan
   explains the current shortage of silicon chips worldwide.
+thumbnail: images/chips.jpg
 authors: K Sai Phani Charan
 starred: false
 abio: None
@@ -20,7 +21,6 @@ What I wish to talk about in this article is that the current chip shortage is d
 ## **So, what is causing the global chip shortage?**
 
 Well... it's complicated. Many factors play a role in short supply of chips worldwide. Let's talk about those.
-
 
 ### **COVID-19**
 
@@ -63,7 +63,7 @@ In March 2021, a fire broke out at a Renesas Electronics-owned facility in Japan
 ### **The Russia-Ukraine war**
 
 > $$^{10}Ne_{20.18}$$
-Okay, okay, no more chemistry. The thing is, Neon gas is used in laser chip manufacturing.
+> Okay, okay, no more chemistry. The thing is, Neon gas is used in laser chip manufacturing.
 
 The price of neon increased sixfold between December 2021 and March 2022 due to the COVID-19 pandemic and political tensions in Ukraine. Ukraine supplies over half of the world's neon supply and 90% of the semiconductor-grade neon used in the United States.
 
@@ -79,13 +79,13 @@ Taiwan is the country that produces the most chips globally, thanks to TSMC - Ta
 
 TSMC manufactures chips for various companies which don't manufacture chips but design them, such as Qualcomm Inc and Apple Inc.
 
-| Countries | Market Share |
-| --- | --- |
-| Taiwan | 65% |
-| South Korea | 15% |
-| United States | 7% |
-| China | 6% |
-| Others | 7% |
+| Countries     | Market Share |
+| ------------- | ------------ |
+| Taiwan        | 65%          |
+| South Korea   | 15%          |
+| United States | 7%           |
+| China         | 6%           |
+| Others        | 7%           |
 
 World's top semiconductor producers - in a nutshell, Asian countries, such as Taiwan, China, South Korea, and Japan, are the biggest semiconductor producers in the world. Taiwan, China, and South Korean foundry companies account for 87% of the global market.
 
@@ -101,7 +101,7 @@ People are coming to normalcy, and the demand for automobiles hit back. This dem
 
 Demand for cellular IoT chipsets and modules has been surging as companies work to implement 5G technologies. Every connected device uses chipsets, which could further delay the long-awaited conversion from 4G to 5G.
 
-_I can't wait to get 5G!_
+*I can't wait to get 5G!*
 
 The chips will likely be first allocated to cars and smartphones rather than the simpler microcontrollers and sensors used in IoT devices.
 
@@ -110,7 +110,6 @@ Few reports on IoT in 2022 predict that it will take longer for the IoT market t
 ### **Smart Phones**
 
 It's taken longer, but the smartphone market also feels the impact of chip shortages. Smartphone sales rebounded throughout 2021 after a 2020 dip, but in Q3, global shipments slid 6% compared to Q3 of 2020; supply couldn't meet demand.
-
 
 ### **Desktop computers and graphics cards**
 
@@ -124,7 +123,7 @@ During the epidemic, AMD and Nvidia, the primary GPU card makers, introduced new
 
 ### **Video game consoles**
 
-_Gamers, this one's for you._
+*Gamers, this one's for you.*
 
 During the COVID-19 pandemic, we had no theatres open, and many of us started watching series from streaming sites. Students like us got into video gaming.
 
@@ -139,6 +138,10 @@ Both companies use AMD chips manufactured by TSMC in their ninth-generation cons
 *TSMC be like - I'm done with this.*
 
 As supply problems persist, scalpers resell the consoles on websites such as eBay for 50% to 100% above their retail price.
+
+
+
+![](images/chips2.jpg)
 
 ## **What are some potential solutions?**
 
@@ -186,7 +189,7 @@ India is now in the startup era. Try to use this moment to devise innovative sol
 
 ## **References**
 
-- [Why The Chips Are Down: Navigating the Global Chip Shortages and Beyond](https://www.jabil.com/blog/global-chip-shortages.html)
--  [2020 - present global chip shortage](https://en.wikipedia.org/wiki/2020%E2%80%93present_global_chip_shortage)
-- [OEMs steer clear of new plants](https://www.autocarpro.in/feature/oems-steer-clear-of-new-plants-81980)
-- [Japan chipmaker Renesas halts plant due to fire](https://asia.nikkei.com/Business/Tech/Semiconductors/Japan-chipmaker-Renesas-halts-plant-due-to-fire)
+* [Why The Chips Are Down: Navigating the Global Chip Shortages and Beyond](https://www.jabil.com/blog/global-chip-shortages.html)
+* [2020 - present global chip shortage](https://en.wikipedia.org/wiki/2020%E2%80%93present_global_chip_shortage)
+* [OEMs steer clear of new plants](https://www.autocarpro.in/feature/oems-steer-clear-of-new-plants-81980)
+* [Japan chipmaker Renesas halts plant due to fire](https://asia.nikkei.com/Business/Tech/Semiconductors/Japan-chipmaker-Renesas-halts-plant-due-to-fire)
