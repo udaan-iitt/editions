@@ -5,6 +5,7 @@ date: 2023-01-27T08:43:04.544Z
 desc: "When you are in love, you start realizing how beautiful this world can
   be… Here’s a rhythmic and “bring a soft smile to your face” kind of poem about
   how being in love can change you as a person. "
+thumbnail: images/pyar.jpg
 authors: Umang Rastogi
 starred: false
 abio: None
