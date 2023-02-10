@@ -8,6 +8,7 @@ desc: One of the country’s most inspiring legends, a solitary-path woman, the
   either. Meet Dr. Padma Bandhopadhyay, the first woman Air Marshal of the
   Indian air force, as she laughs with us and muses about her growth, weaving a
   story that we simply had to share with you.
+thumbnail: images/padma_bandopadhyay.jpg
 authors: Chaitali Uday Karekar, Sneha Battula
 starred: false
 abio: None
