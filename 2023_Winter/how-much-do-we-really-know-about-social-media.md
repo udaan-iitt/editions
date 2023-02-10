@@ -6,6 +6,7 @@ desc: The exam is in 8 hours. Focus. You need to study. Ping! Instagram
   notification. Okay, maybe I'll just check this one out. Three hours later,
   you're drowning in a constant stream of reels. Join Prabhat as he thinks
   through world of social media we live in today, in a very Prabhat way.
+thumbnail: images/socialmedia.jpg
 authors: Prabhat
 starred: false
 abio: >
@@ -19,16 +20,16 @@ alt: Social Media
 ---
 # Table of Contents
 
--   [How would an alien react to seeing Instagram for the first time?](#how-would-an-alien-react-to-seeing-instagram-for-the-first-time)
--   [Okay, but what's your point?](#okay-but-whats-your-point)
--   [What do you remember and how much?](#what-do-you-remember-and-how-much)
--   [Are we forgetting to read?](#are-we-forgetting-to-read)
--   [Would you trust yourself if you were being mentally manipulated?](#would-you-trust-yourself-if-you-were-being-mentally-manipulated)
--   [My opinion that no one really asked for](#my-opinion-that-no-one-really-asked-for)
--   [Conclusion](#conclusion)
--   [References](#references)
+* [How would an alien react to seeing Instagram for the first time?](#how-would-an-alien-react-to-seeing-instagram-for-the-first-time)
+* [Okay, but what's your point?](#okay-but-whats-your-point)
+* [What do you remember and how much?](#what-do-you-remember-and-how-much)
+* [Are we forgetting to read?](#are-we-forgetting-to-read)
+* [Would you trust yourself if you were being mentally manipulated?](#would-you-trust-yourself-if-you-were-being-mentally-manipulated)
+* [My opinion that no one really asked for](#my-opinion-that-no-one-really-asked-for)
+* [Conclusion](#conclusion)
+* [References](#references)
 
-> *DISCLAIMER: The following are my personal views and are not affiliated to any other person/entity. I do refer to other sources but note that the inferences I make from them are mine alone. Feel free to disagree with me in your head. Or you could share your frustration with me directly via email at pace577 [AT] protonmail [DOT] com. I would love some feedback (especially negative feedback!). Also, I tend to go off on tangents every now and then, but please bear with me and pay attention to these tangents anyways. Otherwise, you might not fully understand what I'm saying and I'll feel a little sad 😢. Thanks!*
+> *DISCLAIMER: The following are my personal views and are not affiliated to any other person/entity. I do refer to other sources but note that the inferences I make from them are mine alone. Feel free to disagree with me in your head. Or you could share your frustration with me directly via email at pace577 \[AT] protonmail \[DOT] com. I would love some feedback (especially negative feedback!). Also, I tend to go off on tangents every now and then, but please bear with me and pay attention to these tangents anyways. Otherwise, you might not fully understand what I'm saying and I'll feel a little sad 😢. Thanks!*
 
 If I were to ask you the question, "*What is the biggest problem that our current generation faces?*", what would your answer be? I know you just started reading but pause for a moment. Think about it.
 
@@ -40,7 +41,6 @@ To me, that's very surprising. Why? Because problems are personal things that st
 
 Thinking about that seemed like a fun thought experiment, and the result of that experiment is this article. I hope this article adds value to the way that you view the world and makes you think about new perspectives that I haven't discussed. I also made a lot of references to Instagram (IG), and I hope you understand them to a reasonable extent. Most importantly, I hope you have fun reading this article. Without any more delay, here goes!
 
-
 <a id="how-would-an-alien-react-to-seeing-instagram-for-the-first-time"></a>
 
 # How would an alien react to seeing Instagram for the first time?
@@ -49,39 +49,38 @@ Let's go through a cute little scenario. Imagine you're a guy. One fine morning,
 
 Both of you walk into the mess, and you notice your friend Abhijith watching Instagram reels while having his breakfast. You walk over to him to say hi and introduce Ali to him. But Ali isn't paying attention to you; she's observing something else in the mess she found interesting. After briefly looking around, she turns to you and asks you an unexpected question. *"Why are all these people staring at those tiny things?"*
 
-"What tiny things?" you ask.  
-"Those thin boxes everyone has in their hands. What are those things? Why is everyone staring at them intently?"  
-"Those are mobile phones. Don't you have them on your planet?"  
-"No, we don't. I initially had a hunch that our societies were similar, but I have never seen such strange behavior! Why are people staring at those boxes?"  
-"They are most probably watching Insta reels or Youtube shorts. You want to see them?"  
+"What tiny things?" you ask.\
+"Those thin boxes everyone has in their hands. What are those things? Why is everyone staring at them intently?"\
+"Those are mobile phones. Don't you have them on your planet?"\
+"No, we don't. I initially had a hunch that our societies were similar, but I have never seen such strange behavior! Why are people staring at those boxes?"\
+"They are most probably watching Insta reels or Youtube shorts. You want to see them?"\
 "Yes, I do! I'm curious to know the reason for this peculiar behavior."
 
 You realize that you forgot your phone, so you borrow Abhijith's phone to show Ali some Instagram reels. "Check this out, Ali! This optical illusion will blow your mind!" you say and show her the reel. She turns the phone upside down and asks "I don't understand, what illusion is this? All I see is a man with a microphone singing a song". Upon hearing that, you break into laughter.
 
-"Haha, you have been rickrolled, Ali!"  
-"What? I don't understand."  
-"That means you have been fooled into thinking you'll find something important in the reel, but there wasn't anything like that."  
-"So you find important things in reels?"  
+"Haha, you have been rickrolled, Ali!"\
+"What? I don't understand."\
+"That means you have been fooled into thinking you'll find something important in the reel, but there wasn't anything like that."\
+"So you find important things in reels?"\
 "No, not really&#x2026"
 
 *Both you and Abhijith briefly pause and ponder upon that question while having a subtle life crisis*.
 
 "It's difficult to explain using words, Ali", you say.
 
-"Why don't I create an Instagram account for you so that you can see and understand reels yourself?"  
-"Maybe you could follow a bunch of travel bloggers so that she'll get to know more about our world?", suggests Abhijith.  
+"Why don't I create an Instagram account for you so that you can see and understand reels yourself?"\
+"Maybe you could follow a bunch of travel bloggers so that she'll get to know more about our world?", suggests Abhijith.\
 "That's an awesome idea! But Ali doesn't have a phone of her own. Can she borrow yours for today, Abhijith?", you ask. Abhijith agrees immediately (obviously), following which you create an IG account for Ali and set it up.
 
 After having breakfast in the mess, you tell Ali that you have a class and you'll be back in an hour. "Why don't you stay in my room and check out your new account until then? If you check out the feeds of those travel bloggers I followed using your new IG account, I'm sure you'll learn a lot in very little time."
 
 She agrees, following which you leave for class. You go back to your room after class and you see Ali glued to the phone.
 
-"Who's staring intently at the box now?", you ask her mockingly.  
+"Who's staring intently at the box now?", you ask her mockingly.\
 "I never knew that such a tool could exist!", exclaims Ali. "This tool shows me reels that I want to watch before I even know that I want to watch them! I can't wait to learn more intelligent life hacks using tissue papers!"  
 
-"I'm glad you like it. But Ali, what about your mission?"  
+"I'm glad you like it. But Ali, what about your mission?"\
 "Oh, don't you worry! I'll get to that after I watch this hilarious dance video with no background music!"
-
 
 <a id="okay-but-whats-your-point"></a>
 
@@ -89,9 +88,9 @@ She agrees, following which you leave for class. You go back to your room after 
 
 If you stop thinking about how a girl managed to enter the boys' hostel, you'll notice that a few things present in this thought experiment hold true in real life:
 
-1.  We get better at things we regularly do. The average young adult is on social media for about 2 hours a day (<a href="#citeproc_bib_item_1">2022</a>) which implies that the average young adult is *very* good at browsing social media. It also implies that you, dear reader, are probably an expert at staring at screens.
-2.  Habits shape our lifestyle, and social media has managed to enter our lifestyle by intruding into our daily routine. A habit consists of three things - a trigger, a response, and a reward. To all those students in the mess scrolling through social media, the trigger was sitting down at a table with their breakfast and the response was unlocking their phone and pressing the icon of their favorite application. And the reward? A gentle but continuous flow of dopamine hits!
-3.  Social media can distract us from our goals because they are capable of changing our *mental state*. State at a particular time plays an important role in determining your actions at that time; you somehow manage to get all your stuff done on your "good" days but barely seem to get anything done on your "bad" days, don't you? I don't think any of us fully understands how to control our mental state, but Instagram can manipulate it in a certain direction with a very high probability of success: it makes you want to watch the next post. It's not that difficult to continue the previous thought experiment and eventually see Ali thinking, "Why did I start watching this, again?"
+1. We get better at things we regularly do. The average young adult is on social media for about 2 hours a day (<a href="#citeproc_bib_item_1">2022</a>) which implies that the average young adult is *very* good at browsing social media. It also implies that you, dear reader, are probably an expert at staring at screens.
+2. Habits shape our lifestyle, and social media has managed to enter our lifestyle by intruding into our daily routine. A habit consists of three things - a trigger, a response, and a reward. To all those students in the mess scrolling through social media, the trigger was sitting down at a table with their breakfast and the response was unlocking their phone and pressing the icon of their favorite application. And the reward? A gentle but continuous flow of dopamine hits!
+3. Social media can distract us from our goals because they are capable of changing our *mental state*. State at a particular time plays an important role in determining your actions at that time; you somehow manage to get all your stuff done on your "good" days but barely seem to get anything done on your "bad" days, don't you? I don't think any of us fully understands how to control our mental state, but Instagram can manipulate it in a certain direction with a very high probability of success: it makes you want to watch the next post. It's not that difficult to continue the previous thought experiment and eventually see Ali thinking, "Why did I start watching this, again?"
 
 You might have thought all about the things I mentioned above, but what about the following?
 
@@ -101,12 +100,11 @@ There are two interpretations for the above question, one concerning the memorie
 
 A study (<a href="#citeproc_bib_item_4">Tamir et al. 2018</a>) observed that those who haven't recorded and shared their experiences seemed to remember the experience more clearly than those who did. The practice of taking pictures and sharing them on social media has been blown out of proportion after smartphones with powerful cameras became accessible to the general public. Next time you look at that splendid sunkissed selfie from your previous trip, try recollecting your experiences on the day you took that selfie. How much of it do you remember?
 
-
 <a id="what-do-you-remember-and-how-much"></a>
 
 # What do you remember, and how much?
 
-Another consequence of excessive use of social media is the reduction of your attention span (<a href="#citeproc_bib_item_2">Fotuhi 2020</a>). We watch short videos that are 10-15 seconds long on average, one after another, each containing different content but more or less equally appealing to us. Anyone who watched [*The Social Dilemma*](https://www.thesocialdilemma.com/the-film/) would be aware of the addictive nature of social media. However, have you wondered how it affects your knowledge and your ability to reason?
+Another consequence of excessive use of social media is the reduction of your attention span (<a href="#citeproc_bib_item_2">Fotuhi 2020</a>). We watch short videos that are 10-15 seconds long on average, one after another, each containing different content but more or less equally appealing to us. Anyone who watched *[The Social Dilemma](https://www.thesocialdilemma.com/the-film/)* would be aware of the addictive nature of social media. However, have you wondered how it affects your knowledge and your ability to reason?
 
 Be it Instagram, Facebook, or Twitter, information on these platforms is shared in *pieces*. By scrolling/swiping through this information, you acquire a high volume of bits and pieces of information. Most of the time, these pieces of information are only *shown once*. What's the consequence of that?
 
@@ -128,8 +126,11 @@ The absence of the widespread practice of fact-checking is yet another problem; 
 
 What could be possible solutions for these issues?
 
-
 <a id="are-we-forgetting-to-read"></a>
+
+
+
+![](images/socialmedia2.jpg)
 
 # Are we forgetting to read?
 
@@ -140,7 +141,6 @@ Let me tell you something that's obvious to book readers that isn't obvious to o
 In that sense, I consider books to be better sources of information than other alternatives. Yet, I find myself searching for good videos online whenever I need to learn something! If social media is changing the preferred way we learn things, could it be indirectly causing *holes* in our understanding due to our new beloved piecewise manner of understanding the world?
 
 I'm not claiming anything, dear reader, I'm just thinking about things 🤷‍♂️ .
-
 
 <a id="would-you-trust-yourself-if-you-were-being-mentally-manipulated"></a>
 
@@ -164,7 +164,6 @@ Some people like personalization, and some people don't, but that's not the poin
 
 It's not just advertisements. There are people creating content and distributing it on the internet, and there are millions of people viewing that content. This content consists of memes, dance videos, cat videos, life advice, clips from movies/series, and of course, sponsored advertisements. They say "time is money" and I believe they are right. In this case, however, it's your time and their money.
 
-
 <a id="my-opinion-that-no-one-really-asked-for"></a>
 
 # My opinion that no one really asked for
@@ -173,16 +172,15 @@ After all this, you might be surprised to read my following statement, but I ass
 
 However, the world wasn't that responsible, to begin with, and that had consequences in the form of a whole bunch of false beliefs. While we're on that topic, why don't we bust some myths about social media right now?
 
--   Success in life doesn't mean making as much money as you can.
--   Working hard is good, but you don't have to work hard 24\*7 to be successful. You've got one life; try to stay healthy!
--   In real life, people don't always look like how they look on IG.
--   Waking up a 4 AM will not help you become rich, especially if you slept at 1 AM in the first place.
--   Not all confessions on the confessions page are real.
--   There aren't exactly 3 people you love in your life. Ask your single friend for proof.
--   Everything wrong with your life is *not* a trauma response.
+* Success in life doesn't mean making as much money as you can.
+* Working hard is good, but you don't have to work hard 24*7 to be successful. You've got one life; try to stay healthy!
+* In real life, people don't always look like how they look on IG.
+* Waking up a 4 AM will not help you become rich, especially if you slept at 1 AM in the first place.
+* Not all confessions on the confessions page are real.
+* There aren't exactly 3 people you love in your life. Ask your single friend for proof.
+* Everything wrong with your life is *not* a trauma response.
 
 There are many more myths out there to bust! If you're a web developer and you want to take up a hobby project but don't have an idea, please create a website on myth-busting Instagram stereotypes. Alternatively, you could try your luck creating an IG page for that and become the next big influencer!
-
 
 <a id="conclusion"></a>
 
@@ -192,12 +190,12 @@ Technology and social media have significantly changed the way we perceive the w
 
 With that said, happy pondering!
 
-
 <a id="references"></a>
 
 # References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+
   <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Average Daily Time Spent on Social Media.” 2022. <i>Broadbandsearch.Net</i>. https://www.broadbandsearch.net/blog/average-daily-time-on-social-media.</div>
   <div class="csl-entry"><a id="citeproc_bib_item_2"></a>Fotuhi, Majid. 2020. “What Social Media Does to Your Brain.” <i>Neurogrow</i>. https://neurogrow.com/what-social-media-does-to-your-brain/.</div>
   <div class="csl-entry"><a id="citeproc_bib_item_3"></a>Hallam, Lisa. 2022. “The Effects of Advertising on the Human Brain.” <i>Owlcation</i>. https://owlcation.com/social-sciences/The-Effects-of-Advertising-on-the-Human-Brain.</div>
