@@ -4,6 +4,7 @@ category: Poetry
 date: 2023-01-27T08:38:57.677Z
 desc: Life presents you many opportunities at every stage, but those
   opportunities comes with a cost, the cost of loneliness.
+thumbnail: images/tanhayee.jpg
 authors: Abhishek
 starred: false
 abio: None
