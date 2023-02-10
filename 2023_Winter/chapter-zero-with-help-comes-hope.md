@@ -103,7 +103,9 @@ Who is going to see them as weak? People in the environment.** *Change should co
 
 ***Keep interacting with new people - say “Hello” and “Good Morning” to five new people every day, people who are absolute strangers.***
 
-<img src = "./images/brett-jordan-dttwulmkkze-unsplash.jpg" width = "600" height = "800">
+
+
+![](images/brett-jordan-dttwulmkkze-unsplash.jpg)
 
 # **Guidance and Counseling Unit (GCU)**
 
