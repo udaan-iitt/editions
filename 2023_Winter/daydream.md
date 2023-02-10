@@ -4,6 +4,7 @@ category: Poetry
 date: 2023-01-28T12:55:11.928Z
 desc: '"So much beauty to discover, I can hardly take it in, I will ever stand
   in wonder, Of a grace that never ends" - Phil Wickham'
+thumbnail: images/daydream2.jpg
 authors: Iftekhar Ahmed
 starred: false
 abio: None
