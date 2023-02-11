@@ -8,6 +8,7 @@ desc: "It takes a lot of hope, faith, and strength for a woman to wait for her
   Penelope, wife of Odysseus, who spends her days weaving a piece of cloth and
   then unraveling it every night as she waits for her husband to return home
   from the Trojan War. "
+thumbnail: images/penelope.jpg
 authors: Iftekhar Ahmed
 starred: false
 abio: None
