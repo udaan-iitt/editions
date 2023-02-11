@@ -6,6 +6,7 @@ desc: Cosmic Cutie brings to you another exquisite analysis of the satirical
   piece, 'Wernher Von Braun' by Tom Lehrer. A hard-hitting take on science,
   politics, and international relations revolving around Wernher Von Braun, the
   NASA aerospace genius.
+thumbnail: images/tomlehrer.jpg
 authors: Cosmic Cutie
 starred: false
 abio: None
@@ -20,11 +21,11 @@ abio: None
 
 - - -
 
->*"And what is it that put America in the forefront of the nuclear nations?*
+> *"And what is it that put America in the forefront of the nuclear nations?*
 >
->*And what is it that will make it possible to spend twenty billion dollars of your money to put some clown on the moon?* 
+> *And what is it that will make it possible to spend twenty billion dollars of your money to put some clown on the moon?* 
 >
->*.…Well, it was good old American know-how, that's what, as provided by good old Americans like [Dr. Wernher von Braun](https://en.wikipedia.org/wiki/Wernher_von_Braun)!"*
+> *.…Well, it was good old American know-how, that's what, as provided by good old Americans like [Dr. Wernher von Braun](https://en.wikipedia.org/wiki/Wernher_von_Braun)!"*
 
 First, let us set the stage:
 
@@ -54,9 +55,13 @@ Meanwhile, *Wernher von Braun's* thoughts can be summed up by this quote:
 >
 > *"Nazi, Schmazi!" says Wernher von Braun"*
 
+
+
+![](images/tomlehrer2.jpg)
+
 Now let's know a bit more about this uncaring *Nazi* genius. 
 
-*Wernher von Braun* was an aerospace engineer who worked for the *German* military under the *Nazi* regime. He was instrumental in the creation of the [*V2*](https://en.wikipedia.org/wiki/V-2_rocket) programme - where rockets were launched indiscriminately at civilian targets. In 1944, when it became obvious to him that *Germany* had no path to victory left, *Wernher von Braun* decided to surrender to the *Allied forces* invading from the west. It was probably the best option he had at that time, considering that the *USA* had plenty of need for and resources to fund individuals like him. The *USA* was also more likely to be lenient towards ex-nazis than the *USSR*, which had borne the brunt of the *Wehrmacht's* atrocities.
+*Wernher von Braun* was an aerospace engineer who worked for the *German* military under the *Nazi* regime. He was instrumental in the creation of the *[V2](https://en.wikipedia.org/wiki/V-2_rocket)* programme - where rockets were launched indiscriminately at civilian targets. In 1944, when it became obvious to him that *Germany* had no path to victory left, *Wernher von Braun* decided to surrender to the *Allied forces* invading from the west. It was probably the best option he had at that time, considering that the *USA* had plenty of need for and resources to fund individuals like him. The *USA* was also more likely to be lenient towards ex-nazis than the *USSR*, which had borne the brunt of the *Wehrmacht's* atrocities.
 
 Upon being given a position at *NASA*, *Wernher von Braun* was quick to deny his loyalty to the *Nazi* ideology and maintained that he was forced to work for the military since they were the only people who had use for his skills. He denied having knowledge about the *Holocaust* and claimed that he was not involved in any war crimes, though it was a known fact that the *V2 programme* relied on slave labor (in fact, more people died making the rockets than being hit by them). Whether his denials were believed was a moot point, since he was practically immune from any consequences for his actions - he was far too valuable for the USA to consider prosecuting him.
 
@@ -64,13 +69,13 @@ The more one starts digging deeper, the more macabre the past becomes. For one, 
 
 While the details of *Wernher von Braun's* past were not well-known in 1965, the fact that he used to be a *Nazi* could not be hidden (despite the best efforts of the *US intelligence*). *Wernher von Braun* cultivated the public image of a person who was interested only in rockets and space and never cared for fascism, which allowed the *USA* plausible deniability if someone asked them why they were willing to put a *Nazi* in charge of their space program.
 
->*“Don't say that he's hypocritical.* 
+> *“Don't say that he's hypocritical.* 
 >
->*Say rather that he's apolitical*
+> *Say rather that he's apolitical*
 >
->*Once ze rockets are up, who cares where zey come down?*
+> *Once ze rockets are up, who cares where zey come down?*
 >
->*“That's not my department!" says Wernher von Braun"*
+> *“That's not my department!" says Wernher von Braun"*
 
 *Wernher von Braun* was once quoted, “The rocket worked perfectly, except for landing on the wrong planet.” This was in 1944 when the first *V2* rocket hit *London*.
 
@@ -116,19 +121,21 @@ While a s*tate* uses laws to maintain moral norms within its jurisdiction, the i
 
 The *USA* needed *Japan* as an ally against the *USSR*, and was thus discouraged from making the terms of the peace too harsh. The *Emperor of Japan* would be deposed if *Japan* surrendered to the *USSR*, so *Japan* was eager to make peace with the *US* before it was invaded by the *USSR*. Thus they came to terms - *Japan* becomes a pacifist state hosting *US* troops, and the *Emperor* is not prosecuted for war crimes.
 
+![](images/tomlehrer3.jpg)
+
 Similarly, the *US* made a deal with valuable *ex-nazis*. In exchange for not defecting to the *USSR*, they could start a new life in the *USA* and have their crimes against humanity swept under the rug. Hence the formation of [Operation Paperclip](https://en.wikipedia.org/wiki/Operation_Paperclip) - a *US* intelligence programme to secretly import *German* scientists and engineers into the *USA* before the *USSR* got a hold of them. Despite the then president *Truman's* order that members of the *Nazi* party were not to be allowed to enter the *USA*, the intelligence agencies in charge of the operation let through several *ex-nazis*, including some high-ranking ones. Their files were scrubbed clean of any details which linked them to the *nazi party*. The only identification for the tampered files were paper clips attached to them by *US* intelligence officers, who used this method to covertly mark those they wished to recruit. Even after details of this operation came to light, only a single paperclip scientist was ever prosecuted and not a single one was convicted. 
 
 The *USSR* had an analogous programme - [Operation Osoaviakhim](https://en.wikipedia.org/wiki/Operation_Osoaviakhim), in which over 2500 *Nazi* scientists were abducted from the Soviet Occupation Zone in a single day. After their period of employment under the government concluded, they were returned back to *Germany*. They were ordered to never speak of their activities in the *USSR* and were given special treatment in return. The situation was quite clear - any *Nazi* engineer who the *USA* did not recruit would end up working for the *USSR*, which was directly against the interests of the *USA*. In this context, *Operation Paperclip* is somewhat more understandable, just as *Wernher von Braun's* decision to surrender to the *USA* is. 
 
->*"Some have harsh words for this man of renown*
+> *"Some have harsh words for this man of renown*
 >
->*But some think our attitude*
+> *But some think our attitude*
 >
->*Should be one of gratitude*
+> *Should be one of gratitude*
 >
->*Like the widows and cripples in old London town*
+> *Like the widows and cripples in old London town*
 >
->*Who owe their large pensions to Wernher von Braun"*
+> *Who owe their large pensions to Wernher von Braun"*
 
 This limerick is characteristic of *Lehrer's* sharp wit and dark humor. By sarcastically suggesting that the victims of the *V2* rockets owe thanks to *Wernher* *von Braun*, *Lehrer* reminded his audience that there were plenty of people whose friends and family would have been alive were it not for Wernher von Braun's actions. The *US* space program took off thanks in part to the research done as part of the *V2* programme, and we are asked to consider if the technological progress produced as a result of war is truly worth its human cost.
 
