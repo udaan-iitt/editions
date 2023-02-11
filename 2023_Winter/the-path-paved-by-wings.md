@@ -23,9 +23,11 @@ Before we dive into the exciting interaction, let us tell you just a little more
 
 *Dr. Padma Bandopadhyay* is a woman of many firsts. She is the first woman to become a *Fellow of the Aerospace Medical Society of India* and to conduct scientific research at the North Pole. Talk about something you’d only dream of experiencing! *Dr. Padma* is also the first woman armed forces officer to have completed the *Defence Services Staff College* course and was the *Director of General Medical Services (Air)* at the Air Headquarters. In 2002, she became the first woman to be promoted to *Air Vice-Marshal* (two-star rank) and subsequently the first woman *Air Marshal* of the *Indian Air Force*. *Bandopadhyay* is an aviation medicine specialist and a member of the *New York Academy of Sciences*. She has received many prestigious awards like *Vishisht Seva Medal* in 1973, the *Indira Priyadarshini* award, the *Ati Vishisht Seva Medal* in 2002, and the *Param Vishisht Seva Medal* in 2006. 
 
-The first question that arises in a youthful mind like ours is where she gets the inspiration to keep on working tirelessly with the same fervor and rigor. *“Upar wala [^1] gives you the courage to keep doing it”*, she replies. *"Family motivation, support, and hard work are the three main pillars that keep one going. Wonders do happen, but every wonder needs hard work"*, she adds. 
+![](images/padma_bandopadhyay2.jpg)
 
-[^1]: God
+
+
+The first question that arises in a youthful mind like ours is where she gets the inspiration to keep on working tirelessly with the same fervor and rigor. *“Upar wala [^1](God) gives you the courage to keep doing it”*, she replies. *"Family motivation, support, and hard work are the three main pillars that keep one going. Wonders do happen, but every wonder needs hard work"*, she adds. 
 
 Society plays a major role in shaping your dreams. But is it always right to hand over your reins? Society has never been a strong woman confidante. And surely, being the first woman to tweak the then customary traditions, the doctor did receive her fair share of resistance. She explains the several stereotypes that played against her favor:
 
