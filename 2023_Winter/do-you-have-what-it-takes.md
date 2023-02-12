@@ -11,7 +11,7 @@ abio: None
 ---
 The writer of this particular article would like to inform you that this piece of work is neither a composed essay nor a comprehensive poem. She requests you to leave your shoes with respect at the doorstep as you venture to read ahead, and welcomes you into six particular rooms of her mind. 
 
-Put together as acts, these are six separate glances from 2022 into the revelations and perhaps-too-strong emotions of a girl who finally made it away from home. These are the stories of a girl who slowly blossomed into a woman, who found her self-worth, strengths and weaknesses, and most importantly, what it is to be a woman.
+Put together as acts, these are six separate glances from 2022 into the revelations and perhaps-too-strong emotions of a girl who finally made it away from home. These are the stories of a girl slowly blossoming into a woman, who found her self-worth, strengths and weaknesses, and most importantly, what it is to be a woman.
 
 **P.S.** the writer is aware of the usage of capital letters but prefers her writing style to be humbled, hoping to reflect it in her lowercase musings.*<br><br><br>*
 
@@ -150,7 +150,7 @@ a woman who lets you know that Kali Mata is a man's last sight as he takes his d
 
 *\- Kali is here, and she shall be paid in blood.<br><br><br>*
 
-### **Author’s note:** 
+### **Author’s note:**
 
 <p>1.If you’ve made it this far, I have much respect for you. I hope you take whatever you’ve picked up from this page with care, and I hope you’re able to interpret it closely to how it was written. The expression of emotion here was as raw and unfiltered as could be, the message being: “You are made up of infinite stories, each one as significant as the previous.”</p>
 
