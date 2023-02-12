@@ -2,7 +2,9 @@
 title: The Fundamentals of Technomancy
 category: Op-Ed
 date: 2023-02-08T13:42:05.613Z
-desc: <>
+desc: Technomancy and magic? Are they the same? Our cherished anonymous writer
+  is back to show you the real aspects of this branch called technomancy and
+  what its knowledge really capable of.
 thumbnail: images/technomancy.jpg
 authors: Cosmic Cutie
 starred: false
