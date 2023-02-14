@@ -9,7 +9,7 @@ desc: Cosmic Cutie brings to you another exquisite analysis of the satirical
 thumbnail: images/tomlehrer.jpg
 authors: Cosmic Cutie
 starred: false
-abio: None
+abio: NONE
 ---
 <!--StartFragment-->
 
