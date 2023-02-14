@@ -7,15 +7,17 @@ desc: The exam is in 8 hours. Focus. You need to study. Ping! Instagram
   you're drowning in a constant stream of reels. Join Prabhat as he thinks
   through world of social media we live in today, in a very Prabhat way.
 thumbnail: images/socialmedia.jpg
-authors: Prabhat
+authors: Prabhat Reddy
 starred: false
-abio: >
-  Prabhat is a hopelessly open-minded optimist who hopes that one day he'll have
-  learned everything about everything. You can find him neck-deep in work or
-  aimlessly goofing around, there is no in-between. During his B.Tech (2018-22),
-  he served as the Literary Affairs Secretary (2021-22) and as the
-  Editor-in-Chief of Udaan for its first 4 editions. He's currently pursuing his
-  MS degree in Artificial Intelligence at C-MInDS, IIT Bombay.
+abio: Prabhat is a hopelessly open-minded optimist who hopes that one day he'll
+  have learned everything about everything. You can find him neck-deep in work
+  or aimlessly goofing around, there is no in-between. If he’s not organising
+  every minute of the existence of the universe into a computer-based journal,
+  he’s probably bonding with a friendly stranger over basketball, Linkin Park,
+  anime, F.R.I.E.N.D.S and pretty much anything under the sun. Currently
+  pursuing his MS in Artificial Intelligence at C-MInDS, IIT Bombay, Prabhat was
+  the ‘lit’ Secretary who breathed life into Udaan, the very magazine you’re
+  reading right now!
 alt: Social Media
 ---
 # Table of Contents
