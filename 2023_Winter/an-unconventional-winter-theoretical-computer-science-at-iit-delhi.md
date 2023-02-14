@@ -8,7 +8,7 @@ desc: A walk, a lunch, and a lecture. Delve into a pool of intriguing concepts
 thumbnail: images/iitd.jpg
 authors: Mathew K J
 starred: false
-abio: None
+abio: NONE
 alt: ""
 ---
 <!--StartFragment-->
