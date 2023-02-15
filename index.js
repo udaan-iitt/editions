@@ -101,7 +101,7 @@ export const newsletter = [
   {
     key: 'keshav',
     email: 'cs21b027@iittp.ac.in',
-    title: 'Keshav',
+    title: 'Keshav Kumar Manjhi',
     link: 'https://www.linkedin.com/in/keshav-manjhi-a8a2a321b',
   },
 ];
@@ -454,7 +454,7 @@ export const author_info = [
   },
   {
     key: 'keshav',
-    title: 'Keshav',
+    title: 'Keshav Kumar Manjhi',
     tagLine1: '',
     tagLine2: '',
     role: '',
