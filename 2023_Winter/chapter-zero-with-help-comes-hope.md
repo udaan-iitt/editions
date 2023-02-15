@@ -117,7 +117,7 @@ Slowly but steadily, the importance of mental health is gaining light, especiall
 
 We also talked to the current student head of the Unit, Chaitanya, on how the GCU functions today and what can a student do to get help. 
 
-> *GCU has been instrumental in balancing students' mental health and mood swings since its inception. With experienced mentors like Prof Samiullah, Mrs. Neerja, the team brings in many years of experience dealing with such issues, and having them on board is a blessing. They provide you viable guidance without compromise in your privacy. Please don't hesitate to book an appointment and help yourself deal with hard times and face anything life brings.*
+> *GCU has been instrumental in balancing students' mental health and mood swings since its inception. With experienced mentors like Prof Samiullah, Mrs. Neeraja, the team brings in many years of experience dealing with such issues, and having them on board is a blessing. They provide you viable guidance without compromise in your privacy. Please don't hesitate to book an appointment and help yourself deal with hard times and face anything life brings.*
 
 With a team of wonderfully talented and supportive individuals, getting help is merely a door away! You can contact the representatives of GCU if you need help with anything.. They are also always available to reach you through any of their social media platforms [here](https://linktr.ee/GCUIITT). 
 
