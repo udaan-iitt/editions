@@ -8,7 +8,13 @@ desc: Why is the college taking so long to install routers in the G-Block?!
 thumbnail: images/chips.jpg
 authors: K Sai Phani Charan
 starred: false
-abio: None
+abio: >
+  K Sai Phani Charan is a passionate champion of electric vehicles (EV) and an
+  ardent fan of Nikola Tesla. He is a final-year Electrical Engineering student
+  at IIT Tirupati who constantly thinks of ways to revolutionize the EV sector
+  and improve sustainability. He enjoys tinkering with motors, batteries, and
+  other gadgets. In his spare time, he enjoys playing cricket and walking around
+  campus.
 ---
 # The Global Chip Shortage
 
