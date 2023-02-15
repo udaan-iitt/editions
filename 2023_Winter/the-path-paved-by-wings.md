@@ -25,8 +25,6 @@ Before we dive into the exciting interaction, let us tell you just a little more
 
 ![](images/padma_bandopadhyay2.jpg)
 
-
-
 The first question that arises in a youthful mind like ours is where she gets the inspiration to keep on working tirelessly with the same fervor and rigor. *“Upar wala [^1](God) gives you the courage to keep doing it”*, she replies. *"Family motivation, support, and hard work are the three main pillars that keep one going. Wonders do happen, but every wonder needs hard work"*, she adds. 
 
 Society plays a major role in shaping your dreams. But is it always right to hand over your reins? Society has never been a strong woman confidante. And surely, being the first woman to tweak the then customary traditions, the doctor did receive her fair share of resistance. She explains the several stereotypes that played against her favor:
@@ -85,6 +83,10 @@ Being a *fauji*, she strongly believes that everyone should feel Indian first.
 She concludes with a vision, which she leaves for us to attain:
 
 > *You people should be the best! You are the country's future!*
+
+
+
+![](images/padma_bandopadhyay.jpg)
 
 - - -
 
