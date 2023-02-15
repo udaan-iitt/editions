@@ -7,7 +7,7 @@ desc: To watch someone undress their deepest, dirtiest emotions and watch with
   her mind. We hope you find something to keep on your way out.
 authors: Sneha Battula
 starred: false
-abio: None
+abio: NONE
 ---
 The writer of this particular article would like to inform you that this piece of work is neither a composed essay nor a comprehensive poem. She requests you to leave your shoes with respect at the doorstep as you venture to read ahead, and welcomes you into six particular rooms of her mind. 
 
@@ -152,6 +152,6 @@ a woman who lets you know that Kali Mata is a man's last sight as he takes his d
 
 ### **Author’s note:**
 
-<p>1.If you’ve made it this far, I have much respect for you. I hope you take whatever you’ve picked up from this page with care, and I hope you’re able to interpret it closely to how it was written. The expression of emotion here was as raw and unfiltered as could be, the message being: “You are made up of infinite stories, each one as significant as the previous.”</p>
+<p>1. If you’ve made it this far, I have much respect for you. I hope you take whatever you’ve picked up from this page with care, and I hope you’re able to interpret it closely to how it was written. The expression of emotion here was as raw and unfiltered as could be, the message being: “You are made up of infinite stories, each one as significant as the previous.”</p>
 
-<p>2.And to my professor who claims to have read some of my general writing on this website- thank you for letting me know. It really gave me the extra push to put this out there and it makes it that much more special.</p>
+<p>2. And to my professor who claims to have read some of my general writing on this website- thank you for letting me know. It really gave me the extra push to put this out there and it makes it that much more special.</p>
