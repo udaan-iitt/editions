@@ -8,7 +8,7 @@ desc: A man dives into a spiral of lucid dreams as he cannot discern between his
 thumbnail: images/manofdreams.jpg
 authors: Keshav Kumar Manjhi
 starred: false
-abio: <>
+abio: NONE
 ---
 <!--StartFragment-->
 
