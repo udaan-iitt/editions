@@ -452,4 +452,16 @@ export const author_info = [
       '',
     link: '',
   },
+  {
+    key: 'keshav',
+    title: 'Keshav',
+    tagLine1: '',
+    tagLine2: '',
+    role: '',
+    year: '',
+    desc1: 'Keshav is a delightful busy bee, or perhaps more of a bee that tends to get stuck in too much honey and responsibilities. Hiding behind his genuinely sweet and friendly demeanour is a mischievous child with an obsession to be organised, and a sense of competition that burns gently in the back of his throat. Pursuing his second year of Computer Science and Engineering at IIT Tirupati, Keshav wades in a pool of the infinite tasks he assigns upon himself, all the many kittens he wishes to adopt in the near future, and the numerous skills he has hidden up his sleeve.',
+    desc2:
+      '',
+    link: '',
+  },
 ];
