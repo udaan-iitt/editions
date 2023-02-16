@@ -20,19 +20,19 @@ abio: >
 
 ## **Let's rewind the clock a bit**
 
-The story starts on December 23, 1947, at Bell Laboratories in Murray Hill, New Jersey. This was the day the first transistor was successfully demonstrated, beginning a technological paradigm shift. To call this a revolution would be an understatement. Fast forward to 2023, Integrated Circuits (ICs), a.k.a chips, are ubiquitous, from mobile phones to cars to refrigerators!
+The story starts on December 23, 1947, at Bell Laboratories in Murray Hill, New Jersey. This was the day the first transistor was successfully demonstrated, marking the beginning of a paradigm shift in technology. To call this, a revolution would be an understatement. Fast forward to 2023, Integrated Circuits (ICs), a.k.a chips, are ubiquitous, from mobile phones to cars to refrigerators and many more!
 
 What I wish to talk about in this article is that the current chip shortage is due to strong demand and no supply. Not to exaggerate; there is supply, but it is simply not enough!  [^1]
 
 ## **So, what is causing the global chip shortage?**
 
-Well... it's complicated. Many factors play a role in short supply of chips worldwide. Let's talk about those.
+Well... it's complicated. Many factors play a role in the short supply of chips worldwide. Let's talk about those.
 
 ### **COVID-19**
 
 This goes back to COVID-19 lockdowns when all our parents worked from home, and we had online classes. What did we do? We bought laptops and had Wi-Fi access points installed in our homes. This massive growth led the manufacturers to work day and night to meet the demand of electronics companies.
 
-At the same time, automakers decided to avoid ordering chips for their cars. Why? Because it was a global pandemic; people spent on necessities, not luxuries.
+At the same time, automakers decided to avoid ordering chips for their cars. Why? Because it was a global pandemic, people spent on necessities, not luxuries.
 
 Okay! That sounds like a beautiful plan, right? Nope. It wasn't clear when the pandemic would settle, so many companies failed to meet the demand once people started buying more cars.
 
@@ -73,7 +73,7 @@ In March 2021, a fire broke out at a Renesas Electronics-owned facility in Japan
 
 The price of neon increased sixfold between December 2021 and March 2022 due to the COVID-19 pandemic and political tensions in Ukraine. Ukraine supplies over half of the world's neon supply and 90% of the semiconductor-grade neon used in the United States.
 
-Semiconductor makers have looked for alternate sources in China. Still, any new supply would have to raise output for at least nine months. Supply of noble gases like Krypton and Xenon, of which Ukraine is a significant supplier, were also disrupted.
+Semiconductor makers have looked for alternate sources in China. Still, any new supply would have to raise output for at least nine months. The supply of noble gases like Krypton and Xenon, of which Ukraine is a significant supplier, was also disrupted.
 
 *Le China - I'm the boss.*
 
@@ -133,7 +133,7 @@ During the epidemic, AMD and Nvidia, the primary GPU card makers, introduced new
 
 During the COVID-19 pandemic, we had no theatres open, and many of us started watching series from streaming sites. Students like us got into video gaming.
 
-I'm not an expert on consoles and gaming. These are the consoles which have the most demand. Because the inrush of many guys into gaming led to the shortage of consoles. Companies like Sony mentioned that there will be a shortage of PS5 even in 2022.
+I'm not an expert on consoles and gaming. These are the consoles that have the most demand. Because the inrush of many guys into gaming led to the shortage of consoles. Companies like Sony mentioned that there would be a shortage of PS5 even in 2022.
 
 2022 is coming to an end. Did you guys get your hands on one of those sweet PS5s yet?
 
@@ -144,8 +144,6 @@ Both companies use AMD chips manufactured by TSMC in their ninth-generation cons
 *TSMC be like - I'm done with this.*
 
 As supply problems persist, scalpers resell the consoles on websites such as eBay for 50% to 100% above their retail price.
-
-
 
 ![](images/chips2.jpg)
 
@@ -161,7 +159,7 @@ Well, it's a nice thought in the case of other products. Still, it's risky or ev
 
 The key aspect I forgot to mention is that the semiconductor industry is capital-intensive. It requires billions of dollars.
 
-Another option which is being tried out is waiting. Yeah, seriously. The automobile and electronics companies are just asking their customers to wait.
+Another option that is currently being practised is waiting. Yeah, seriously. The automobile and electronics companies are just asking their customers to wait.
 
 During this semester, I have read newspaper articles that mentioned that it is taking at least 6-8 months to assemble and release for the big players like Maruti Suzuki, Ford, General Motors, Mahindra and others.
 
@@ -191,7 +189,7 @@ If you have reached here, it means you want to do something exciting. This is wh
 
 India is now in the startup era. Try to use this moment to devise innovative solutions to existing problems and make a difference. We can create something impactful that will help advance technology and our nation.
 
-[^1]: Remember the incessant delay in providing Wi-Fi to the new hostels in our campus? The main culprit here again was the global shortage of chips. To read more about it's effect on our institute's hostels, check out this Udaan (TODO: Insert link here) article on HoME, IIT Tirupati.
+[^1]: Remember the incessant delay in providing Wi-Fi to the new hostels at our campus? The main culprit here again was the global shortage of chips.
 
 ## **References**
 
