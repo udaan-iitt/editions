@@ -1,7 +1,7 @@
 ---
 title: Do You Have What It Takes?
 category: Poetry
-date: 2023-02-11T06:13:18.879Z
+date: 2023-02-16T05:11:52.503Z
 desc: To watch someone undress their deepest, dirtiest emotions and watch with
   an unbiased perspective? The writer wishes to take you through six doors of
   her mind. We hope you find something to keep on your way out.
