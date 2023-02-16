@@ -101,7 +101,7 @@ export const newsletter = [
   {
     key: 'keshav',
     email: 'cs21b027@iittp.ac.in',
-    title: 'Keshav',
+    title: 'Keshav Kumar Manjhi',
     link: 'https://www.linkedin.com/in/keshav-manjhi-a8a2a321b',
   },
 ];
@@ -448,6 +448,18 @@ export const author_info = [
     role: '',
     year: '',
     desc1: 'Mohith is a pre-final year chemical engineering student at IIT Tirupati who has a chain of thoughts running in his mind every time about his situation and manages to stay calm. He is curious about searching for new books to read and movies to watch and is equally lazy to start them. He likes reading random stuff from the web but forgets most of them in no time. He plays the same songs in a loop until, after a few days, they get replaced by new ones',
+    desc2:
+      '',
+    link: '',
+  },
+  {
+    key: 'keshav',
+    title: 'Keshav Kumar Manjhi',
+    tagLine1: '',
+    tagLine2: '',
+    role: '',
+    year: '',
+    desc1: 'Keshav is a delightful busy bee, or perhaps more of a bee that tends to get stuck in too much honey and responsibilities. Hiding behind his genuinely sweet and friendly demeanour is a mischievous child with an obsession to be organised, and a sense of competition that burns gently in the back of his throat. Pursuing his second year of Computer Science and Engineering at IIT Tirupati, Keshav wades in a pool of the infinite tasks he assigns upon himself, all the many kittens he wishes to adopt in the near future, and the numerous skills he has hidden up his sleeve.',
     desc2:
       '',
     link: '',
