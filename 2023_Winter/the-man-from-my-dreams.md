@@ -1,7 +1,7 @@
 ---
 title: The Man from my Dreams
 category: Story
-date: 2023-02-10T17:55:02.196Z
+date: 2023-02-16T05:16:04.965Z
 desc: A man dives into a spiral of lucid dreams as he cannot discern between his
   dreams and actuality. As he escapes from the dreams, he realizes his own
   desires curse him, and his own reality is hell.
