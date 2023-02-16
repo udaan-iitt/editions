@@ -1,7 +1,7 @@
 ---
 title: The Global Chip Shortage
 category: Op-Ed
-date: 2023-02-08T14:20:49.567Z
+date: 2023-02-16T05:16:20.970Z
 desc: Why is the college taking so long to install routers in the G-Block?!
   Well, it may not be entirely their fault. Read on to find out as Charan
   explains the current shortage of silicon chips worldwide.
