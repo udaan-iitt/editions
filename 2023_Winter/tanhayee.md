@@ -1,7 +1,7 @@
 ---
 title: Tanhayee
 category: Poetry
-date: 2023-02-16T05:16:37.242Z
+date: 2023-02-16T05:17:34.600Z
 desc: Life presents you many opportunities at every stage, but those
   opportunities comes with a cost, the cost of loneliness.
 thumbnail: images/tanhayee.jpg
