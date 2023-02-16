@@ -1,7 +1,7 @@
 ---
 title: Penelope
 category: Poetry
-date: 2023-01-28T13:04:42.189Z
+date: 2023-02-16T05:17:46.226Z
 desc: "It takes a lot of hope, faith, and strength for a woman to wait for her
   husband to return safely from a war. Inspired by the legends, paying tribute
   to the pain of the families of warriors, join Iftekhar as he describes
