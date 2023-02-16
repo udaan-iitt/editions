@@ -1,7 +1,7 @@
 ---
 title: Wernher von Braun - Tom Lehrer
 category: Op-Ed
-date: 2023-01-25T03:47:30.338Z
+date: 2023-02-16T05:13:18.851Z
 desc: Cosmic Cutie brings to you another exquisite analysis of the satirical
   piece, 'Wernher Von Braun' by Tom Lehrer. A hard-hitting take on science,
   politics, and international relations revolving around Wernher Von Braun, the
