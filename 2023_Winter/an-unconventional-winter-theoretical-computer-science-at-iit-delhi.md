@@ -1,7 +1,7 @@
 ---
 title: An Unconventional Winter - Theoretical Computer Science at IIT Delhi
 category: Experiences
-date: 2023-02-12T06:04:57.713Z
+date: 2023-02-16T05:12:34.976Z
 desc: A walk, a lunch, and a lecture. Delve into a pool of intriguing concepts
   and mind-twisting theories as Mathew narrates his experience of taking a
   special course at IIT Delhi.
