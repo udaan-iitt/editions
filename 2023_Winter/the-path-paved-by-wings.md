@@ -1,7 +1,7 @@
 ---
 title: "The Path Paved by Wings "
 category: Campus News
-date: 2023-01-28T04:07:15.611Z
+date: 2023-02-16T05:13:30.368Z
 desc: One of the country’s most inspiring legends, a solitary-path woman, the
   first of her kind, and even better, born in our very own Tirupati - do you
   believe you could do justice to being in her presence? We aren’t sure of it
