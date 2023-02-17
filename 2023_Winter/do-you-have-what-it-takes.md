@@ -26,10 +26,6 @@ but i have it all / i have water, i have food, i have air that occasionally blow
 
 *\- on recreating a home, from a bedroom to a dorm.<br><br><br>*
 
-
-
-![](images/longing.jpg)
-
 ### **ACT II - HOPE**
 
 <p>i have visions for myself- <br>
@@ -58,10 +54,6 @@ that are holding their face and telling them they’re loved.<br></p>
 
 *\- a simple post-storm fantasy.<br><br><br>*
 
-
-
-![](images/hope.jpg)
-
 ### **ACT III - SELF-WORTH**
 
 <p>and i'll be out again, i'll come out again, i'll spill it all in words and i'll weave you a tale of times / i'll spin together gold and white and make you wonder if there's blue and black hidden between the lines / and when it hits it will crack your chest open and rip through the flesh and veins till it reaches your heart / and you will wonder whether the panic and pressure settling on your chest is yours or mine. / maybe i've cracked your code, maybe i've written down the things within you / that you fear will be leaked, snatched straight from your hands intertwined in a prayer position / and i will stare straight into your eyes. unblinking. knowing. smiling. / and i will brandish a story so brash and bare you feel your sins being laid out in the open for the eagles to circle around. </p>
@@ -73,10 +65,6 @@ that are holding their face and telling them they’re loved.<br></p>
 <p>every individual fire ignited, every injustice let loose - they’re burning a path up my windpipe / they’re roaring and pulling against their chains / their bared teeth are only a snap away from the throats of the blurry population and what a delicious scent their veins offer / i’m blazing down the meadows where we laughed / the fire is licking my heels / i’m channelling the core of the earth and the magma is heating the bronze of my skin, and oh my goddesses - i feel the rage, i feel Kali awakening within me with a hunger after her endless slumber. / every home has its protector, and they say what you do behind closed doors is between you and the Lord / but i know about every month-old bone you hide in your closet. </p>
 
 *\- she did not ask to be awakened.<br><br><br>*
-
-
-
-![](images/selfworth.jpg)
 
 ### **ACT IV - HEARTBREAK**
 
@@ -111,10 +99,6 @@ knowing you’re putting it out for everyone to see and <br>
 attempting to keep a strong front nevertheless.<br></p>
 
 *\- if only it were easier to abandon yourself.<br><br><br>*
-
-
-
-![](images/heartbreak.jpg)
 
 ### **ACT V - NEW LOVE**
 
@@ -152,10 +136,6 @@ leaving behind light brighter than either of us could produce alone.<br></p>
 
 *\- the universe isn’t going anywhere.<br><br><br>*
 
-
-
-![](images/newlove.jpg)
-
 ### **ACT VI - WOMANHOOD**
 
 <p>and to those who mock a woman<br>
@@ -170,8 +150,6 @@ a woman who screams "death" with every step she takes towards you<br>
 a woman who lets you know that Kali Mata is a man's last sight as he takes his dying breath<br></p>
 
 *\- Kali is here, and she shall be paid in blood.<br><br><br>*
-
-
 
 ![](images/womanhood.jpg)
 
