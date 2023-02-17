@@ -37,6 +37,8 @@ To clear the air on various myths related to counselling, we at Udaan, sat down 
 
 # **Interview with Dr Neeraja**
 
+![](images/whatsapp-image-2023-02-17-at-21.44.09.jpg)
+
 > *To begin with, can you clarify for our readers the difference between Psychiatry, Psychotherapy, and Counseling?*
 
 These are commonly used words in universities. A psychiatrist is a medical professional with an MBBS. After an MBBS, they do an MD in psychiatry, after which they typically treat mental health diseases or disorders since they are allowed to give medicines.
