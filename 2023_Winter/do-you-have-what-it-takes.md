@@ -115,7 +115,7 @@ rushing things,<br>
 hoping we make it on day one,<br>
 fretting over why your face isn’t in my hands yet,<br>
 anger at the world for the stretch and strain,<br>
-until we’re horribly aligned<br>
+until we’re horribly unaligned<br>
 and everything is off-axis<br>
 and we dissipate into nothingness-<br>
 and we can’t look at each other <br>
