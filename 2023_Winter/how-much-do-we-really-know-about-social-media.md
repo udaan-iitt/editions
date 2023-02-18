@@ -30,7 +30,7 @@ alt: Social Media
 * [Conclusion](#conclusion)
 * [References](#references)
 
-> *DISCLAIMER: The following are my personal views and are not affiliated to any other person/entity. I do refer to other sources but note that the inferences I make from them are mine alone. Feel free to disagree with me in your head. Or you could share your frustration with me directly via email at pace577 \[AT] protonmail \[DOT] com. I would love some feedback (especially negative feedback!). Also, I tend to go off on tangents every now and then, but please bear with me and pay attention to these tangents anyways. Otherwise, you might not fully understand what I'm saying and I'll feel a little sad 😢. Thanks!*
+> *DISCLAIMER: The following are my personal views and are not affiliated to any other person/entity. I do refer to other sources but note that the inferences I make from them are mine alone. Feel free to disagree with me in your head. Or you could share your frustration with me directly via email at pace577@protonmail.com. I would love some feedback (especially negative feedback!). Also, I tend to go off on tangents every now and then, but please bear with me and pay attention to these tangents anyways. Otherwise, you might not fully understand what I'm saying and I'll feel a little sad 😢. Thanks!*
 
 If I were to ask you the question, "*What is the biggest problem that our current generation faces?*", what would your answer be? I know you just started reading but pause for a moment. Think about it.
 
@@ -63,7 +63,7 @@ You realize that you forgot your phone, so you borrow Abhijith's phone to show A
 "What? I don't understand."\
 "That means you have been fooled into thinking you'll find something important in the reel, but there wasn't anything like that."\
 "So you find important things in reels?"\
-"No, not really&#x2026"
+"No, not really..."
 
 *Both you and Abhijith briefly pause and ponder upon that question while having a subtle life crisis*.
 
