@@ -6,7 +6,7 @@ desc: Why is the college taking so long to install routers in the G-Block?!
   Well, it may not be entirely their fault. Read on to find out as Charan
   explains the current shortage of silicon chips worldwide.
 thumbnail: images/chips.jpg
-authors: K Sai Phani Charan
+authors: K Sai Phani Charan, Kranthi Sedamaki
 starred: false
 abio: >
   K Sai Phani Charan is a passionate champion of electric vehicles (EV) and an
