@@ -12,6 +12,8 @@ abio: NONE
 ---
 <!--StartFragment-->
 
+**Trigger Warning: Implications of rape occur throughout the following story which may be sensitive to some.**
+
 “*A starry night often may not accompany the light to see everything.*" Ammi used to say this a lot, I remember. I flip the rupee bills in my hand as I stare at a fat cop, sizing me up with his eyes. Why do I remember that all of a sudden? I keep wondering as I'm suddenly startled by a loud clap. 
 
 "*You sure that 'chhokra' can do the job?*" he said as he pointed at Jamal sitting on a broken stool near the pale, cracked wall. 
