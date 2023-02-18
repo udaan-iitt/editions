@@ -27,7 +27,8 @@ The intellectual discussions were not limited to the classroom; we split into gr
 
 One memorable lecture involved a practical demonstration of the core principles of information theory in the form of a card trick. The professor asked a volunteer to pick five cards from his assistant and return any four of the five cards. When the assistant read out the four returned cards, the professor guessed the fifth card. This was done by encoding information about the fifth card in the order in which the four other cards were read out. We analysed a general version of this card trick and showed how, to pull off this trick, the number of cards in the pack is limited by the number of permutations the assistant could make from the cards given.
 
-On the last day of the school, we had two interactive sessions with the CSE faculty of IIT D. The first session consisted of a panel of junior faculty who dealt with questions about the current state of CS research and explained how academia operates. The second session consisted of a panel of senior faculty, who told us about the long-term trends they had observed over their long careers. The panellists in both sessions were very pleasant and approachable, eager to share their words of wisdom with the young minds arrayed before them.
+On the last day of the school, we had two interactive sessions with the CSE faculty of IIT D. The first session consisted of a panel of junior faculty who dealt with questions about the current state of CS research and explained how academia operates. The second session consisted of a panel of senior faculty, who told us about the long-term trends they had observed over their long careers. The panellists in both sessions were very pleasant and approachable, eager to share their words of wisdom with the young minds arrayed before them.                                           
+
 
 Here is a small list of particularly memorable exchanges:
 
