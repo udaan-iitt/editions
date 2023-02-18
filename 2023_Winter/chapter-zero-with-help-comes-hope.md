@@ -12,7 +12,7 @@ authors: Krithi Shailya, Mathew K J
 starred: true
 abio: NONE
 ---
-## **Index**
+### **Index**
 
 * [Preface](#preface)
 * [Why Therapy?](#why-counseling-or-therapy)
@@ -21,13 +21,13 @@ abio: NONE
 * [It’s the Climb - Series on Mental Health](#_9qt1ugbavp24)
 * [Conclusion](#_ddqej8uk3j4k)
 
-## **Preface**
+### **Preface**
 
 Mental health issues have always been around the corner. With multiple representations in social media posts, we’re sure you're familiar with the reel concept of mental health. In contrast to what is portrayed in popular media, mental health does not mean sitting in a corner, crying about your life, or a violent and unpredictable lifestyle. In reality, something as simple as a slow uneasiness when the teacher is distributing your marks might lead to regular anxiety, enough to significantly impede your ability to make the best of life. 
 
 With societal and academic pressure, you are bound to find a lack of mental energy at some point in your life. Amidst all this, you constantly find yourself being pressured to "look on the brighter side" and to focus on "Good vibes only." But why? You're going through a battle, and the last thing you would want to believe right now is, "It could have been worse". Thus rises an increasing need not just to educate about mental health, but also how to help people around you get through it.  
 
-## **Why Counseling or Therapy?**
+### **Why Counseling or Therapy?**
 
 Often, when you find yourself stuck, making progress is not easy, and you will need somebody to work with you on it. With the social stigma around counselling, it is believed to be weak to seek help. The people around you might simply try to brush things under the rug rather than encourage you to openly accept and work on your issues. The pressure to be “normal” and “fit in” might not seem to align with seeking help and regularly visiting a therapist. 
 
@@ -35,7 +35,7 @@ As the saying goes, "If you keep brushing problems under the rug, you eventually
 
 To clear the air on various myths related to counselling, we at Udaan, sat down with [Dr. Neeraja ](https://www.linkedin.com/in/dr-neeraja-padigapati-a3917218/)[Padigapati](https://www.linkedin.com/in/dr-neeraja-padigapati-a3917218/)**,** our campus’ Counseling Psychologist from the [Guidance and Counseling Unit (GCU)](https://www.instagram.com/sarathi_gcu_iitt/?hl=en). Dr. Neeraja is a very fun and interactive individual who has years of experience in helping people win over their inner battles and unleash their true potential. The interview gave the team a chance to discuss the behind-the-scenes of counselling and talk about various causes of mental health issues in today’s lifestyle.
 
-## **Interview with Dr Neeraja**
+### **Interview with Dr Neeraja**
 
 ![](images/whatsapp-image-2023-02-17-at-21.44.09.jpg)
 
@@ -108,7 +108,7 @@ Who is going to see them as weak? People in the environment.** *Change should co
 
 ![](images/brett-jordan-dttwulmkkze-unsplash.jpg)
 
-## **Guidance and Counseling Unit (GCU)**
+### **Guidance and Counseling Unit (GCU)**
 
 Slowly but steadily, the importance of mental health is gaining light, especially in institutions and schools, with students going through significant phases in their lives during these years. IIT Tirupati has a dedicated committee, the Guidance and Counseling Unit (GCU), to help students overcome various battles they face with their mental health and emotions. We asked the former student head at GCU, Aasim, for his insights on the purpose of GCU and what it does. 
 
@@ -142,11 +142,11 @@ PhD Representative:   Aditi Palit ( [cs21d001@iittp.ac.in ](mailto:cs21d001@iitt
 
 PG   Representative:   Umang Rastogi ([me22s001@iittp.ac.in](mailto:me22s001@iittp.ac.in) )
 
-## **It's the Climb**
+### **It's the Climb**
 
 The first step to battling an emotion is accepting it. By forcing yourself to stay happy and positive, you fail to give yourself the space for validation and self-compassion, which are essential for mental health. This series, “It's the Climb,” aims to be a stepping stone in raising awareness of various mental health issues. The goal is to encourage people dealing with such issues to take a step forward and help everyone around them learn how to take that step. 
 
-## **Conclusion**
+### **Conclusion**
 
 Any journey takes time and patience, and counselling is no exception to that. We thank Dr. Neeraja for taking her time out to raise awareness on various aspects of mental health. If you or someone you know is going through a particularly difficult time, visit a psychologist. You will get a new perspective on your issues, and it will help you deal with your emotions better. Even if not for that, it will serve as a simple reassurance that, at the end of the day, you are not alone. 
 
