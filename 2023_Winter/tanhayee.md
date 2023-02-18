@@ -7,11 +7,11 @@ desc: Life presents you many opportunities at every stage, but those
 thumbnail: images/tanhayee.jpg
 authors: Abhishek
 starred: false
-abio: Abhishek Rajkumar, a poet at heart, likes to describe himself as mere a
+abio: "Abhishek: Abhishek Rajkumar a poet at heart, likes to describe himself as mere a
   water droplet, moving with society, that will one day will die and disappear.
   At present, he is a Ph.D. scholar at the Department of Mathematics and
   Statistics, IIT Tirupati. Along with writing, he is a medium fast bowler, and
-  not surprisingly, very fond of cricket.
+  not surprisingly, very fond of cricket"
 ---
 <p style="text-align: center;align:center;">
 आँखें खुली, मेरा ख्वाब टूट गया <br>

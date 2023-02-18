@@ -11,12 +11,12 @@ desc: "It takes a lot of hope, faith, and strength for a woman to wait for her
 thumbnail: images/penelope.jpg
 authors: Iftekhar Ahmed
 starred: false
-abio: "If you ask a friend of Iftekar’s to describe him, the first word that
+abio: Iftekhar Ahmed:If you ask a friend of Iftekar’s to describe him, the first word that
   will helplessly tumble out of their mouth is ‘poet’. The soft-spoken poet, who
   radiates positive vibes and wields excellent oratory skills, Iftekhar, is
   currently pursuing an undergraduate degree in Electrical Engineering at IIT
   Tirupati. He is also a well-known badminton player who spends his spare time
-  immersed in books and movies. "
+  immersed in books and movies.
 ---
 <p style="text-align: center;align:center;">Every day begins with the dawn,<br>
 Sun rises at the eastern horizon,<br>

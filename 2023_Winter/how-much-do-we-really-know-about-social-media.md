@@ -9,7 +9,7 @@ desc: The exam is in 8 hours. Focus. You need to study. Ping! Instagram
 thumbnail: images/socialmedia.jpg
 authors: Prabhat Reddy
 starred: false
-abio: Prabhat is a hopelessly open-minded optimist who hopes that one day he'll
+abio: Prabhat Reddy:Prabhat is a hopelessly open-minded optimist who hopes that one day he'll
   have learned everything about everything. You can find him neck-deep in work
   or aimlessly goofing around; there is no in-between. If he’s not organising
   every minute of the existence of the universe into a computer-based journal,

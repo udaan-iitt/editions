@@ -464,4 +464,16 @@ export const author_info = [
       '',
     link: '',
   },
+  {
+    key: 'prabhat',
+    title: 'Prabhat Reddy',
+    tagLine1: '',
+    tagLine2: '',
+    role: '',
+    year: '',
+    desc1: "Prabhat is a hopelessly open-minded optimist who hopes that one day he'll have learned everything about everything. You can find him neck-deep in work or aimlessly goofing around; there is no in-between. If he’s not organising every minute of the existence of the universe into a computer-based journal, he’s probably bonding with a friendly stranger over Linux, Emacs, basketball, Linkin Park, anime or F.R.I.E.N.D.S. Currently pursuing his MS in Artificial Intelligence at C-MInDS, IIT Bombay, Prabhat was the ‘lit’ Secretary who breathed life into Udaan, the very magazine you’re reading right now!",
+    desc2:
+      '',
+    link: 'https://www.linkedin.com/in/prabhat-reddy-l-5b017062',
+  },
 ];

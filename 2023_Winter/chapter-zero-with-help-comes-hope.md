@@ -10,7 +10,7 @@ desc: >
 thumbnail: images/gcu_ch0.jpg
 authors: Krithi Shailya, Mathew K J
 starred: true
-abio: NONE
+abio: ""
 ---
 ### **Index**
 

@@ -9,7 +9,7 @@ thumbnail: images/chips.jpg
 authors: K Sai Phani Charan, Kranthi Sedamaki
 starred: false
 abio: >
-  K Sai Phani Charan is a passionate champion of electric vehicles (EV) and an
+  K Sai Phani Charan: K Sai Phani Charan is a passionate champion of electric vehicles (EV) and an
   ardent fan of Nikola Tesla. He is a final-year Electrical Engineering student
   at IIT Tirupati who constantly thinks of ways to revolutionize the EV sector
   and improve sustainability. He enjoys tinkering with motors, batteries, and

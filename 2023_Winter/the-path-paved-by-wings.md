@@ -11,7 +11,7 @@ desc: One of the country’s most inspiring legends, a solitary-path woman, the
 thumbnail: images/padma_bandopadhyay.jpg
 authors: Chaitali
 starred: true
-abio: NONE
+abio: ""
 ---
 <!--StartFragment-->
 
