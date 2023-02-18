@@ -19,7 +19,7 @@ abio: Prabhat is a hopelessly open-minded optimist who hopes that one day he'll
   breathed life into Udaan, the very magazine you’re reading right now!
 alt: Social Media
 ---
-# Table of Contents
+### Table of Contents
 
 * [How would an alien react to seeing Instagram for the first time?](#how-would-an-alien-react-to-seeing-instagram-for-the-first-time)
 * [Okay, but what's your point?](#okay-but-whats-your-point)
@@ -30,7 +30,7 @@ alt: Social Media
 * [Conclusion](#conclusion)
 * [References](#references)
 
-> *DISCLAIMER: The following are my personal views and are not affiliated to any other person/entity. I do refer to other sources but note that the inferences I make from them are mine alone. Feel free to disagree with me in your head. Or you could share your frustration with me directly via email at pace577 \[AT] protonmail \[DOT] com. I would love some feedback (especially negative feedback!). Also, I tend to go off on tangents every now and then, but please bear with me and pay attention to these tangents anyways. Otherwise, you might not fully understand what I'm saying and I'll feel a little sad 😢. Thanks!*
+> *DISCLAIMER: The following are my personal views and are not affiliated to any other person/entity. I do refer to other sources but note that the inferences I make from them are mine alone. Feel free to disagree with me in your head. Or you could share your frustration with me directly via email at pace577@protonmail.com. I would love some feedback (especially negative feedback!). Also, I tend to go off on tangents every now and then, but please bear with me and pay attention to these tangents anyways. Otherwise, you might not fully understand what I'm saying and I'll feel a little sad 😢. Thanks!*
 
 If I were to ask you the question, "*What is the biggest problem that our current generation faces?*", what would your answer be? I know you just started reading but pause for a moment. Think about it.
 
@@ -44,7 +44,7 @@ Thinking about that seemed like a fun thought experiment, and the result of that
 
 <a id="how-would-an-alien-react-to-seeing-instagram-for-the-first-time"></a>
 
-# How would an alien react to seeing Instagram for the first time?
+### How would an alien react to seeing Instagram for the first time?
 
 Let's go through a cute little scenario. Imagine you're a guy. One fine morning, an alien (let's call her Ali) who looks like a human and knows English knocks at your doorstep. She tells you that she has been sent on a mission to learn more about human society and asks you to assist in her mission. You immediately accept her request (obviously). You ask her to accompany you to the mess for breakfast.
 
@@ -63,7 +63,7 @@ You realize that you forgot your phone, so you borrow Abhijith's phone to show A
 "What? I don't understand."\
 "That means you have been fooled into thinking you'll find something important in the reel, but there wasn't anything like that."\
 "So you find important things in reels?"\
-"No, not really&#x2026"
+"No, not really..."
 
 *Both you and Abhijith briefly pause and ponder upon that question while having a subtle life crisis*.
 
@@ -85,7 +85,7 @@ She agrees, following which you leave for class. You go back to your room after 
 
 <a id="okay-but-whats-your-point"></a>
 
-# Okay, but what's your point?
+### Okay, but what's your point?
 
 If you stop thinking about how a girl managed to enter the boys' hostel, you'll notice that a few things present in this thought experiment hold true in real life:
 
@@ -103,7 +103,7 @@ A study (<a href="#citeproc_bib_item_4">Tamir et al. 2018</a>) observed that tho
 
 <a id="what-do-you-remember-and-how-much"></a>
 
-# What do you remember, and how much?
+### What do you remember, and how much?
 
 Another consequence of excessive use of social media is the reduction of your attention span (<a href="#citeproc_bib_item_2">Fotuhi 2020</a>). We watch short videos that are 10-15 seconds long on average, one after another, each containing different content but more or less equally appealing to us. Anyone who watched *[The Social Dilemma](https://www.thesocialdilemma.com/the-film/)* would be aware of the addictive nature of social media. However, have you wondered how it affects your knowledge and your ability to reason?
 
@@ -131,7 +131,7 @@ What could be possible solutions for these issues?
 
 ![](images/socialmedia2.jpg)
 
-# Are we forgetting to read?
+### Are we forgetting to read?
 
 My point was that you obtain pieces of information from social media, many of which you don't remember well. But I wonder, does this affect our desire to learn from larger sources of information? Among students, there is a growing trend of watching videos instead of reading books to learn something. Could that be because videos contain more sensory information than books to engage a consumer? But that wouldn't explain why people prefer shorter videos over longer ones. Is that because people want quick resolutions to their problems? Or is it because peoples' brains aren't able to patiently wait for the information in the longer video because their brains have been rewired to crave short bits of satisfying content? Could that be the reason why we students watch videos at 2x speed, even though we sometimes understand *nothing*?
 
@@ -143,7 +143,7 @@ I'm not claiming anything, dear reader, I'm just thinking about things 🤷‍�
 
 <a id="would-you-trust-yourself-if-you-were-being-mentally-manipulated"></a>
 
-# Would you trust yourself if you were being mentally manipulated?
+### Would you trust yourself if you were being mentally manipulated?
 
 For some reason, lots of strange thoughts come to me when I see people staring at phones, and here's one. When people are glued to screens, staring at content made by other people, *aren't they so generously offering their time to be manipulated by people online*?
 
@@ -165,7 +165,7 @@ It's not just advertisements. There are people creating content and distributing
 
 <a id="my-opinion-that-no-one-really-asked-for"></a>
 
-# My opinion that no one really asked for
+### My opinion that no one really asked for
 
 After all this, you might be surprised to read my following statement, but I assure you that it is true. I am not against social media, I love it. It has created many opportunities for people to socialize, discuss social issues, form communities, express themselves, and even make a living! However, I am against the irresponsible use of it, be it by content creators or consumers or advertisers or firms owning the platforms. I believe that consumers should be critical of the content they are viewing, and content creators must be responsible when making content, especially popular ones. Having influence over what people see doesn't mean you show them whatever you want.
 
@@ -183,7 +183,7 @@ There are many more myths out there to bust! If you're a web developer and you w
 
 <a id="conclusion"></a>
 
-# Conclusion
+### Conclusion
 
 Technology and social media have significantly changed the way we perceive the world around us, and it continues to do so in ways we don't fully understand. That's precisely the reason why it's so important to try and understand whatever we can about it, and the first milestone on the journey to enlightenment is to ask questions.
 
@@ -191,12 +191,8 @@ With that said, happy pondering!
 
 <a id="references"></a>
 
-# References
-
-<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>“Average Daily Time Spent on Social Media.” 2022. <i>Broadbandsearch.Net</i>. https://www.broadbandsearch.net/blog/average-daily-time-on-social-media.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>Fotuhi, Majid. 2020. “What Social Media Does to Your Brain.” <i>Neurogrow</i>. https://neurogrow.com/what-social-media-does-to-your-brain/.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_3"></a>Hallam, Lisa. 2022. “The Effects of Advertising on the Human Brain.” <i>Owlcation</i>. https://owlcation.com/social-sciences/The-Effects-of-Advertising-on-the-Human-Brain.</div>
-  <div class="csl-entry"><a id="citeproc_bib_item_4"></a>Tamir, Diana I., Emma M. Templeton, Adrian F. Ward, and Jamil Zaki. 2018. “Media Usage Diminishes Memory for Experiences.” <i>Journal of Experimental Social Psychology</i> 76 (May): 161–68. <a href="https://doi.org/10.1016/j.jesp.2018.01.006">https://doi.org/10.1016/j.jesp.2018.01.006</a>.</div>
-</div>
+### References
+- [Average Daily Time Spent on Social Media.](https://www.broadbandsearch.net/blog/average-daily-time-on-social-media)
+- [What Social Media Does to Your Brain.](https://neurogrow.com/what-social-media-does-to-your-brain)
+- [The Effects of Advertising on the Human Brain.](https://owlcation.com/social-sciences/The-Effects-of-Advertising-on-the-Human-Brain)      
+- [Journal of Experimental Social Psychology](//doi.org/10.1016/j.jesp.2018.01.006)

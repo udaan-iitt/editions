@@ -1,6 +1,6 @@
 ---
 title: Wernher von Braun - Tom Lehrer
-category: Op-Ed
+category: Review
 date: 2023-02-16T05:13:18.851Z
 desc: Cosmic Cutie brings to you another exquisite analysis of the satirical
   piece, 'Wernher Von Braun' by Tom Lehrer. A hard-hitting take on science,
@@ -83,25 +83,25 @@ Not him.
 
 That's for sure.
 
-> *The bullet kills*
+> The bullet kills
 >
-> *But the gun fires the bullet*
+> But the gun fires the bullet
 >
-> *Does the gun kill?*
+> Does the gun kill?
 >
-> *But the hand triggers the gun*
+> But the hand triggers the gun
 >
-> *Does the hand kill?*
+> Does the hand kill?
 >
-> *But the mind moves the hand*
+> But the mind moves the hand
 >
-> *Does the mind kill?*
+> Does the mind kill?
 >
-> *But Duty compels the mind*
+> But Duty compels the mind
 >
-> *And the State imposes Duty*
+> And the State imposes Duty
 >
-> *Does the State kill?*
+> Does the State kill?
 
 This line of reasoning, dubious as it may seem, was apparently enough to convince the *US War Department* (later renamed the "*Department of Defense*", an example of *Orwellian* levels of newspeak) that he was not morally culpable for the *V2* programme. But then again, the *USA* was generally lax when it came to punishing war criminals and was often happy to let them go unpunished if doing so served its own interests.
 
