@@ -51,12 +51,6 @@ export const newsletter = [
     link: 'mailto:me21b045@iittp.ac.in',
   },
   {
-    key: 'kranthi',
-    email: 'cs19b036@iittp.ac.in',
-    title: 'Kranthi Sedamaki',
-    link: 'https://www.linkedin.com/in/kranthisedamaki/',
-  },
-  {
     key: 'sirish',
     email: 'cs20b043@iittp.ac.in',
     title: 'Sirish',
@@ -147,6 +141,16 @@ export const pastmembers = [
     desc1:
       'Talents include drafting the perfect emails and perfecting any written material.',
     link: 'https://www.linkedin.com/in/preethi-varsha-70211b210',
+  },
+  {
+    key: 'kranthi',
+    title: 'Kranthi Sedamaki',
+    tagLine1: 'Editor',
+    role: 'Editor',
+    year: '2022-23',
+    desc1:
+      'Kranthi was editor at Udaan 2022-23 while pursuing a bachelor\'s in Computer Science and Engineering at IIT-T. He likes playing with the latest tech in his code playgrounds and loves working with data and AI! You can find him reading non-fiction books and playing Catan with his friends when he\'s not working.',
+    link: 'https://www.linkedin.com/in/kranthisedamaki/',
   },
 ];
 
