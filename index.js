@@ -149,7 +149,7 @@ export const pastmembers = [
     role: 'Editor',
     year: '2022-23',
     desc1:
-      'Kranthi was editor at Udaan 2022-23 while pursuing a bachelor\'s in Computer Science and Engineering at IIT-T. He likes playing with the latest tech in his code playgrounds and loves working with data and AI! You can find him reading non-fiction books and playing Catan with his friends when he\'s not working.',
+      'Kranthi was an editor at Udaan (2022-23) while pursuing a bachelor\'s in Computer Science and Engineering at IIT-T. He likes playing with the latest tech in his code playgrounds and loves working with data and AI! You can find him reading non-fiction books and playing Catan with his friends when he\'s not working.',
     link: 'https://www.linkedin.com/in/kranthisedamaki/',
   },
 ];
