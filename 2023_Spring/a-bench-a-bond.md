@@ -1,8 +1,9 @@
 ---
 title: A Bench, A Bond
 category: Poetry
-date: 2023-02-11T05:49:58.182Z
-desc: xc
+date: 2023-03-21T18:21:31.393Z
+desc: An honest attempt to highlight the essentiality of a myriad of
+  relationships that make life worth living and more complete.
 thumbnail: images/benchbond.jpg
 authors: Bineeth
 starred: false
