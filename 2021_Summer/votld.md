@@ -249,7 +249,7 @@ And if you&rsquo;re one of the affected people, It is what it is. No one can gua
 
 Let&rsquo;s meet sometime. Oh no, we can&rsquo;t. Let&rsquo;s chat sometime. Okay?
 
-> &#x2013; Anant Tyagi, Student (Batch of 2020)
+> Anant Tyagi, Student (Batch of 2020)
 
 > Paraphrased by,  
 >  Prabhat
