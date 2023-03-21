@@ -38,7 +38,6 @@ Academics are undoubtedly a crucial component of an educational institution like
 
   * \[Internships and Placements]
   * \[Course Continuity]
-  * \[Lab Component]
   * \[What are the students looking for?]
   * \[Takeaways]
 
@@ -216,16 +215,86 @@ Another common concern from the survey was the relevance of non-core courses in 
 
 Gumma Sir also talked about the concept behind introducing these courses in the institute during our discussion.
 
->As an engineer, it's not your job only to be doing your core area. You need to have a broader perspective of engineering as a discipline and on what is happening in other domains to be a successful engineer, right? Some of these courses would allow you to bridge that gap and give you a fair bit of understanding of what is happening across different engineering professions.           
+> As an engineer, it's not your job only to be doing your core area. You need to have a broader perspective of engineering as a discipline and on what is happening in other domains to be a successful engineer, right? Some of these courses would allow you to bridge that gap and give you a fair bit of understanding of what is happening across different engineering professions.           
 
 He also mentioned that the courses might continuously have to be revised according to their relevance over the years. We also asked him about the current system of branch change that is followed after the second semester, which causes a lot of gaps and delays for the core subjects to begin. There are many institutions that follow branch change after the second semester.    
-          
 
->There are both pros and cons to the other system. When you allow a branch change after the first semester, it puts a lot of pressure on the student to perform well in the first semester. Now, remember that these are students who have just come with a massive burden on their shoulders, having cleared JEE.                            
+> There are both pros and cons to the other system. When you allow a branch change after the first semester, it puts a lot of pressure on the student to perform well in the first semester. Now, remember that these are students who have just come with a massive burden on their shoulders, having cleared JEE.                            
 
 He mentioned that students might face various difficulties and need some time to adapt to the new environment, especially if the medium of instruction is different. They need time to settle down, and the current curriculum lets the students settle down and then improve their grades if required.                              
 
->Even in the systems that currently follow branch change after the first semester, there is usually only one core course introduced in the second semester. So whether I really want so much pressure on the student and shift the branch change system by an entire semester just to accommodate one core course is a debate we can have.               
+> Even in the systems that currently follow branch change after the first semester, there is usually only one core course introduced in the second semester. So whether I really want so much pressure on the student and shift the branch change system by an entire semester just to accommodate one core course is a debate we can have.               
 
+### Course Continuity and Lab Component
 
-<!--EndFragment-->
+Most university professors have their own way of teaching courses and their own goals on what students should be aware of at the end of the course. During the 3rd and 4th years, however, most professors often assume that some content has already been covered in past courses and continue from a preset level. This is often inaccurate as some of these topics may not have been covered in said previous courses. The need to adapt and improvise curriculum based on the student’s previous knowledge is important. 
+
+*Mechanical*![Forms response chart. Question title: Do you think that lab courses go hand in hand with core courses?. Number of responses: 29 responses.](https://lh3.googleusercontent.com/0BiIlsJzf8X3qrb31vjshfu3QYh5Ty6_xR2uxl_EyhfpdSxJDuSusMPtYHLIp0V0t_-Q1dm4yb5ygjZ0tLmUq8Z4Rs0WSTGBR0jC76rB3suUn0kLXr5X3rxpEGAsCpL-QNBQq9EZALaHngwMykVnGKI "Do you think that lab courses go hand in hand with core courses?")One of the most essential expected outcomes for the labs in the curriculum is to give students some exposure to hands-on experience in addition to the theory. With years of lab experiments and modifications, students believe that the original outcome is heavily strayed away from the present teaching and grading methodologies. Lab courses are now often seen as a burden, with multiple labs taking up the entire week’s afternoon schedules, leaving the students with the weekends, of course, for the lab reports. 
+
+While most students still believe the content taught in these lab courses goes hand in hand with the theory, there is a common agreement that the current workload provided is overloaded for a 2 credit lab component.
+
+*Mechanical*
+![Forms response chart. Question title: Do you think the effort and time we put into some of the lab courses is proportional to only 2 credits? Do we deserve more credits for lab courses?. Number of responses: 29 responses.](https://lh3.googleusercontent.com/rjI7gZCidEkVhgUigJBBcKEcjQNTXV6QuLScAAIwdn8YpBH1wD0jWbK3BzErfh6o_tS-3bn3_D1yI2an5qbR21e5mqsw7Fys3X1Xai1UWjegPkeHDgeoL9ytou-_F-6e5FsTLXu_LXeypUkH5o9zMn4 "Do you think the effort and time we put into some of the lab courses is proportional to only 2 credits? Do we deserve more credits for lab courses?")
+
+As an alternative option, the survey pitched the idea of spreading out labs evenly and adjusting the courses in a way that the lab components are restricted to 2 per semester. The majority of the students seemed to be in line with this. 
+
+*Civil*
+![Forms response chart. Question title: Do you feel that courses having lab components be spread out evenly (say 2 lab courses a semester) to avoid burdening the semester? (Like in 4th and 5th semester you have three labs each). Number of responses: 16 responses.](https://lh3.googleusercontent.com/XoneCZyO-9FoZXijK-5is6QAbWXouN2R01CNDhANlSLPWSIKbS1Vy9rUcopOVxARVlN_7Wz9sZfAnARNFUeaiyURc2pEWKhBmP7dIxjkv_a-rrTxWOA2fURBDUEP06rKM_DMTVoYQux4tYCMuadea6Q "Do you feel that courses having lab components be spread out evenly (say 2 lab courses a semester) to avoid burdening the semester? (Like in 4th and 5th semester you have three labs each)")
+
+#### What are the students looking for?            
+Eventually, any system of education boils down to what a student learns from it. To understand how relevant the current curriculum is to the aspect of learning and gaining knowledge, we asked students across different branches how their experience has been with the system. We will aim to address a few widely targeted topics for each branch in the below section. 
+
+**Chemical Engineering**           
+Some of the major concerns were curriculum cramming courses like Thermodynamics and Process Synthesis into a single course. Many students believe that having it as two courses instead of one would help them explore the subjects in further depth. 
+
+![Forms response chart. Question title: A popular opinion is that courses which lay a foundation or play a key role in the chemical engineering curriculum such as Thermodynamics and Process Synthesis should have been taught as 2 courses rather than cramming the content into 1 course. What is your opinion on this?. Number of responses: 33 responses.](https://lh3.googleusercontent.com/C-2XxP07cWwGx6mrRZT1onFF6KqvnqWDDoIaZ7YeazMJAyOlYk5goBhETx63TXhkHVGeEeZ9hT3oEpu7am5s3DpSWVfwvDWxQzL9fMy9ltpXAUAlU0TetityqJhsRKBJlvi9tVZc9VO_tb3LyKs1ABw "A popular opinion is that courses which lay a foundation or play a key role in the chemical engineering curriculum such as Thermodynamics and Process Synthesis should have been taught as 2 courses rather than cramming the content into 1 course. What is your opinion on this?")
+
+Another major concern was the adaptation of the current curriculum to exams like GATE. Courses like "Mechanical Unit Operations" and "Chemical Technology” are essential for a student preparing for GATE but are currently not included in the curriculum. Students believe that the current system should be restructured to include these courses, which would prove to be highly beneficial for their overall performance in such highly competitive exams. 
+
+![Forms response chart. Question title: The current curriculum lacks courses such as "Mechanical Unit Operations" and "Chemical Technology" which are important for students who are preparing for exams such as GATE. What do you think is a good option to address this?. Number of responses: 33 responses.](https://lh3.googleusercontent.com/lD84JBObpDL3yMPMxTI8PEbpi2Q2-1ZvzR7wszCwC5WghE11dSPL6LMoSUOonH7KPHDtU9pxBWoDkj63aFI2W0uoE4XavUWIpMhbfBqV6tz6h3x4v3ataLK4ejojcePaLeGOLgJ_zN5QSj_1CUK8kd8 'The current curriculum lacks courses such as "Mechanical Unit Operations" and "Chemical Technology" which are important for students who are preparing for exams such as GATE. What do you think is a good option to address this?')
+
+**Computer Science and Engineering**                  
+A majority of the surveyed students were unsatisfied with the current curriculum for Computer Science and Engineering. The overwhelming response from both students and faculty of the CSE department revolves around the need for moving core courses to earlier semesters of the curriculum, and the irrelevance of many first year common courses.
+
+![Forms response chart. Question title: How happy are you with the current curriculum that we have been following?. Number of responses: 62 responses.](https://lh4.googleusercontent.com/iXFWVYBFZzsKHcO_0m98iVhS66z-0z22wLEtCr1S3oulpNqlqOHffU56FeRzNLLMI8hdlA7MYSHe-PKvhVihl23JxInio1qE3_cDyxxtIwg1RyV2u-46jo-f6zqsWGpLuopy3mlrRaIjo_aNIDbu8a4 "How happy are you with the current curriculum that we have been following?")
+
+>The content that is taught to us as part of the curriculum is less important to crack companies but highly useful after joining a company. On the other hand, many virtual platforms are available that help students to improve their DSA skills and their Project development skills. These are mostly paid, and hence many university students cannot afford them. The institute can work on introducing such courses or establishing partnerships with some of these platforms to provide discounts for the students. From personal experience, I benefitted highly from some of these outside paid courses and got placed in a good company, but the cost of the courses was pretty shocking.                     
+
+Some other concerns were regarding the current relevance of courses taught. With the growing technology sector, students believe that subjects and electives should also be appropriately revised. 
+
+**Electrical Engineering**                               
+The curriculum form response for electrical engineering received an approximately average experience (2.06) feedback from most of the students. 
+
+![Forms response chart. Question title: How happy are you with the current curriculum that we have been following?. Number of responses: 56 responses.](https://lh4.googleusercontent.com/EXbVIZPUi6EtgFSn-l5Dx8f_vcWekcQzzVPRjAKM-xs9hD_Bq0_qNjHeDphGnlMgeeLGDXoeYLvhwC3tp02zrNn0bJO_ciyljWE5GOJ-9krs302pIa2zSyERXfFKU-Zzzfr17AiJvfuj8MpqGVa9vl4 "How happy are you with the current curriculum that we have been following?")
+
+Some of the suggestions and concerns from students included shifting of department electives and including lab components for Hardware Electrical roles. 
+
+There were other concerns about the relevance of the curriculum for both Electrical and Computer-based roles. With the bridge between CS and Electrical disciplines, many students suggested the introduction of more CS department electives for Digital job profiles. 
+
+**Mechanical Engineering**                     
+![Forms response chart. Question title: How happy are you with the current curriculum that we have been following?. Number of responses: 18 responses.](https://lh4.googleusercontent.com/Z1JJndiFYR8haPFtT3V1hV_7LUvV1-ZlubVeh-Pm1TlNF5u3SBkLmaLxq6lFF_MtyHdHpuurIgN03H6IHiKGrpR0vKdpg_iyaTjwXmhQ3F5AaOt6H8pPWYA6jVjrKSfl-z7-eLNGPhpBq1i3corPtFM "How happy are you with the current curriculum that we have been following?")Many Mechanical engineering students are of the opinion that doing actual projects in any of their fields of interest requires a solid effort in their skillset and theoretical knowledge.  Most of the responses say that developing these ‘essential’ skills at the very beginning helps students figure out their area of interest, make a concrete effort to do their best on a project, and hence derive satisfaction from the end results. Unfortunately, a common problem that many students face is that they need to spend a lot of time just learning the know-how of a software rather than working on the actual project statement. The huge time crunch deters students from learning these skills, working on projects, and eventually participating in technical events. And some say that this is the very reason behind low turnout at technical events. 
+
+A solution offered by many is to offer these skills as a graded part of a course or at least be offered a helping hand at it. Including skill-based courses in the curriculum may drastically change the current scenario. The skills that almost all students felt needed some representation included CAD modelling, ROS, Matlab, C++, and Python. Another aspect brought about by many students was the need to open up their regular subjects to hot topics like AI, Machine Learning, Aeromodelling, and Electric Vehicles. The feeling is that including the basics of these topics will make the students more industry ready. Some students also have expressed a desire to be given more freedom to follow their field of interest and develop specialised skills at an early stage.
+
+**Civil Engineering**                  
+Most of the civil engineering responses agreed that the current curriculum was adequate for their goals. 
+
+![Forms response chart. Question title: How happy are you with the current curriculum that we have been following?
+. Number of responses: 29 responses.](https://lh4.googleusercontent.com/5iyP9QupBJq2O2pQ_Wu0RS8AwURSM4tjoDQzsThXWxqoNMfXTQnSCP11ODu5CWdV9Ba6PEBGQeEqRj3KCbLu_v83Cke-TC6d39CPNur7fXOu4mE12ZqccGje0N_ZyI-m2e0rb9bnBejCjRp9jOZwScc "How happy are you with the current curriculum that we have been following?
+")
+
+Some concerns included the need for training sessions and inclusion courses for professional tools and the GATE syllabus.
+
+>The institute can consider organising a proper training session on modern software like Staad pro and Revit, which will help us to get an internship in core domains.                             
+                             
+                        
+>Geotechnical engineering and Transportation engineering are major parts of the GATE syllabus. Since they are currently introduced in the 6th semester, there is no use for the students to take the GATE exam in the third year.      
+
+#### Takeaways
+As one of the fastest-growing third-generation IITs, the current curriculum has modified and expanded its base by a significant amount in comparison to the previous years. We conclude this section with an excerpt from the Students’ Academic Affairs Secretary. 
+
+>Most of the curriculum was designed nearly six years ago, but the industry has changed a lot in the meantime. The electives being offered should be regularly updated, once in 2-3 years with the latest advancements in the relevant industry. A majority of the elective courses listed on the website of IITT are not usually offered. This should be rectified so that students can take up electives based on their wider interests.                        
+
+### Faculty Feedback 
+
+               
