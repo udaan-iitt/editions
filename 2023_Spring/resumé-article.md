@@ -12,7 +12,7 @@ desc: A resumé is an essential tool for any job seeker. It is meant to summaris
 authors: Sathyanarayann, Kranthi, Priyansh
 starred: true
 ---
-<a id>"intro"</a id>
+<a id="intro"></a id>
 ### Introduction
 
 The pre-final year of B.Tech brings along tensions of internships and placements - suddenly, it's all anyone can talk about. Still, the most critical part of it all comes well before the internship season - creating  your Resumé. It's only the most important document that will put all of your professional work, education, accomplishments and skills on a pedestal to be judged by a potential recruiter of your dream job. No biggie… right? 
@@ -53,6 +53,7 @@ Index
 
 [Acknowledgements and References](#acknowledgements)
 
+<a id="why"></a id>
 ### Why are you creating a resumé?
 
 “And when you’re feeling unmotivated, stare at your blank resume” - from a gentle, wise soul who wishes to nudge you in the right direction
@@ -65,6 +66,7 @@ Now that you’ve answered this question, you need to focus on the “How”. 
 
 “How are you going to stand out?” 
 
+<a id="put"></a id>
 ### Putting yourself in the shoes of the recruiter.
 
 “Morals maketh man, resume giveth jobs” -- from someone who says, and I quote, “Don’t quote me”
@@ -74,7 +76,7 @@ Now that you’ve answered this question, you need to focus on the “How”. 
 Once a job/internship opening is published, recruiters receive thousands upon thousands of resumes everyday. First thing to keep in mind now, is that the recruiter will not be reading every resume completely, and instead, will be barely skimming through them. They are going to be spending less than a minute to go through every resume. Hence, you need to tailor the resume to look well formatted and highlighted at all the right places. Secondly, the goal of the recruiter is to find the perfect employee-job fit, not just everything about you there is to know. To stand out from the crowd, you need to make your recruiter’s life easy and present your main competencies relevant to the job in the best possible manner.
 
 
-
+<a id="what"></a id>
 ### What to include in a resumé?
 
 Many generic [templates are available online](https://www.overleaf.com/gallery/tagged/cv) to help you start off. These generally cover a sufficient range of sections you can organise this content in. 
