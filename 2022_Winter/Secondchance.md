@@ -1,13 +1,15 @@
 ---
-title: "A Second Chance?"
-category: "Experiences"
-date: "2021-01-30 11:00:00 +09:00"
-desc: "Some fourth years were asked what would they do differently if they could go back in time and do B.Tech again. We asked another fourth year to react to these responses. Was it a toast or a roast?"
-thumbnail: "./images/timetravel.jpg"
-authors: "Some fourth years"
+title: A Second Chance?
+category: Experiences
+date: 2021-01-30 11:00:00 +09:00
+desc: Some fourth years were asked what would they do differently if they could
+  go back in time and do B.Tech again. We asked another fourth year to react to
+  these responses. Was it a toast or a roast?
+thumbnail: ./images/timetravel.jpg
+authors: Some fourth years
 starred: true
-abio: "NONE"
-alt: "A Second Chance?"
+abio: NONE
+alt: A Second Chance?
 ---
 >*DISCLAIMER: The one who compiled this piece was in an extremely cranky mood, so please keep that in mind before reading any further.*
 >
@@ -23,7 +25,7 @@ alt: "A Second Chance?"
 >
 >I’m going to read the responses one by one. I don’t think any of these will catch me by surprise, but I can’t guarantee your safety. If you’re ready, then let’s go ahead!
 ---
-## **Table of Contents:**
+### **Table of Contents:**
 
 1. [Soumitro](#Soumitro)
 2. [The Anonymous Jack of all trades](#The-Anonymous-Jack-of-all-trades)
@@ -45,7 +47,7 @@ alt: "A Second Chance?"
 
 <a id="Soumitro"></a>
 
-## Soumitro
+### Soumitro
 
 Right, so if I could go back in time, I would probably like to retain all my memories. This way I would know all my batchmates before, but they won’t know that. Won’t that be fun? 🙂
 Coming back to the serious question, I would study less (yes less, not more. I already remember some of it, right? 😉) from my course work, read some novels, do a lot of projects, and would definitely not miss the Inter IIT as I have done for the past four years.
@@ -58,7 +60,7 @@ Coming back to the serious question, I would study less (yes less, not more. I a
 
 <a id="The-Anonymous-Jack-of-all-trades"></a>
 
-## The Anonymous Jack of all trades
+### The Anonymous Jack of all trades
 
 Well, if I could go back in time and get a chance to do my B.Tech again, I would want to change a few things, just a few. The first off would be the time I spent trying to get to do everything around me, rather than focusing on a few good things. I tried being the jack of all trades, but you know what? Sometimes it's better to just be perfect in one and then try doing other things. The other thing would be never giving an excuse for failure. I did not get good marks in a course because I did not study well, and not because I did not like the subject. Though if given a chance, I'd do my B.Tech again because I did miss quite a lot of hostel time due to COVID.
 
@@ -68,7 +70,7 @@ Well, if I could go back in time and get a chance to do my B.Tech again, I would
 
 <a id="Ajay-Meena"></a>
 
-## Ajay Meena
+### Ajay Meena
 
 No I don't want to change anything. जैसी भी यात्रा थी बहुत रोमांचक थी, हां थोड़ी बहुत कठिनाईया आई लेकिन उनके बिना खुशी के जो पल दोस्तो के साथ बिताए वो पलों की मिठास कम हो जाती। इसलिए कुछ नही बदलना जैसा था वैसा बहुत अच्छा था।
 
@@ -80,7 +82,7 @@ No I don't want to change anything. जैसी भी यात्रा थ�
 
 <a id="The-Silent-Repenter"></a>
 
-## The Silent Repenter
+### The Silent Repenter
 
 Every incident, scenario and phase in life have learnings of their own. Going down the line and reviewing my journey, I do have some regrets that I wish could have been different.
 
@@ -125,7 +127,7 @@ Dilagi, Usi se kar lena<br>
 
 <a id="Vijay-Kumar"></a>
 
-## Vijay Kumar
+### Vijay Kumar
 
 I would've started learning how to code early.
 
@@ -135,7 +137,7 @@ I would've started learning how to code early.
 
 <a id="Akanksh"></a>
 
-## Akanksh
+### Akanksh
 
 We all know that the end target of each and every student is to get a good package by the end of B.Tech. If not everyone, this is the situation in my case, coming from a non-CSE or IT background (where the packages are pretty good actually XD). I should have practiced coding. I should have made a few friends who are with the same mindset and do peer coding. Also, I should have made use of all the opportunities which came in my way, like participating in all kinds of events. It’s okay even if we don't win competitions, but it is best to have at least participated. Also, I want to be more open with all the faculty.
 
@@ -155,7 +157,7 @@ But I intend to do all the previously mentioned things.
 
 <a id="Umaeshwer-Shankar"></a>
 
-## Umaeshwer Shankar
+### Umaeshwer Shankar
 
 I am currently in my final year of B.Tech, and it has been three and a half beautiful years since I first set foot on campus. I had an opportunity to meet some wonderful people and learn life lessons that will stay with me throughout my life. This will remain my biggest takeaway from college. But sometimes, I wonder if I could have known more people had I taken the initiative to speak up. There have been times in the mess or while strolling on the campus roads when I accidentally overheard some exciting discussions and wanted to join in. But not wanting to be perceived as an intruder, I went about minding my own business. In hindsight, I feel this was indeed very foolish, and I am in the process of correcting myself. College is a great time to be open-minded and absorb new ideas, some of which may change how you perceive the world. Make the best use of your time here!
 
@@ -169,7 +171,7 @@ I am currently in my final year of B.Tech, and it has been three and a half beau
 
 <a id="The-Anonymous-Believer"></a>
 
-## The Anonymous Believer
+### The Anonymous Believer
 
 The amount of time I have stayed inside my hostel in my first year! I would love to mingle with more groups/societies in the college during that time. Especially have more interaction with seniors; I never had a strong bond with seniors during B.Tech. Also, I would focus on effective utilization of my time. I was lazy during my whole B.Tech, and I would love to change that next time.
 
@@ -181,7 +183,7 @@ The amount of time I have stayed inside my hostel in my first year! I would love
 
 <a id="Shubhankar-Bhadra"></a>
 
-## Shubhankar Bhadra
+### Shubhankar Bhadra
 
 If I think that I want to change something, it would implicate that I want to change my current situation now. Any state of the present is guided by actions done in the past, and I proudly accept whatever I am right now and because of all the experiences, I gained in my B.Tech life.
 
@@ -199,7 +201,7 @@ I don't think I would want to change any aspect of my past though, as that is wh
 
 <a id="The-Anonymous-Procrastinator"></a>
 
-## The Anonymous Procrastinator
+### The Anonymous Procrastinator
 
 Increase confidence, reduce postponing tasks and explore new stuff.
 
@@ -211,7 +213,7 @@ Increase confidence, reduce postponing tasks and explore new stuff.
 
 <a id="Kaushal-Dhaingar"></a>
 
-## Kaushal Dhaingar
+### Kaushal Dhaingar
 
 If I could go back in time and get a chance to do my B.tech again…
 
@@ -234,7 +236,7 @@ I was looking for desperately looking for something to roast, but boy what a res
 
 <a id="The-Anonymous-Optimist"></a>
 
-## The Anonymous Optimist
+### The Anonymous Optimist
 
 I will probably try to have more fun. I would have enjoyed hanging out with friends and trying new things. Furthermore, I like to listen to new genres of music. Read more novels. Be more social and participate in group activities. Learn sports. And definitely, focus more time on academics. Try to prioritize work accordingly. Spend less time on social media. But then again, I am who I am. Even if I tried to change the things I wished went in the way I desired, it would have been a lot better, and I would not have to regret it later on.
 
@@ -248,7 +250,7 @@ But I am fine with the way things have been in the past. Certainly, there will b
 
 <a id="Jayyyoooooo"></a>
 
-## Jayyyoooooo
+### Jayyyoooooo
 
 "First of all, If I had the chance to do B.Tech again, I would shoot it down so hard that even others will have a tough time finding it again! So, why would I do that? I felt that uneasiness and irritation; in and around my surroundings, which irritated me more than anything. So, “what was this uneasiness and irritation?”, you ask, eh? "Good amount of the sheep" that choose engineering are those who have no idea where they want to go, what they want to do, and why they want to do engineering? But the thing they know for sure is that they want a guaranteed, legitimate way of earning money. For some, this need is situational and unavoidable; for some, this need is to prove to others that they are better than others; for some, it is show off that they are engineers; for some, it is the wish of their loved ones; for some, they are in a flock of sheep, and various other reasons. It's probably these dimwits in the majority that have changed the actual meaning of engineering. These days, engineering has gained ‘n’ number of definitions; and one among them I would like to point out is this: a general degree for any and all other applications. It's probably this kind of misguided definition that is influencing the present generation to get an engineering degree for the wrong reasons. You probably think I'm just imposing my way of understanding things on everyone, but then, what is engineering? Why do we need engineers? How much have we deviated from the actual engineering path? These are probably some questions I would suggest you think over! So, is it wrong to learn other skills despite being an engineer? No, obviously not! But should we become engineers because we require money? I'll leave the answer to that question for that brilliant brain of yours. I wonder if there will come a time when people realize that money and material things are not the ones they should be chasing, but their dreams and knowledge.
 
@@ -262,7 +264,7 @@ So, probably after hearing these words, the me who was given a chance to choose 
 
 <a id="Hatens-z-varnaiD"></a>
 
-## Hatens z varnaiD
+### Hatens z varnaiD
 
 Go back in time! LOL, I probably will just run as far as possible from B.Tech and JEE coaching 🤔🤣. But if for some reason whatever weird kind of time travel you guys invented doesn't allow for it, then, let's see… I would've certainly changed my BTP to something where I actually could've got some creative freedom rather than finishing up the mess created by my seniors. I might've tried to be a bit less lazy overall, or strategically plan when to be lazy and when not to be. I would’ve joined a few clubs as a member and attended all the workshops. Actually, there are 4 clubs that I really regret not being a part of. And what else? I could've used the opportunity to learn more languages from my friends. Also, I probably might've tried to tone down my ambivert nature a bit 🤣. Well, there's a lot more that I could think of, but at the end of the day, life's chaotic. There's no real assurance that flipping a few bad decisions to good ones will ever lead to a better or worse place than it is now. To be any more confident, I probably would have to make decisions not just for myself, but also for many others who directly or indirectly influenced my path! (does your time travel machine allow for that? 😵). Anyways, if this all felt like some deep shit philosophy for you, then I guess you probably already slept through the quantum mechanics course. So good luck with the rest of your life, and I'm one hundred percent happy to say that I don't need your time machine. 😐😑😐😑 maybe just to change my BTP! Just one try 😁
 
@@ -277,7 +279,7 @@ Go back in time! LOL, I probably will just run as far as possible from B.Tech an
 
 <a id="Shreyansh"></a>
 
-## Shreyansh
+### Shreyansh
 
 If you had given the first year me an option to go back in time, I doubt he'd ever do B.Tech. The "JEE prep years" were my personal hell, 3 years of drudgery just to end up in an institute I had never even freaking heard of! I was at my lowest point. Little did I know then that this far away institute, full of strangers, would be the fresh start I needed.
 
