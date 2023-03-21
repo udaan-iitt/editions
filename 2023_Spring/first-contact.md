@@ -5,7 +5,7 @@ date: 2023-03-21T18:23:16.289Z
 desc: A message from beyond the stars and humanity's reaction to it - a
   thrilling tale.
 thumbnail: https://assets.isu.pub/document-structure/201214001624-2f8fbdedbbff989be0478e0cf6446524/v1/572e4117134de921b123b3a7df92b59f.jpg
-authors: B S Sandeep
+authors: Bhukya Sanghu Sandeep
 starred: false
 ---
 **Prologue:**
