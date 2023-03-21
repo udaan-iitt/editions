@@ -28,7 +28,6 @@ Academics are undoubtedly a crucial component of an educational institution like
 #### Table of Contents
 
 * [Let’s talk about Evaluation!](#Evaluation)
-
   * [Assessment vs Evaluation](#AvsE)
   * [Evaluation Metrics](#metric)
   * [Projects and Coursework](#projects)
