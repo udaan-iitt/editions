@@ -37,6 +37,7 @@ Well, here’s a thought; One, people who seem to be stuck cannot find reliable 
 
 This toxic train of thought of “How will I know?” and “What do I trust?” leaves depression as a term in a very misunderstood place.  To clear up some of these questions, I talked to a few students pursuing psychology to understand and compile their views. 
 
+<a id="defining-the-undefinable"></a>
 ### Defining the Undefinable
 
 Given that any mental health issue is usually subjective and manifests itself in different forms, let’s try and set some ground definitions. In clinical terms, depression is a mood disorder. It's a negative affective state when there's an extreme feeling of sadness or despair, or pessimism, and it interferes with daily activities resulting in physiological, emotional, and cognitive changes. In significant cases, a major depressive disorder is characterized by a feeling of unexplainable sadness for over a period of 2 weeks. Depressive episodes can occur in different intervals and can sometimes affect day-to-day activities. Since this is mainly 'in one’s mind,' people are often left confused as to why they don't feel like getting out of bed even after resting well or why they don't feel like eating even if it’s their usual time to eat. This can occur at any time in a person’s life and has different methods of treatment based on the source. Whatever the case, it is definitely not something one can simply 'snap' out of.
@@ -49,6 +50,7 @@ Can you completely stop thinking about a movie immediately after a tragic ending
 
 Another common misconception is generalizing depression into a fixed set of symptoms. It is not the same for everyone; the symptoms, the intensity, and the stressors vary. It is often believed that keeping yourself busy can help you forget about whatever is bothering you. This is far from true, as you’re constantly stuck in a position where you’re trying to do something that you don’t really feel like doing. Instead, taking some time out for self-care and spending time with family and friends might help you manage your emotions better. 
 
+<a id="common-signs-and-symptoms"></a>
 ### Common Signs and Symptoms
 
 Note: These signs and symptoms are just patterns observed in different people diagnosed with depression. Any of these issues can have other underlying causes. Any other points that might not be on this list can also contribute to depression. These factors are only intended to be an indication to approach a psychologist and discuss your symptoms. 
@@ -67,6 +69,7 @@ While it does not necessarily have to have a cause, there are a few biological a
 
 As such issues go untreated, they manifest as risk factors for developing depression. The lack of expressive outlets to resolve emotions, academic pressure, constant negative reinforcement causing grief, helplessness, side effects of anxiety, and major life events can all lead to an increased chance of depression. 
 
+<a id="the-price-of-popularity"></a>
 ### The Price of Popularity
 
 While social media is truly instrumental in raising awareness, it quickly turns into a box of misleading information. With issues leading to mental health, the treatments suggested online can often lead to a placebo effect where you tend to believe what you see, and actually end up feeling better. One of the students we approached had a very interesting view on the effect of Social Media. 
@@ -81,6 +84,7 @@ There is also the controversy of awareness and discouragement. There are various
 
 So what exactly can be trusted? The answer seems to lead us right where the question came from. The internet does have its fair share of well-researched information available, it simply requires effort to dig through the filters of opinions. Rely on official websites, on research papers, fact-check any information that you come across, and look for citations. You can also approach mental health practitioners and verify your concerns. 
 
+<a id="one-step-forward"></a>
 ### One step forward
 
 If you’re going through a rough patch, how do you help yourself? 
