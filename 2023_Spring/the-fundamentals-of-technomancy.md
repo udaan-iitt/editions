@@ -8,7 +8,7 @@ desc: Technomancy and magic? Are they the same? Our cherished anonymous writer
 thumbnail: images/technomancy.jpg
 authors: Cosmic Cutie
 starred: false
-abio: <>
+abio: ""
 ---
 ### Introduction:
 
