@@ -7,7 +7,12 @@ desc: '"So much beauty to discover, I can hardly take it in, I will ever stand
 thumbnail: images/daydream2.jpg
 authors: Iftekhar Ahmed
 starred: false
-abio: None
+abio: "If you ask a friend of Iftekar’s to describe him, the first word that
+  will helplessly tumble out of their mouth is ‘poet’. The soft-spoken poet, who
+  radiates positive vibes and wields excellent oratory skills, Iftekhar, is
+  currently pursuing an undergraduate degree in Electrical Engineering at IIT
+  Tirupati. He is also a well-known badminton player who spends his spare time
+  immersed in books and movies. "
 ---
 <p style="text-align: center;align:center;">On the other side of the glass window,<br>
 While the gusty winds blew,<br>
