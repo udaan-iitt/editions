@@ -9,6 +9,18 @@ desc: "Even the darkest night will eventually end, and the sun will rise again.
 authors: Krithi Shailya
 starred: false
 ---
+### Index
+
+Defining the Undefinable
+
+Common Signs and Symptoms
+
+The Price of Popularity
+
+One step forward
+
+
+
 Just like internet slang and reel songs go viral, the term 'Depression' in itself has become a buzzword in our culture nowadays. It is thrown around in casual conversations and self-diagnosed as if it is just another emotion. Popular culture frequently romanticizes and glorifies it, spreading false notions about what it's like to live with this condition. Think about your favorite songs, television shows, and literature. Something just seems to hit more when the song goes, “I tried so hard, and got so far, in the end, it doesn't even matter.”
 
 With this mindset now rooted, we, the internet, set out to publish our own takes on depression and other mental health disorders. As a viewer going through a tough time, I scroll through reels and come across one that says, “I used to be depressed, and drinking a [glass of turmeric lemonade](https://www.onlymyhealth.com/turmeric-lemonade-recipe-and-health-benefits-1618496512) every day is what got me here” <insert happy pictures>. I aggressively start making myself a lemonade every day. 
