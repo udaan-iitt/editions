@@ -1,13 +1,14 @@
 ---
 title: "The Puppet Show: A Token of Appreciation"
-category: "Experiences"
-date: "2022-06-28 12:30:00 +09:00"
-desc: "A comical tribute to the secretaries and coordinators of the year 2021-2022, for all the work and effort that goes behind what we see"
-thumbnail: "./images/Puppet_Show.jpg"
-authors: "Krithi, Debeshee, Sneha M S, Sneha Battula"
+category: Experiences
+date: 2022-06-28 12:30:00 +09:00
+desc: A comical tribute to the secretaries and coordinators of the year
+  2021-2022, for all the work and effort that goes behind what we see
+thumbnail: ./images/Puppet_Show.jpg
+authors: Krithi, Debeshee, Sneha M S, Sneha Battula
 starred: true
-abio: "NONE"
-alt: "The Puppet Show"
+abio: NONE
+alt: The Puppet Show
 ---
 
 The last year witnessed some major changes like adapting from the online environment and witnessing a multitude of offline events and opportunities, thanks to our student representatives.
@@ -17,7 +18,7 @@ From handling the transition smoothly to launching full fledged initiatives, our
 Hence, we set to gather some of our deepest sources to present these resourceful comical social profiles for our representatives. Adding a little bit of an Udaan touch, join us as we unravel our most beloved student council.
 
 -------------------------
-## Secretaries
+### Secretaries
 
 Starting from the elections to the end of their tenure, studies report that secretaries often feel like they have no idea what they're being blamed for. Their daily life includes waking up to get hit with a randomly tagged mail about the most random issues. The secretaries put tremendous effort throughout the year in ensuring a decent amount of the grand promises on the manifesto are fulfilled. Let's take a look at what our secretaries have to say about their experience.
 
@@ -568,7 +569,7 @@ Also, she was always available to reach out and responded immediately which help
 </details>
 
 --------------
-## Coordinators
+### Coordinators
 
 Apart from the mail where coordinators are announced, research finds no name of coordinators in any credit forum. They take care of everything from handling all the technical work to constantly improving the club and its policies, organising a new set of events and revamping the old events and also avoiding empty promises of prize money. Phew! Its high time we give them the well deserved recognition.
 
