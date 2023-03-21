@@ -1,7 +1,7 @@
 ---
 title: The Fundamentals of Technomancy
 category: Op-Ed
-date: 2023-02-08T13:42:05.613Z
+date: 2023-03-21T18:28:06.045Z
 desc: Technomancy and magic? Are they the same? Our cherished anonymous writer
   is back to show you the real aspects of this branch called technomancy and
   what its knowledge really capable of.
@@ -10,7 +10,7 @@ authors: Cosmic Cutie
 starred: false
 abio: <>
 ---
-## Introduction:
+### Introduction:
 
 The first question you might ask yourself is: what is technomancy, and why do I need it? Hasn't the mundane world produced computers far more powerful than we have? Can't I just use one of those instead of building my own magical computer from scratch?
 
@@ -23,7 +23,7 @@ Thus the need for technomancy - the field of magic dedicated to the creation, im
 
 - - -
 
-## A Brief History:
+### A Brief History:
 
 The first magical computer began its life as an ordinary typewriter. It was modified to replace the keyset with standard runic, the default language used to cast spells.
 It was operated by typing spells on paper, which would then spontaneously trigger. The underlying idea behind this is an interesting exploitation of a property of magic words previously thought undesirable - their tendency to retain their power in written form<sup>[\[2]](#02)</sup>. Words have power as long as they are in a form capable of retaining meaning. Thus when words are written down, they struggle against the restraints of the alphabet till they break free and achieve a form of pure meaning, causing the spell they describe to trigger. Since ancient times, those who write grimoires have taken care to encrypt the spells written in them<sup>[\[3]](#03)</sup>. By writing gibberish in place of a magic word, the power of the word is nullified. The computer, by writing spells without encryption, could function as a spellcasting device.
@@ -34,7 +34,7 @@ With the first magical computer came the first magical virus - one which exploit
 
 - - -
 
-## Data Storage
+### Data Storage
 
 One of the core issues to solve when building a computer is the issue of storing data. The original solution to this problem consisted of cards with holes punched in them, which were used by early computers, both magical and mundane. However, developments in the field of electronics have resulted in a drastic reduction in data density (defined as the number of bits stored per unit volume) for mundane computers. Due to the aforementioned effect that magic has on electronic storage devices, replicating the methods used by mundane computers was seen as impossible. 
 
@@ -48,7 +48,7 @@ The neat part about the current system is that since there is no net production 
 
 - - -
 
-## Processing:
+### Processing:
 
 The next step in building a computer is to develop a system to read, write and manipulate stored data. The mundane system is called a "[microprocessor](https://en.wikipedia.org/wiki/Microprocessor)", a small silicon chip with complex circuitry designed to access and modify the electronic memory of the computer. The processor executes instructions which are stored in the memory in binary form, which allows one to load and execute complex sets of instructions automatically instead of giving instructions one at a time.
 
@@ -62,7 +62,7 @@ It is unlikely that such technology will hit the market anytime soon, so the 8-i
 
 - - -
 
-## UI:
+### UI:
 
 The earliest UI was a magically triggered typewriter with erasable paper, which functioned like the "terminal" used in mundane computers. The introduction of the mouse and GUI was initially quite hard to replicate with magic since the [cathode ray tubes](https://en.wikipedia.org/wiki/Cathode-ray_tube) in computer monitors did not play well with magic. Many have blamed the period where UI development plateaued for the relative unpopularity of technomancy, arguing that the terminal-based system was unintuitive and presented a significant barrier to entry for the common witch.
 
@@ -88,7 +88,7 @@ Specialized mouses where imps are trained to transmit x, y, and z coordinates ar
 
 - - -
 
-## Networking:
+### Networking:
 
 The earliest method to communicate between computers was not very sophisticated; one tied a hard-drive to the leg of a [carrier pigeon](https://en.wikipedia.org/wiki/Homing_pigeon) and hoped it reaches its destination. The first significant improvement came when ley-lines across the earth were mapped accurately, which allowed the set-up of dedicated teleportation routes. Though this resulted in a massive increase in throughput, the fact remained that the data was still being transported on physical media. The latency did not allow instantaneous communication between systems, so magical networking lagged behind the internet, which saw explosive growth.
 
@@ -108,7 +108,7 @@ Mundane servers cannot be equipped with scrying beacons since such beacons gener
 
 - - -
 
-## Software:
+### Software:
 
 The most popular Operating System today is OccultOS, an open-source UNIX-based operating system designed to run on magical computers. Other popular operating systems include Sage (derived from [Linux Mint](https://linuxmint.com/), designed for newcomers), PointyHat (derived from [Red Hat Linux](https://en.wikipedia.org/wiki/Red_Hat_Enterprise_Linux), with several closed-source additions) and Obelisk (derived from [Arch Linux](https://en.wikipedia.org/wiki/Arch_Linux), highly customizable but takes a lot of work to set up). Most of these operating systems are derived from mundane operating systems and can thus run every program that a mundane computer can. This saved us from reinventing the wheel, allowing technomancers to focus on developing software with magical applications. OccultOS comes with a vibrant and active user-base, with plenty of high-level technomancers involved in source code-maintainance, documentation, security-patching, etc.
 
@@ -127,7 +127,7 @@ Among the less well-known software are programs written to aid practitioners of 
 
 - - -
 
-## Security:
+### Security:
 
 An infamous piece of magically malicious data is a file designed to destroy any computer by making it explode. It consists of three spells:
 
@@ -171,7 +171,7 @@ The key takeaway from the incident being this:
 
 How is the Universe still here if it was destroyed, you ask? The Universe which was destroyed was not our own but was itself another instance of Marduk, a pocket universe being used in an experiment as part of a study conducted by a team researching human stupidity.<sup>[\[16]](#16)</sup>
 
-## Conclusion
+### Conclusion
 
 This guide is but a brief overview of the rich and diverse field of technomancy. There is plenty to explore; so go ahead, get your hands dirty, have fun and try not to die.
 
