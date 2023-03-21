@@ -5,7 +5,7 @@ date: 2023-03-21T18:21:31.393Z
 desc: An honest attempt to highlight the essentiality of a myriad of
   relationships that make life worth living and more complete.
 thumbnail: images/benchbond.jpg
-authors: Bineeth
+authors: Bineet Barman
 starred: false
 abio: None
 ---
