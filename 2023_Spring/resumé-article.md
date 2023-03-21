@@ -12,6 +12,7 @@ desc: A resumé is an essential tool for any job seeker. It is meant to summaris
 authors: Sathyanarayann, Kranthi, Priyansh
 starred: true
 ---
+<a id>"intro"</a id>
 ### Introduction
 
 The pre-final year of B.Tech brings along tensions of internships and placements - suddenly, it's all anyone can talk about. Still, the most critical part of it all comes well before the internship season - creating  your Resumé. It's only the most important document that will put all of your professional work, education, accomplishments and skills on a pedestal to be judged by a potential recruiter of your dream job. No biggie… right? 
@@ -20,37 +21,37 @@ Here’s our attempt at a guide to help you simplify this process, and have you 
 
 Index
 
-[Introduction](https://docs.google.com/document/d/1JilkH9VVeWQPFjG5T519Ie0DmVlnqqriyiWA1sJkNl4/edit#heading=h.5wdwu1wqq3u)
+[Introduction](#intro)
 
-[Why are you creating a resumé?](https://docs.google.com/document/d/1JilkH9VVeWQPFjG5T519Ie0DmVlnqqriyiWA1sJkNl4/edit#heading=h.ltfx0i5p66if)
+[Why are you creating a resumé?](#why)
 
-[Putting yourself in the shoes of the recruiter.](https://docs.google.com/document/d/1JilkH9VVeWQPFjG5T519Ie0DmVlnqqriyiWA1sJkNl4/edit#heading=h.2i48bu63cleq)
+[Putting yourself in the shoes of the recruiter.](#put)
 
-[What to include in a resumé?](https://docs.google.com/document/d/1JilkH9VVeWQPFjG5T519Ie0DmVlnqqriyiWA1sJkNl4/edit#heading=h.567n7ynvy469)
+[What to include in a resumé?](#what)
 
-[Be specific](https://docs.google.com/document/d/1JilkH9VVeWQPFjG5T519Ie0DmVlnqqriyiWA1sJkNl4/edit#heading=h.j7rhi8tvpe6c)
+[Be specific](#specific)
 
-[Use Action Words](https://docs.google.com/document/d/1JilkH9VVeWQPFjG5T519Ie0DmVlnqqriyiWA1sJkNl4/edit#heading=h.k714jiohyxe)
+[Use Action Words](#use)
 
-[Link your Linkedin Profile](https://docs.google.com/document/d/1JilkH9VVeWQPFjG5T519Ie0DmVlnqqriyiWA1sJkNl4/edit#heading=h.66fws1lv2sqc)
+[Link your Linkedin Profile](#link)
 
-[Use Technical Terms](https://docs.google.com/document/d/1JilkH9VVeWQPFjG5T519Ie0DmVlnqqriyiWA1sJkNl4/edit#heading=h.6dcwo9wowflw)
+[Use Technical Terms](#technical)
 
-[Avoid Repetition](https://docs.google.com/document/d/1JilkH9VVeWQPFjG5T519Ie0DmVlnqqriyiWA1sJkNl4/edit#heading=h.xuackhhknltk)
+[Avoid Repetition](#avoid)
 
-[Catering the resumé to the job description](https://docs.google.com/document/d/1JilkH9VVeWQPFjG5T519Ie0DmVlnqqriyiWA1sJkNl4/edit#heading=h.g3p0h52kehsf)
+[Catering the resumé to the job description](#cater)
 
-[How long should a resumé be?](https://docs.google.com/document/d/1JilkH9VVeWQPFjG5T519Ie0DmVlnqqriyiWA1sJkNl4/edit#heading=h.3oznv5b7c3v3)
+[How long should a resumé be?](#howlong)
 
-[Peer reviews, polish, rinse-repeat](https://docs.google.com/document/d/1JilkH9VVeWQPFjG5T519Ie0DmVlnqqriyiWA1sJkNl4/edit#heading=h.vx13gt5s86w1)
+[Peer reviews, polish, rinse-repeat](#peer)
 
-[A Sample Resume](https://docs.google.com/document/d/1JilkH9VVeWQPFjG5T519Ie0DmVlnqqriyiWA1sJkNl4/edit#heading=h.gnva8qll83z)
+[A Sample Resume](#sample)
 
-[Formatting the LaTeX template](https://docs.google.com/document/d/1JilkH9VVeWQPFjG5T519Ie0DmVlnqqriyiWA1sJkNl4/edit#heading=h.ioo16tuva2z3)
+[Formatting the LaTeX template](#format)
 
-[Conclusion](https://docs.google.com/document/d/1JilkH9VVeWQPFjG5T519Ie0DmVlnqqriyiWA1sJkNl4/edit#heading=h.6pqob0hbpllh)
+[Conclusion](#conclusion)
 
-[Acknowledgements and References](https://docs.google.com/document/d/1JilkH9VVeWQPFjG5T519Ie0DmVlnqqriyiWA1sJkNl4/edit#heading=h.csnlnncq5y17)
+[Acknowledgements and References](#acknowledgements)
 
 ### Why are you creating a resumé?
 
