@@ -34,12 +34,11 @@ Academics are undoubtedly a crucial component of an educational institution like
   * [Projects and Coursework](#projects)
   * [Continuous Evaluation: To be or not to be?](#conti)
   * [The Format of Exams](#format)
-* \[Makeover time! Curriculum edition]
-
-  * \[Internships and Placements]
-  * \[Course Continuity]
-  * \[What are the students looking for?]
-  * \[Takeaways]
+* [Makeover time! Curriculum edition](#curriculum)
+  * [Internships and Placements](#inandp)
+  * [Course Continuity](#course)
+  * [What are the students looking for?](#whatstudents)
+  * [Takeaways](#takeaways)
 
 <a id="Evaluation"></a>
 
@@ -161,17 +160,19 @@ Here’s a list of some responses from the students with regard to the assessmen
 >
 > Exams should be for more marks than they have weightage. For example, if the end sem has 40 percent weightage, then it should not be just for 40 marks. Making a mistake there causes significant damage. While increasing the marks allotted for an examination, care should be taken that it can be completed in the stipulated time given for the exam.
 
+<a id="curriculum"></a>
 ### Makeover time! Curriculum edition
 
 Throughout school, you constantly have decisions handed out to you. When you step into the college system, you get exposed to a variety of choices at the cost of expecting you to have a career figured out by the end of your degree. Trusting the curriculum of the institute, you simply focus on what really calls out to you from all that is taught. From a student's perspective, the content and structure presented during their degree will make or break their interest. While it can be argued that students are generally expected to branch outside the walls of the curriculum and explore their interests, it is unrealistic for the majority to be motivated or self-driven after they just got through the burnout of JEE. After all, they might have hopes on “Life will be set after JEE” to some extent, right?
 
 To analyse the accuracy of our current curriculum in fulfilling the utility in a student's career, we carried out a survey among the 3rd and 4th years. The below compilation is a representative statistical survey of how helpful students find various aspects of the current system in their goals and expectations.
 
+<a id="inandp"></a>
 #### Internships and Placements
 
 One of the essential measures of the quality of any institution is its placement output. Colleges train students in different fields of interest and release them into the world of corporate and core. The internship period also gives essential exposure to what life in a particular role will be like. Agreeably, curriculum plays an important role in shaping a student's interests and a company's selection process. 
 
-**Industrial Internships**\
+**Industrial Internships**
 One set of students believe that 6-month industrial internships should be a viable option. According to the current system, the institute sets a total of 3 months for an internship amounting to two credits. Anything more than this overlaps with the semester and is out of consideration. Industrial internships often offer roles for periods of 6 months, thereby crossing it off the list. Considering the demand and scope of such roles, students believe that the curriculum should be designed in a way that is flexible for a six-month internship period. 
 
 Another important factor is the major courses required for interviews in internships and placements. In the survey circulated, the majority voted for preponing the courses by one or two semesters. As per the current curriculum, many major courses like Data Structures and Algorithms for Computer Science and Analog Circuits for Electrical Engineering are taught in the semester when companies visit for internships. This nullifies the process as students are still in the learning curve and cannot produce their maximum possible output.
@@ -182,7 +183,7 @@ To get a perspective on how things run behind the scenes, we contacted Dr Pooja 
 
 > The department has known this issue very well from the past few years, or even maybe from the start. From our side, we would like to push Analog Circuits, Embedded Systems, and related courses to the third or fourth semester. But it's not happening because the first two semesters are common across all the departments, and there are a lot of common courses. However, being a part of the NEP committee formed last year; I can tell you that we have come up with some guidelines for changing the overall curriculum. If you want to talk about specific concerns with the committee, you can contact Dr Naveen or Dr Rama Krishna Gorthi from the Electrical department, as they are a part of the UG committee.              
 
-**Hands-on Experience**\
+**Hands-on Experience**
 Another important aspect of internships or placements is the hands-on experience. In the current system, many students believe that the curriculum is majorly theory-oriented and lacks real-life applications that are essential for internships and exposure. One student commented,
 
 > As a student preparing for Internships/Placements, I understand the value of having a project related to the course/domain. Unlike other branches (or, for that matter, students studying electrical engineering in other colleges), we had a really less number of projects during the coursework.          
@@ -225,7 +226,8 @@ He mentioned that students might face various difficulties and need some time to
 
 > Even in the systems that currently follow branch change after the first semester, there is usually only one core course introduced in the second semester. So whether I really want so much pressure on the student and shift the branch change system by an entire semester just to accommodate one core course is a debate we can have.               
 
-### Course Continuity and Lab Component
+<a id="course"></a>
+#### Course Continuity and Lab Component
 
 Most university professors have their own way of teaching courses and their own goals on what students should be aware of at the end of the course. During the 3rd and 4th years, however, most professors often assume that some content has already been covered in past courses and continue from a preset level. This is often inaccurate as some of these topics may not have been covered in said previous courses. The need to adapt and improvise curriculum based on the student’s previous knowledge is important. 
 
@@ -241,6 +243,7 @@ As an alternative option, the survey pitched the idea of spreading out labs even
 *Civil*
 ![Forms response chart. Question title: Do you feel that courses having lab components be spread out evenly (say 2 lab courses a semester) to avoid burdening the semester? (Like in 4th and 5th semester you have three labs each). Number of responses: 16 responses.](https://lh3.googleusercontent.com/XoneCZyO-9FoZXijK-5is6QAbWXouN2R01CNDhANlSLPWSIKbS1Vy9rUcopOVxARVlN_7Wz9sZfAnARNFUeaiyURc2pEWKhBmP7dIxjkv_a-rrTxWOA2fURBDUEP06rKM_DMTVoYQux4tYCMuadea6Q "Do you feel that courses having lab components be spread out evenly (say 2 lab courses a semester) to avoid burdening the semester? (Like in 4th and 5th semester you have three labs each)")
 
+<a id="whatstudents"></a>
 #### What are the students looking for?            
 Eventually, any system of education boils down to what a student learns from it. To understand how relevant the current curriculum is to the aspect of learning and gaining knowledge, we asked students across different branches how their experience has been with the system. We will aim to address a few widely targeted topics for each branch in the below section. 
 
@@ -290,6 +293,7 @@ Some concerns included the need for training sessions and inclusion courses for 
                         
 >Geotechnical engineering and Transportation engineering are major parts of the GATE syllabus. Since they are currently introduced in the 6th semester, there is no use for the students to take the GATE exam in the third year.      
 
+<a id="takeaways"></a>
 #### Takeaways
 As one of the fastest-growing third-generation IITs, the current curriculum has modified and expanded its base by a significant amount in comparison to the previous years. We conclude this section with an excerpt from the Students’ Academic Affairs Secretary. 
 
