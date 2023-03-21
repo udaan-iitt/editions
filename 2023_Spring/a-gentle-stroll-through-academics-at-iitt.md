@@ -28,10 +28,14 @@ Academics are undoubtedly a crucial component of an educational institution like
 #### Table of Contents
 
 * [Let’s talk about Evaluation!](#Evaluation)
-
-  *[Assessment vs Evaluation](#AvsE)
+  * [Assessment vs Evaluation](#AvsE)
+  * [Evaluation Metrics]
+  * [Projects and Coursework]
+  * [Continuous Evaluation: To be or not to be?]
+  * [The Format of Exams]
 
 <a id="Evaluation"></a>
+
 ### Let’s talk about Evaluation!
 
 “Grades and CGPA are secondary. Focus on CP and DSA.”, “Concentrate on projects; they make you stand out.”, “A decent CGPA should be good enough.” Inputs come in from all directions – seniors, friends, family, professors and these do nothing but create chaos. Whom to believe? What’s the truth? What should we prioritise? Where to draw the line?
@@ -41,6 +45,7 @@ With time comes experience, and things start to become apparent. Even though we 
 Does the system require a rethink? Team Udaan has attempted to compile an array of views on how a student’s performance in a course could be evaluated.
 
 <a id="AvsE"></a>
+
 #### Assessment vs Evaluation
 
 Before we delve deep into this, it is crucial to understand the key difference between assessment and evaluation. The process of collecting, reviewing, and using data for improvement in the current performance is called assessment. It is diagnostic in nature as it tends to identify areas of improvement. In short, it provides feedback on performance and ways to enhance one’s performance in the future. On the other hand, evaluation is the process of passing judgement based on defined criteria and evidence. It aims at providing an overall grade. It basically ascertains whether a given standard is met or not. 
@@ -137,6 +142,6 @@ Gumma Sir also believes in the power of open notes tests and shared with us how 
 
 Here’s a list of some responses from the students with regard to the assessment and evaluation system being followed.
 
-> In my opinion, end-sem exams should cover everything from the beginning to the end, not just a few topics at the end. That puts more emphasis on the last topic, which is wrong. The instructors should not reduce syllabi just because students ask them. They are supposed to make students competent engineers and not people who run away from difficult things.    
->
+> In my opinion, end-sem exams should cover everything from the beginning to the end, not just a few topics at the end. That puts more emphasis on the last topic, which is wrong. The instructors should not reduce syllabi just because students ask them. They are supposed to make students competent engineers and not people who run away from difficult things.                   
+                                                          
 > Exams should be for more marks than they have weightage. For example, if the end sem has 40 percent weightage, then it should not be just for 40 marks. Making a mistake there causes significant damage. While increasing the marks allotted for an examination, care should be taken that it can be completed in the stipulated time given for the exam.
