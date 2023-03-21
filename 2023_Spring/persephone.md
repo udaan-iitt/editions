@@ -1,7 +1,7 @@
 ---
 title: Persephone
 category: Poetry
-date: 2023-03-19T06:36:12.756Z
+date: 2023-03-21T18:25:29.425Z
 desc: Greek Goddess of Spring and ruler of the underworld, Persephone, was
   kidnapped by Hades, the god of the dead, and forced to wed him against her
   will. She later remained with him, but she spent six months of the year on
