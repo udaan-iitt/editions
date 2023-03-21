@@ -1,19 +1,24 @@
 ---
-title: "The Hitchhiker’s Guide to the GRE"
-category: "Op-Ed"
-date: "2022-09-11 12:00:00 +05:30"
-desc: "Time is an illusion; exam-time doubly so. Mathew took it upon himself to explain the intricately layered and often feared Graduate Records Examination, the GRE, to its bare bones, understand it, and defeat it with preparation standards that were par excellence. Read on for a comprehensive and impeccable break-down of the GRE and authentic test-taker information that you will definitely find interesting!"
-thumbnail: "./images/GRE_guide.jpg"
-authors: "Mathew K J"
+title: The Hitchhiker’s Guide to the GRE
+category: Op-Ed
+date: 2022-09-11 12:00:00 +05:30
+desc: Time is an illusion; exam-time doubly so. Mathew took it upon himself to
+  explain the intricately layered and often feared Graduate Records Examination,
+  the GRE, to its bare bones, understand it, and defeat it with preparation
+  standards that were par excellence. Read on for a comprehensive and impeccable
+  break-down of the GRE and authentic test-taker information that you will
+  definitely find interesting!
+thumbnail: ./images/GRE_guide.jpg
+authors: Mathew K J
 starred: false
 abio: ""
-alt: "The Hitchhiker’s Guide to the GRE"
+alt: The Hitchhiker’s Guide to the GRE
 ---
 
-## Introduction:              
+### Introduction:              
 The [Graduate Records Examination](https://en.wikipedia.org/wiki/Graduate_Record_Examinations) is an exam conducted by the [Educational Testing Service](https://en.wikipedia.org/wiki/Educational_Testing_Service) often used by top foreign universities as a criterion when evaluating applications. Though there is a gradual shift away from using the GRE, a good GRE score (valid for five years after writing the exam) will boost your application. Most universities use the GRE score only as a cutoff, so there is no marginal utility in increasing one's score beyond the cutoff of one's target university (In our opinion, crossing 330 is enough; the only real benefit to scoring higher than that is a boost to one's ego).                          
 
-## The structure of the exam:
+### The structure of the exam:
 The GRE is divided into three parts:                   
 - Verbal
 - Quantitative
@@ -29,7 +34,7 @@ So the effective range of the score is 80; 40 for Quantitative and 40 for Verbal
 I do not fully understand why ETS chose to shift the scale up by 260 (I speculate that it is to make scores look better than they actually are, at least to people who don't understand how the GRE system works).
 
 
-## The importance of GRE for applications:
+### The importance of GRE for applications:
 Some universities are waiving off GRE (i.e. not considering GRE scores any more. But it’s always safe to write the exam).
 
 Universities consideration of GRE:
@@ -38,7 +43,7 @@ Universities consideration of GRE:
 - Optional: In this case, you can choose to not submit your scores. If, however, your GPA is low or if you have already taken the GRE, it is better to submit the score as it will improve your profile.
 - Not accepted: In this case, the university will not give any field in the application to fill in your GRE scores, and even sending the score to the university will be of no use as they won’t consider it.
 
-## Why I chose to write the GRE:
+### Why I chose to write the GRE:
 
 I came to know about this exam from a webinar on higher studies which I attended a year earlier. The instructor gave us particularly tricky questions from the GRE in an attempt to make us think the exam was difficult (and convince us to buy his company's test-prep products). After I failed to answer half the questions in the webinar, I felt that the GRE would be an interesting challenge. I asked my seniors (Sibibalan 'Sibi' Jeevanandam, Debeshee Das and Shreyansh Mehra, who I would like to thank for the guidance they provided) for information about the exam and guidance on how to prepare for it.
 
@@ -48,7 +53,7 @@ I decided to dedicate the summer before my third year to prepare for the GRE for
 
 Shortly after I began preparation, Aashrith Sai Madasu contacted me and told me that he was also preparing for the GRE, so we often discussed difficult questions and shared resources during the summer. We found that having other people who are preparing for the exam to talk to helped a lot.
 
-## Quantitative Sections:
+### Quantitative Sections:
 
 The questions in this section are extremely easy; those who prepared for JEE Advanced will find this to be a cakewalk (provided their math skills haven't atrophed). I was pleasantly surprised by this fact, but also slightly worried since I am prone to making silly mistakes. I personally prefer a very hard paper which nobody completes over an easy paper where people easily get full. I remember constantly worrying that messing up a single question will cause me to lose a perfect score. As a consequence, I used to write several practice papers and spent hours poring over every mistake I made.
 
@@ -66,7 +71,7 @@ The question does not state that every student studies either Spanish or German;
 </br>
 In conclusion, there is nothing to worry about. Four percent of all test takers get a perfect score, and the average IIT Tirupati student is among the top one percent; getting 170 is practically guaranteed.
 
-## Verbal Sections:
+### Verbal Sections:
 
 The objective questions are very easy provided one knows the meanings of all the options offered (and almost impossible if one does not), so improving vocabulary is quite important. Improving vocabulary does not consist merely of glancing at flashcards - one must use the new words they learn in everyday conversation. This is unfortunate, since the only people who will put up with one using arcane (oh look - another GRE word!) words in everyday speech are usually other GRE aspirants.
 
@@ -93,7 +98,7 @@ When doing verbal questions, one either gets the answer immediately (almost like
 
 In conclusion, this section is the most difficult for the average engineering student. I advise all GRE aspirants to put a lot of effort into preparing for this section.
 
-## Analytical Section:
+### Analytical Section:
 
 Practicing for this section was an easy task, since 200 or so [essay](https://www.ets.org/content/dam/ets-org/pdfs/gre/issue-pool.pdf) [prompts](https://www.ets.org/content/dam/ets-org/pdfs/gre/argument-pool.pdf) have been published by ETS. What is more, it is almost certain that the prompt one gets on one's exam is picked from the pool of published prompts. My plan was to write two essays a day for two months (in the end, I had written only 10 essays in total). In addition, I wanted to brush up on my history since it is said that using historical examples to back up claims in an argument essay significantly strengthens the case one makes in one's essay ("brushing up on history", in my case, consisted almost entirely of looking at history memes).
 
@@ -117,7 +122,7 @@ So I began my essay with a quote from Optimus Prime, which was all I could recal
 (the "Freedom is the right of all sentient beings" quote, for anyone who is wondering)
 
 
-## Exam Day:
+### Exam Day:
 
 I booked a slot in the afternoon to go write the exam (I am not a morning person, and the drive was three hours). I arrived well before the reporting time and ate breakfast (while watching an episode of Transformers (1984)). I did not do any last minute-prep or revision, to keep my mind clear. It was quite easy to remain calm before the exam since I knew that if I did badly, I could try again whenever I wished (the only consequence for failure was 217 USD).
 
@@ -129,7 +134,7 @@ I was then asked to fill out which universities I wanted to send out my scores t
 
 After the exam, I spent the last two days of summer trying to reverse-engineer the official GRE calculator to make an exact copy (and design it to exactly mimic the dysfunctionality and unusability as the real thing - at the time of writing this article, [work is still in progress](https://github.com/MathewKJ2048/GRE-calculator)). The final official result arrived 10 days or so after I wrote the exam.
 
-## Conclusion:
+### Conclusion:
 
 Overall, I feel that preparing for the GRE is better done over the long term with a couple of weeks of serious prep before the exam, rather than two whole months of dedicated preparation. I did not want to dedicate the whole summer to GRE, so I tried to cap the limit of time spent on prep at six hours per day (this did not matter - the most time I dedicated in a single day to prep was around 4 hours - the time taken to write a single practice test). Some people recommend taking 2 mock tests in a single day to build concentration and stamina which might be a critical factor for some of us. 
 
