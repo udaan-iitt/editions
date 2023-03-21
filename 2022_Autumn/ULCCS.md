@@ -1,19 +1,21 @@
 ---
-title: "Internship with ULCCS - Uralungal Labour Contract Co-operative society"    
-category: "Experiences"                 
-date: "2022-09-11 12:00:00 +05:30"                       
-desc: "Doing an industrial internship at a construction project which has a humungous project value at a new location might sound a bit scary. Join Seeram Pavan as he describes his internship experience at ULCCS, Kerala."                                        
-thumbnail: "./images/ulccs-pavan.jpg" 
-authors: "Seeram Pavan"                    
-starred: false 
+title: Internship with ULCCS - Uralungal Labour Contract Co-operative society
+category: Experiences
+date: 2022-09-11 12:00:00 +05:30
+desc: Doing an industrial internship at a construction project which has a
+  humungous project value at a new location might sound a bit scary. Join Seeram
+  Pavan as he describes his internship experience at ULCCS, Kerala.
+thumbnail: ./images/ulccs-pavan.jpg
+authors: Seeram Pavan
+starred: false
 abio: ""
-alt: "Internship with ULCCS"                       
+alt: Internship with ULCCS
 ---
 
-## About the company               
+### About the company               
 The **_Uralungal Labour Contract Co-operative Society (ULCCS) Ltd_** is one of India's oldest labour cooperative societies, owned and managed by workers. This society works on infrastructure development and management projects, completing many projects for Kerala State Government departments like Finance, Cooperation, Local Self-Government, Labour Department, Information Technology, Tourism, and Public Works Department (PWD). The society has completed 7500+ projects in the construction field. The projects include the construction of roads, bridges, commercial buildings, and flyovers.                
 
-## My experience                                    
+### My experience                                    
 ULCCS Ltd came to our campus around the last week of February to provide summer internships to four of our students in B.Tech Civil Engineering for two months. The selection process was based on the resume and CGPA till the fifth semester.                      
 
 My internship was in offline mode as the company belongs to the Construction and Engineering industry. I got my internship details (project, location, duration, and stipend) around the last week of May. The internship duration was from 2nd June 2022 to 31st July 2022. I got allotted to the project **Upgradation of Alappuzha Changanaserry (AC) Road** into the semi-elevated highway. The project's value is about 649 crores. I felt very happy listening to the project value as I got the opportunity to deal with a huge project for experience. I was excited that I would also get to explore Kerala as it was my first visit to Kerala. This project included the construction of various structures like bridges, flyovers, causeways, box culverts, drains & ducts, and road development. The company guided me to reach the exact location and provided accommodation on a payment basis near the project office in _Moncombu_.                       
