@@ -1,13 +1,15 @@
 ---
-title: "Internship Experience at IITM"
-category: "Experiences"
-date: "2022-09-11 12:00:00 +05:30"
-desc: "Indian Institute of Technology, Madras, is one of the top-tier institutes in India that has ample facilities to conduct advanced studies in many fields. Dive into Giridara Srinivaas experience as a research intern at IITM."
-thumbnail: "./images/IIT_Madras-Srinivaas.jpg"
-authors: "Giridara Srinivaas"
+title: Internship Experience at IITM
+category: Experiences
+date: 2022-09-11 12:00:00 +05:30
+desc: Indian Institute of Technology, Madras, is one of the top-tier institutes
+  in India that has ample facilities to conduct advanced studies in many fields.
+  Dive into Giridara Srinivaas experience as a research intern at IITM.
+thumbnail: ./images/IIT_Madras-Srinivaas.jpg
+authors: Giridara Srinivaas
 starred: false
 abio: ""
-alt: "Internship Experience at IITM"
+alt: Internship Experience at IITM
 ---
 
 One of the objectives of an internship is to create a work opportunity in a real life environment (Industry/Premier Research institute at the National/International level) while the course study is still in progress, thus creating an eye-opening awareness about the application of the knowledge and skills we are still learning.  This creates interest, throws limelight on career goals, and helps us understand our strengths and weaknesses and the need for practical training and exposure to develop skills.
@@ -20,7 +22,7 @@ I had the opportunity to work in the [National Centre for Combustion Research an
 
 NCCRD pioneers in advanced research domains like aerospace propulsion, automotive combustion, fire suppression, fundamental research and thermal power. Exploring possible alternative biofuels from natural resources was one of the research areas I was assigned to work on.
 
-## Scope and Significance of Project
+### Scope and Significance of Project
 
 India’s energy demand is increasing every year, and 70 % of fossil fuel demands in India are met by importing from other oil-producing nations. On the other hand, we have a vast amount of agricultural by-products and biomass discarded as waste. Hence to effectively utilise and convert the waste into useful products, bio-fuels can be potentially produced from these agricultural by-products. If judiciously collected and then processed appropriately, this will help in obtaining biofuel that can satisfy our energy demand. 
 
