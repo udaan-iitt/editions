@@ -172,7 +172,7 @@ To analyse the accuracy of our current curriculum in fulfilling the utility in a
 
 One of the essential measures of the quality of any institution is its placement output. Colleges train students in different fields of interest and release them into the world of corporate and core. The internship period also gives essential exposure to what life in a particular role will be like. Agreeably, curriculum plays an important role in shaping a student's interests and a company's selection process. 
 
-**Industrial Internships**
+**Industrial Internships**                                         
 One set of students believe that 6-month industrial internships should be a viable option. According to the current system, the institute sets a total of 3 months for an internship amounting to two credits. Anything more than this overlaps with the semester and is out of consideration. Industrial internships often offer roles for periods of 6 months, thereby crossing it off the list. Considering the demand and scope of such roles, students believe that the curriculum should be designed in a way that is flexible for a six-month internship period. 
 
 Another important factor is the major courses required for interviews in internships and placements. In the survey circulated, the majority voted for preponing the courses by one or two semesters. As per the current curriculum, many major courses like Data Structures and Algorithms for Computer Science and Analog Circuits for Electrical Engineering are taught in the semester when companies visit for internships. This nullifies the process as students are still in the learning curve and cannot produce their maximum possible output.
@@ -183,7 +183,7 @@ To get a perspective on how things run behind the scenes, we contacted Dr Pooja 
 
 > The department has known this issue very well from the past few years, or even maybe from the start. From our side, we would like to push Analog Circuits, Embedded Systems, and related courses to the third or fourth semester. But it's not happening because the first two semesters are common across all the departments, and there are a lot of common courses. However, being a part of the NEP committee formed last year; I can tell you that we have come up with some guidelines for changing the overall curriculum. If you want to talk about specific concerns with the committee, you can contact Dr Naveen or Dr Rama Krishna Gorthi from the Electrical department, as they are a part of the UG committee.              
 
-**Hands-on Experience**
+**Hands-on Experience**                                           
 Another important aspect of internships or placements is the hands-on experience. In the current system, many students believe that the curriculum is majorly theory-oriented and lacks real-life applications that are essential for internships and exposure. One student commented,
 
 > As a student preparing for Internships/Placements, I understand the value of having a project related to the course/domain. Unlike other branches (or, for that matter, students studying electrical engineering in other colleges), we had a really less number of projects during the coursework.          
@@ -194,7 +194,7 @@ Pooja Ma’am had supporting and different views of this suggestion. She mention
 
 She also mentioned that the reason for this might be due to overloading the projects, which are however important for the resume and cannot be given a preferential order. She suggested that the students and teachers sit together and work on a balanced system. The Students’ Academic Affairs Secretary suggested that professors might want to rethink how they are motivating or inspiring students to show interest in a particular project. He suggests that instead of just highlighting the impact on grades, professors should get students excited about how the projects will impact their thorough understanding of the subject, their CVs and eventual performance in internships and placements. 
 
-**The Placement of Electives**
+**The Placement of Electives**                                        
 In the current system, free electives are only available from the fifth semester, which lands in the middle of the internship season. Many students believe that these courses should take the place of electives before the placement and internship season, to be provided with a chance to explore important non-core subjects.
 
 ![](https://lh6.googleusercontent.com/Ful72dteXwtEapjAbEA1qt4vQYNcgqEYGdytdW0kPfN7jcGCSXtunfBV3AUo0Rv1q4DvikxeXZSuM8XBMvvgLw-BjAbRDss8j7p3gSOKdIQUSRJh_PaWbDinw6adszXIoInl4MgxoJbBvkqO73zcbFs)
@@ -209,7 +209,7 @@ The Students’ Academic Affairs Secretary highlighted the following points with
 
 ![](https://lh5.googleusercontent.com/4gwJPOXP_81DSEyLvnbV54vs9-fGXgsvljq3-XqD3kMKB4pAKJPMeqA9fweHyVgee2B9dPgIorJTt0IWDvuKObH2d3kp8PBqKlv8W14sy0_YdjiFt_B-EQA_cdEQCuQwXA8Cwc9fUOKrB36vPiQWAVk)
 
-**Non-Core Courses**
+**Non-Core Courses**                                       
 Another common concern from the survey was the relevance of non-core courses in the curriculum. A variety of courses across different streams are provided to offer students a fairly basic understanding of engineering as a degree in the first two years. Further on, the core courses slowly take over, and different electives are offered. Many students believe that most of these courses are not necessary for a career and can be replaced with free electives, or with shifting core courses to early semesters. When asked for possible solutions, a popular opinion was to simply remove these courses or distribute them across semesters.
 
 ![](https://lh3.googleusercontent.com/3SdKPMOGMhGYQ0pJBXVFDJZIs9raQqR4U3Tu60cpJgf8XqDl0d__FQRNdpiPQ0hN5_cXxpK3FBhGkQUo_vCnsiVwNQIFkbCKk3XkPkCCFG4Yr5vWlfet1B01gsKSUw18aNKNa8DBrvmICSoL5iVH7yk)
@@ -247,7 +247,7 @@ As an alternative option, the survey pitched the idea of spreading out labs even
 #### What are the students looking for?            
 Eventually, any system of education boils down to what a student learns from it. To understand how relevant the current curriculum is to the aspect of learning and gaining knowledge, we asked students across different branches how their experience has been with the system. We will aim to address a few widely targeted topics for each branch in the below section. 
 
-**Chemical Engineering**           
+**Chemical Engineering**                                                  
 Some of the major concerns were curriculum cramming courses like Thermodynamics and Process Synthesis into a single course. Many students believe that having it as two courses instead of one would help them explore the subjects in further depth. 
 
 ![Forms response chart. Question title: A popular opinion is that courses which lay a foundation or play a key role in the chemical engineering curriculum such as Thermodynamics and Process Synthesis should have been taught as 2 courses rather than cramming the content into 1 course. What is your opinion on this?. Number of responses: 33 responses.](https://lh3.googleusercontent.com/C-2XxP07cWwGx6mrRZT1onFF6KqvnqWDDoIaZ7YeazMJAyOlYk5goBhETx63TXhkHVGeEeZ9hT3oEpu7am5s3DpSWVfwvDWxQzL9fMy9ltpXAUAlU0TetityqJhsRKBJlvi9tVZc9VO_tb3LyKs1ABw "A popular opinion is that courses which lay a foundation or play a key role in the chemical engineering curriculum such as Thermodynamics and Process Synthesis should have been taught as 2 courses rather than cramming the content into 1 course. What is your opinion on this?")
@@ -256,7 +256,7 @@ Another major concern was the adaptation of the current curriculum to exams like
 
 ![Forms response chart. Question title: The current curriculum lacks courses such as "Mechanical Unit Operations" and "Chemical Technology" which are important for students who are preparing for exams such as GATE. What do you think is a good option to address this?. Number of responses: 33 responses.](https://lh3.googleusercontent.com/lD84JBObpDL3yMPMxTI8PEbpi2Q2-1ZvzR7wszCwC5WghE11dSPL6LMoSUOonH7KPHDtU9pxBWoDkj63aFI2W0uoE4XavUWIpMhbfBqV6tz6h3x4v3ataLK4ejojcePaLeGOLgJ_zN5QSj_1CUK8kd8 'The current curriculum lacks courses such as "Mechanical Unit Operations" and "Chemical Technology" which are important for students who are preparing for exams such as GATE. What do you think is a good option to address this?')
 
-**Computer Science and Engineering**                  
+**Computer Science and Engineering**                                          
 A majority of the surveyed students were unsatisfied with the current curriculum for Computer Science and Engineering. The overwhelming response from both students and faculty of the CSE department revolves around the need for moving core courses to earlier semesters of the curriculum, and the irrelevance of many first year common courses.
 
 ![Forms response chart. Question title: How happy are you with the current curriculum that we have been following?. Number of responses: 62 responses.](https://lh4.googleusercontent.com/iXFWVYBFZzsKHcO_0m98iVhS66z-0z22wLEtCr1S3oulpNqlqOHffU56FeRzNLLMI8hdlA7MYSHe-PKvhVihl23JxInio1qE3_cDyxxtIwg1RyV2u-46jo-f6zqsWGpLuopy3mlrRaIjo_aNIDbu8a4 "How happy are you with the current curriculum that we have been following?")
@@ -265,7 +265,7 @@ A majority of the surveyed students were unsatisfied with the current curriculum
 
 Some other concerns were regarding the current relevance of courses taught. With the growing technology sector, students believe that subjects and electives should also be appropriately revised. 
 
-**Electrical Engineering**                               
+**Electrical Engineering**                                                          
 The curriculum form response for electrical engineering received an approximately average experience (2.06) feedback from most of the students. 
 
 ![Forms response chart. Question title: How happy are you with the current curriculum that we have been following?. Number of responses: 56 responses.](https://lh4.googleusercontent.com/EXbVIZPUi6EtgFSn-l5Dx8f_vcWekcQzzVPRjAKM-xs9hD_Bq0_qNjHeDphGnlMgeeLGDXoeYLvhwC3tp02zrNn0bJO_ciyljWE5GOJ-9krs302pIa2zSyERXfFKU-Zzzfr17AiJvfuj8MpqGVa9vl4 "How happy are you with the current curriculum that we have been following?")
@@ -274,12 +274,12 @@ Some of the suggestions and concerns from students included shifting of departme
 
 There were other concerns about the relevance of the curriculum for both Electrical and Computer-based roles. With the bridge between CS and Electrical disciplines, many students suggested the introduction of more CS department electives for Digital job profiles. 
 
-**Mechanical Engineering**                     
+**Mechanical Engineering**                                           
 ![Forms response chart. Question title: How happy are you with the current curriculum that we have been following?. Number of responses: 18 responses.](https://lh4.googleusercontent.com/Z1JJndiFYR8haPFtT3V1hV_7LUvV1-ZlubVeh-Pm1TlNF5u3SBkLmaLxq6lFF_MtyHdHpuurIgN03H6IHiKGrpR0vKdpg_iyaTjwXmhQ3F5AaOt6H8pPWYA6jVjrKSfl-z7-eLNGPhpBq1i3corPtFM "How happy are you with the current curriculum that we have been following?")Many Mechanical engineering students are of the opinion that doing actual projects in any of their fields of interest requires a solid effort in their skillset and theoretical knowledge.  Most of the responses say that developing these ‘essential’ skills at the very beginning helps students figure out their area of interest, make a concrete effort to do their best on a project, and hence derive satisfaction from the end results. Unfortunately, a common problem that many students face is that they need to spend a lot of time just learning the know-how of a software rather than working on the actual project statement. The huge time crunch deters students from learning these skills, working on projects, and eventually participating in technical events. And some say that this is the very reason behind low turnout at technical events. 
 
 A solution offered by many is to offer these skills as a graded part of a course or at least be offered a helping hand at it. Including skill-based courses in the curriculum may drastically change the current scenario. The skills that almost all students felt needed some representation included CAD modelling, ROS, Matlab, C++, and Python. Another aspect brought about by many students was the need to open up their regular subjects to hot topics like AI, Machine Learning, Aeromodelling, and Electric Vehicles. The feeling is that including the basics of these topics will make the students more industry ready. Some students also have expressed a desire to be given more freedom to follow their field of interest and develop specialised skills at an early stage.
 
-**Civil Engineering**                  
+**Civil Engineering**                                           
 Most of the civil engineering responses agreed that the current curriculum was adequate for their goals. 
 
 ![Forms response chart. Question title: How happy are you with the current curriculum that we have been following?
@@ -294,11 +294,12 @@ Some concerns included the need for training sessions and inclusion courses for 
 >Geotechnical engineering and Transportation engineering are major parts of the GATE syllabus. Since they are currently introduced in the 6th semester, there is no use for the students to take the GATE exam in the third year.      
 
 <a id="takeaways"></a>
-#### Takeaways
+#### Takeaways                  
 As one of the fastest-growing third-generation IITs, the current curriculum has modified and expanded its base by a significant amount in comparison to the previous years. We conclude this section with an excerpt from the Students’ Academic Affairs Secretary. 
 
 >Most of the curriculum was designed nearly six years ago, but the industry has changed a lot in the meantime. The electives being offered should be regularly updated, once in 2-3 years with the latest advancements in the relevant industry. A majority of the elective courses listed on the website of IITT are not usually offered. This should be rectified so that students can take up electives based on their wider interests.                        
 
-### Faculty Feedback 
+### Faculty Feedback               
+
 
                
