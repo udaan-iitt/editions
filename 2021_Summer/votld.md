@@ -212,8 +212,7 @@ The lock-down has been a different kind of experience for me. I have become less
 
 ### Anant Tyagi
 
-**The Gravity of The Situation**
-
+**The Gravity of The Situation**           
 Okay. I really wanted to rhyme this out, but unfortunately, the frustration is just too much, and my rhyming meter's dead. Hell, I'm not even punctuating it out adequately. You'll read it punctuated adequately, of course.
 
 The year's 2021, month&rsquo;s May, date&rsquo;s 5. We're in the second wave of the virus that I'm so insanely infuriated about that I'll not mention its name in this whole thing. Anyway, the wave hasn't even peaked yet, and I just saw the news, some Mr. fancy scientist claimed that a third wave is inevitable.
