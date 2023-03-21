@@ -9,16 +9,11 @@ desc: "Even the darkest night will eventually end, and the sun will rise again.
 authors: Krithi Shailya
 starred: false
 ---
-### Index
-
-[Defining the Undefinable](#defining-the-undefinable)
-
-[Common Signs and Symptoms](#common-signs-and-symptoms)
-
-[The Price of Popularity](#the-price-of-popularity)
-
-[One step forward](#one-step-forward)
-
+#### Index
+* [Defining the Undefinable](#defining-the-undefinable)
+* [Common Signs and Symptoms](#common-signs-and-symptoms)
+* [The Price of Popularity](#the-price-of-popularity)
+* [One step forward](#one-step-forward)
 
 
 Just like internet slang and reel songs go viral, the term 'Depression' in itself has become a buzzword in our culture nowadays. It is thrown around in casual conversations and self-diagnosed as if it is just another emotion. Popular culture frequently romanticizes and glorifies it, spreading false notions about what it's like to live with this condition. Think about your favorite songs, television shows, and literature. Something just seems to hit more when the song goes, “I tried so hard, and got so far, in the end, it doesn't even matter.”
