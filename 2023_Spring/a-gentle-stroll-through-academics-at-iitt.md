@@ -28,11 +28,19 @@ Academics are undoubtedly a crucial component of an educational institution like
 #### Table of Contents
 
 * [Let’s talk about Evaluation!](#Evaluation)
+
   * [Assessment vs Evaluation](#AvsE)
   * [Evaluation Metrics](#metric)
   * [Projects and Coursework](#projects)
   * [Continuous Evaluation: To be or not to be?](#conti)
   * [The Format of Exams](#format)
+* \[Makeover time! Curriculum edition]
+
+  * \[Internships and Placements]
+  * \[Course Continuity]
+  * \[Lab Component]
+  * \[What are the students looking for?]
+  * \[Takeaways]
 
 <a id="Evaluation"></a>
 
@@ -45,6 +53,7 @@ With time comes experience, and things start to become apparent. Even though we 
 Does the system require a rethink? Team Udaan has attempted to compile an array of views on how a student’s performance in a course could be evaluated.
 
 <a id="AvsE"></a>
+
 #### Assessment vs Evaluation
 
 Before we delve deep into this, it is crucial to understand the key difference between assessment and evaluation. The process of collecting, reviewing, and using data for improvement in the current performance is called assessment. It is diagnostic in nature as it tends to identify areas of improvement. In short, it provides feedback on performance and ways to enhance one’s performance in the future. On the other hand, evaluation is the process of passing judgement based on defined criteria and evidence. It aims at providing an overall grade. It basically ascertains whether a given standard is met or not. 
@@ -76,6 +85,7 @@ A student shared with us how in one of their courses, they are allowed to discus
 What we could make out of all these discussions is that many students believe assignments truly help them understand the subject matter better, and they should be given some weightage in this process of continuous evaluation. Some students are opposed to the idea of grading all assignments as it becomes hectic to manage academics and extracurricular activities. Grading the comparatively more challenging assignments was one of the alternatives suggested by them.
 
 <a id="metric"></a>
+
 #### Evaluation Metrics
 
 Each course demands a unique evaluation metric based on how it’s structured. Some courses have a lab component, and some have projects. We didn’t get any conclusive data when we asked whether the students were happy with the weightage given to lab reports.
@@ -95,6 +105,7 @@ Prof. Gumma, Dean of Academics Affairs and a professor in the Department of Chem
 > Typically, the average grade in a laboratory course is higher than that in a theory course. The overall grade is impacted when you have a five-credit theory plus lab course, compared to independent theory and laboratory courses.   Having said this, it is finally up to the department to decide what is best for their curriculum.      
 
 <a id="projects"></a>
+
 #### Projects and Coursework
 
 We also wanted to collect students’ opinions on having projects as part of the coursework, and we came to know that students are open to having projects in all of their courses. 
@@ -106,11 +117,11 @@ We also wanted to collect students’ opinions on having projects as part of the
 One of the students expressed how they understand having a project in all courses is challenging, but at the same time, it also helps them understand the true applications of whatever is being taught in class.
 
 > The benefits outweigh the efforts we have to put in. We also get a chance to showcase these projects in our resumes. Two birds, one stone.                         
-                                              
-                         
+>
 > Good projects should be given equal weightage as a test because, as engineers, we should be trained, not just to write tests but to tackle and analyse real-life problems. I feel a correct balance between the tests and projects should be incorporated into the courses. Those people who are not interested in any discipline should have a choice in choosing to do a project or writing a test.    
 
 <a id="conti"></a>
+
 #### Continuous Evaluation: To be or not to be?
 
 Some students feel that with continuous evaluation in every course, they have no freedom to explore important learning experiences such as projects outside coursework and extra-curriculars. 
@@ -134,6 +145,7 @@ The Students’ Academic Affairs Secretary, however, has his concerns about the 
 > At the beginning of the semester, the students are unable to estimate the future workload of the entire semester since they have not faced it yet. In addition to this, in spite of deciding on grading policy at the beginning of the semester, sometimes the faculty changes the pattern in the middle of the semester, rendering all previous deliberation useless.    
 
 <a id="format"></a>
+
 #### The Format of Exams
 
 The real world rarely requires blind memorization of data. The true focus must be on problem-solving skills. We have free access to information in both industrial and research settings. Some students are of the opinion that exams must reflect the real world and should hence be in the open-book format. 
@@ -147,5 +159,54 @@ Gumma Sir also believes in the power of open notes tests and shared with us how 
 Here’s a list of some responses from the students with regard to the assessment and evaluation system being followed.
 
 > In my opinion, end-sem exams should cover everything from the beginning to the end, not just a few topics at the end. That puts more emphasis on the last topic, which is wrong. The instructors should not reduce syllabi just because students ask them. They are supposed to make students competent engineers and not people who run away from difficult things.                   
-                                                          
+>
 > Exams should be for more marks than they have weightage. For example, if the end sem has 40 percent weightage, then it should not be just for 40 marks. Making a mistake there causes significant damage. While increasing the marks allotted for an examination, care should be taken that it can be completed in the stipulated time given for the exam.
+
+### Makeover time! Curriculum edition
+
+Throughout school, you constantly have decisions handed out to you. When you step into the college system, you get exposed to a variety of choices at the cost of expecting you to have a career figured out by the end of your degree. Trusting the curriculum of the institute, you simply focus on what really calls out to you from all that is taught. From a student's perspective, the content and structure presented during their degree will make or break their interest. While it can be argued that students are generally expected to branch outside the walls of the curriculum and explore their interests, it is unrealistic for the majority to be motivated or self-driven after they just got through the burnout of JEE. After all, they might have hopes on “Life will be set after JEE” to some extent, right?
+
+To analyse the accuracy of our current curriculum in fulfilling the utility in a student's career, we carried out a survey among the 3rd and 4th years. The below compilation is a representative statistical survey of how helpful students find various aspects of the current system in their goals and expectations.
+
+#### Internships and Placements          
+One of the essential measures of the quality of any institution is its placement output. Colleges train students in different fields of interest and release them into the world of corporate and core. The internship period also gives essential exposure to what life in a particular role will be like. Agreeably, curriculum plays an important role in shaping a student's interests and a company's selection process. 
+
+**Industrial Internships**                              
+One set of students believe that 6-month industrial internships should be a viable option. According to the current system, the institute sets a total of 3 months for an internship amounting to two credits. Anything more than this overlaps with the semester and is out of consideration. Industrial internships often offer roles for periods of 6 months, thereby crossing it off the list. Considering the demand and scope of such roles, students believe that the curriculum should be designed in a way that is flexible for a six-month internship period. 
+
+Another important factor is the major courses required for interviews in internships and placements. In the survey circulated, the majority voted for preponing the courses by one or two semesters. As per the current curriculum, many major courses like Data Structures and Algorithms for Computer Science and Analog Circuits for Electrical Engineering are taught in the semester when companies visit for internships. This nullifies the process as students are still in the learning curve and cannot produce their maximum possible output.
+
+![](https://lh3.googleusercontent.com/W2Zjs706MCaviRXfjCo4qNr05M6yGXtgGvFPOyGMzCGe5iCeBG8OigoCsnl4tkht9smfr-VvdA1F5RAYRpIh7p_PP0dQWU9r2R-R4egIToqUbc3P8WV2rPZ4Htxjqc-JGkV4kj6Xp5zCuY0bnaZSS5w)
+
+To get a perspective on how things run behind the scenes, we contacted Dr Pooja Vyavhare and discussed why exactly the current curriculum is designed this way. 
+
+> The department has known this issue very well from the past few years, or even maybe from the start. From our side, we would like to push Analog Circuits, Embedded Systems, and related courses to the third or fourth semester. But it's not happening because the first two semesters are common across all the departments, and there are a lot of common courses. However, being a part of the NEP committee formed last year; I can tell you that we have come up with some guidelines for changing the overall curriculum. If you want to talk about specific concerns with the committee, you can contact Dr Naveen or Dr Rama Krishna Gorthi from the Electrical department, as they are a part of the UG committee.              
+
+**Hands-on Experience**            
+Another important aspect of internships or placements is the hands-on experience. In the current system, many students believe that the curriculum is majorly theory-oriented and lacks real-life applications that are essential for internships and exposure. One student commented,
+
+> As a student preparing for Internships/Placements, I understand the value of having a project related to the course/domain. Unlike other branches (or, for that matter, students studying electrical engineering in other colleges), we had a really less number of projects during the coursework.          
+
+Pooja Ma’am had supporting and different views of this suggestion. She mentioned that this system was being followed in previous years but was stopped due to a lack of genuine interest. 
+
+> A mere percentage of 15% of students do the project and learn something from it. All the others simply tend to copy, and it is very tedious and disheartening to go through their reports. I think students should show a bit of interest and real willingness to do something. Even if it is small, what matters is how much effort you put in to do that.    
+
+She also mentioned that the reason for this might be due to overloading the projects, which are however important for the resume and cannot be given a preferential order. She suggested that the students and teachers sit together and work on a balanced system. The Students’ Academic Affairs Secretary suggested that professors might want to rethink how they are motivating or inspiring students to show interest in a particular project. He suggests that instead of just highlighting the impact on grades, professors should get students excited about how the projects will impact their thorough understanding of the subject, their CVs and eventual performance in internships and placements. 
+
+**The Placement of Electives**
+In the current system, free electives are only available from the fifth semester, which lands in the middle of the internship season. Many students believe that these courses should take the place of electives before the placement and internship season, to be provided with a chance to explore important non-core subjects.
+
+![](https://lh6.googleusercontent.com/Ful72dteXwtEapjAbEA1qt4vQYNcgqEYGdytdW0kPfN7jcGCSXtunfBV3AUo0Rv1q4DvikxeXZSuM8XBMvvgLw-BjAbRDss8j7p3gSOKdIQUSRJh_PaWbDinw6adszXIoInl4MgxoJbBvkqO73zcbFs)
+
+We asked Prof. Gumma, our Dean of Academics, for his views on the importance of various Computer Science and Electrical courses for students in other branches.
+
+> Even now, if you look at our curriculum, some semesters have 24 credits. Some semesters have 22. some semesters have 19, right? So taking two or three extra credits in a semester typically doesn't hurt a student that much. A good student can still take an extra course in the third or fourth semester and then claim credit for it in the fifth semester for a free elective. 
+
+The Students’ Academic Affairs Secretary highlighted the following points with respect to the above.                   
+
+> The amount of course load for a semester is not always directly proportional to the number of credits. It also depends on the courses. More importantly, timetable clashes make it nearly impossible to integrate the desired extra courses. Also, if the credits for the extra course can only be claimed after the 5th semester, it is not very helpful to a student’s resume during the summer break before 5th semester because the course will not show up on the transcript. In general, from my observation, the current system does not make it easy for students to take up extra courses in earlier semesters.    
+
+![](https://lh5.googleusercontent.com/4gwJPOXP_81DSEyLvnbV54vs9-fGXgsvljq3-XqD3kMKB4pAKJPMeqA9fweHyVgee2B9dPgIorJTt0IWDvuKObH2d3kp8PBqKlv8W14sy0_YdjiFt_B-EQA_cdEQCuQwXA8Cwc9fUOKrB36vPiQWAVk)
+
+**Non-Core Courses**
+Another common concern from the survey was the relevance of non-core courses in the curriculum. A variety of courses across different streams are provided to offer students a fairly basic understanding of engineering as a degree in the first two years. Further on, the core courses slowly take over, and different electives are offered. Many students believe that most of these courses are not necessary for a career and can be replaced with free electives, or with shifting core courses to early semesters. When asked for possible solutions, a popular opinion was to simply remove these courses or distribute them across semesters.
