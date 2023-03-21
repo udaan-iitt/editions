@@ -34,7 +34,7 @@ Academics are undoubtedly a crucial component of an educational institution like
   * [Continuous Evaluation: To be or not to be?](#conti)
   * [The Format of Exams](#format)
 
-<a id="Evaluation"><\a>
+<a id="Evaluation"></a>
 
 ### Let’s talk about Evaluation!
 
@@ -44,7 +44,7 @@ With time comes experience, and things start to become apparent. Even though we 
 
 Does the system require a rethink? Team Udaan has attempted to compile an array of views on how a student’s performance in a course could be evaluated.
 
-<a id="AvsE"><\a>
+<a id="AvsE"></a>
 #### Assessment vs Evaluation
 
 Before we delve deep into this, it is crucial to understand the key difference between assessment and evaluation. The process of collecting, reviewing, and using data for improvement in the current performance is called assessment. It is diagnostic in nature as it tends to identify areas of improvement. In short, it provides feedback on performance and ways to enhance one’s performance in the future. On the other hand, evaluation is the process of passing judgement based on defined criteria and evidence. It aims at providing an overall grade. It basically ascertains whether a given standard is met or not. 
@@ -75,7 +75,7 @@ A student shared with us how in one of their courses, they are allowed to discus
 
 What we could make out of all these discussions is that many students believe assignments truly help them understand the subject matter better, and they should be given some weightage in this process of continuous evaluation. Some students are opposed to the idea of grading all assignments as it becomes hectic to manage academics and extracurricular activities. Grading the comparatively more challenging assignments was one of the alternatives suggested by them.
 
-<a id="metric"><\a>
+<a id="metric"></a>
 #### Evaluation Metrics
 
 Each course demands a unique evaluation metric based on how it’s structured. Some courses have a lab component, and some have projects. We didn’t get any conclusive data when we asked whether the students were happy with the weightage given to lab reports.
@@ -94,7 +94,7 @@ Prof. Gumma, Dean of Academics Affairs and a professor in the Department of Chem
 
 > Typically, the average grade in a laboratory course is higher than that in a theory course. The overall grade is impacted when you have a five-credit theory plus lab course, compared to independent theory and laboratory courses.   Having said this, it is finally up to the department to decide what is best for their curriculum.      
 
-<a id="projects"><\a>
+<a id="projects"></a>
 #### Projects and Coursework
 
 We also wanted to collect students’ opinions on having projects as part of the coursework, and we came to know that students are open to having projects in all of their courses. 
@@ -110,7 +110,7 @@ One of the students expressed how they understand having a project in all course
                          
 > Good projects should be given equal weightage as a test because, as engineers, we should be trained, not just to write tests but to tackle and analyse real-life problems. I feel a correct balance between the tests and projects should be incorporated into the courses. Those people who are not interested in any discipline should have a choice in choosing to do a project or writing a test.    
 
-<a id="conti"><\a>
+<a id="conti"></a>
 #### Continuous Evaluation: To be or not to be?
 
 Some students feel that with continuous evaluation in every course, they have no freedom to explore important learning experiences such as projects outside coursework and extra-curriculars. 
@@ -133,7 +133,7 @@ The Students’ Academic Affairs Secretary, however, has his concerns about the 
 >
 > At the beginning of the semester, the students are unable to estimate the future workload of the entire semester since they have not faced it yet. In addition to this, in spite of deciding on grading policy at the beginning of the semester, sometimes the faculty changes the pattern in the middle of the semester, rendering all previous deliberation useless.    
 
-<a id="format"><\a>
+<a id="format"></a>
 #### The Format of Exams
 
 The real world rarely requires blind memorization of data. The true focus must be on problem-solving skills. We have free access to information in both industrial and research settings. Some students are of the opinion that exams must reflect the real world and should hence be in the open-book format. 
