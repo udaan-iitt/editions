@@ -1,18 +1,21 @@
 ---
-title: "Internship experience at Sprinklr"
-category: "Experiences"
-date: "2022-09-11 12:00:00 +05:30"
-desc: "Amit Kesari shares his incredible story of getting into and working at Sprinklr as a summer intern. From the tough interviews to the joy of receiving a PPO, tag along on his journey as he explains valuable lessons from experience!"
-thumbnail: "./images/sprinklr-amitKesari.jpg"
-authors: "Amit Kesari"
+title: Internship experience at Sprinklr
+category: Experiences
+date: 2022-09-11 12:00:00 +05:30
+desc: Amit Kesari shares his incredible story of getting into and working at
+  Sprinklr as a summer intern. From the tough interviews to the joy of receiving
+  a PPO, tag along on his journey as he explains valuable lessons from
+  experience!
+thumbnail: ./images/sprinklr-amitKesari.jpg
+authors: Amit Kesari
 starred: false
 abio: ""
-alt: "Internship experience at Sprinklr"
+alt: Internship experience at Sprinklr
 ---
 
 My internship at Sprinklr rekindled my joy and passion for learning and pushed my limits to work hard and exceed. The ideology of *"fix it, don't complain"* and *"never ever give up, ever"* were instilled in me throughout the journey, vastly changing my outlook.
 
-## **The experience**
+### **The experience**
 
 I wanted to start the story from where I first heard about Sprinklr. It was just before the company's coding round towards the end of August. I managed to squeeze into the interview rounds, crawling and moving ahead with the three rounds of heavy interviews. I was eating dal-chawal before the start of my 2nd round, running around the house like crazy to dress up again and sit in front of the laptop with a proper tie, shirt, and shorts below. Tip for juniors who might be hearing this for the nth time; practice DSA for the coding round and have at least 1-2 good projects that you can explain in your interview. Also, be happy, calm, and composed during the interview, ask for further explanations, and be vocal about your thought process for approaching questions. They also want to hire you if you show them you are capable enough to leave a mark. You can check more about the questions [here](https://docs.google.com/document/d/1E952TDkK3XmvkD3jkJL59_Lq8dKd4wnibumxIMNYfUg/edit?usp=sharing).
 
