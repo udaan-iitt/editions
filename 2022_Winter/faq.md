@@ -1,13 +1,15 @@
 ---
-title: "Freshers Asked Questions"
-category: "Campus News"
-date: "2021-01-28 10:00:00 +09:00"
-desc: "We dedicate this article to our freshers, answering some of their common queries.  Ranging from academics to college life experiences, read on to find out some useful information!"
-thumbnail: "./images/faq.jpg"
-authors: "IITT Family"
+title: Freshers Asked Questions
+category: Campus News
+date: 2021-01-28 10:00:00 +09:00
+desc: We dedicate this article to our freshers, answering some of their common
+  queries.  Ranging from academics to college life experiences, read on to find
+  out some useful information!
+thumbnail: ./images/faq.jpg
+authors: IITT Family
 starred: true
-abio: "NONE"
-alt: "Freshers Asked Questions"
+abio: NONE
+alt: Freshers Asked Questions
 ---
 Every year there comes a new batch of learners full of dreams, aspirations, goals, and a variety of doubts and questions about their coming years. This time we decided to dedicate an article to our freshers, answering some of their common queries.  Ranging from academics to college life experiences, read on to find out some useful information! 
 
@@ -15,7 +17,7 @@ Every year there comes a new batch of learners full of dreams, aspirations, goal
 
 --- 
 
-## Table of Contents
+### Table of Contents
 
 - [Academics, Interships and Placements](#academics-internships-and-placements)
 	- [Are the professors approachable, and how do you approach them for projects and stuff?](#are-the-professors-approachable-and-how-do-you-approach-them-for-projects-and-stuff)
