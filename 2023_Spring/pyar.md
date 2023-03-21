@@ -8,7 +8,10 @@ desc: "When you are in love, you start realizing how beautiful this world can
 thumbnail: images/pyar.jpg
 authors: Umang Rastogi
 starred: false
-abio: None
+abio: Umang Rastogi is an MS Research scholar in the Mechanical Engineering
+  department at IIT Tirupati. He is also passionate about music, poetry,
+  research and cricket. This poem is written in context with the father-daughter
+  bond and shows love, gratitude, and appreciation.
 ---
 <p style="text-align: center;align:center;">
 प्यार कुछ यूं निभाया उसने <br>
