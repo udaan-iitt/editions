@@ -87,6 +87,8 @@ If someone around you shows any signs of depression, make sure to be patient wit
 
 *We thank Aarushi and Navya for helping us out with their views on different aspects of depression and distinguishing the lines of social media.*
 
+*[Navya](https://www.linkedin.com/in/navya-sharma-6a2077200) is a Psychology student at Delhi University.*
+
 - - -
 
 <!--EndFragment-->
