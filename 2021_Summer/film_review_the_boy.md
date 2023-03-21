@@ -1,15 +1,14 @@
 ---
 title: "The Boy: A review"
-category: "Review"
-date: "2021-06-02 12:00:00 +09:00"
-desc: "I couldn't sleep until late-night after watching this"
-thumbnail: "./images/theboy.jpg"
-authors: "Anush Mangal"
+category: Review
+date: 2021-06-02 12:00:00 +09:00
+desc: I couldn't sleep until late-night after watching this
+thumbnail: ./images/theboy.jpg
+authors: Anush Mangal
 starred: false
-abio: "NONE"
-alt: "movie"
+abio: NONE
+alt: movie
 ---
-
 The college had just announced the postponement of classes for an entire month, and my excitement knew no bounds. I had several plans in the back of my mind to execute during these &ldquo;vacations&rdquo;. But before that, I needed a break! And what could be more suitable than watching some movies?
 
 So I just surfed through the internet, searched for some excellent Hollywood movies to watch (as I am a complete novice in this matter) when I found out &ldquo;THE BOY&rdquo;. It is a horror movie, and hence, it intrigued me.
@@ -24,9 +23,9 @@ The story starts when Greta Evans (role played by Lauren Cohan) visits the Heels
 
 Rupert Evans also leaves a remarkable impression in his role as the grocery boy Malcolm who acquaints Greta with the history of the sad demise of Brahms 20 years ago in a fire.
 
-&ldquo;The Boy&rdquo; also depicts a short love story between Greta and Malcolm. Hence, it is a complete mixture of drama, suspense, thrill, horror, romance and tragedy. However, one may not expect much music from it.
+"The Boy" also depicts a short love story between Greta and Malcolm. Hence, it is a complete mixture of drama, suspense, thrill, horror, romance and tragedy. However, one may not expect much music from it.
 
-The movie&rsquo;s plot is well-defined as a whole. However, it seems ways too abstract through the end. The best part of the movie is that the plot takes a sharp turn at the climax, which changes the complete understanding of the movie. Don&rsquo;t worry; I am not going to spoil your fun.
+The movie's plot is well-defined as a whole. However, it seems ways too abstract through the end. The best part of the movie is that the plot takes a sharp turn at the climax, which changes the complete understanding of the movie. Don&rsquo;t worry; I am not going to spoil your fun.
 
 In short, the movie writer Stacey Menear has done an excellent job. You can undoubtedly watch this movie with your friends at night (or alone if you are not weak-hearted).
 
