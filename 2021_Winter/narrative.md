@@ -1,16 +1,23 @@
 ---
 title: "Issue Exclusive : Online Semester Experiences"
-category: "Experiences"
-date: "2021-01-18 12:00:00 +09:00"
-desc: "Life puts us in situations that we’re unprepared for. We all have been forced into lockdown without prior notice due to the pandemic. The decision our institute took as a consequence was to turn this entire semester online. A new medium meant new experiences, with students at home experiencing the past semester in their own unique way.. To get a deeper insight into how their experiences were, we collected opinions from students, mostly those from 1st and 2nd year, and compiled them into a narrative. There’s a host of feelings and emotions associated with this experience that you must see for yourself!"
-thumbnail: "./images/lockdown.jpg"
-authors: "Prabhat Reddy"
+category: Experiences
+date: 2021-01-18 12:00:00 +09:00
+desc: Life puts us in situations that we’re unprepared for. We all have been
+  forced into lockdown without prior notice due to the pandemic. The decision
+  our institute took as a consequence was to turn this entire semester online. A
+  new medium meant new experiences, with students at home experiencing the past
+  semester in their own unique way.. To get a deeper insight into how their
+  experiences were, we collected opinions from students, mostly those from 1st
+  and 2nd year, and compiled them into a narrative. There’s a host of feelings
+  and emotions associated with this experience that you must see for yourself!
+thumbnail: ./images/lockdown.jpg
+authors: Prabhat Reddy
 starred: true
-abio: "NONE"
-alt: "Experiences"
+abio: NONE
+alt: Experiences
 ---
 
-# Table of Contents
+### Table of Contents
 
 1.  [Environment](#orga98fefb)
 2.  [Lectures](#orgb276c19)
@@ -27,7 +34,7 @@ alt: "Experiences"
 
 <a id="orga98fefb"></a>
 
-# Environment
+### Environment
 
 <br/>
 
@@ -69,7 +76,7 @@ Student-run clubs understand this issue very well; they&rsquo;ve been facing the
 
 <a id="orgb276c19"></a>
 
-# Lectures
+### Lectures
 
 <br/>
 
@@ -97,7 +104,7 @@ Irrespective of what anyone says, I&rsquo;m sure every single one of us can rela
 
 <a id="org03d775b"></a>
 
-# Exams and assignments
+### Exams and assignments
 
 <br/>
 
@@ -119,7 +126,7 @@ Assignments on the other hand were a constant burden on the shoulder. By the tim
 
 <a id="orge4a6c88"></a>
 
-# Faculty Student interaction
+### Faculty Student interaction
 
 <br/>
 
@@ -131,7 +138,7 @@ Mail and WhatsApp have become the primary means of communication and doubt clari
 
 <a id="org35498c7"></a>
 
-# Student-Student interaction
+### Student-Student interaction
 
 <br/>
 
@@ -151,7 +158,7 @@ While we can at least see a few people with a positive opinion on online interac
 
 <a id="orgca2a735"></a>
 
-# New habits developed in this online semester
+### New habits developed in this online semester
 
 <br/>
 
@@ -181,7 +188,7 @@ Another serious problem was the disturbance of people&rsquo;s sleep cycle. With 
 
 <a id="orgcdf9230"></a>
 
-# Professors
+### Professors
 
 <br/>
 
@@ -195,7 +202,7 @@ However, it wouldn&rsquo;t be true if I say that the faculty have taken the righ
 
 <a id="orgbfe6b5a"></a>
 
-# Personal experiences
+### Personal experiences
 
 <br/>
 
@@ -239,7 +246,7 @@ Here are some personal experiences elegantly penned down by a couple of individu
 
 <a id="org0b74334"></a>
 
-# Other critical remarks
+### Other critical remarks
 
 <br/>
 
@@ -255,7 +262,7 @@ Practice is the foundation for improvement, feedback and review are the things t
 
 <a id="org62fdc1d"></a>
 
-# Contributors
+### Contributors
 
 <br/>
 
