@@ -1,7 +1,7 @@
 ---
 title: "Chapter 1: Battling the Blues"
 category: Op-Ed
-date: 2023-03-21T18:30:44.221Z
+date: 2023-03-21T18:41:47.787Z
 desc: "Even the darkest night will eventually end, and the sun will rise again.
   Presenting Chapter 1 to “It's the Climb”;  where we talk about the various
   aspects of a very common battle fought in the silence of one’s own mind:
@@ -147,11 +147,7 @@ If someone around you shows any signs of depression, make sure to be patient wit
 
 - - -
 
-
-
-We thank Aarushi and Navya for helping us out with their views on different aspects of depression and distinguishing the lines of social media. 
-
-
+*We thank Aarushi and Navya for helping us out with their views on different aspects of depression and distinguishing the lines of social media.*
 
 - - -
 
