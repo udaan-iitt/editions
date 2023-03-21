@@ -168,10 +168,11 @@ Throughout school, you constantly have decisions handed out to you. When you ste
 
 To analyse the accuracy of our current curriculum in fulfilling the utility in a student's career, we carried out a survey among the 3rd and 4th years. The below compilation is a representative statistical survey of how helpful students find various aspects of the current system in their goals and expectations.
 
-#### Internships and Placements          
+#### Internships and Placements
+
 One of the essential measures of the quality of any institution is its placement output. Colleges train students in different fields of interest and release them into the world of corporate and core. The internship period also gives essential exposure to what life in a particular role will be like. Agreeably, curriculum plays an important role in shaping a student's interests and a company's selection process. 
 
-**Industrial Internships**                              
+**Industrial Internships**\
 One set of students believe that 6-month industrial internships should be a viable option. According to the current system, the institute sets a total of 3 months for an internship amounting to two credits. Anything more than this overlaps with the semester and is out of consideration. Industrial internships often offer roles for periods of 6 months, thereby crossing it off the list. Considering the demand and scope of such roles, students believe that the curriculum should be designed in a way that is flexible for a six-month internship period. 
 
 Another important factor is the major courses required for interviews in internships and placements. In the survey circulated, the majority voted for preponing the courses by one or two semesters. As per the current curriculum, many major courses like Data Structures and Algorithms for Computer Science and Analog Circuits for Electrical Engineering are taught in the semester when companies visit for internships. This nullifies the process as students are still in the learning curve and cannot produce their maximum possible output.
@@ -182,7 +183,7 @@ To get a perspective on how things run behind the scenes, we contacted Dr Pooja 
 
 > The department has known this issue very well from the past few years, or even maybe from the start. From our side, we would like to push Analog Circuits, Embedded Systems, and related courses to the third or fourth semester. But it's not happening because the first two semesters are common across all the departments, and there are a lot of common courses. However, being a part of the NEP committee formed last year; I can tell you that we have come up with some guidelines for changing the overall curriculum. If you want to talk about specific concerns with the committee, you can contact Dr Naveen or Dr Rama Krishna Gorthi from the Electrical department, as they are a part of the UG committee.              
 
-**Hands-on Experience**            
+**Hands-on Experience**\
 Another important aspect of internships or placements is the hands-on experience. In the current system, many students believe that the curriculum is majorly theory-oriented and lacks real-life applications that are essential for internships and exposure. One student commented,
 
 > As a student preparing for Internships/Placements, I understand the value of having a project related to the course/domain. Unlike other branches (or, for that matter, students studying electrical engineering in other colleges), we had a really less number of projects during the coursework.          
@@ -210,3 +211,21 @@ The Students’ Academic Affairs Secretary highlighted the following points with
 
 **Non-Core Courses**
 Another common concern from the survey was the relevance of non-core courses in the curriculum. A variety of courses across different streams are provided to offer students a fairly basic understanding of engineering as a degree in the first two years. Further on, the core courses slowly take over, and different electives are offered. Many students believe that most of these courses are not necessary for a career and can be replaced with free electives, or with shifting core courses to early semesters. When asked for possible solutions, a popular opinion was to simply remove these courses or distribute them across semesters.
+
+![](https://lh3.googleusercontent.com/3SdKPMOGMhGYQ0pJBXVFDJZIs9raQqR4U3Tu60cpJgf8XqDl0d__FQRNdpiPQ0hN5_cXxpK3FBhGkQUo_vCnsiVwNQIFkbCKk3XkPkCCFG4Yr5vWlfet1B01gsKSUw18aNKNa8DBrvmICSoL5iVH7yk)
+
+Gumma Sir also talked about the concept behind introducing these courses in the institute during our discussion.
+
+>As an engineer, it's not your job only to be doing your core area. You need to have a broader perspective of engineering as a discipline and on what is happening in other domains to be a successful engineer, right? Some of these courses would allow you to bridge that gap and give you a fair bit of understanding of what is happening across different engineering professions.           
+
+He also mentioned that the courses might continuously have to be revised according to their relevance over the years. We also asked him about the current system of branch change that is followed after the second semester, which causes a lot of gaps and delays for the core subjects to begin. There are many institutions that follow branch change after the second semester.    
+          
+
+>There are both pros and cons to the other system. When you allow a branch change after the first semester, it puts a lot of pressure on the student to perform well in the first semester. Now, remember that these are students who have just come with a massive burden on their shoulders, having cleared JEE.                            
+
+He mentioned that students might face various difficulties and need some time to adapt to the new environment, especially if the medium of instruction is different. They need time to settle down, and the current curriculum lets the students settle down and then improve their grades if required.                              
+
+>Even in the systems that currently follow branch change after the first semester, there is usually only one core course introduced in the second semester. So whether I really want so much pressure on the student and shift the branch change system by an entire semester just to accommodate one core course is a debate we can have.               
+
+
+<!--EndFragment-->
