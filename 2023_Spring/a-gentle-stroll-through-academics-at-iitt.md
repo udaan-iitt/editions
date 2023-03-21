@@ -38,6 +38,7 @@ Academics are undoubtedly a crucial component of an educational institution like
 
   * [Internships and Placements](#inandp)
   * [Course Continuity](#course)
+  * [Lab Component](#lab)
   * [What are the students looking for?](#whatstudents)
   * [Takeaways](#takeaways)
 * [Faculty Feedback](#feedback)
@@ -235,10 +236,11 @@ He mentioned that students might face various difficulties and need some time to
 
 <a id="course"></a>
 
-#### Course Continuity and Lab Component
-
+#### Course Continuity
 Most university professors have their own way of teaching courses and their own goals on what students should be aware of at the end of the course. During the 3rd and 4th years, however, most professors often assume that some content has already been covered in past courses and continue from a preset level. This is often inaccurate as some of these topics may not have been covered in said previous courses. The need to adapt and improvise curriculum based on the student’s previous knowledge is important. 
 
+<a id="lab"></a>
+#### Lab Component
 *Mechanical*![Forms response chart. Question title: Do you think that lab courses go hand in hand with core courses?. Number of responses: 29 responses.](https://lh3.googleusercontent.com/0BiIlsJzf8X3qrb31vjshfu3QYh5Ty6_xR2uxl_EyhfpdSxJDuSusMPtYHLIp0V0t_-Q1dm4yb5ygjZ0tLmUq8Z4Rs0WSTGBR0jC76rB3suUn0kLXr5X3rxpEGAsCpL-QNBQq9EZALaHngwMykVnGKI "Do you think that lab courses go hand in hand with core courses?")One of the most essential expected outcomes for the labs in the curriculum is to give students some exposure to hands-on experience in addition to the theory. With years of lab experiments and modifications, students believe that the original outcome is heavily strayed away from the present teaching and grading methodologies. Lab courses are now often seen as a burden, with multiple labs taking up the entire week’s afternoon schedules, leaving the students with the weekends, of course, for the lab reports. 
 
 While most students still believe the content taught in these lab courses goes hand in hand with the theory, there is a common agreement that the current workload provided is overloaded for a 2 credit lab component.
