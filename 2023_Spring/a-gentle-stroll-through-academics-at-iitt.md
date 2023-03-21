@@ -35,10 +35,15 @@ Academics are undoubtedly a crucial component of an educational institution like
   * [Continuous Evaluation: To be or not to be?](#conti)
   * [The Format of Exams](#format)
 * [Makeover time! Curriculum edition](#curriculum)
+
   * [Internships and Placements](#inandp)
   * [Course Continuity](#course)
   * [What are the students looking for?](#whatstudents)
   * [Takeaways](#takeaways)
+* [Faculty Feedback](#feedback)
+* [Academic Integrity](#integrity)
+* [NEP Framing and Implementation](#nep)
+* [Conclusion](#conclusion)
 
 <a id="Evaluation"></a>
 
@@ -161,6 +166,7 @@ Here’s a list of some responses from the students with regard to the assessmen
 > Exams should be for more marks than they have weightage. For example, if the end sem has 40 percent weightage, then it should not be just for 40 marks. Making a mistake there causes significant damage. While increasing the marks allotted for an examination, care should be taken that it can be completed in the stipulated time given for the exam.
 
 <a id="curriculum"></a>
+
 ### Makeover time! Curriculum edition
 
 Throughout school, you constantly have decisions handed out to you. When you step into the college system, you get exposed to a variety of choices at the cost of expecting you to have a career figured out by the end of your degree. Trusting the curriculum of the institute, you simply focus on what really calls out to you from all that is taught. From a student's perspective, the content and structure presented during their degree will make or break their interest. While it can be argued that students are generally expected to branch outside the walls of the curriculum and explore their interests, it is unrealistic for the majority to be motivated or self-driven after they just got through the burnout of JEE. After all, they might have hopes on “Life will be set after JEE” to some extent, right?
@@ -168,11 +174,12 @@ Throughout school, you constantly have decisions handed out to you. When you ste
 To analyse the accuracy of our current curriculum in fulfilling the utility in a student's career, we carried out a survey among the 3rd and 4th years. The below compilation is a representative statistical survey of how helpful students find various aspects of the current system in their goals and expectations.
 
 <a id="inandp"></a>
+
 #### Internships and Placements
 
 One of the essential measures of the quality of any institution is its placement output. Colleges train students in different fields of interest and release them into the world of corporate and core. The internship period also gives essential exposure to what life in a particular role will be like. Agreeably, curriculum plays an important role in shaping a student's interests and a company's selection process. 
 
-**Industrial Internships**                                         
+**Industrial Internships**\
 One set of students believe that 6-month industrial internships should be a viable option. According to the current system, the institute sets a total of 3 months for an internship amounting to two credits. Anything more than this overlaps with the semester and is out of consideration. Industrial internships often offer roles for periods of 6 months, thereby crossing it off the list. Considering the demand and scope of such roles, students believe that the curriculum should be designed in a way that is flexible for a six-month internship period. 
 
 Another important factor is the major courses required for interviews in internships and placements. In the survey circulated, the majority voted for preponing the courses by one or two semesters. As per the current curriculum, many major courses like Data Structures and Algorithms for Computer Science and Analog Circuits for Electrical Engineering are taught in the semester when companies visit for internships. This nullifies the process as students are still in the learning curve and cannot produce their maximum possible output.
@@ -183,7 +190,7 @@ To get a perspective on how things run behind the scenes, we contacted Dr Pooja 
 
 > The department has known this issue very well from the past few years, or even maybe from the start. From our side, we would like to push Analog Circuits, Embedded Systems, and related courses to the third or fourth semester. But it's not happening because the first two semesters are common across all the departments, and there are a lot of common courses. However, being a part of the NEP committee formed last year; I can tell you that we have come up with some guidelines for changing the overall curriculum. If you want to talk about specific concerns with the committee, you can contact Dr Naveen or Dr Rama Krishna Gorthi from the Electrical department, as they are a part of the UG committee.              
 
-**Hands-on Experience**                                           
+**Hands-on Experience**\
 Another important aspect of internships or placements is the hands-on experience. In the current system, many students believe that the curriculum is majorly theory-oriented and lacks real-life applications that are essential for internships and exposure. One student commented,
 
 > As a student preparing for Internships/Placements, I understand the value of having a project related to the course/domain. Unlike other branches (or, for that matter, students studying electrical engineering in other colleges), we had a really less number of projects during the coursework.          
@@ -194,7 +201,7 @@ Pooja Ma’am had supporting and different views of this suggestion. She mention
 
 She also mentioned that the reason for this might be due to overloading the projects, which are however important for the resume and cannot be given a preferential order. She suggested that the students and teachers sit together and work on a balanced system. The Students’ Academic Affairs Secretary suggested that professors might want to rethink how they are motivating or inspiring students to show interest in a particular project. He suggests that instead of just highlighting the impact on grades, professors should get students excited about how the projects will impact their thorough understanding of the subject, their CVs and eventual performance in internships and placements. 
 
-**The Placement of Electives**                                        
+**The Placement of Electives**\
 In the current system, free electives are only available from the fifth semester, which lands in the middle of the internship season. Many students believe that these courses should take the place of electives before the placement and internship season, to be provided with a chance to explore important non-core subjects.
 
 ![](https://lh6.googleusercontent.com/Ful72dteXwtEapjAbEA1qt4vQYNcgqEYGdytdW0kPfN7jcGCSXtunfBV3AUo0Rv1q4DvikxeXZSuM8XBMvvgLw-BjAbRDss8j7p3gSOKdIQUSRJh_PaWbDinw6adszXIoInl4MgxoJbBvkqO73zcbFs)
@@ -209,7 +216,7 @@ The Students’ Academic Affairs Secretary highlighted the following points with
 
 ![](https://lh5.googleusercontent.com/4gwJPOXP_81DSEyLvnbV54vs9-fGXgsvljq3-XqD3kMKB4pAKJPMeqA9fweHyVgee2B9dPgIorJTt0IWDvuKObH2d3kp8PBqKlv8W14sy0_YdjiFt_B-EQA_cdEQCuQwXA8Cwc9fUOKrB36vPiQWAVk)
 
-**Non-Core Courses**                                       
+**Non-Core Courses**\
 Another common concern from the survey was the relevance of non-core courses in the curriculum. A variety of courses across different streams are provided to offer students a fairly basic understanding of engineering as a degree in the first two years. Further on, the core courses slowly take over, and different electives are offered. Many students believe that most of these courses are not necessary for a career and can be replaced with free electives, or with shifting core courses to early semesters. When asked for possible solutions, a popular opinion was to simply remove these courses or distribute them across semesters.
 
 ![](https://lh3.googleusercontent.com/3SdKPMOGMhGYQ0pJBXVFDJZIs9raQqR4U3Tu60cpJgf8XqDl0d__FQRNdpiPQ0hN5_cXxpK3FBhGkQUo_vCnsiVwNQIFkbCKk3XkPkCCFG4Yr5vWlfet1B01gsKSUw18aNKNa8DBrvmICSoL5iVH7yk)
@@ -227,6 +234,7 @@ He mentioned that students might face various difficulties and need some time to
 > Even in the systems that currently follow branch change after the first semester, there is usually only one core course introduced in the second semester. So whether I really want so much pressure on the student and shift the branch change system by an entire semester just to accommodate one core course is a debate we can have.               
 
 <a id="course"></a>
+
 #### Course Continuity and Lab Component
 
 Most university professors have their own way of teaching courses and their own goals on what students should be aware of at the end of the course. During the 3rd and 4th years, however, most professors often assume that some content has already been covered in past courses and continue from a preset level. This is often inaccurate as some of these topics may not have been covered in said previous courses. The need to adapt and improvise curriculum based on the student’s previous knowledge is important. 
@@ -244,10 +252,12 @@ As an alternative option, the survey pitched the idea of spreading out labs even
 ![Forms response chart. Question title: Do you feel that courses having lab components be spread out evenly (say 2 lab courses a semester) to avoid burdening the semester? (Like in 4th and 5th semester you have three labs each). Number of responses: 16 responses.](https://lh3.googleusercontent.com/XoneCZyO-9FoZXijK-5is6QAbWXouN2R01CNDhANlSLPWSIKbS1Vy9rUcopOVxARVlN_7Wz9sZfAnARNFUeaiyURc2pEWKhBmP7dIxjkv_a-rrTxWOA2fURBDUEP06rKM_DMTVoYQux4tYCMuadea6Q "Do you feel that courses having lab components be spread out evenly (say 2 lab courses a semester) to avoid burdening the semester? (Like in 4th and 5th semester you have three labs each)")
 
 <a id="whatstudents"></a>
-#### What are the students looking for?            
+
+#### What are the students looking for?
+
 Eventually, any system of education boils down to what a student learns from it. To understand how relevant the current curriculum is to the aspect of learning and gaining knowledge, we asked students across different branches how their experience has been with the system. We will aim to address a few widely targeted topics for each branch in the below section. 
 
-**Chemical Engineering**                                                  
+**Chemical Engineering**\
 Some of the major concerns were curriculum cramming courses like Thermodynamics and Process Synthesis into a single course. Many students believe that having it as two courses instead of one would help them explore the subjects in further depth. 
 
 ![Forms response chart. Question title: A popular opinion is that courses which lay a foundation or play a key role in the chemical engineering curriculum such as Thermodynamics and Process Synthesis should have been taught as 2 courses rather than cramming the content into 1 course. What is your opinion on this?. Number of responses: 33 responses.](https://lh3.googleusercontent.com/C-2XxP07cWwGx6mrRZT1onFF6KqvnqWDDoIaZ7YeazMJAyOlYk5goBhETx63TXhkHVGeEeZ9hT3oEpu7am5s3DpSWVfwvDWxQzL9fMy9ltpXAUAlU0TetityqJhsRKBJlvi9tVZc9VO_tb3LyKs1ABw "A popular opinion is that courses which lay a foundation or play a key role in the chemical engineering curriculum such as Thermodynamics and Process Synthesis should have been taught as 2 courses rather than cramming the content into 1 course. What is your opinion on this?")
@@ -256,16 +266,16 @@ Another major concern was the adaptation of the current curriculum to exams like
 
 ![Forms response chart. Question title: The current curriculum lacks courses such as "Mechanical Unit Operations" and "Chemical Technology" which are important for students who are preparing for exams such as GATE. What do you think is a good option to address this?. Number of responses: 33 responses.](https://lh3.googleusercontent.com/lD84JBObpDL3yMPMxTI8PEbpi2Q2-1ZvzR7wszCwC5WghE11dSPL6LMoSUOonH7KPHDtU9pxBWoDkj63aFI2W0uoE4XavUWIpMhbfBqV6tz6h3x4v3ataLK4ejojcePaLeGOLgJ_zN5QSj_1CUK8kd8 'The current curriculum lacks courses such as "Mechanical Unit Operations" and "Chemical Technology" which are important for students who are preparing for exams such as GATE. What do you think is a good option to address this?')
 
-**Computer Science and Engineering**                                          
+**Computer Science and Engineering**\
 A majority of the surveyed students were unsatisfied with the current curriculum for Computer Science and Engineering. The overwhelming response from both students and faculty of the CSE department revolves around the need for moving core courses to earlier semesters of the curriculum, and the irrelevance of many first year common courses.
 
 ![Forms response chart. Question title: How happy are you with the current curriculum that we have been following?. Number of responses: 62 responses.](https://lh4.googleusercontent.com/iXFWVYBFZzsKHcO_0m98iVhS66z-0z22wLEtCr1S3oulpNqlqOHffU56FeRzNLLMI8hdlA7MYSHe-PKvhVihl23JxInio1qE3_cDyxxtIwg1RyV2u-46jo-f6zqsWGpLuopy3mlrRaIjo_aNIDbu8a4 "How happy are you with the current curriculum that we have been following?")
 
->The content that is taught to us as part of the curriculum is less important to crack companies but highly useful after joining a company. On the other hand, many virtual platforms are available that help students to improve their DSA skills and their Project development skills. These are mostly paid, and hence many university students cannot afford them. The institute can work on introducing such courses or establishing partnerships with some of these platforms to provide discounts for the students. From personal experience, I benefitted highly from some of these outside paid courses and got placed in a good company, but the cost of the courses was pretty shocking.                     
+> The content that is taught to us as part of the curriculum is less important to crack companies but highly useful after joining a company. On the other hand, many virtual platforms are available that help students to improve their DSA skills and their Project development skills. These are mostly paid, and hence many university students cannot afford them. The institute can work on introducing such courses or establishing partnerships with some of these platforms to provide discounts for the students. From personal experience, I benefitted highly from some of these outside paid courses and got placed in a good company, but the cost of the courses was pretty shocking.                     
 
 Some other concerns were regarding the current relevance of courses taught. With the growing technology sector, students believe that subjects and electives should also be appropriately revised. 
 
-**Electrical Engineering**                                                          
+**Electrical Engineering**\
 The curriculum form response for electrical engineering received an approximately average experience (2.06) feedback from most of the students. 
 
 ![Forms response chart. Question title: How happy are you with the current curriculum that we have been following?. Number of responses: 56 responses.](https://lh4.googleusercontent.com/EXbVIZPUi6EtgFSn-l5Dx8f_vcWekcQzzVPRjAKM-xs9hD_Bq0_qNjHeDphGnlMgeeLGDXoeYLvhwC3tp02zrNn0bJO_ciyljWE5GOJ-9krs302pIa2zSyERXfFKU-Zzzfr17AiJvfuj8MpqGVa9vl4 "How happy are you with the current curriculum that we have been following?")
@@ -274,12 +284,12 @@ Some of the suggestions and concerns from students included shifting of departme
 
 There were other concerns about the relevance of the curriculum for both Electrical and Computer-based roles. With the bridge between CS and Electrical disciplines, many students suggested the introduction of more CS department electives for Digital job profiles. 
 
-**Mechanical Engineering**                                           
+**Mechanical Engineering**\
 ![Forms response chart. Question title: How happy are you with the current curriculum that we have been following?. Number of responses: 18 responses.](https://lh4.googleusercontent.com/Z1JJndiFYR8haPFtT3V1hV_7LUvV1-ZlubVeh-Pm1TlNF5u3SBkLmaLxq6lFF_MtyHdHpuurIgN03H6IHiKGrpR0vKdpg_iyaTjwXmhQ3F5AaOt6H8pPWYA6jVjrKSfl-z7-eLNGPhpBq1i3corPtFM "How happy are you with the current curriculum that we have been following?")Many Mechanical engineering students are of the opinion that doing actual projects in any of their fields of interest requires a solid effort in their skillset and theoretical knowledge.  Most of the responses say that developing these ‘essential’ skills at the very beginning helps students figure out their area of interest, make a concrete effort to do their best on a project, and hence derive satisfaction from the end results. Unfortunately, a common problem that many students face is that they need to spend a lot of time just learning the know-how of a software rather than working on the actual project statement. The huge time crunch deters students from learning these skills, working on projects, and eventually participating in technical events. And some say that this is the very reason behind low turnout at technical events. 
 
 A solution offered by many is to offer these skills as a graded part of a course or at least be offered a helping hand at it. Including skill-based courses in the curriculum may drastically change the current scenario. The skills that almost all students felt needed some representation included CAD modelling, ROS, Matlab, C++, and Python. Another aspect brought about by many students was the need to open up their regular subjects to hot topics like AI, Machine Learning, Aeromodelling, and Electric Vehicles. The feeling is that including the basics of these topics will make the students more industry ready. Some students also have expressed a desire to be given more freedom to follow their field of interest and develop specialised skills at an early stage.
 
-**Civil Engineering**                                           
+**Civil Engineering**\
 Most of the civil engineering responses agreed that the current curriculum was adequate for their goals. 
 
 ![Forms response chart. Question title: How happy are you with the current curriculum that we have been following?
@@ -288,18 +298,134 @@ Most of the civil engineering responses agreed that the current curriculum was a
 
 Some concerns included the need for training sessions and inclusion courses for professional tools and the GATE syllabus.
 
->The institute can consider organising a proper training session on modern software like Staad pro and Revit, which will help us to get an internship in core domains.                             
-                             
-                        
->Geotechnical engineering and Transportation engineering are major parts of the GATE syllabus. Since they are currently introduced in the 6th semester, there is no use for the students to take the GATE exam in the third year.      
+> The institute can consider organising a proper training session on modern software like Staad pro and Revit, which will help us to get an internship in core domains.                             
+>
+> Geotechnical engineering and Transportation engineering are major parts of the GATE syllabus. Since they are currently introduced in the 6th semester, there is no use for the students to take the GATE exam in the third year.      
 
 <a id="takeaways"></a>
-#### Takeaways                  
+
+#### Takeaways
+
 As one of the fastest-growing third-generation IITs, the current curriculum has modified and expanded its base by a significant amount in comparison to the previous years. We conclude this section with an excerpt from the Students’ Academic Affairs Secretary. 
 
->Most of the curriculum was designed nearly six years ago, but the industry has changed a lot in the meantime. The electives being offered should be regularly updated, once in 2-3 years with the latest advancements in the relevant industry. A majority of the elective courses listed on the website of IITT are not usually offered. This should be rectified so that students can take up electives based on their wider interests.                        
+> Most of the curriculum was designed nearly six years ago, but the industry has changed a lot in the meantime. The electives being offered should be regularly updated, once in 2-3 years with the latest advancements in the relevant industry. A majority of the elective courses listed on the website of IITT are not usually offered. This should be rectified so that students can take up electives based on their wider interests.                        
 
-### Faculty Feedback               
+<a id="feedback"></a>
 
+### Faculty Feedback
 
-               
+Faculty and Course Feedback, if utilised properly,  is a very good mechanism to enhance quality and achieve the objectives of a course. It provides an opportunity for students to put forward their views on a course and its instructor anonymously and, therefore, perhaps in the rawest, most accurate of forms. Asking the right questions, at the right time, with the right frequency, and with ample space for students to put forward their views is of primary importance. Unfortunately, the students feel that the mechanism followed here does not tick all the boxes and here is the gist of their thoughts.
+
+1. How many times does it take to get the timing right?
+
+The timing of the faculty feedback form leaves very little scope for improvement during the duration of the course. Feedback is taken just before the final exam (so the end sem is never reviewed) and after the course has ended (so there is no chance of improving it this sem). Faculty feedback at least twice (perhaps shortly after mid sem and shortly after the end sem) will give a better idea about a student's response and a way to judge if the feedback was useful.
+
+2. Missing the right spot
+
+A good number of questions asked in the faculty feedback just test the basics which every professor follows. Questions asked are more about whether the professor follows a schedule rather than what the student feels about it. In addition to basic checks, questions asked should focus on whether the course was interesting, if the course actually added value to the student’s aspirations, and how the course can be more engaging and real-world applicable.
+
+3. Objectivity is key, but subjectivity has value
+
+Only 10 to 20% of the questions asked are subjective. There is so little space for students to actually express in their own words what they feel about a course and its instructor. Moreover, certain questions have a word limit as well. This makes the feedback process too mechanical and just a rating system with no actual feedback. Giving solutions, suggestions, and experience should be given slightly more importance than what it is currently given.
+
+4. The Invisible Man
+
+No one knows what happens to the feedback once you hit the submit button. We don’t know how much of it and in what form reaches the faculty. Moreover, we don’t know what effect the feedback has on the course. As there are no visual effects on the students, most of them consider the entire process as just a formality that yields no result. Knowing more about this black box may encourage students to invest more in the academic feedback process. 
+
+We posed all these questions to the faculty whom we interviewed for this article, and they shed light on how the entire system works.
+
+Gumma Sir shared with us how feedback helped him grow as a professor. 
+
+> I think the system is very effective if the students provide genuine feedback, and that's where the challenge is, right? Firstly, this end of the course feedback mechanism is in place in most universities across the globe. I do think that it works wonders. Personally, as a faculty, it helped me grow a lot, especially when a student tells me what aspects of my teaching need improvement. Numbers don’t catch my attention anymore since there’s not much difference between what I get in different semesters. What gets my attention is a student making a comment, asking me to cover a particular topic in more detail, maybe introduce practical aspects of the topic, or perhaps about a particularly difficult topic. Things like that catch my attention. I think the mechanism allows the faculty to grow, but then, unfortunately, I don't find too many comments in my feedback these days.             
+
+He also spoke about how the academic section has been working to make the feedback form more concise.
+
+> If you look at the questionnaire now, everything is just one statement, less than half a line. These are straightforward questions and we want clear and precise answers from the students. They have been prepared after a lot of debate. There was a separate committee, which I think has collected feedback from more than 20 universities or so across the globe. The Senate has debated on these questionnaires over two or three meetings before we finalised it. So hopefully, with the new questionnaire, students are going to read the questions, understand what we intend to ask them correctly, and then give us more honest responses.                  
+
+Pooja Ma’am shared with us her thoughts on the frequency of faculty feedback.
+
+> I would definitely agree that having multiple faculty feedback would help. Maybe sometime after Test 1. And I generally directly ask for feedback from students when they are in a small class. I will probably send a Google form or something and ask for feedback in bigger classes. Sometimes I will just sample some students or even ask the class representative to give me feedback. Because it's very important. I really need to understand how the current batch feels about the course. They can give me bad feedback at the end of December. But what is the use exactly, no use for those students. It has no use for me. Yeah. I mean, I can do something for their next batch, but they also come with different kinds of thought processes. So for them, again, the modified way may not work. So definitely one more feedback around after test one, or so, maybe not as elaborate as the last feedback, but some feedback about how things are going would definitely help.                  
+
+Prof. Gumma is of the opinion that we students should bring forth all such concerns in the class committee meeting. He asks students to make use of this opportunity to request any changes if they feel so. He also explained to us the entire process of the faculty feedback system from the perspective of a faculty as well as the institute.
+
+> For example, an instructor gets a poor rating this semester, let's say 0.6 in our scale of zero to one. From what I have seen in most cases, the feedback improves next semester.  0.6 definitely goes to 0.7 or 0.75. I think, as teachers, we are conscious of the fact and make that extra effort to ensure that we get good feedback and deliver our best.         
+>
+> Typically, as faculty we need one or two years before settling down into a rhythm to teach a particular course. Also remember that most of faculty, come right after Ph.D. or maybe with a few years of non-teaching experience after a PhD. We are experts in a particular research area. And once you are an expert and you go to a classroom sometimes you sort of tend to forget that you’re teaching it to a non-expert.
+>
+> It's a challenge for us to gauge that.  We have to bring level down a little bit or explain it better. What is obvious to me probably is not obvious to a student who is listening. That extra effort on the part of the faculty needs some time. Thereafter, the feedback improves. I know as a student you’ll probably get only one chance to take the course. I understand that.            
+>
+> Having said that, from an institute perspective, if feedback is not within an acceptable range, then the administration intervenes. We talk to the faculty to understand the challenges they’re facing or why they think that they have received the feedback that they have and see how we can facilitate, so that the students’ learning experience can be improved. We also conduct faculty orientation programs. I think the last one was held in Summer of 2022. We invite experts who are experienced, who have got the best teacher awards, et cetera, including those from other institutes.                       
+
+The AAS suggested that if a particular faculty repeatedly gets poor feedback for a particular course, a solution worth exploring is asking a different instructor to take the course the next time it is offered. This way the department can try out various possibilities and find the best solution for students. He pointed out that the students' learning should be prioritised and excuses shouldn’t be made.                 
+
+<a id="integrity"></a>
+
+### Academic Integrity
+
+Academic integrity is a concept that is highly valued in educational institutions. It is the foundation of a fair and just academic system and is essential for the overall credibility and success of students. 
+
+But let's be real, who cares about academic integrity anyway? It's not like it has any real-world consequences or anything. It's just a silly concept dreamed up by uptight educators who want to make our lives harder. Besides, everyone cheats at some point, right? It's just a part of being a student. After all, why bother putting in the hard work and effort to actually learn the material when you can just copy someone else's work or use a cheat sheet during an exam? It's so much easier to just cut corners and hope that you don't get caught. 
+
+Of course, there are always those pesky professors and TAs who try to enforce academic integrity policies and catch students cheating. But hey, that's just a minor inconvenience, right? All it takes is a little creativity and a few clever excuses to get out of trouble. And even if you do get caught, it's not like it's a big deal. Just a slap on the wrist and a stern lecture about how cheating is wrong, and you're free to go back to your dishonest ways. In conclusion, academic integrity is just a meaningless concept that we all pretend to care about but secretly disregard at every opportunity. Let's just embrace our inner cheaters and move on with our lives… Or so I would like to say, let's pause that line of thought there and dive into this a bit deeper, shall we? 
+
+Maintaining academic integrity is essential for the overall credibility and success of educational institutions. When professors fail to take action against instances of academic dishonesty, it can have a detrimental impact on both good students and the quality of education.
+
+We asked the students whether they had witnessed any academic malpractice during tests and exams, and about 80% of the students have. 
+
+![Forms response chart. Question title: Have you seen academic malpractice at our institute?. Number of responses: 100 responses.](https://lh3.googleusercontent.com/o-RcLUFdkREjpRfSj-dXwqsmwGmNVK23eaopammBeECfCFg2NWp57fpr_ImT8xnatq0KtdDXqy7HtTGBFGTok55gr23hCOkZ6IAUDEINeS6gdM3FHWPFNEg9N3Y3aLtq9ut4FJ5fA1qqvWUFKEM1N5I "Have you seen academic malpractice at our institute?")
+
+Somehow this has been a topic that all of us are aware of but probably won’t discuss as openly as we do anything else. 
+
+One way in which a professor's inaction can affect good students is by creating an unfair playing field. When students who engage in academic dishonesty are not held accountable, it allows them to gain an unfair advantage over their peers who follow the rules. This can lead to good students feeling frustrated and demoralised, as they may feel that they are working harder and following the rules yet are still being outperformed by students who are cheating. Here’s what one such student has to say
+
+> As far as evaluation is concerned, I am not happy with the way examinations are conducted. It is because there is a lot of cheating happening during the exams. There are many students who carry mobile phones to the exam halls. There is no one to check whether everybody has kept it away or not. This is the case in the majority of the exams. It is a common issue, and I believe no one talks about it... probably because we do not get enough support or a good platform.                      
+
+But who cares about that goody two shoes, you say? In addition to impacting good students, professor inaction can also bring down the overall quality of education. When students are not held accountable for their actions, it sends a message that academic integrity is not important. This can lead to a decrease in academic standards, as students may feel that they can cut corners and cheat without consequence. Students may not be fully engaging with the material and may not be learning as much as they would if they were following the rules. When students see that their peers are getting away with cheating, they may be more likely to engage in such behaviour themselves. This can lead to a downward spiral, where more and more students begin cheating, which further undermines the integrity of the educational institution.
+
+However, despite the importance of academic integrity, many professors struggle to take action against students who engage in foul practices such as cheating and plagiarism. Here’s another student’s take on this issue.
+
+> Cheaters caught are not punished and are let go with a warning. That is just totally wrong! That boosts the morale of the cheaters. For instance, I got to know that a girl was caught three times with a phone by the same teacher during different exams, but still, nothing happened. How is the current system benefitting anyone but cheaters? Why is the disciplinary committee not taking any action? I believe that there should be strict examples. There are cases where almost half of the class cheats with mobile phones, and since the TA, who is usually the invigilator, knows those people, no action is taken.          
+
+One reason why professors may be hesitant to take disciplinary action is that the consequences for such actions are often too severe. For instance, some educational institutions have a zero-tolerance policy towards academic dishonesty, which means that a student found guilty of cheating could be expelled. While this may seem like an effective deterrent, it can also be too extreme in some cases. For example, consider a student who cheated on a single exam due to extreme stress or personal issues. Expelling this student may not be the most appropriate solution, as it could have a detrimental impact on their future prospects. This is where introducing moderate disciplinary actions could be beneficial. Moderate disciplinary actions could include a range of options, such as a warning or a reduced grade on the assignment or exam in question. These actions would still serve as a deterrent against academic dishonesty, but would also allow for more flexibility in terms of dealing with individual cases as they would have more options at their disposal. Currently, many professors may be hesitant to take action due to the fear of severe consequences for the student. 
+
+Faculty must also ensure that students are not in a situation where there is a lack of resources and support for students. When students do not have access to the resources and support they need to succeed, it can impact their ability to fully engage with the material and learn effectively. 
+
+Students play a role in enforcing academic integrity by being responsible and honest in their academic pursuits. This involves following the rules and guidelines set forth by professors, as well as being willing to speak up if they see their peers engaging in academic dishonesty. Another way in which students can support academic integrity is by seeking out resources and support when they need it. This can involve seeking help from professors or tutors if they struggle to understand the material rather than turning to cheating as a solution.
+
+The AAS highlighted that if students notice any sort of malpractice, they can directly approach the Academic Advisor, Dr. S. Rajesh, or the Dean of Academic Affairs, Prof. Gumma. He also suggested that decisions taken by the disciplinary committee about various incidents should be made public, anonymising any personal information. He feels that a public announcement about the kind of malpractice and the punishment awarded would be a significant deterrent to people contemplating future malpractice. 
+
+We also took up some of these points while conducting interviews with faculty for this piece, who also aired their views about maintaining academic integrity in the face of increasing pressure from students and the administration. One faculty member expressed concern about balancing the need for discipline and holding students to high standards while providing a positive learning experience for all students. The faculty member also agreed with the idea of providing a bit of flexibility while enforcing policies with the example of how deadlines need not be very strict so as to ensure that students who are genuinely trying to learn are not penalised. 
+
+Gumma Sir emphasised the importance of academic integrity at the institute and stated that it is taken very seriously, citing previous examples. The disciplinary committee looks into all reported cases of academic misconduct and enacts harsh punishments, if needed, on a case-to-case basis. However, he also stressed the importance of sensitising students about the consequences of compromising academic integrity and how it should ideally act as a deterrent. He also mentioned that in his classes, he makes students take a pledge of integrity in their homework and tests, a seemingly simple thing that could help make the student think twice before indulging in malpractices.
+
+Academic integrity goes two ways. This is a topic that we as a team never anticipated would come up, but it is definitely worth discussing. Here’s a concern raised by one of the students,
+
+> In most of the subjects, some parts of the answer sheets, or in some cases the entire answer sheets, are checked by TAs and not the course instructor. There were some cases that came to my notice during the end sem exams, where the TAs made use of this opportunity and gave more marks to their friends in that batch even for wrong answers. This is definitely not right and totally unfair to all the other students in class.                      
+
+Strict measures must be taken to avoid such instances. 
+
+We recently conducted a survey and the students believe that the academic section was more serious in the recently conducted Test 1 in January. Having Professors supervise the invigilating TAs definitely made a difference, and this is what the students have to say,
+
+![Forms response chart. Question title: Do you feel that invigilation was taken more seriously in the recently conducted Test 1?. Number of responses: 99 responses.](https://lh5.googleusercontent.com/0eM_ieGRIF1ZaFOE_FBmlLucR4Tpb_o8BE8XF7GLN6c6oX516_0PT3nfsR7yxHGiuPNsyEwmb4DK7RoCGMkqcxtdYREZzrpEoHMTUntDQ6F9NP0n5PKM6hsMqTip7UYW2WFf9b9wnXZK8do6qYO4YeY "Do you feel that invigilation was taken more seriously in the recently conducted Test 1?")
+
+Ultimately, ensuring academic integrity requires the collaboration and efforts of both faculty and students. By working together and being proactive in addressing instances of academic dishonesty, we can create a fair and just academic environment where all students are held to the same standards.
+
+<a id="nep"></a>
+### NEP Framing and Implementation
+
+The new NEP (National Education Policy)  was released in July 2020, and this outlines the vision of a new education system in India, which aims to be one of the best education systems in the world. It aims to provide quality and equitable education to all children in India. 
+
+IITT, which was already working on curriculum revision, convened the NEP committee soon after the policy was out. Currently, there are committees working on departmental levels, trying to frame a curriculum to suit the best interests of the students to have the best system out there that strives towards a holistic learning process. After our discussion with Dr Ramakrishna Gorthi, we realised that with the implementation of the new syllabus, framed in accordance with the new NEP, most of the issues students raised would be solved.
+
+Under the new NEP, the following provisions will be made:
+
+* There will be provisions for multiple exit options. a student will get the option to drop their course. They will receive — a certificate after completing one year in a discipline or field, including vocational and professional areas, or a diploma after two years of study, or a Bachelor’s degree after completing the entire program.
+* Students will have the opportunity to take multiple internships throughout the course of the program.
+* The committee is looking into the possibility of shifting the core courses to earlier semesters, reducing the number of institute mandated courses and choosing the most suitable common courses. 
+* Students will have the option of taking up electives (both departmental and free) from earlier semesters.
+
+These are some of the fronts on which the NEP committee is working on. We really hope to see the implementation of this new curriculum at the earliest.
+
+<a id="conclusion"></a>
+### Conclusion
+No system is truly perfect. And that is why there exists a system of checks and balances to gauge its effectiveness. The current system, catering to the dreams and aspirations of hundreds of students, might have a few tiny holes here and there, but we believe they can be patched up. Discussions are paramount in bringing about any change, and we hope to see them happening in more and more numbers in the near future. A huge thanks to all the professors and the TAs for constantly helping us understand the subject and making learning an enjoyable experience. A special thanks goes to all the professors and students who helped put this article together! We hope we’ve left you with interesting thoughts and questions about how not to do Academics at IITT. 
