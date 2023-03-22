@@ -4,7 +4,7 @@ category: Story
 date: 2023-03-21T18:23:16.289Z
 desc: A message from beyond the stars and humanity's reaction to it - a
   thrilling tale.
-thumbnail: ./images/daydream2.jpg
+thumbnail: images/firstcontact.jpg
 authors: Bhukya Sanghu Sandeep
 starred: false
 abio: ""
