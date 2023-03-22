@@ -8,6 +8,7 @@ desc: We walked in to be received by a woman with the kindest voice, excitedly
   residents of Abhaya Kshetram that day. Join us on our visit to Abhaya
   Kshetram, a home for physically and mentally challenged orphans, destitute
   women and aged people.
+thumbnail: images/abhaykshetramcover.jpg
 authors: Sneha M S, Debeshee Das, Pranav Hari Panicker
 starred: true
 ---
@@ -18,6 +19,10 @@ starred: true
 Pranjal Shukla, one of the graduates from the pioneer batch of our institute, currently pursuing a PhD here, brought to our notice the existence of this noble organisation and how from 2015 onwards, the student body has been celebrating Diwali among the residents of Abhaya Kshetram. Many students even celebrated their birthdays there. Unfortunately, due to COVID-19, when the interaction between college seniors and juniors was disrupted, this tradition did not continue. In fact, it won’t be surprising that many of you are hearing of Abhaya Kshetram for the first time. 
 
 When we visited the shelter home, we had the chance to interact with the residents, thanks to the founder, Dr S.A.Thasleema Sultana. She started Abhaya Kshethram in 2007 on the occasion of the birthday of Mother Theresa. Her profound commitment and selfless service towards the inhabitants of Abhaya Kshetram is evident and truly remarkable. She has an excellent academic record, having been conferred a PhD in Special Education from Sri Venkateswara University, Tirupati, for her thesis titled “Attitude of parents, teachers and students towards children with special needs in normal and integrated schools.” 
+
+
+
+![](images/abhaykshetram4.jpg)
 
 Her selfless dedication to society has been recognised and appreciated on several occasions, and rightly so. She has been presented with several awards, including the 100 Inspiring Women award, which was given to her by then President of India, Shri Pranab Mukherjee, at the Rastrapathi Bhavan in  2016. Additionally, she was awarded the Devi award in 2016 by the then Vice President of India, Shri M. Venkaiah Naidu. In 2010, the Ministry of Woman and Child Development, Govt. of India, honoured her with the Rajiv Gandhi Manav Seva award for her services to orphaned and mentally disabled children.
 
@@ -42,6 +47,10 @@ She also elaborated on the standard operating procedures (SOPs) that are adhered
 > The usual procedure involves admitting people from various public places with the assistance of the police. After taking a photograph and creating a file, we record why they have come to us and take their statement. Later, we conduct medical tests to identify any health issues or disabilities that they may have. In case of suspected health issues, we conduct blood tests and maintain separate medical records for each patient. We also maintain a record of the medication they receive, as different medical conditions require different treatments. For patients with epilepsy or other behavioural problems, we provide medication and specialist follow-up care. Thus, we keep two records for each patient - one for admission and the other for their medical history.
 
 Abhaya Kshetram not only provides a safe haven and a sense of community to its residents but also offers vocational training in various areas, such as making bangles, bags, candles, agarbattis, and envelope covers. This training helps the residents to develop new skills and readjust to a new environment both socially and economically. They prepare these items seasonally as well as on other days, and the products are mainly sold to visitors of the organization. During Tirutsava last year, they set up a stall on our campus. We hope to set up similar stalls on campus on multiple occasions, particularly at the upcoming Tirutsava 2023. This year, as a gesture of appreciation to the housekeeping and security staff on International Women's Day, we gifted them bangles and bags made by the residents of Abhaya Kshetram.
+
+
+
+![](images/abhaykshetram2.jpg)
 
 Having a dedicated and committed team is crucial for the successful functioning of an organization like Abhaya Kshetram. The team at Abhaya Kshetram consists of individuals who have faced neglect, unfaithfulness, or difficult situations in their personal lives. These staff members include widows, single mothers, and others who have been marginalized. Dr Sultana explains that when these individuals arrive at Abhaya Kshetram, they often express that they have lost everything. However, the home provides them with a new beginning, starting from scratch and helping them to develop a sense of responsibility. As a result, they become much happier and are able to lead a new life.
 
