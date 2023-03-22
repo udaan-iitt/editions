@@ -385,6 +385,30 @@ export const author_info = [
     link: '',
   },
   {
+    key: 'udaan',
+    title: 'Team Udaan',
+    tagLine1: '',
+    tagLine2: '',
+    role: '',
+    year: '',
+    desc1: 'The team you know and love <3',
+    desc2:
+      '',
+    link: '',
+  },
+  {
+    key: 'priyansh',
+    title: 'Priyansh',
+    tagLine1: '',
+    tagLine2: '',
+    role: '',
+    year: '',
+    desc1: 'Priyansh Sangule (IIMA 2023, IITT CSE 2020) is a tech and design enthusiast with eclectic interests.  With a particular penchant for creating open source software and gaming, you’ll often find him appreciating beauty in the randomest of places. He occasionally publishes blogs and art through his digital garden: www.abstractxan.xyz.',
+    desc2:
+      '',
+    link: '',
+  },
+  {
     key: 'sathyanarayann',
     title: 'Sathyanarayann',
     tagLine1: '',

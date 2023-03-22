@@ -5,13 +5,14 @@ date: 2023-03-21T18:26:18.442Z
 desc: "When you are in love, you start realizing how beautiful this world can
   be… Here’s a rhythmic and “bring a soft smile to your face” kind of poem about
   how being in love can change you as a person. "
-thumbnail: images/pyar.jpg
+thumbnail: ./images/pyar.jpg
 authors: Umang Rastogi
 starred: false
 abio: Umang Rastogi is an MS Research scholar in the Mechanical Engineering
   department at IIT Tirupati. He is also passionate about music, poetry,
   research and cricket. This poem is written in context with the father-daughter
   bond and shows love, gratitude, and appreciation.
+alt: ""
 ---
 <p style="text-align: center;align:center;">
 प्यार कुछ यूं निभाया उसने <br>

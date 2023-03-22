@@ -12,12 +12,14 @@ desc: Greek Goddess of Spring and ruler of the underworld, Persephone, was
   Agriculture, and Hades.
 authors: Iftekhar Ahmed
 starred: false
+thumbnail: ./images/benchbond.jpg
 abio: "If you ask a friend of Iftekar’s to describe him, the first word that
   will helplessly tumble out of their mouth is ‘poet’. The soft-spoken poet, who
   radiates positive vibes and wields excellent oratory skills, Iftekhar, is
   currently pursuing an undergraduate degree in Electrical Engineering at IIT
   Tirupati. He is also a well-known badminton player who spends his spare time
   immersed in books and movies. "
+alt: ""
 ---
 <p style="text-align: center;align:center;">Oh! Persephone, today I ask, <br>
 What do you want to be? <br>

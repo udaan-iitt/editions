@@ -4,10 +4,11 @@ category: Poetry
 date: 2023-03-21T18:21:31.393Z
 desc: An honest attempt to highlight the essentiality of a myriad of
   relationships that make life worth living and more complete.
-thumbnail: images/benchbond.jpg
+thumbnail: ./images/benchbond.jpg
 authors: Bineet Barman
 starred: false
-abio: None
+abio: ""
+alt: ""
 ---
 <p style="text-align: center;align:center;">There is a bench at the local park, under the shade of trees<br>
 Where the couples rest, under the dark, with a cold breeze<br>

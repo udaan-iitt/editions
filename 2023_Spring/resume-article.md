@@ -9,8 +9,11 @@ desc: A resumé is an essential tool for any job seeker. It is meant to summaris
   an interview. In this article, we'll discuss the key components of a resumé
   and offer tips on creating a standout document that showcases your strengths
   and qualifications.
+thumbnail: ./images/benchbond.jpg
+abio: ""
 authors: Sathyanarayann, Kranthi, Priyansh
 starred: true
+alt: ""
 ---
 <a id="intro"></a>
 ### Introduction

@@ -11,6 +11,8 @@ desc: We walked in to be received by a woman with the kindest voice, excitedly
 thumbnail: images/abhaykshetramcover.jpg
 authors: Sneha M S, Debeshee Das, Pranav Hari Panicker
 starred: true
+abio: ""
+alt: ""
 ---
 *As the sun dipped below the horizon, we entered a three-storey building, a resilient peach in colour, a beacon of hope. We walked in to be received by a woman with the kindest voice, excitedly conversing with a man who worked at a local hotel and his wife. They both had eyes sparkling with joy and fulfilment - they had sponsored a meal for the residents of Abhaykshatram that day.*
 

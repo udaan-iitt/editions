@@ -8,10 +8,11 @@ desc: >+
   ideas from students and professors about what they would do differently about
   academics at IITT if they could. What works well and what doesn’t? If
   something shouldn’t be as is, why isn’t it? 
-
-
+thumbnail: ./images/benchbond.jpg
+abio: ""
 authors: Team Udaan
 starred: true
+alt: ""
 ---
 <!--StartFragment-->
 

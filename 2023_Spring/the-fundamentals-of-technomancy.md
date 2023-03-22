@@ -5,10 +5,11 @@ date: 2023-03-21T18:28:06.045Z
 desc: Technomancy and magic? Are they the same? Our cherished anonymous writer
   is back to show you the real aspects of this branch called technomancy and
   what its knowledge really capable of.
-thumbnail: images/technomancy.jpg
+thumbnail: ./images/technomancy.jpg
 authors: Cosmic Cutie
 starred: false
-abio: ""
+abio: "NONE"
+alt: ""
 ---
 ### Introduction:
 

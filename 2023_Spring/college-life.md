@@ -7,11 +7,13 @@ desc: This poem is an tribute to the ever-evolving nature of life and the people
   longs for our old friends that helped us shape us into who we are today.
 authors: Abhishek
 starred: false
+thumbnail: ./images/benchbond.jpg
 abio: Abhishek Rajkumar, a poet at heart, likes to describe himself as a mere
   water droplet, moving with a society that will one day die and disappear. At
   present, he is a PhD scholar at the Department of Mathematics and Statistics,
   IIT Tirupati. Along with writing, he is a medium fast bowler and, not
   surprisingly, very fond of cricket.
+alt: ""
 ---
 <p style="text-align: center; align: center;">
 अजब सी बेचैनी, मगर ख़्वाबों का सैलाब <br>
