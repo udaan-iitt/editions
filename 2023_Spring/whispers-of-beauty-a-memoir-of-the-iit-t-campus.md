@@ -11,7 +11,7 @@ starred: false
 ---
 *Have most of us forgotten the magic that surrounds this campus, or have we grown too accustomed to it? Walked by the same things everyday like clockwork and taken their presence for granted?* 
 
-\
+
 Team Udaan has compiled a piece dedicated just to that! We decided our beautiful campus needed a good round of recognition, in celebration of its fresh air, boundless freedom, uncountable experiences and even secret personal preferences. Here’s to the sights we walk past everyday, recalling the same wonder we felt when we first saw them during our first days on campus! 
 
 
@@ -92,7 +92,7 @@ But you walk down this path again and again and again, until one day, you’ll w
 
 ![](https://lh4.googleusercontent.com/0NI_-OiCmZw7SQXtxZA-iXGVRBWulOUw3-Aa16EkCrZkJU0LcMqcqzMwTE4PImfKClZaFFF6tKk1zMywAMitui9flsjpomdEcPHey4dwoFJYxlDkn77e5wRcVN1D0iJPyI90F8juGRs4bvzp-Wrd8lw)
 
-Under the neem tree is a sanctuary. It is solace. It is peace. Proving to be a perfect shroud from the noise of the world, this tree is one in whose shadows, you can set down your burdens, and float away on a breeze. Under her embrace, you are safe, you are protected. She is gentle and she is kind. Be it with your friends, or just one \*cough\*, or alone, this tree surely is one for the memories. Sitting under this tree, gazing over the ground, the rest of the campus fading into white noise, it is not hard to understand why trees are worshipped.
+Under the neem tree is a sanctuary. It is solace. It is peace. Proving to be a perfect shroud from the noise of the world, this tree is one in whose shadows, you can set down your burdens, and float away on a breeze. Under her embrace, you are safe, you are protected. She is gentle and she is kind. Be it with your friends, or just one *cough*, or alone, this tree surely is one for the memories. Sitting under this tree, gazing over the ground, the rest of the campus fading into white noise, it is not hard to understand why trees are worshipped.
 
 ### the CC lab…
 
