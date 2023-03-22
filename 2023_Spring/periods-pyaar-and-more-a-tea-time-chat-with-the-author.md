@@ -178,7 +178,7 @@ What is your favourite part of the book?
 
 Something that we loved about the book was that it was not preachy at all. It was not - “Heyy, this is feminism, and this is patriarchy, and this is wrong, and this is right”. It was not like that at all! It was just a description - just a realistic description of these people, and that's so much more powerful than debating about ideologies. It was a fantastic way of putting it across. 
 
-*“I like these conversations that the sisters have. I have a younger sister, so anytime that happens in the books, it resonates with me - I love a good depiction of bonding between sisters.” *- Sneha 
+*“I like these conversations that the sisters have. I have a younger sister, so anytime that happens in the books, it resonates with me - I love a good depiction of bonding between sisters.”* - Sneha 
 
 *“Oh, I loved everything! I loved the characters of the naani and the daadi, and those very oddly specific details about them. The whole conversation about self-pity with both Seema and Bhavya - I loved how he deals with self-pity and everything around that because I feel like self is a very complicated thing again. How do you deal with self-pity as a purely privileged person and as someone who probably has the right to feel self-pity? I don't know. When do you have the right to feel self-pity?”* - Debeshee
 
