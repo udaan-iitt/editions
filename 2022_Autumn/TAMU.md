@@ -1,20 +1,21 @@
 ---
-title: "TAMU Summer Internship Experience"
-category: "Experiences"
-date: "2022-09-11 12:00:00 +05:30"
-desc: "Here's Bhargav sharing with you his amazing experience of pursuing an internship at Texas A&M University."
-thumbnail: "./images/opt-lasers-KshEaH06rV8-unsplash.jpg"
-authors: "Nama Bhargav Sri Sai"
+title: TAMU Summer Internship Experience
+category: Experiences
+date: 2022-09-11 12:00:00 +05:30
+desc: Here's Bhargav sharing with you his amazing experience of pursuing an
+  internship at Texas A&M University.
+thumbnail: ./images/opt-lasers-KshEaH06rV8-unsplash.jpg
+authors: Nama Bhargav Sri Sai
 starred: false
 abio: ""
-alt: "TAMU Summer Internship Experience"
+alt: TAMU Summer Internship Experience
 ---
 
-## Something about myself:
+### Something about myself:
 
 I am Nama Bhargav, a senior at IIT Tirupati. I am currently pursuing my bachelor's degree in Mechanical Engineering. Having had a wonderful experience pursuing my internship at **Texas A&M University (TAMU)**, I would like to share my experience with you all.
 
-## Shortlisting for the Internship:
+### Shortlisting for the Internship:
 
 One of the essential experiences recommended during your time as an undergraduate is **doing an internship**. Gaining work experience is critical for boosting your employability, especially as an engineering student.
 
@@ -22,7 +23,7 @@ Texas A&M University, College Station (TAMU) is one of the universities with an 
 
 Having wanted to pursue higher studies in the foreseeable future, I wanted to have an internship experience on a more research-oriented side. I had initially approached a professor from our university, who gave me a chance to meet the professor from TAMU with whom I discussed my interests and plans for the future. The next step was to share my resume with the professor, who, in return, decides whether an applicant is the right person willing to put their heart and soul into the project assigned to them in the circumstance of being awarded the internship.
 
-## My Topic and Experience:
+### My Topic and Experience:
 
 Having my internship pursued in the virtual mode had its difficulties and benefits. The problem statement was *detecting and tracking minute particles in a particular manufacturing process*. This assigned project covered many topics, from basic calculations to computer vision and machine learning. 
 
@@ -36,7 +37,7 @@ The entire internship depended heavily on **Data Science**, which in layman's te
 
 Ultimately, the main goal was to develop industrial uses of the methods that would help reduce material wastage and produce good quality builds, which are highlighted necessities in the present industrial world.
 
-## My comments and suggestions:
+### My comments and suggestions:
 
 The overall experience was one of the best I had ever had since it had its ups and downs, which is how life is; facing reality is the only way you can cope with setbacks. This internship also helped me understand aspects I never thought would be used in my career path and made me realise their importance. One of the best things in this entire journey was the opportunity to interact with many people whose thoughts pointed towards the same goal.
 

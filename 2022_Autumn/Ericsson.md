@@ -1,23 +1,25 @@
 ---
-title: "Internship Experience at Ericsson Research"
-category: "Experiences"
-date: "2022-09-11 12:00:00 +05:30"
-desc: "Join Kranthi as he talks about his internship experience at Ericsson research where he worked on building reinforcement learning environments and analysing risk profiles."
-thumbnail: "./images/Ericsson_Kranthi.jpg"
-authors: "Kranthi Sedamaki"
+title: Internship Experience at Ericsson Research
+category: Experiences
+date: 2022-09-11 12:00:00 +05:30
+desc: Join Kranthi as he talks about his internship experience at Ericsson
+  research where he worked on building reinforcement learning environments and
+  analysing risk profiles.
+thumbnail: ./images/Ericsson_Kranthi.jpg
+authors: Kranthi Sedamaki
 starred: false
 abio: ""
-alt: "Internship Experience at Ericsson Research"
+alt: Internship Experience at Ericsson Research
 ---
-## A bit about myself
+### A bit about myself
 
 I am Kranthi, a senior at IIT Tirupati, pursuing a bachelor's in Computer Science and Engineering. I worked as an intern at Ericsson Research during my summer. I am planning to pursue a master's after my B. Tech, and therefore I believed that a research internship would add more value to my resume.
 
-## The selection process
+### The selection process
 
 After an initial resume screening, an interview was held for the shortlisted candidates. The questions asked were based on the applications of Artificial Intelligence (AI) and Machine Learning (ML) in the supply chain. It mainly centered around the topic I would be working on after being selected. The interviewer was interested in understanding how I would approach the problem. Even though I was a bit shaky on some of the questions, I spelled out my initial thoughts. As the interview progressed, I built on top of those thoughts. It turns out that did the trick, and I got in!
 
-## The internship
+### The internship
 
 Ericsson orders electronic components from many suppliers and delivers them to its end-user companies. The problem statement was to profile suppliers' risk index based on their delivery patterns. Additionally, we could work on developing a Reinforcement Learning (RL) environment and train agents to anticipate delays and place orders among suppliers based on their risk profile if we had stable methods for the initial problem statement. I was a bit overwhelmed at first because I did not understand the data, the jargon of the supply chain industry, and most of all, since I hadn't applied reinforcement learning anywhere.
 

@@ -1,15 +1,17 @@
 ---
-title: "Seasons of Symphony"
-category: "Story"
-date: "2022-06-29 12:45:00 +09:00"
-desc: "Angona, a young university student with inability to walk, encounters an exuberant girl who turns her monochrome and secluded life upside down. As she struggles to find herself, a shocking secret awaits her."
-thumbnail: "./images/Seasons_of_symphony.jpg"
-authors: "Keshav Kumar Manjhi"
+title: Seasons of Symphony
+category: Story
+date: 2022-06-29 12:45:00 +09:00
+desc: Angona, a young university student with inability to walk, encounters an
+  exuberant girl who turns her monochrome and secluded life upside down. As she
+  struggles to find herself, a shocking secret awaits her.
+thumbnail: ./images/Seasons_of_symphony.jpg
+authors: Keshav Kumar Manjhi
 starred: false
-abio: "NONE"
-alt: "Seasons of Symphony"
+abio: NONE
+alt: Seasons of Symphony
 ---
-<h2 align="center">Winter</h2>
+<h3 align="center">Winter</h3>
 
 ![img](./images/SoS/SoS-Winter.jpg)
 
@@ -156,7 +158,7 @@ talk to her. *Angona*, who had lived like a lone doll until then, liked having a
 
 -----------
 
-<h2 align="center">Summer</h2>
+<h3 align="center">Summer</h3>
 
 ![img](./images/SoS/SoS-Summer.jpg)
 
@@ -276,7 +278,7 @@ nothing will happen, and even if anything has to happen, I'm here with you now, 
 
 -----------
 
-<h2 align="center">Autumn</h2>
+<h3 align="center">Autumn</h3>
 
 ![img](./images/SoS/SoS-Autumn.jpg)
 

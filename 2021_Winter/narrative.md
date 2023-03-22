@@ -1,17 +1,23 @@
 ---
 title: "Issue Exclusive : Online Semester Experiences"
-category: "Experiences"
-date: "2021-01-18 12:00:00 +09:00"
-desc: "Life puts us in situations that we’re unprepared for. We all have been forced into lockdown without prior notice due to the pandemic. The decision our institute took as a consequence was to turn this entire semester online. A new medium meant new experiences, with students at home experiencing the past semester in their own unique way.. To get a deeper insight into how their experiences were, we collected opinions from students, mostly those from 1st and 2nd year, and compiled them into a narrative. There’s a host of feelings and emotions associated with this experience that you must see for yourself!"
-thumbnail: "./images/lockdown.jpg"
-authors: "Prabhat Reddy"
+category: Experiences
+date: 2021-01-18 12:00:00 +09:00
+desc: Life puts us in situations that we’re unprepared for. We all have been
+  forced into lockdown without prior notice due to the pandemic. The decision
+  our institute took as a consequence was to turn this entire semester online. A
+  new medium meant new experiences, with students at home experiencing the past
+  semester in their own unique way.. To get a deeper insight into how their
+  experiences were, we collected opinions from students, mostly those from 1st
+  and 2nd year, and compiled them into a narrative. There’s a host of feelings
+  and emotions associated with this experience that you must see for yourself!
+thumbnail: ./images/lockdown.jpg
+authors: Prabhat Reddy
 starred: true
-abio: "NONE"
-alt: "Experiences"
+abio: NONE
+alt: Experiences
 ---
 
-# Table of Contents
-
+### Table of Contents
 1.  [Environment](#orga98fefb)
 2.  [Lectures](#orgb276c19)
 3.  [Exams and assignments](#org03d775b)
@@ -27,10 +33,7 @@ alt: "Experiences"
 
 <a id="orga98fefb"></a>
 
-# Environment
-
-<br/>
-
+### Environment
 The institute had decided to conduct this semester online, and the students were forced to resume academics from their homes. This long distance relationship clearly wasn&rsquo;t working out for some people, owing to the lack of an environment suitable for studying.
 
 > Everyone attends the classes from home and this doesn&rsquo;t have the right atmosphere that promotes actual learning (well, at least in my case). During offline classes, a major part of the class is in the same mood, which sets the atmosphere right. At home, you are alone, with everyone busy in their own work. Hence, I have a feeling that except a few subjects, I haven&rsquo;t actually learned anything this semester. &#x2014;Srikarah
@@ -69,10 +72,7 @@ Student-run clubs understand this issue very well; they&rsquo;ve been facing the
 
 <a id="orgb276c19"></a>
 
-# Lectures
-
-<br/>
-
+### Lectures
 Another important aspect of online learning is the recorded/live online lecture. One really amazing thing about online lectures, is that it gives you control over time and space. Full screen, split screen, 2x speed, 20 seconds skip, all sorts of luxuries are given to you!
 
 > The students can go about the course at their own pace, which mostly is not possible in an offline semester. This is because of having the lectures recorded and the students can listen to the classes at a time convenient to them. &#x2014;Srikarah
@@ -97,10 +97,7 @@ Irrespective of what anyone says, I&rsquo;m sure every single one of us can rela
 
 <a id="org03d775b"></a>
 
-# Exams and assignments
-
-<br/>
-
+### Exams and assignments
 Examinations were arguably one of the most controversial topics to discuss for both faculty and students alike. While some wished for pen and paper exams with careful online proctoring, there were even those who wanted presentation and vivas as a substitute for traditional exams! Needless to say, the organizers and students worked hard to get everything right.
 
 > The biggest thing which everyone worried about this online semester was the examinations. But they took care of everything. They selected Codetantra as the portal through which we wrote our examination. They took feedbacks from everyone and made 1-2 changes on the platform so that students feel easy. The way exams were conducted was taken care. Proctors used to invigilate through the entire exam and respond to our queries. As proctors details were shared before the beginning of the exam, it was easy for us to reach out to the proctor for any help or query. Even the professors shared their contact details. &#x2014;Harshitha
@@ -119,10 +116,7 @@ Assignments on the other hand were a constant burden on the shoulder. By the tim
 
 <a id="orge4a6c88"></a>
 
-# Faculty Student interaction
-
-<br/>
-
+### Faculty Student interaction
 Mail and WhatsApp have become the primary means of communication and doubt clarification with professors, but the benefits they offer are far behind those of face-to-face interaction. This is what some students have to say about the faculty student interaction this semester.
 
 > I had an easier time learning in physical classrooms because it was easier for me to focus and get help from faculties and peers. &#x2014;Madhavan
@@ -131,10 +125,7 @@ Mail and WhatsApp have become the primary means of communication and doubt clari
 
 <a id="org35498c7"></a>
 
-# Student-Student interaction
-
-<br/>
-
+### Student-Student interaction
 Hostel corridors, common rooms, classrooms, the mess, all these places come to life when students are around. Virtual spaces have now taken their place, as centers of student interaction. While some groups are dealing well with the new situation, some haven&rsquo;t been able to adapt yet.
 
 > Most of my assignment group members were active, and we used to schedule a meeting immediately within seconds without planning it on some other day. Some of us used to meet immediately whenever we wanted to at our convenience. &#x2014;Shreetesh
@@ -151,10 +142,7 @@ While we can at least see a few people with a positive opinion on online interac
 
 <a id="orgca2a735"></a>
 
-# New habits developed in this online semester
-
-<br/>
-
+### New habits developed in this online semester
 We have seen what people think about different aspects of this online semester. Now let&rsquo;s have a look at the consequences of these aspects, particularly their impact on students. When the institute announced that this semester is going to be online, most of us immediately knew this was going to be difficult.
 
 > I was very tense, new professors, new topics, new rules, etc. After the classes, one of the takeaway messages for me was that this semester was definitely not going to be easy and needed a lot of seriousness and input from my side. This worried me for a couple of weeks. &#x2014;Shreetesh
@@ -181,10 +169,7 @@ Another serious problem was the disturbance of people&rsquo;s sleep cycle. With 
 
 <a id="orgcdf9230"></a>
 
-# Professors
-
-<br/>
-
+### Professors
 One thing that continues to help the students and continues to surprise freshers, is the support shown by the professors. From deciding the course structure to making administrative decisions, we have been seeing professors strike the right balance between student comfort and academic rigor. Their intention hasn&rsquo;t changed one bit in these difficult times.
 
 > Some of the professors took attendance through google sheets by asking some of the important things we learnt in that class, which I felt to be very useful in getting a brief idea of that class. &#x2014;Sahithi
@@ -195,10 +180,7 @@ However, it wouldn&rsquo;t be true if I say that the faculty have taken the righ
 
 <a id="orgbfe6b5a"></a>
 
-# Personal experiences
-
-<br/>
-
+### Personal experiences
 Here are some personal experiences elegantly penned down by a couple of individuals. Tag along!
 
 - Noble
@@ -239,10 +221,7 @@ Here are some personal experiences elegantly penned down by a couple of individu
 
 <a id="org0b74334"></a>
 
-# Other critical remarks
-
-<br/>
-
+### Other critical remarks
 > Although most of the faculty were indeed incredibly supportive and went to great lengths to make the best of the online mode, the overall system failed to make it a pleasant and positive experience for me. Perhaps we were not able to make the right judgement calls about how to split up the coursework and evaluation, how to communicate with the faculty and administration effectively. Hopefully we will all collectively take the lessons learned from this semester and use them wisely to make better decisions in the future. &#x2014;Debeshee
 
 Here are some insights into some aspects of the online semester that are worth looking into:
@@ -255,10 +234,7 @@ Practice is the foundation for improvement, feedback and review are the things t
 
 <a id="org62fdc1d"></a>
 
-# Contributors
-
-<br/>
-
+### Contributors
 A big thank you to Noble, Shreetesh, Pranav Panicker, Debeshee, Harshitha, Sahithi, Srikarah and Kranthi from 2019 batch, Kartik, Maulik, Krithi, Samveg, Soham Nandy and Dhanush from 2020 batch, and Madhavan from 2018 batch for their sharing their experiences with overwhelming enthusiasm! Special thanks to Debeshee for coordinating with people and collecting their experiences with the utmost patience.
 
 <style>

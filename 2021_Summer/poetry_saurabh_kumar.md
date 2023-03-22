@@ -1,15 +1,15 @@
 ---
-title: "सच तो हो ना तुम? (Hindi)"
-category: "Poetry"
-date: "2021-06-02 12:00:00 +09:00"
+title: सच तो हो ना तुम? (Hindi)
+category: Poetry
+date: 2021-06-02 12:00:00 +09:00
 desc: '"Sometimes I feel this was all a dream..."'
-thumbnail: "./images/pair.jpg"
-authors: "Saurabh Kumar"
+thumbnail: ./images/pair.jpg
+authors: Saurabh Kumar
 starred: false
-abio: "NONE"
-alt: "Poetry Hindi 2"
+abio: NONE
+alt: Poetry Hindi 2
 ---
-
+<p style="text-align: center;align:center;">
 तुम्हारी ये जो मुस्कान है,<br>
 सच है या है कोई फरेब?<br>
 जब देखो नज़रों के सामने आ जाती है।<br>
@@ -18,7 +18,8 @@ alt: "Poetry Hindi 2"
 तो आते क्यों नहीं नज़रों के सामने?<br>
 फिलहाल तो केवल सपनों में है दस्तक तुम्हारी, <br>
 सच तो हो ना तुम?क्या कहा?
-
+</p>
+<p style="text-align: center;align:center;">
 तुम्हारी ये जो बातें हैं,<br>
 बातें हैं या महज़ यादें हैं मेरी; <br>
 जो बार बार दुहराता हूँ मैं,<br>
@@ -27,7 +28,8 @@ alt: "Poetry Hindi 2"
 कि आखिर मतलब क्या हैं छिपा इनमें? <br>
 खैर, होता है प्यार कम जतानें से-कहा था तुमने। <br>
 वैसे सच तो हो न तुम?क्या कहा?
-
+</p>
+<p style="text-align: center;align:center;">
 और ये जो तुम हो,<br>
 मेरे साथ हो या अपने में ही गुम हो?<br>
 जब देखों ओझल हो जाती हो;<br>
@@ -36,5 +38,5 @@ alt: "Poetry Hindi 2"
 आखिर,सच तो हो न तुम?<br>
 या फिर यूं कहूँ- <br>
 "सच में तो हो न तुम;साथ मेरे?"
-
--Sj
+</p>
+>-Sj
