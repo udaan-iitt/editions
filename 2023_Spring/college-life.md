@@ -5,9 +5,9 @@ date: 2023-03-21T18:21:50.984Z
 desc: This poem is an tribute to the ever-evolving nature of life and the people
   we share it with. As we move forward in our lives, there is a part of us that
   longs for our old friends that helped us shape us into who we are today.
+thumbnail: images/college.jpg
 authors: Abhishek
 starred: false
-thumbnail: ./images/benchbond.jpg
 abio: Abhishek Rajkumar, a poet at heart, likes to describe himself as a mere
   water droplet, moving with a society that will one day die and disappear. At
   present, he is a PhD scholar at the Department of Mathematics and Statistics,
