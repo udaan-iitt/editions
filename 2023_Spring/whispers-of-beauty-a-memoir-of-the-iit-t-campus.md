@@ -10,7 +10,7 @@ thumbnail: ./images/benchbond.jpg
 alt: ""
 abio: ""
 authors: Team Udaan
-starred: false
+starred: true
 ---
 *Have most of us forgotten the magic that surrounds this campus, or have we grown too accustomed to it? Walked by the same things everyday like clockwork and taken their presence for granted?* 
 
