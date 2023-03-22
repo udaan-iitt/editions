@@ -34,7 +34,7 @@ Now comes the question of “They’re just raising awareness, why shouldn't the
 Well, here’s a thought; One, people who seem to be stuck cannot find reliable information in the depths of different lemonades and energy drinks on the internet. Two, people tend to develop a wrong notion of what exactly the term is and misdiagnose themselves. Maybe I am a little sad due to an emotional trigger, tiredness, or any other possible reason. I see posts like '5 signs you are in depression', and I immediately start ticking boxes and diagnosing myself. 
 
 This toxic train of thought of “How will I know?” and “What do I trust?” leaves depression as a term in a very misunderstood place.  To clear up some of these questions, I talked to a few students pursuing psychology to understand and compile their views. 
-
+*****
 <a id="defining-the-undefinable"></a>
 ### Defining the Undefinable
 
@@ -47,7 +47,7 @@ But this is not the solution.
 Can you completely stop thinking about a movie immediately after a tragic ending? No. But if you revisit it, you no longer get as mentally disturbed as you used to before. Similarly, it is important to read the chapter that triggers your episodes, so you can develop the courage to fight back. Along with the prescribed necessity of antidepressants, therapy helps you talk through your issues and find a possible way to accept and overcome what keeps you up. 
 
 Another common misconception is generalizing depression into a fixed set of symptoms. It is not the same for everyone; the symptoms, the intensity, and the stressors vary. It is often believed that keeping yourself busy can help you forget about whatever is bothering you. This is far from true, as you’re constantly stuck in a position where you’re trying to do something that you don’t really feel like doing. Instead, taking some time out for self-care and spending time with family and friends might help you manage your emotions better. 
-
+*****
 <a id="common-signs-and-symptoms"></a>
 ### Common Signs and Symptoms
 
@@ -66,7 +66,7 @@ There are many tests and scales like [BDI](https://www.apa.org/pi/about/publicat
 While it does not necessarily have to have a cause, there are a few biological and environmental factors that might contribute to depression. It can be an effect of genetics (Yes, depression can be genetic, to all those who believe it's just in the 'head'). For women, giving birth, pregnancies, and menstrual cycles can also lead to depression. Social factors for depression include traumatic experiences, social encounters like ragging and peer pressure, societal pressure, substance abuse, and poor sleep patterns. 
 
 As such issues go untreated, they manifest as risk factors for developing depression. The lack of expressive outlets to resolve emotions, academic pressure, constant negative reinforcement causing grief, helplessness, side effects of anxiety, and major life events can all lead to an increased chance of depression. 
-
+*****
 <a id="the-price-of-popularity"></a>
 ### The Price of Popularity
 
@@ -81,7 +81,7 @@ There are some common trends that are usually observed in how depression is port
 There is also the controversy of awareness and discouragement. There are various posts on mental health disorders which are followed by comments that make fun of people who are going through such issues. Content in the name of 'jokes' is often created, minimizing the struggle and glorifying the concept of mental illness.
 
 So what exactly can be trusted? The answer seems to lead us right where the question came from. The internet does have its fair share of well-researched information available, it simply requires effort to dig through the filters of opinions. Rely on official websites, on research papers, fact-check any information that you come across, and look for citations. You can also approach mental health practitioners and verify your concerns. 
-
+*****
 <a id="one-step-forward"></a>
 ### One step forward
 
