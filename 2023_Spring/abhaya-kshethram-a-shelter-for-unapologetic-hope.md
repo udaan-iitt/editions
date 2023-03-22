@@ -22,8 +22,6 @@ Pranjal Shukla, one of the graduates from the pioneer batch of our institute, cu
 
 When we visited the shelter home, we had the chance to interact with the residents, thanks to the founder, Dr S.A.Thasleema Sultana. She started Abhaya Kshethram in 2007 on the occasion of the birthday of Mother Theresa. Her profound commitment and selfless service towards the inhabitants of Abhaya Kshetram is evident and truly remarkable. She has an excellent academic record, having been conferred a PhD in Special Education from Sri Venkateswara University, Tirupati, for her thesis titled “Attitude of parents, teachers and students towards children with special needs in normal and integrated schools.” 
 
-
-
 ![](images/abhaykshetram4.jpg)
 
 Her selfless dedication to society has been recognised and appreciated on several occasions, and rightly so. She has been presented with several awards, including the 100 Inspiring Women award, which was given to her by then President of India, Shri Pranab Mukherjee, at the Rastrapathi Bhavan in  2016. Additionally, she was awarded the Devi award in 2016 by the then Vice President of India, Shri M. Venkaiah Naidu. In 2010, the Ministry of Woman and Child Development, Govt. of India, honoured her with the Rajiv Gandhi Manav Seva award for her services to orphaned and mentally disabled children.
@@ -51,14 +49,13 @@ She also elaborated on the standard operating procedures (SOPs) that are adhered
 Abhaya Kshetram not only provides a safe haven and a sense of community to its residents but also offers vocational training in various areas, such as making bangles, bags, candles, agarbattis, and envelope covers. This training helps the residents to develop new skills and readjust to a new environment both socially and economically. They prepare these items seasonally as well as on other days, and the products are mainly sold to visitors of the organization. During Tirutsava last year, they set up a stall on our campus. We hope to set up similar stalls on campus on multiple occasions, particularly at the upcoming Tirutsava 2023. This year, as a gesture of appreciation to the housekeeping and security staff on International Women's Day, we gifted them bangles and bags made by the residents of Abhaya Kshetram.
 
 
-
 ![](images/abhaykshetram2.jpg)
 
 Having a dedicated and committed team is crucial for the successful functioning of an organization like Abhaya Kshetram. The team at Abhaya Kshetram consists of individuals who have faced neglect, unfaithfulness, or difficult situations in their personal lives. These staff members include widows, single mothers, and others who have been marginalized. Dr Sultana explains that when these individuals arrive at Abhaya Kshetram, they often express that they have lost everything. However, the home provides them with a new beginning, starting from scratch and helping them to develop a sense of responsibility. As a result, they become much happier and are able to lead a new life.
 
 Dr Sultana encouraged us to speak with some of the staff members at Abhaya Kshetram to gain insight into their experiences at the organization. A former resident at Abhaya Kshetram, who was diagnosed with a psychosomatic disorder, has made significant progress and is now caring for other residents. She has been at the organization for eight years and is now very content with her life there.
 
-During our conversation with another caretaker, she revealed that she had joined Abhaya Kshetram due to mistreatment from her husband. Her son is currently in the 7th grade, and her daughter is in 2nd grade. Funded by Abhaya Kshetram, they attend a nearby English-medium private school along with the other inmates of the home who are well-enough to attend school. She expressed heartfelt contentment with the organization and the care provided by Dr Sultana. 
+During our conversation with another caretaker, she revealed that she had joined Abhaya Kshetram due to mistreatment from her husband. Her son is currently in the 7th grade, and her daughter is in 2nd grade. Funded by Abhaya Kshetram, they attend a nearby English-medium private school along with the other inmates of the home who are well enough to attend school. She expressed heartfelt contentment with the organization and the care provided by Dr Sultana. 
 
 The team at Abhaya Kshetram plays a vital role in providing emotional support, counselling, and vocational training to the residents. They also help in managing the logistics of running the organization and maintaining the facilities. Furthermore, the team members act as role models for the residents, demonstrating how they can turn their lives around and rebuild their self-esteem and confidence. Their presence and support enable the residents to feel like they are part of a community and give them the courage to face their challenges and move towards a better future.
 
