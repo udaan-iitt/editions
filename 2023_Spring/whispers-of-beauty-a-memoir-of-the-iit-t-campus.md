@@ -8,6 +8,7 @@ desc: >
   same wonder we felt when we first saw them during our first days on campus! 
 thumbnail: ./images/benchbond.jpg
 alt: ""
+abio: ""
 authors: Team Udaan
 starred: false
 ---
