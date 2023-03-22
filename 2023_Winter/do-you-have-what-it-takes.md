@@ -14,7 +14,7 @@ The writer of this particular article would like to inform you that this piece o
 
 Put together as acts, these are six separate glances from 2022 into the revelations and perhaps-too-strong emotions of a girl who finally made it away from home. These are the stories of a girl slowly blossoming into a woman, who found her self-worth, strengths and weaknesses, and most importantly, what it is to be a woman.
 
-**P.S.** the writer is aware of the usage of capital letters but prefers her writing style to be humbled, hoping to reflect it in her lowercase musings.*<br><br><br>*
+**P.S.** the writer is aware of the usage of capital letters but prefers her writing style to be humbled, hoping to reflect it in her lowercase musings.
 *****
 ### **ACT I - LONGING**
 
