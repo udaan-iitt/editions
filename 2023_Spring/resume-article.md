@@ -12,7 +12,7 @@ desc: A resumé is an essential tool for any job seeker. It is meant to summaris
 thumbnail: ./images/benchbond.jpg
 abio: ""
 authors: Sathyanarayann, Kranthi Sedamaki, Priyansh
-starred: true
+starred: false
 alt: ""
 ---
 <a id="intro"></a>
