@@ -19,6 +19,7 @@ As regretful as it is, that is what reality is. Worry not, for it is not too lat
 
 To kick things off, let us go to the roots of the Pride movement. How did this movement start? In order to understand the importance and the significance of Pride, one must take a walk through the past and trace the journey of one of the biggest international movements of history.
 
+*****
 
 ### **A Brief History Lesson :**
 
@@ -52,7 +53,7 @@ Now that we have taken a look at the historical significance and the origin of t
 
 ![img](./images/pride/pride_inside.jpg)
 
-
+*****
 ### **Understanding the Acronym of LGBTQPIA2+:**
 
 Since the 1990s, different versions of the acronym LGBTQPIA2+ have been created as increasingly nuanced ways to understand and define people’s lived experiences of gender and sexuality have been expressed. Jeffry Iovannone, author of _'Queer History for the People'_ notes, 
@@ -83,7 +84,7 @@ A variety of academic and governmental organisations, including the National Ins
 
 That covers the basic terminologies that one must know about with regard to the LGBTQPIA2+ community. But that's not all. There are some other terms which have been often used interchangeably, even though they are different. The distinctions between these terms are not known to many, and the knowledge of these distinctions is fundamental when it comes to understanding sexuality.
 
-
+*****
 ### **The Difference Between Sex & Gender, and Between Sexual Orientation and Sexuality :**
 
 The terms sex and gender are often incorrectly used in place of the other. The truth is, they mean two different things:
@@ -102,14 +103,14 @@ The difference between sexuality and sexual orientation is another often misinte
 
 Okay, now that we’re well informed about various terminologies and details regarding the LGBTQPIA2+ community, the importance, and the aims of Pride, we must ask the question, what can we do, as students on our campus? How do we promote education, awareness, healthy discussions and fight to remove the stigma and taboo to create a shared safe space for our queer peers to live a life free from secrecy and hate?
 
-
+*****
 ### **Introducing QURBAT: Gender-Sexuality Queered Space of IITT :**
 
 **_Qurbat_** is the first LGBTQPIA2+ collective of IIT Tirupati and aims to create a safe space for the LGBTQ+ community on campus. _Qurbat_ focuses on developing healthy discussions and debates on gender and sexuality and gives the impetus to rethink and acknowledge the difference. We aspire to create an environment to foster conversations about intersectional gender and sexual experiences, thus making the campus more inclusive and diverse for both the allies and the members. 
 
 The Gender-Sexuality Queered space of IITTP, _Qurbat_, is a very recent initiative and is still in a state of being developed. As is with any student-run institution in our college, _Qurbat_ cannot be run without the support of the student community. It is imperative to recognise, realise and understand the impact that normalising talking about Queer issues can have on someone who is closeted (not open to everyone about their sexuality or sexual orientation) or someone who is questioning. It brings forward a sense of belonging, community, and oneness and makes the environment safer for those in the community. It is up to us to break the stigma that society has pumped into us and break free of the bars built around our minds. _Qurbat_ aims to do just that through education, spreading awareness, promoting healthy discussions, etc., to normalise Queer culture in our institute.
 
-
+*****
 ### **Questioning one’s Identity/ Orientation :**
 
 Usually, around the teen years, a person may come to question their sexual orientation and/or gender identity. For some people, it may even take decades, which is perfectly alright. Some cultures may believe that these types of feelings should not arise, but it’s perfectly alright to try to understand your preferences and who you are as a person. It is your right to love and live as you are.
@@ -122,10 +123,8 @@ We need to show more kindness and acceptance to ourselves and to one another, an
 
 You may or may not be a part of the community, but chances are there is someone around you who is, and as everyone deserves to live an accepted, loved life, there are a few things you can do to be a better ally. An ally in the LGBTQ+ community is someone who supports its members and strives to remove the biases, prejudices and misunderstandings around it. 
 
-
+*****
 ### **What can I do to be a better ally?**
-
-
 
 * Educate yourself about the community and different people’s experiences and struggles. Learn about the terms used to identify people of the community and respect them.
 * Respect someone’s wishes to stay closeted if they are not ready to tell the world about their identity (due to their own personal reasons).
@@ -138,7 +137,7 @@ You may or may not be a part of the community, but chances are there is someone 
 A note to keep in mind - a life of love and acceptance is much more valuable and substantial than one of discrimination and prejudice.
 
 Okay that’s it for this article. We hope this was informative and gave you an introduction to the Pride movement, the terminologies associated with the LGBTQPIA2+ community, and how you can play your part. This article may have covered a lot, but there is a whole world more where all this information came from. This is not everything. As the saying goes, ‘You can take the horse to water, you can’t make it drink’; we can only gently nudge you towards learning more and educating yourself about current world issues that threaten and withhold equality and rights to members of the LGBTQPIA2+ community. Even if you don't raise placards and protest against these issues, you can play your part in normalising talking about LGBTQPIA2+ issues, ensuring that you are a good ally, and making sure you empathise with those discriminated against and lend them a hand of support. You can play your part by standing up to homophobia, be it explicitly offensive or subtle. You could share what you learn regarding the Queer community and contribute to making our campus a safe, supportive and nurturing environment for everyone to freely express themselves, be themselves and be free to love, for love’s sake.
-
+***** 
 #### *Sources :*
 
 1. [Unifrog.org - Know the History of Pride](https://www.unifrog.org/know-how/the-history-of-pride#:~:text=The%20first%20Pride%20event%20was,element%20of%20celebration%20and%20protest)
