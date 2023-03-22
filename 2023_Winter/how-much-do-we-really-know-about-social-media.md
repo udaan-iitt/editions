@@ -126,11 +126,10 @@ Adding to this problem are the eye-catching titles manufactured by the media tha
 The absence of the widespread practice of fact-checking is yet another problem; people tend to believe everything they see on the internet if they believe that it's true. This had already paved the way for the emergence of brilliant scholars from the esteemed WhatsApp university and is continuing to do so.
 
 What could be possible solutions for these issues?
-*****
-<a id="are-we-forgetting-to-read"></a>
 
 ![](images/socialmedia2.jpg)
-
+*****
+<a id="are-we-forgetting-to-read"></a>
 ### Are we forgetting to read?
 
 My point was that you obtain pieces of information from social media, many of which you don't remember well. But I wonder, does this affect our desire to learn from larger sources of information? Among students, there is a growing trend of watching videos instead of reading books to learn something. Could that be because videos contain more sensory information than books to engage a consumer? But that wouldn't explain why people prefer shorter videos over longer ones. Is that because people want quick resolutions to their problems? Or is it because peoples' brains aren't able to patiently wait for the information in the longer video because their brains have been rewired to crave short bits of satisfying content? Could that be the reason why we students watch videos at 2x speed, even though we sometimes understand *nothing*?
