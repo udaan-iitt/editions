@@ -21,7 +21,7 @@ alt: ""
 The pre-final year of B.Tech brings along tensions of internships and placements - suddenly, it's all anyone can talk about. Still, the most critical part of it all comes well before the internship season - creating  your Resumé. It's only the most important document that will put all of your professional work, education, accomplishments and skills on a pedestal to be judged by a potential recruiter of your dream job. No biggie… right? 
 
 Here’s our attempt at a guide to help you simplify this process, and have you spitting out resumes in no time. 
-
+*****
 #### Index
 * [Introduction](#intro)              
 * [Why are you creating a resumé?](#why)                
@@ -39,7 +39,7 @@ Here’s our attempt at a guide to help you simplify this process, and have you 
 * [Formatting the LaTeX template](#format)
 * [Conclusion](#conclusion)
 * [Acknowledgements and References](#acknowledgements)
-
+*****
 <a id="why"></a>
 ### Why are you creating a resumé?
 
@@ -52,22 +52,20 @@ Now that you’ve answered this question, you need to focus on the “How”. 
 “How are you going to show you are the best fit?” 
 
 “How are you going to stand out?” 
-
+*****
 <a id="put"></a>
 ### Putting yourself in the shoes of the recruiter.
 
 “Morals maketh man, resume giveth jobs” -- from someone who says, and I quote, “Don’t quote me”
 
-
-
 Once a job/internship opening is published, recruiters receive thousands upon thousands of resumes everyday. First thing to keep in mind now, is that the recruiter will not be reading every resume completely, and instead, will be barely skimming through them. They are going to be spending less than a minute to go through every resume. Hence, you need to tailor the resume to look well formatted and highlighted at all the right places. Secondly, the goal of the recruiter is to find the perfect employee-job fit, not just everything about you there is to know. To stand out from the crowd, you need to make your recruiter’s life easy and present your main competencies relevant to the job in the best possible manner.
 
-
+*****
 <a id="what"></a>
 ### What to include in a resumé?
 
 Many generic [templates are available online](https://www.overleaf.com/gallery/tagged/cv) to help you start off. These generally cover a sufficient range of sections you can organise this content in. 
-
+*****
 <a id="specific"></a>
 ### Be specific
 
@@ -90,27 +88,27 @@ Instead of, 
 “Was one of the toppers in my class throughout high school”
 
 As a side note, only include information that you completely understand! You would not want to miss out on the position just because you cannot answer that one project you don't fully understand. Make sure you can back up every point on your resumé with adequate explanation in case you are questioned about it during an interview. 
-
+*****
 <a id="use"></a>
 ### Use Action Words 
 
 Use words that are very specific to your exact role in a particular position. Replace cliché words with words which offer your recruiter a more profound insight as to what you did on the job. For example, the point “Started a Research Group to look into Opportunities of Higher Studies for students pursuing a Bachelor's degree in our institute” can be made much more impactful by paraphrasing it to “Founded and Managed an Institute-wide student-led Research Group consisting of over 45 members to Consolidate Data regarding Higher Education Opportunities for students pursuing a Bachelor's Degree in a Technical Institution”. Refer to the [Harvard List of Action Words](https://hls.harvard.edu/bernard-koteen-office-of-public-interest-advising/opia-job-search-toolkit/action-verbs/) for ideas.
-
+*****
 <a id="link"></a>
 ### Link your Linkedin Profile 
 
 This will give the recruiter the option to check up on you and gather any additional details you might not have mentioned in your resume (Keep your LinkedIn profile updated and active). Include contact information, and make sure your contact information is up to date. 
-
+*****
 <a id="technical"></a>
 ### Use Technical Terms
 
 Use technical terms and avoid vague language wherever possible. Try looking for the exact words used in technological circles to convey your content accurately. Additionally, you can include volunteer work, like participating in NSS Activities or working with organisations for social welfare etc.
-
+*****
 <a id="avoid"></a>
 ### Avoid Repetition 
 
 Make sure the information on your resumé is not redundant. Redundancy shows a lack of organisation and planning. This could reflect poorly on your skills. 
-
+*****
 <a id="cater"></a>
 ### Catering the resumé to the job description
 
@@ -121,12 +119,12 @@ The answer is - No; At least not from scratch.
 First, analyse what are the kind of jobs you are applying for, and make a generic resume for these broad categories. For example, if you are applying for a job in the domain “A”, you would have a generic resume that shows educational qualifications in “A” like details of your Degree, any courses completed etc., followed by any Previous Job experiences or Positions of Responsibilities that will be a testament to your skill in the domain. Thus you can have a generic resume for each Interested Domain like a  Software Engineer role, or a Product Design Engineer. This step, ideally, would be done before you target any companies, as soon as you identify your area(s) of interest.
 
 The next step would be once you identify the company you’re sending your resume to. Review the job description carefully. Putting yourself in the recruiter’s shoes, analyse the list of skills/ qualities you would look for that corresponds to the job description. Now that you know what the job description wants out of a candidate, give those skills, experiences, courses, etc. priority in your resume. Make sure they stand out. If your resume contains a list of skills, make sure the most relevant ones are at the top, and the least relevant ones are at the bottom. Additionally, if some skills are outright absolutely unnecessary for this job, remove them and free up space for more useful information. Using the language from the job description will show that you are a good fit for the role, and this will increase your chances of getting an interview.
-
+*****
 <a id="howlong"></a>
 ### How long should a resumé be?
 
 As a general rule, keep your resume under 2 pages. The shorter your resume is, the better it is, but do not lose out on any information that is necessary. Striking the balance between what is necessary and unnecessary and how much space you allot to it becomes crucial here. This could take some experience to learn but you could also take a look at some resumes online or check out the resumes of your seniors. For on-campus opportunities, you may use up to 2 pages, but for off-campus opportunities, it is highly recommended that you stick to one page. 
-
+*****
 <a id="peer"></a>
 ### Peer reviews, polish, rinse-repeat
 
@@ -136,7 +134,7 @@ Writing a resumé is an iterative process. Even though your resume is an extreme
 * Be open to feedback: During the review process, be open to feedback and be willing to make changes to your resumé based on the suggestions you receive. Remember that they likely have more job market experience and may have valuable insights to share.
 * Be specific about the feedback you're looking for: When you ask for feedback, be clear about the areas you'd like help with. For example, you might ask for feedback on the format of your resumé, the language you use, or the content you've included. This will help them focus their input and provide more specific suggestions.
 * Avoid existential crises: While it can be helpful to compare and contrast your resumé with your peers, avoid evaluating yourself based on your peers' accomplishments or projects. Remember that the purpose of this process is only to check how well they have laid out their experiences and skills in a manner that appeals to a recruiter. 
-
+*****
 <a id="sample"></a>
 ### A Sample Resume
 
@@ -145,7 +143,7 @@ Writing a resumé is an iterative process. Even though your resume is an extreme
 Source : <https://www.shwetaarora.in/post/can-you-share-your-iim-a-resume>
 
 [Example Resume of an IITian](https://www.cse.iitb.ac.in/~yashsharma/resume.pdf)
-
+*****
 <a id="format"></a>
 ### Formatting the LaTeX template
 
@@ -160,17 +158,16 @@ Here are a few ideas to refine the details:
 * Use bullet points wherever possible, as they make them easier to read.
 * Use varied vocabulary to keep the content interesting.
 * Use tools like [Grammarly](https://www.grammarly.com) to avoid any grammatical errors.
-
+*****
 <a id="conclusion"></a>
 ### Conclusion
 
 In conclusion, a resumé is a crucial tool for any job seeker. As intimidating as it can be, the first step is always the hardest. An important thing to remember is that a stellar resumé does not guarantee that you get the job you are applying for. As a general rule, when it comes to applying for jobs or internships, always remember, no matter how good your resumé is, there is always a chance of being rejected. However, this does not mean you will always be rejected. With these tips in mind, you'll be well on your way to creating a solid and effective resumé that will help you land your dream job. Good luck!
-
+*****
 <a id="acknowledgements"></a>
 ### Acknowledgements and References
 
 A special thanks to Debeshee and Ishaan for their inputs on this article.
-
 
 
 1.  r/resumes FAQ - <https://www.reddit.com/r/resumes/wiki/index/faq>
