@@ -2,16 +2,16 @@
 title: A gentle stroll through Academics at IITT
 category: Campus News
 date: 2023-03-21T19:27:06.789Z
-desc: >+
+desc: >
   Academics are undoubtedly a crucial component of an educational institution
   like IIT Tirupati. We at Team Udaan thought it would be interesting to collect
   ideas from students and professors about what they would do differently about
   academics at IITT if they could. What works well and what doesn’t? If
   something shouldn’t be as is, why isn’t it? 
-thumbnail: ./images/benchbond.jpg
-abio: ""
+thumbnail: images/academics.jpg
 authors: Team Udaan
 starred: true
+abio: ""
 alt: ""
 ---
 <!--StartFragment-->
