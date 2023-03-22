@@ -45,7 +45,7 @@ Academics are undoubtedly a crucial component of an educational institution like
 * [Academic Integrity](#integrity)
 * [NEP Framing and Implementation](#nep)
 * [Conclusion](#conclusion)
-
+*****
 <a id="Evaluation"></a>
 
 ### Let’s talk about Evaluation!
@@ -55,7 +55,7 @@ Academics are undoubtedly a crucial component of an educational institution like
 With time comes experience, and things start to become apparent. Even though we don’t want to accept it, the world regards grades as a qualitative measure of a student’s understanding of a subject. Be it internships or higher studies, submitting an academic transcript is a must, and the initial screening is based on CGPA. Projects do add considerable value to our resume, but at the end of the day, what is the use if your application doesn’t pass through the initial screening itself?
 
 Does the system require a rethink? Team Udaan has attempted to compile an array of views on how a student’s performance in a course could be evaluated.
-
+*****
 <a id="AvsE"></a>
 
 #### Assessment vs Evaluation
@@ -87,7 +87,7 @@ A student shared with us how in one of their courses, they are allowed to discus
 > The real intention of this practice is to make students learn from their peers while making them realise that it is sometimes okay not to know everything. What matters is to keep on learning new things. However, some consider this as equivalent to getting a free licence to copy answers. So grading such assignments benefits those who take the easy way out.                  
 
 What we could make out of all these discussions is that many students believe assignments truly help them understand the subject matter better, and they should be given some weightage in this process of continuous evaluation. Some students are opposed to the idea of grading all assignments as it becomes hectic to manage academics and extracurricular activities. Grading the comparatively more challenging assignments was one of the alternatives suggested by them.
-
+*****
 <a id="metric"></a>
 
 #### Evaluation Metrics
@@ -107,7 +107,7 @@ However, many students would feel more satisfied if two-credit lab courses are e
 Prof. Gumma, Dean of Academics Affairs and a professor in the Department of Chemical Engineering shared his thoughts on this matter.
 
 > Typically, the average grade in a laboratory course is higher than that in a theory course. The overall grade is impacted when you have a five-credit theory plus lab course, compared to independent theory and laboratory courses.   Having said this, it is finally up to the department to decide what is best for their curriculum.      
-
+*****
 <a id="projects"></a>
 
 #### Projects and Coursework
@@ -123,7 +123,7 @@ One of the students expressed how they understand having a project in all course
 > The benefits outweigh the efforts we have to put in. We also get a chance to showcase these projects in our resumes. Two birds, one stone.                         
 >
 > Good projects should be given equal weightage as a test because, as engineers, we should be trained, not just to write tests but to tackle and analyse real-life problems. I feel a correct balance between the tests and projects should be incorporated into the courses. Those people who are not interested in any discipline should have a choice in choosing to do a project or writing a test.    
-
+*****
 <a id="conti"></a>
 
 #### Continuous Evaluation: To be or not to be?
@@ -147,7 +147,7 @@ The Students’ Academic Affairs Secretary, however, has his concerns about the 
 > The CCM is not always attended by all the concerned  faculty members. So important points relevant to the concerned absent faculty, go unresolved. These discussions in the CCM become highly dependent on the persuasion power of the single class representative (CR) who almost always has to raise difficult points confidently to a room full of professors. Often these CRs are unable to get their class’s concerns addressed in the first CCM because this is their first experience at such a meeting. A point to note is that students other than the CR can attend the CCM by asking the Head of the Department for permission.     
 >
 > At the beginning of the semester, the students are unable to estimate the future workload of the entire semester since they have not faced it yet. In addition to this, in spite of deciding on grading policy at the beginning of the semester, sometimes the faculty changes the pattern in the middle of the semester, rendering all previous deliberation useless.    
-
+*****
 <a id="format"></a>
 
 #### The Format of Exams
@@ -165,7 +165,7 @@ Here’s a list of some responses from the students with regard to the assessmen
 > In my opinion, end-sem exams should cover everything from the beginning to the end, not just a few topics at the end. That puts more emphasis on the last topic, which is wrong. The instructors should not reduce syllabi just because students ask them. They are supposed to make students competent engineers and not people who run away from difficult things.                   
 >
 > Exams should be for more marks than they have weightage. For example, if the end sem has 40 percent weightage, then it should not be just for 40 marks. Making a mistake there causes significant damage. While increasing the marks allotted for an examination, care should be taken that it can be completed in the stipulated time given for the exam.
-
+*****
 <a id="curriculum"></a>
 
 ### Makeover time! Curriculum edition
@@ -173,14 +173,14 @@ Here’s a list of some responses from the students with regard to the assessmen
 Throughout school, you constantly have decisions handed out to you. When you step into the college system, you get exposed to a variety of choices at the cost of expecting you to have a career figured out by the end of your degree. Trusting the curriculum of the institute, you simply focus on what really calls out to you from all that is taught. From a student's perspective, the content and structure presented during their degree will make or break their interest. While it can be argued that students are generally expected to branch outside the walls of the curriculum and explore their interests, it is unrealistic for the majority to be motivated or self-driven after they just got through the burnout of JEE. After all, they might have hopes on “Life will be set after JEE” to some extent, right?
 
 To analyse the accuracy of our current curriculum in fulfilling the utility in a student's career, we carried out a survey among the 3rd and 4th years. The below compilation is a representative statistical survey of how helpful students find various aspects of the current system in their goals and expectations.
-
+*****
 <a id="inandp"></a>
 
 #### Internships and Placements
 
 One of the essential measures of the quality of any institution is its placement output. Colleges train students in different fields of interest and release them into the world of corporate and core. The internship period also gives essential exposure to what life in a particular role will be like. Agreeably, curriculum plays an important role in shaping a student's interests and a company's selection process. 
 
-**Industrial Internships**\
+**Industrial Internships**                    
 One set of students believe that 6-month industrial internships should be a viable option. According to the current system, the institute sets a total of 3 months for an internship amounting to two credits. Anything more than this overlaps with the semester and is out of consideration. Industrial internships often offer roles for periods of 6 months, thereby crossing it off the list. Considering the demand and scope of such roles, students believe that the curriculum should be designed in a way that is flexible for a six-month internship period. 
 
 Another important factor is the major courses required for interviews in internships and placements. In the survey circulated, the majority voted for preponing the courses by one or two semesters. As per the current curriculum, many major courses like Data Structures and Algorithms for Computer Science and Analog Circuits for Electrical Engineering are taught in the semester when companies visit for internships. This nullifies the process as students are still in the learning curve and cannot produce their maximum possible output.
@@ -191,7 +191,7 @@ To get a perspective on how things run behind the scenes, we contacted Dr Pooja 
 
 > The department has known this issue very well from the past few years, or even maybe from the start. From our side, we would like to push Analog Circuits, Embedded Systems, and related courses to the third or fourth semester. But it's not happening because the first two semesters are common across all the departments, and there are a lot of common courses. However, being a part of the NEP committee formed last year; I can tell you that we have come up with some guidelines for changing the overall curriculum. If you want to talk about specific concerns with the committee, you can contact Dr Naveen or Dr Rama Krishna Gorthi from the Electrical department, as they are a part of the UG committee.              
 
-**Hands-on Experience**\
+**Hands-on Experience**                          
 Another important aspect of internships or placements is the hands-on experience. In the current system, many students believe that the curriculum is majorly theory-oriented and lacks real-life applications that are essential for internships and exposure. One student commented,
 
 > As a student preparing for Internships/Placements, I understand the value of having a project related to the course/domain. Unlike other branches (or, for that matter, students studying electrical engineering in other colleges), we had a really less number of projects during the coursework.          
@@ -202,7 +202,7 @@ Pooja Ma’am had supporting and different views of this suggestion. She mention
 
 She also mentioned that the reason for this might be due to overloading the projects, which are however important for the resume and cannot be given a preferential order. She suggested that the students and teachers sit together and work on a balanced system. The Students’ Academic Affairs Secretary suggested that professors might want to rethink how they are motivating or inspiring students to show interest in a particular project. He suggests that instead of just highlighting the impact on grades, professors should get students excited about how the projects will impact their thorough understanding of the subject, their CVs and eventual performance in internships and placements. 
 
-**The Placement of Electives**\
+**The Placement of Electives**                                                   
 In the current system, free electives are only available from the fifth semester, which lands in the middle of the internship season. Many students believe that these courses should take the place of electives before the placement and internship season, to be provided with a chance to explore important non-core subjects.
 
 ![](https://lh6.googleusercontent.com/Ful72dteXwtEapjAbEA1qt4vQYNcgqEYGdytdW0kPfN7jcGCSXtunfBV3AUo0Rv1q4DvikxeXZSuM8XBMvvgLw-BjAbRDss8j7p3gSOKdIQUSRJh_PaWbDinw6adszXIoInl4MgxoJbBvkqO73zcbFs)
@@ -217,7 +217,7 @@ The Students’ Academic Affairs Secretary highlighted the following points with
 
 ![](https://lh5.googleusercontent.com/4gwJPOXP_81DSEyLvnbV54vs9-fGXgsvljq3-XqD3kMKB4pAKJPMeqA9fweHyVgee2B9dPgIorJTt0IWDvuKObH2d3kp8PBqKlv8W14sy0_YdjiFt_B-EQA_cdEQCuQwXA8Cwc9fUOKrB36vPiQWAVk)
 
-**Non-Core Courses**\
+**Non-Core Courses**                                                      
 Another common concern from the survey was the relevance of non-core courses in the curriculum. A variety of courses across different streams are provided to offer students a fairly basic understanding of engineering as a degree in the first two years. Further on, the core courses slowly take over, and different electives are offered. Many students believe that most of these courses are not necessary for a career and can be replaced with free electives, or with shifting core courses to early semesters. When asked for possible solutions, a popular opinion was to simply remove these courses or distribute them across semesters.
 
 ![](https://lh3.googleusercontent.com/3SdKPMOGMhGYQ0pJBXVFDJZIs9raQqR4U3Tu60cpJgf8XqDl0d__FQRNdpiPQ0hN5_cXxpK3FBhGkQUo_vCnsiVwNQIFkbCKk3XkPkCCFG4Yr5vWlfet1B01gsKSUw18aNKNa8DBrvmICSoL5iVH7yk)
@@ -233,33 +233,33 @@ He also mentioned that the courses might continuously have to be revised accordi
 He mentioned that students might face various difficulties and need some time to adapt to the new environment, especially if the medium of instruction is different. They need time to settle down, and the current curriculum lets the students settle down and then improve their grades if required.                              
 
 > Even in the systems that currently follow branch change after the first semester, there is usually only one core course introduced in the second semester. So whether I really want so much pressure on the student and shift the branch change system by an entire semester just to accommodate one core course is a debate we can have.               
-
+*****
 <a id="course"></a>
 
 #### Course Continuity
 Most university professors have their own way of teaching courses and their own goals on what students should be aware of at the end of the course. During the 3rd and 4th years, however, most professors often assume that some content has already been covered in past courses and continue from a preset level. This is often inaccurate as some of these topics may not have been covered in said previous courses. The need to adapt and improvise curriculum based on the student’s previous knowledge is important. 
-
+*****
 <a id="lab"></a>
 #### Lab Component
 *Mechanical*![Forms response chart. Question title: Do you think that lab courses go hand in hand with core courses?. Number of responses: 29 responses.](https://lh3.googleusercontent.com/0BiIlsJzf8X3qrb31vjshfu3QYh5Ty6_xR2uxl_EyhfpdSxJDuSusMPtYHLIp0V0t_-Q1dm4yb5ygjZ0tLmUq8Z4Rs0WSTGBR0jC76rB3suUn0kLXr5X3rxpEGAsCpL-QNBQq9EZALaHngwMykVnGKI "Do you think that lab courses go hand in hand with core courses?")One of the most essential expected outcomes for the labs in the curriculum is to give students some exposure to hands-on experience in addition to the theory. With years of lab experiments and modifications, students believe that the original outcome is heavily strayed away from the present teaching and grading methodologies. Lab courses are now often seen as a burden, with multiple labs taking up the entire week’s afternoon schedules, leaving the students with the weekends, of course, for the lab reports. 
 
 While most students still believe the content taught in these lab courses goes hand in hand with the theory, there is a common agreement that the current workload provided is overloaded for a 2 credit lab component.
 
-*Mechanical*
+*Mechanical*                          
 ![Forms response chart. Question title: Do you think the effort and time we put into some of the lab courses is proportional to only 2 credits? Do we deserve more credits for lab courses?. Number of responses: 29 responses.](https://lh3.googleusercontent.com/rjI7gZCidEkVhgUigJBBcKEcjQNTXV6QuLScAAIwdn8YpBH1wD0jWbK3BzErfh6o_tS-3bn3_D1yI2an5qbR21e5mqsw7Fys3X1Xai1UWjegPkeHDgeoL9ytou-_F-6e5FsTLXu_LXeypUkH5o9zMn4 "Do you think the effort and time we put into some of the lab courses is proportional to only 2 credits? Do we deserve more credits for lab courses?")
 
 As an alternative option, the survey pitched the idea of spreading out labs evenly and adjusting the courses in a way that the lab components are restricted to 2 per semester. The majority of the students seemed to be in line with this. 
 
-*Civil*
+*Civil*                                                 
 ![Forms response chart. Question title: Do you feel that courses having lab components be spread out evenly (say 2 lab courses a semester) to avoid burdening the semester? (Like in 4th and 5th semester you have three labs each). Number of responses: 16 responses.](https://lh3.googleusercontent.com/XoneCZyO-9FoZXijK-5is6QAbWXouN2R01CNDhANlSLPWSIKbS1Vy9rUcopOVxARVlN_7Wz9sZfAnARNFUeaiyURc2pEWKhBmP7dIxjkv_a-rrTxWOA2fURBDUEP06rKM_DMTVoYQux4tYCMuadea6Q "Do you feel that courses having lab components be spread out evenly (say 2 lab courses a semester) to avoid burdening the semester? (Like in 4th and 5th semester you have three labs each)")
-
+*****
 <a id="whatstudents"></a>
 
 #### What are the students looking for?
 
 Eventually, any system of education boils down to what a student learns from it. To understand how relevant the current curriculum is to the aspect of learning and gaining knowledge, we asked students across different branches how their experience has been with the system. We will aim to address a few widely targeted topics for each branch in the below section. 
 
-**Chemical Engineering**\
+**Chemical Engineering**                                                                   
 Some of the major concerns were curriculum cramming courses like Thermodynamics and Process Synthesis into a single course. Many students believe that having it as two courses instead of one would help them explore the subjects in further depth. 
 
 ![Forms response chart. Question title: A popular opinion is that courses which lay a foundation or play a key role in the chemical engineering curriculum such as Thermodynamics and Process Synthesis should have been taught as 2 courses rather than cramming the content into 1 course. What is your opinion on this?. Number of responses: 33 responses.](https://lh3.googleusercontent.com/C-2XxP07cWwGx6mrRZT1onFF6KqvnqWDDoIaZ7YeazMJAyOlYk5goBhETx63TXhkHVGeEeZ9hT3oEpu7am5s3DpSWVfwvDWxQzL9fMy9ltpXAUAlU0TetityqJhsRKBJlvi9tVZc9VO_tb3LyKs1ABw "A popular opinion is that courses which lay a foundation or play a key role in the chemical engineering curriculum such as Thermodynamics and Process Synthesis should have been taught as 2 courses rather than cramming the content into 1 course. What is your opinion on this?")
@@ -268,7 +268,7 @@ Another major concern was the adaptation of the current curriculum to exams like
 
 ![Forms response chart. Question title: The current curriculum lacks courses such as "Mechanical Unit Operations" and "Chemical Technology" which are important for students who are preparing for exams such as GATE. What do you think is a good option to address this?. Number of responses: 33 responses.](https://lh3.googleusercontent.com/lD84JBObpDL3yMPMxTI8PEbpi2Q2-1ZvzR7wszCwC5WghE11dSPL6LMoSUOonH7KPHDtU9pxBWoDkj63aFI2W0uoE4XavUWIpMhbfBqV6tz6h3x4v3ataLK4ejojcePaLeGOLgJ_zN5QSj_1CUK8kd8 'The current curriculum lacks courses such as "Mechanical Unit Operations" and "Chemical Technology" which are important for students who are preparing for exams such as GATE. What do you think is a good option to address this?')
 
-**Computer Science and Engineering**\
+**Computer Science and Engineering**                                                                   
 A majority of the surveyed students were unsatisfied with the current curriculum for Computer Science and Engineering. The overwhelming response from both students and faculty of the CSE department revolves around the need for moving core courses to earlier semesters of the curriculum, and the irrelevance of many first year common courses.
 
 ![Forms response chart. Question title: How happy are you with the current curriculum that we have been following?. Number of responses: 62 responses.](https://lh4.googleusercontent.com/iXFWVYBFZzsKHcO_0m98iVhS66z-0z22wLEtCr1S3oulpNqlqOHffU56FeRzNLLMI8hdlA7MYSHe-PKvhVihl23JxInio1qE3_cDyxxtIwg1RyV2u-46jo-f6zqsWGpLuopy3mlrRaIjo_aNIDbu8a4 "How happy are you with the current curriculum that we have been following?")
@@ -277,7 +277,7 @@ A majority of the surveyed students were unsatisfied with the current curriculum
 
 Some other concerns were regarding the current relevance of courses taught. With the growing technology sector, students believe that subjects and electives should also be appropriately revised. 
 
-**Electrical Engineering**\
+**Electrical Engineering**                                                             
 The curriculum form response for electrical engineering received an approximately average experience (2.06) feedback from most of the students. 
 
 ![Forms response chart. Question title: How happy are you with the current curriculum that we have been following?. Number of responses: 56 responses.](https://lh4.googleusercontent.com/EXbVIZPUi6EtgFSn-l5Dx8f_vcWekcQzzVPRjAKM-xs9hD_Bq0_qNjHeDphGnlMgeeLGDXoeYLvhwC3tp02zrNn0bJO_ciyljWE5GOJ-9krs302pIa2zSyERXfFKU-Zzzfr17AiJvfuj8MpqGVa9vl4 "How happy are you with the current curriculum that we have been following?")
@@ -286,12 +286,12 @@ Some of the suggestions and concerns from students included shifting of departme
 
 There were other concerns about the relevance of the curriculum for both Electrical and Computer-based roles. With the bridge between CS and Electrical disciplines, many students suggested the introduction of more CS department electives for Digital job profiles. 
 
-**Mechanical Engineering**\
+**Mechanical Engineering**                                              
 ![Forms response chart. Question title: How happy are you with the current curriculum that we have been following?. Number of responses: 18 responses.](https://lh4.googleusercontent.com/Z1JJndiFYR8haPFtT3V1hV_7LUvV1-ZlubVeh-Pm1TlNF5u3SBkLmaLxq6lFF_MtyHdHpuurIgN03H6IHiKGrpR0vKdpg_iyaTjwXmhQ3F5AaOt6H8pPWYA6jVjrKSfl-z7-eLNGPhpBq1i3corPtFM "How happy are you with the current curriculum that we have been following?")Many Mechanical engineering students are of the opinion that doing actual projects in any of their fields of interest requires a solid effort in their skillset and theoretical knowledge.  Most of the responses say that developing these ‘essential’ skills at the very beginning helps students figure out their area of interest, make a concrete effort to do their best on a project, and hence derive satisfaction from the end results. Unfortunately, a common problem that many students face is that they need to spend a lot of time just learning the know-how of a software rather than working on the actual project statement. The huge time crunch deters students from learning these skills, working on projects, and eventually participating in technical events. And some say that this is the very reason behind low turnout at technical events. 
 
 A solution offered by many is to offer these skills as a graded part of a course or at least be offered a helping hand at it. Including skill-based courses in the curriculum may drastically change the current scenario. The skills that almost all students felt needed some representation included CAD modelling, ROS, Matlab, C++, and Python. Another aspect brought about by many students was the need to open up their regular subjects to hot topics like AI, Machine Learning, Aeromodelling, and Electric Vehicles. The feeling is that including the basics of these topics will make the students more industry ready. Some students also have expressed a desire to be given more freedom to follow their field of interest and develop specialised skills at an early stage.
 
-**Civil Engineering**\
+**Civil Engineering**                                                    
 Most of the civil engineering responses agreed that the current curriculum was adequate for their goals. 
 
 ![Forms response chart. Question title: How happy are you with the current curriculum that we have been following?
@@ -303,7 +303,7 @@ Some concerns included the need for training sessions and inclusion courses for 
 > The institute can consider organising a proper training session on modern software like Staad pro and Revit, which will help us to get an internship in core domains.                             
 >
 > Geotechnical engineering and Transportation engineering are major parts of the GATE syllabus. Since they are currently introduced in the 6th semester, there is no use for the students to take the GATE exam in the third year.      
-
+*****
 <a id="takeaways"></a>
 
 #### Takeaways
@@ -311,7 +311,7 @@ Some concerns included the need for training sessions and inclusion courses for 
 As one of the fastest-growing third-generation IITs, the current curriculum has modified and expanded its base by a significant amount in comparison to the previous years. We conclude this section with an excerpt from the Students’ Academic Affairs Secretary. 
 
 > Most of the curriculum was designed nearly six years ago, but the industry has changed a lot in the meantime. The electives being offered should be regularly updated, once in 2-3 years with the latest advancements in the relevant industry. A majority of the elective courses listed on the website of IITT are not usually offered. This should be rectified so that students can take up electives based on their wider interests.                        
-
+*****
 <a id="feedback"></a>
 
 ### Faculty Feedback
@@ -359,7 +359,7 @@ Prof. Gumma is of the opinion that we students should bring forth all such conce
 > Having said that, from an institute perspective, if feedback is not within an acceptable range, then the administration intervenes. We talk to the faculty to understand the challenges they’re facing or why they think that they have received the feedback that they have and see how we can facilitate, so that the students’ learning experience can be improved. We also conduct faculty orientation programs. I think the last one was held in Summer of 2022. We invite experts who are experienced, who have got the best teacher awards, et cetera, including those from other institutes.                       
 
 The AAS suggested that if a particular faculty repeatedly gets poor feedback for a particular course, a solution worth exploring is asking a different instructor to take the course the next time it is offered. This way the department can try out various possibilities and find the best solution for students. He pointed out that the students' learning should be prioritised and excuses shouldn’t be made.                 
-
+*****
 <a id="integrity"></a>
 
 ### Academic Integrity
@@ -411,7 +411,7 @@ We recently conducted a survey and the students believe that the academic sectio
 ![Forms response chart. Question title: Do you feel that invigilation was taken more seriously in the recently conducted Test 1?. Number of responses: 99 responses.](https://lh5.googleusercontent.com/0eM_ieGRIF1ZaFOE_FBmlLucR4Tpb_o8BE8XF7GLN6c6oX516_0PT3nfsR7yxHGiuPNsyEwmb4DK7RoCGMkqcxtdYREZzrpEoHMTUntDQ6F9NP0n5PKM6hsMqTip7UYW2WFf9b9wnXZK8do6qYO4YeY "Do you feel that invigilation was taken more seriously in the recently conducted Test 1?")
 
 Ultimately, ensuring academic integrity requires the collaboration and efforts of both faculty and students. By working together and being proactive in addressing instances of academic dishonesty, we can create a fair and just academic environment where all students are held to the same standards.
-
+*****
 <a id="nep"></a>
 ### NEP Framing and Implementation
 
@@ -427,7 +427,7 @@ Under the new NEP, the following provisions will be made:
 * Students will have the option of taking up electives (both departmental and free) from earlier semesters.
 
 These are some of the fronts on which the NEP committee is working on. We really hope to see the implementation of this new curriculum at the earliest.
-
+*****
 <a id="conclusion"></a>
 ### Conclusion
 No system is truly perfect. And that is why there exists a system of checks and balances to gauge its effectiveness. The current system, catering to the dreams and aspirations of hundreds of students, might have a few tiny holes here and there, but we believe they can be patched up. Discussions are paramount in bringing about any change, and we hope to see them happening in more and more numbers in the near future. A huge thanks to all the professors and the TAs for constantly helping us understand the subject and making learning an enjoyable experience. A special thanks goes to all the professors and students who helped put this article together! We hope we’ve left you with interesting thoughts and questions about how not to do Academics at IITT. 
