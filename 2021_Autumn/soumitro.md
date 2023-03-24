@@ -1,17 +1,17 @@
 ---
-title: "Internship Experience at Texas Instruments"
-category: "Experiences"
-date: "2021-06-06 10:00:00 +09:00"
-desc: "Texas Instruments, Dallas-based pioneer developer of silicon transistors, pocket calculators, and semiconductor microprocessors, produces a wide range of electronics and hardware. Take a look at Soumitro’s Internship Experience at Texas Instruments."
-thumbnail: "./images/texas.jpg"
-authors: "Soumitro"
+title: Internship Experience at Texas Instruments
+category: Experiences
+date: 2021-06-06 10:00:00 +09:00
+desc: Texas Instruments, Dallas-based pioneer developer of silicon transistors,
+  pocket calculators, and semiconductor microprocessors, produces a wide range
+  of electronics and hardware. Take a look at Soumitro’s Internship Experience
+  at Texas Instruments.
+thumbnail: ./images/texas.jpg
+authors: Soumitro
 starred: false
-abio: "NONE"
-alt: "texas"
+abio: NONE
+alt: texas
 ---
-
-
-
 I still remember the first time I walked through those doors at Texas Instruments. Long rows of cubicles ran off both sides as I stood there observing others at work. I saw oscilloscopes, logic analyzers, FPGAs and PCBs, soldering irons, transistors scrambled on the desks with people intriguingly looking up at a distorted sine wave on the screen or writing up some code to implement their logic. And I thought “What more an electrical engineer can ask for? We have got all the hardware in the world, the best minds at work to guide us, all the resources to create something new, something helpful to society.” 
 
 That’s when I woke up from the dream, it was 7:49 am. Yes, it was all a dream. The world has been struggling for more than a year because of COVID 19. So, no more office tours and meeting rooms, only virtual orientations and WebEx meetings. Coming to what really happened.
@@ -25,6 +25,5 @@ In the third phase of my internship, I had to implement the architecture on the 
 Apart from the regular workflow, I got the opportunity to attend roundabouts with leaders at TI such as Mr Santhosh Kumar MD at TI India and learnt a lot from the experience they shared. I also miss the fun-filled activities I had on weekends with other interns. The HR team at TI really ensured that we got our share of fun and made connections something which all of us were longing for.
 
 In all, the entire internship process was challenging and educative. I am thankful to my mentor for the smooth introduction to the entire project and regular feedback. He empowered me to bring the best ideas I could and contribute to the project. The discussions I had with other members of the lab enlightened me about key areas that I’ve never thought of, helping us create a more efficient design. The best part was being allowed creative freedom to solve a problem that I personally miss in the regular curriculum at college. I hope to visit the facility in real life and relive the dream someday.
-
 
 PS: Just some suggestions to the readers who love working on hardware. Try to do as many DIY projects in your spare time as possible, be it for some event or just something you find cool and replicable. Try and hope that it does not work the first time. That’s because in the process of making it work you get a chance to improve your debugging skills, plus you will feel happier when it finally does. Another bonus is that you will have a lot of projects to choose from for your resume. In addition to that, here’s a suggestion that’s especially for first and second-year students. Try to put effort into lab and course projects. If you find a possibility of expanding it to hardware, communicate with the faculty and make it happen. I know it sounds intimidating to add another task to the unending list, but trust me you have a lot more time to do things than what you will have in your third and fourth year. Finally, here are some of the places where you might find inspiration for your next endeavor: Instructables, All About Circuits, Great Scott, ElectroBoom, Nandland, Brian Douglas, Lucid Science, The Thought Emporium, Applied Science. 

@@ -41,7 +41,7 @@ I asked this question to a bunch of people from different age groups and receive
 To me, that's very surprising. Why? Because problems are personal things that stem from the unique way in which one perceives the world, which in turn is shaped by one's habits, lifestyle, and circumstances. So, two different people are unlikely to have the same set of problems, and the *biggest problem* is even more unlikely to be similar. But different answers from different people still had the same theme! That made me wonder, does social media affect us all in different ways?
 
 Thinking about that seemed like a fun thought experiment, and the result of that experiment is this article. I hope this article adds value to the way that you view the world and makes you think about new perspectives that I haven't discussed. I also made a lot of references to Instagram (IG), and I hope you understand them to a reasonable extent. Most importantly, I hope you have fun reading this article. Without any more delay, here goes!
-
+*****
 <a id="how-would-an-alien-react-to-seeing-instagram-for-the-first-time"></a>
 
 ### How would an alien react to seeing Instagram for the first time?
@@ -82,7 +82,7 @@ She agrees, following which you leave for class. You go back to your room after 
 
 "I'm glad you like it. But Ali, what about your mission?"\
 "Oh, don't you worry! I'll get to that after I watch this hilarious dance video with no background music!"
-
+*****
 <a id="okay-but-whats-your-point"></a>
 
 ### Okay, but what's your point?
@@ -100,7 +100,7 @@ You might have thought all about the things I mentioned above, but what about th
 There are two interpretations for the above question, one concerning the memories that we make and one concerning our ability to recollect things. I believe the answers to both these interpretations, coming from my general observations and some research studies, aren't very pleasing.
 
 A study (<a href="#citeproc_bib_item_4">Tamir et al. 2018</a>) observed that those who haven't recorded and shared their experiences seemed to remember the experience more clearly than those who did. The practice of taking pictures and sharing them on social media has been blown out of proportion after smartphones with powerful cameras became accessible to the general public. Next time you look at that splendid sunkissed selfie from your previous trip, try recollecting your experiences on the day you took that selfie. How much of it do you remember?
-
+*****
 <a id="what-do-you-remember-and-how-much"></a>
 
 ### What do you remember, and how much?
@@ -127,10 +127,9 @@ The absence of the widespread practice of fact-checking is yet another problem; 
 
 What could be possible solutions for these issues?
 
-<a id="are-we-forgetting-to-read"></a>
-
 ![](images/socialmedia2.jpg)
-
+*****
+<a id="are-we-forgetting-to-read"></a>
 ### Are we forgetting to read?
 
 My point was that you obtain pieces of information from social media, many of which you don't remember well. But I wonder, does this affect our desire to learn from larger sources of information? Among students, there is a growing trend of watching videos instead of reading books to learn something. Could that be because videos contain more sensory information than books to engage a consumer? But that wouldn't explain why people prefer shorter videos over longer ones. Is that because people want quick resolutions to their problems? Or is it because peoples' brains aren't able to patiently wait for the information in the longer video because their brains have been rewired to crave short bits of satisfying content? Could that be the reason why we students watch videos at 2x speed, even though we sometimes understand *nothing*?
@@ -142,7 +141,7 @@ In that sense, I consider books to be better sources of information than other a
 I'm not claiming anything, dear reader, I'm just thinking about things 🤷‍♂️ .
 
 <a id="would-you-trust-yourself-if-you-were-being-mentally-manipulated"></a>
-
+*****
 ### Would you trust yourself if you were being mentally manipulated?
 
 For some reason, lots of strange thoughts come to me when I see people staring at phones, and here's one. When people are glued to screens, staring at content made by other people, *aren't they so generously offering their time to be manipulated by people online*?
@@ -162,7 +161,7 @@ It's not hard to realize that nearly every advertisement we see today takes the 
 Some people like personalisation and some people don't, but that's not the point I'm trying to make here. Do you realize that you are spending a *significant amount of time* looking at advertisements that you never really asked for?
 
 It's not just advertisements. There are people creating content and distributing it on the internet, and there are millions of people viewing that content. This content consists of memes, dance videos, cat videos, life advice, clips from movies/series, and of course, sponsored advertisements. They say "time is money", and I believe they are right. In this case, however, it's your time and their money.
-
+*****
 <a id="my-opinion-that-no-one-really-asked-for"></a>
 
 ### My opinion that no one really asked for
@@ -182,13 +181,13 @@ However, the world wasn't that responsible, to begin with, and that had conseque
 There are many more myths out there to bust! If you're a web developer and you want to take up a hobby project but don't have an idea, please create a website on myth-busting Instagram stereotypes. Alternatively, you could try your luck creating an IG page for that and become the next big influencer!
 
 <a id="conclusion"></a>
-
+*****
 ### Conclusion
 
 Technology and social media have significantly changed the way we perceive the world around us, and it continues to do so in ways we don't fully understand. That's precisely the reason why it's so important to try and understand whatever we can about it, and the first milestone on the journey to enlightenment is to ask questions.
 
 With that said, happy pondering!
-
+*****
 <a id="references"></a>
 
 ### References

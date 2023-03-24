@@ -1,16 +1,16 @@
 ---
-title: "Internship Experience at AjnaLens"
-category: "Experiences"
-date: "2022-09-11 12:00:00 +05:30"
-desc: "Gagan’s shenanigans at AjnaLens - The Good, The Great and The Amazing"
-thumbnail: "./images/ajnalens-Gagan.png"
-authors: "Gagan Hegde"
+title: Internship Experience at AjnaLens
+category: Experiences
+date: 2022-09-11 12:00:00 +05:30
+desc: Gagan’s shenanigans at AjnaLens - The Good, The Great and The Amazing
+thumbnail: ./images/ajnalens-Gagan.png
+authors: Gagan Hegde
 starred: false
 abio: ""
-alt: "Internship Experience at AjnaLens"
+alt: Internship Experience at AjnaLens
 ---
 
-## **The experience**
+### **The experience**
 
 My timing couldn’t have been better when I joined as a Unity Developer intern at AjnaLens. The organization was in the midst of developing a better-mixed reality headset and was experimenting with other products on the market. So I got to experience all the latest VR headsets. I don’t know anyone in my class who can boast that they went to their office to **play “Beat Saber”** multiple times so that **“they can better understand the working of the device”.**
 

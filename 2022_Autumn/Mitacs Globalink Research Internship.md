@@ -1,13 +1,18 @@
 ---
-title: "Mitacs Globalink Research Internship"
-category: "Experiences"
-date: "2022-09-11 12:00:00 +05:30"
-desc: "One the other side of the big-blue ocean, Noble and Srikarah had one of the most happening, eventful and exciting summer internships one could hope for! Mitacs Globalilnk provides fully funded research internships in Canadian Universities while opening up a whole new avenue of opportunities and experiences. Walk through this detailed account to find out why this highly coveted and competitive internship is something you might want to try out!"
-thumbnail: "./images/mitacs-NobleSrikarah.jpg"
-authors: "Noble Saji Mathews, Srikarah Volaity"
-abio: ""
+title: Mitacs Globalink Research Internship
+category: Experiences
+date: 2022-09-11 12:00:00 +05:30
+desc: One the other side of the big-blue ocean, Noble and Srikarah had one of
+  the most happening, eventful and exciting summer internships one could hope
+  for! Mitacs Globalilnk provides fully funded research internships in Canadian
+  Universities while opening up a whole new avenue of opportunities and
+  experiences. Walk through this detailed account to find out why this highly
+  coveted and competitive internship is something you might want to try out!
+thumbnail: ./images/mitacs-NobleSrikarah.jpg
+authors: Noble Saji Mathews, Srikarah Volaity
 starred: false
-alt: "Internship Experience Mitacs"
+abio: ""
+alt: Internship Experience Mitacs
 ---
 
 
@@ -15,7 +20,7 @@ Hi there! I am Noble, the narrator of this piece about the Mitacs Globalink Rese
 
 First, a bit about the program itself so you can choose to close this tab and not be annoyed throughout the remainder of this article if it doesn’t fit your fancies. As you would have probably figured from the name, this program is heavily research-oriented. You get to work on a topic of your interest over a span of 12 weeks with professors from top institutes in Canada. The program is fully funded and at the end of the day you would probably not end up shelling out much from your pockets (assuming you are reasonable with how you spend what you get, unlike Srikarah). If anything, you may wrap things saving up a pretty penny if you plan out your stay properly. 
 
-## Applying (and other boring stuff)
+### Applying (and other boring stuff)
 
 In this section we will mostly detail our individual experiences until we got accepted into the program. Please do refer to the [mitacs.ca](http://mitacs.ca) website for deadlines and official guidelines as these might have changed by the time you are reading this piece.
 
@@ -59,7 +64,7 @@ I got selected for a project that dealt with self-healing concrete, under the gu
 
 I will not go into the details of the project, but let me tell you that the project was more fun than it sounds xD. 
 
-## Time in Canada
+### Time in Canada
 
 Here are a few pics from my first walk to the campus in Waterloo:
 
@@ -101,7 +106,7 @@ There was also one particularly fun experience in the lab. We had a 3 day-long t
 
 The city is well connected via subways and you can go to any place without any hassle. This made the travel a lot easier. You can always find places that you want to visit based on your taste, and you can always make your stay fun. 
 
-## Wrapping Up
+### Wrapping Up
 
 This is clearly not a typical industrial internship and you should have some interest in research oriented explorations to make the most of it. It can also be a great start to pursue higher education in Canada since, once you complete the program, you become eligible for another scholarship for students accepted into graduate programs in Canada within 5 years of completing the Internship.
 

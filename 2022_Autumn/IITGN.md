@@ -1,13 +1,15 @@
 ---
-title: "Internship Experience at IIT Gandhinagar"
-category: "Experiences"
-date: "2022-09-11 12:00:00 +05:30"
-desc: "Take a look at Venkatasa’s resourceful research internship at IIT Gandhinagar as he talks about the world of electronics and the internet of things."
-thumbnail: "./images/IITGN-Venkatesa.jpg"
-authors: "J Venkatesa"
+title: Internship Experience at IIT Gandhinagar
+category: Experiences
+date: 2022-09-11 12:00:00 +05:30
+desc: Take a look at Venkatasa’s resourceful research internship at IIT
+  Gandhinagar as he talks about the world of electronics and the internet of
+  things.
+thumbnail: ./images/IITGN-Venkatesa.jpg
+authors: J Venkatesa
 starred: false
 abio: ""
-alt: "Internship Experience at IIT Gandhinagar"
+alt: Internship Experience at IIT Gandhinagar
 ---
 
 This summer, I got an excellent opportunity to do a Research Internship at IIT Gandhinagar. Through their portal, I applied for their [Summer Research Internship Program (SRIP)](https://srip.iitgn.ac.in/info/). After being shortlisted based on my profile and Statement of Purpose (SOP), I was called for an online interview. The 15 minute-long interview consisted of technical questions asked by the Professor and a couple of Ph.D. scholars working with him. They were satisfied with my answers, and the offer letter arrived a week later (Mid-April, 2022). For the next few weeks, they discussed the objectives of the two-month-long internship and details about the project over Zoom calls.                  
@@ -23,10 +25,10 @@ The first few days went in doing a literature review, referring to research pape
 
 Meanwhile, I was assigned a small side project by my professor. It dealt with making a **Toxic Gas Detection System (TGDS)** - A device that can assess the toxicity levels of sewer manholes and alert the user to safeguard the lives of manual scavengers. The project was proposed under the initiative of [Safai Karmachari Andolan (SKA)](https://www.safaikarmachariandolan.org/), a human rights organization to eradicate manual scavenging. I was able to complete it in a few days. It was followed by testing the device at the Sewage Treatment Plant situated on campus.
 
-## Documentation
+### Documentation
 The organizers insisted on documenting the work done in the internship clearly. We had to submit a Research Proposal at the start, a Mid-Report after 4 weeks, and a Final Report at the end of the internship. Every Tuesday and Friday, we had to submit a diary - A report containing the work done in the week. Apart from this, we had a weekly meeting on Thursdays with the professor and the two Ph.D. scholars. Every week, one person was assigned to give a presentation. It was a great learning opportunity for me to get to know about other projects. My presentation skills improved drastically as well.
 
-## Fun Stuff & Outings
+### Fun Stuff & Outings
 The campus was vibrant. Sports and Academic facilities were top-notch. Cafes and eateries open till 3 am was like icing on the cake. I vividly remember the experience of having Cheese Garlic Bread and super-hot Ginger Tea at 2 am after getting fully drenched in the rain. Roaming around the campus after midnight was like an unwritten rule that all of us strictly followed. It was a great opportunity to meet students from all over the country. We used to chat for hours together- sharing our experiences, cracking jokes, and having fun. Five of us formed a fun gang and hung out together. Every evening was spent in the Gaming Room playing carrom board, chess, air hockey, and foosball. Weekends were meant to explore the city of Ahmedabad. Two of our memorable outings were the visit to Science City and Kankaria Lake.
 
 One of summer's best moments was watching the IPL Finals at the Narendra Modi Cricket Stadium. Though the match was not a thriller, the home crowd made the atmosphere electric. Another memorable experience was my visit to IIM Ahmedabad. It was awesome to walk around their beautiful campus and spend some time in their vast library.

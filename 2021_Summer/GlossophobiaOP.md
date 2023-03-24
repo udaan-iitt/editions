@@ -1,13 +1,15 @@
 ---
-title: "Glossophobia- The Fear of Public Speaking"
-category: "Op-Ed"
-date: "2021-06-06 12:00:00 +09:00"
-desc: "Public speaking can feel intimidating. We’re here to help though, and hope this article will be your first step towards overcoming your fear of public speaking."
-thumbnail: "./images/speaking.jpg"
-authors: "Sreenivasa Murthy, Sneha M S"
+title: Glossophobia- The Fear of Public Speaking
+category: Op-Ed
+date: 2021-06-06 12:00:00 +09:00
+desc: Public speaking can feel intimidating. We’re here to help though, and hope
+  this article will be your first step towards overcoming your fear of public
+  speaking.
+thumbnail: ./images/speaking.jpg
+authors: Sreenivasa Murthy, Sneha M S
 starred: false
-abio: "NONE"
-alt: "Public Speaking"
+abio: NONE
+alt: Public Speaking
 ---
 
 <style type='text/css'>
@@ -48,7 +50,7 @@ Do keep in mind that like all walks of life, perfection can only be attained wit
 
 The best solution to overcome any fear, in general, is to allow yourself to defeat it. There are no words to describe the happiness you experience when you succeed in trying something new, irrespective of its result. This new approach will help you make your subsequent trial better than the previous one. And if this is practiced in succession, you can see yourself reach great heights. If you have a problem with any language, more interaction with that language will help you. Assume there are 100 steps to achieve success, then 99 steps are just a mixture of practice and failures. It’s just one step you need to climb to overcome your fear.
 
-## एक कदम कामयाबी की ओर
+### एक कदम कामयाबी की ओर
 
 Translation: “ONE STEP TOWARDS SUCCESS”
 

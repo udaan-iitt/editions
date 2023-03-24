@@ -1,13 +1,16 @@
 ---
-title: "College Experiences - 2021 Edition"
-category: "Experiences"
-date: "2021-01-30 11:00:00 +09:00"
-desc: "Whether it 'hasn't been your day, your week, your month or even your year' or it has been the year of a lifetime, 2021 was a wild ride of emotions. So strap in and experience the emotions and memories that defined this past year for our authors!"
-thumbnail: "./images/ce.jpg"
-authors: "Students of IITT"
+title: College Experiences - 2021 Edition
+category: Experiences
+date: 2021-01-30 11:00:00 +09:00
+desc: Whether it 'hasn't been your day, your week, your month or even your year'
+  or it has been the year of a lifetime, 2021 was a wild ride of emotions. So
+  strap in and experience the emotions and memories that defined this past year
+  for our authors!
+thumbnail: ./images/ce.jpg
+authors: Students of IITT
 starred: true
-abio: "NONE" 
-alt: "College Experiences - 2021 Edition"
+abio: NONE
+alt: College Experiences - 2021 Edition
 ---
 
 Despite the pandemic refusing to let the world out of its clutches, 2021 was a year full of changes. Be it entering this new world of ‘college’ after an online highschool, or seeing the campus and experiencing being away from home for the first time, or returning to the campus life that had almost gone out of touch, every student has their own unique story to tell. Whether it was life changing or monotonic simplicity, in between the online classes and the covid protocols, we had moments that defined 2021 for us.
@@ -16,7 +19,7 @@ Join the authors as they share their college life experiences in 2021. While few
 
 ---
 
-## **Table of Contents:**
+### **Table of Contents:**
 
 1. [Just a minute from four years](#just-a-minute-from-four-years) - Keshav  Kumar (B-Tech 2021) 
 2. [The Inception](#the-inception) - 4v (B-Tech 2021)
@@ -33,7 +36,7 @@ Join the authors as they share their college life experiences in 2021. While few
 
 <a id="just-a-minute-from-four-years"></a>
 
-## Just a minute from four years!  
+### Just a minute from four years!  
 
 >After all the stress and hustle of JEE, one would certainly have thoughts circling around on how life in an IIT (well, IITT precisely) would be. Join along with Keshav Kumar Manjhi in his jaunt of emotions as he shares his perspective on the transition.
 
@@ -53,7 +56,7 @@ This new life can be scary for us, but it's just a new set of unknown opportunit
 
 <a id="the-inception"></a>
 
-## The Inception
+### The Inception
 
 >Experience the emotions as the author - 4v walks us briefly through the anticipations, aspirations, and impressions freshers have as they embark on a new journey in their life.
 
@@ -65,7 +68,7 @@ It was very tough to make friends with different cultures and ideologies, but ov
 
 <a id="bunch-of-smiles"></a>
 
-## Bunch of Smiles.
+### Bunch of Smiles.
 
 >College is a part of life that you relive in your memories. How do you feel when you experience it for the first time, not to mention if it is after a very long grapple? Excited? Nervous? Anxious? The write-up Bunch of smiles by Hiranmai is one such word picture of emotions experienced while in college.
 
@@ -108,7 +111,7 @@ Just "One mail" we'll be there in no time
 
 <a id="college-experience21"></a>
 
-## College Experience’21
+### College Experience’21
 
 >Every change is a challenge, and challenges are exciting, aren't they? Shubham (the batch of 2021) had one such challenge, thanks to the changeover from school to college. Join him as he shares his experience.
 
@@ -120,7 +123,7 @@ But finally, things changed when seniors came into the picture. They somehow add
 
 <a id="o3-online---offline---online"></a>
 
-## O3: Online - Offline - Online:
+### O3: Online - Offline - Online:
 
 >Want to know the genuine experience of a 2020 batch student? The concise and plain-spoken words from Anonymous are sure of conveying the reality (though disappointing sometimes) fortuitously well. The caustic sentences that are both relatable and satirical are sure to give a great read.
 
@@ -161,7 +164,7 @@ Not sure if the loop ever ends.
 
 <a id="my-college-experience"></a>
 
-## My college experience
+### My college experience
 
 > Are you curious to know about life on campus? What do you think would be the best part of being on campus: is it the quarantine life, post quarantine, picturesque sceneries, lively people, or something else? Reshma’s true to life article might help us get to an answer.
 
@@ -179,7 +182,7 @@ Even though the days that we stayed on campus were fewer, we carried more sweet 
 
 <a id="college-experiences"></a>
 
-## College experiences 
+### College experiences 
 
 >Most of us might be finding it hard to sit and watch our screens for such a long time. Some of us might also be contemplating their life choices. Arup’s article is one such experience that showers a light on the muddled emotions which most of us could relate to.
 
@@ -191,7 +194,7 @@ After the first few days, I could feel that the semester would be a jam-packed o
 
 <a id="tables-turned"></a>
 
-## Tables Turned
+### Tables Turned
 
 >Being on the campus after more than a millennium-long online classes? It might be the best thing that could happen to a student from the 2020 batch. Here is the experience of Swathi during her time on the Campus.
 
@@ -211,7 +214,7 @@ Tables have turned quickly. These online classes are not gonna be the same. With
 
 <a id="college-life"></a>
 
-## College life
+### College life
 
 > Experiencing hostel life for the first time or the lively feeling of being surrounded by people after a year of staying at home. Sounds fun, doesn't it? Sathyanarayann’s got a good number of such memories from his time in the campus.
 

@@ -14,8 +14,8 @@ The writer of this particular article would like to inform you that this piece o
 
 Put together as acts, these are six separate glances from 2022 into the revelations and perhaps-too-strong emotions of a girl who finally made it away from home. These are the stories of a girl slowly blossoming into a woman, who found her self-worth, strengths and weaknesses, and most importantly, what it is to be a woman.
 
-**P.S.** the writer is aware of the usage of capital letters but prefers her writing style to be humbled, hoping to reflect it in her lowercase musings.*<br><br><br>*
-
+**P.S.** the writer is aware of the usage of capital letters but prefers her writing style to be humbled, hoping to reflect it in her lowercase musings.
+*****
 ### **ACT I - LONGING**
 
 i find morsels of it in every conversation and i find traces of it in my cup of over-sweetened coffee and in my bucket as i take a bath away from home and echoing around my ears in people’s laughs / they’re all so sweet and rich and i find a pillow in one laugh and a blanket in another and an arm to cuddle up against in one more and they all sound so perfect and so easy to sink into but i stay awake and birth an insomniac - 
@@ -24,8 +24,8 @@ i gently brush back the hair of my inner child / i cradle my feelings like a mot
 
 but i have it all / i have water, i have food, i have air that occasionally blows a gentle breeze to recreate my mother’s touch, and i have electricity to wake me up when it gets cut off suddenly on a scorching afternoon, and i have people that remind me in bits and pieces of what home’s arms felt like, and i hold onto that and collect those morsels that i find in every conversation.
 
-*\- on recreating a home, from a bedroom to a dorm.<br><br><br>*
-
+*\- on recreating a home, from a bedroom to a dorm.*
+*****
 ### **ACT II - HOPE**
 
 <p>i have visions for myself- <br>
@@ -52,8 +52,8 @@ that are holding their face and telling them they’re loved.<br></p>
 
 <p>and i’m able to accept the same.<br></p>
 
-*\- a simple post-storm fantasy.<br><br><br>*
-
+*\- a simple post-storm fantasy.*
+*****
 ### **ACT III - SELF-WORTH**
 
 <p>and i'll be out again, i'll come out again, i'll spill it all in words and i'll weave you a tale of times / i'll spin together gold and white and make you wonder if there's blue and black hidden between the lines / and when it hits it will crack your chest open and rip through the flesh and veins till it reaches your heart / and you will wonder whether the panic and pressure settling on your chest is yours or mine. / maybe i've cracked your code, maybe i've written down the things within you / that you fear will be leaked, snatched straight from your hands intertwined in a prayer position / and i will stare straight into your eyes. unblinking. knowing. smiling. / and i will brandish a story so brash and bare you feel your sins being laid out in the open for the eagles to circle around. </p>
@@ -64,8 +64,8 @@ that are holding their face and telling them they’re loved.<br></p>
 
 <p>every individual fire ignited, every injustice let loose - they’re burning a path up my windpipe / they’re roaring and pulling against their chains / their bared teeth are only a snap away from the throats of the blurry population and what a delicious scent their veins offer / i’m blazing down the meadows where we laughed / the fire is licking my heels / i’m channelling the core of the earth and the magma is heating the bronze of my skin, and oh my goddesses - i feel the rage, i feel Kali awakening within me with a hunger after her endless slumber. / every home has its protector, and they say what you do behind closed doors is between you and the Lord / but i know about every month-old bone you hide in your closet. </p>
 
-*\- she did not ask to be awakened.<br><br><br>*
-
+*\- she did not ask to be awakened.*
+*****
 ### **ACT IV - HEARTBREAK**
 
 <p>it’s anger,<br>
@@ -98,8 +98,8 @@ it’s choosing to live with the ugliest version of you,<br>
 knowing you’re putting it out for everyone to see and <br>
 attempting to keep a strong front nevertheless.<br></p>
 
-*\- if only it were easier to abandon yourself.<br><br><br>*
-
+*\- if only it were easier to abandon yourself.*
+*****
 ### **ACT V - NEW LOVE**
 
 <p>what does it mean<br>
@@ -134,8 +134,8 @@ one year down, we might have our arms around each other<br>
 writing a story for the decades,<br>
 leaving behind light brighter than either of us could produce alone.<br></p>
 
-*\- the universe isn’t going anywhere.<br><br><br>*
-
+*\- the universe isn’t going anywhere.*
+*****
 ### **ACT VI - WOMANHOOD**
 
 <p>and to those who mock a woman<br>
@@ -149,10 +149,10 @@ a woman with power that makes you fear for your life<br>
 a woman who screams "death" with every step she takes towards you<br>
 a woman who lets you know that Kali Mata is a man's last sight as he takes his dying breath<br></p>
 
-*\- Kali is here, and she shall be paid in blood.<br><br><br>*
+*\- Kali is here, and she shall be paid in blood.*
 
 ![](images/womanhood.jpg)
-
+*****
 ### **Author’s note:**
 
 <p>1. If you’ve made it this far, I have much respect for you. I hope you take whatever you’ve picked up from this page with care, and I hope you’re able to interpret it closely to how it was written. The expression of emotion here was as raw and unfiltered as could be, the message being: “You are made up of infinite stories, each one as significant as the previous.”</p>

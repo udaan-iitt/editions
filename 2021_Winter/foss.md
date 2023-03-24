@@ -1,16 +1,17 @@
 ---
 title: '"Free as in Free Speech".. What is FOSS and why should we care?'
-category: "Op-Ed"
-date: "2021-01-27 12:00:00 +09:00"
-desc: "Join Prabhat in his quest to convert everyone around him into a Free and  Open Source Software user ...may the source be with you..."
-thumbnail: "./images/foss.png"
-authors: "Prabhat Reddy"
+category: Op-Ed
+date: 2021-01-27 12:00:00 +09:00
+desc: Join Prabhat in his quest to convert everyone around him into a Free
+  and  Open Source Software user ...may the source be with you...
+thumbnail: ./images/foss.png
+authors: Prabhat Reddy
 starred: false
-abio: "NONE"
-alt: "intime"
+abio: NONE
+alt: intime
 ---
 
-# Table of Contents
+### Table of Contents
 
 1.  [Free and Open-Source Software](#org79bcc39)
 2.  [FOSS for Learning and Development](#org6d4dbd5)
@@ -28,7 +29,7 @@ And it doesn&rsquo;t stop there. Widely used programs like [OBS](https://obsproj
 
 <a id="org79bcc39"></a>
 
-## Free and Open-Source Software
+### Free and Open-Source Software
 
 ![img](./images/foss2.png)
 
@@ -49,7 +50,7 @@ Now that we know what it is, let&rsquo;s look into how FOSS effects our lives to
 
 <a id="org6d4dbd5"></a>
 
-## FOSS for Learning and Development
+### FOSS for Learning and Development
 
 What is the biggest difference between the real world and the digital world?
 
@@ -71,7 +72,7 @@ FOSS makes use of sharing information to the maximum possible extent. By the vir
 
 <a id="orga346934"></a>
 
-## FOSS for Societal progress
+### FOSS for Societal progress
 
 ![img](./images/foss3.png)
 
@@ -89,7 +90,7 @@ People decided to take matters into their own hands, and this led to the rise of
 
 <a id="org42279b7"></a>
 
-## FOSS alternatives to widely used software
+### FOSS alternatives to widely used software
 
 ![img](./images/foss4.png)
 
@@ -107,7 +108,7 @@ There are FOSS alternatives to other widely used software, even for online servi
 
 <a id="org4bb75e1"></a>
 
-## Conclusion
+### Conclusion
 
 Some people might be people wondering, why is FOSS not popular? It actually is. [Google uses Open Source Software](https://opensource.google/) in most of its products. Even Microsoft, the company that relentlessly tried to undermine Linux throughout history, [joined the Linux foundation](https://www.zdnet.com/article/microsoft-completes-its-linux-journey-joins-the-linux-foundation/) in 2016 and [started using Linux](https://www.wired.com/2015/09/microsoft-using-linux-run-cloud/) in its services.
 

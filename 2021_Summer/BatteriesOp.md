@@ -1,13 +1,14 @@
 ---
-title: "Bio-Organic Batteries"
-category: "Op-Ed"
-date: "2021-05-30 12:00:00 +09:00"
-desc: "Read on to learn more about an innovative design for sustainable batteries that can potentially reduce pollution while increasing efficiency."
-thumbnail: "./images/batteries.jpg"
-authors: "Niheeth"
+title: Bio-Organic Batteries
+category: Op-Ed
+date: 2021-05-30 12:00:00 +09:00
+desc: Read on to learn more about an innovative design for sustainable batteries
+  that can potentially reduce pollution while increasing efficiency.
+thumbnail: ./images/batteries.jpg
+authors: Niheeth
 starred: false
-abio: "NONE"
-alt: "Organic Batteries"
+abio: NONE
+alt: Organic Batteries
 ---
 
 <style type='text/css'>
@@ -26,15 +27,13 @@ Electric vehicles are the future of the automobile industry. Lack of encourageme
 
 A Bhubaneshwar-based start-up company called Nexus, however, believes it has the solutions. They have succeeded in developing batteries from rice stubble, burning of which is a major source of pollution in and around Delhi, to replace the currently used ones. This alternative helps reduce pollution and also produces green energy. The company was started by two sisters who believe that with enough Government encouragement, they can achieve their motto of a sustainable environment that would make India emerge as a pollution-free, leading electric vehicle industry in the world.
 
-## Making a battery from rice stubble: an alternative way for sustainable energy
+### Making a battery from rice stubble: an alternative way for sustainable energy
 
 Let’s first understand what rice stubble is. After the harvest of rice straw, the uncut portion of the crop, known as stubble, remains and is usually burned or incorporated by farmers for the preparation of the next soil crop. Generally, rice stubble takes about one and half months to decompose after harvest. However, farmers do not have enough time for incorporating this as they have to sow the next crop. Hence, they use a cheap, effective way to get rid of these stubble by simply burning them. This act of burning the uncut portion is mainly carried out in Punjab and Himachal Pradesh. Stubble burning can release a lot of harmful gases such as Carbon Monoxide, Sulphur Dioxide, Nitrogen Oxides, and most importantly, particulate matter. This leads to a large amount of air pollution which can be avoided by using the stubble for producing safe and healthy green energy.
 
 ![img](./images/batteries2.jpg)
 
-## Need to use organic batteries
-
-​
+### Need to use organic batteries
 
 **Fast Charging**: Batteries made by rice stubble charge from 0-100% in less than 10 minutes, while having higher efficiency than lithium-ion batteries.
 
@@ -48,7 +47,7 @@ Let’s first understand what rice stubble is. After the harvest of rice straw, 
 
 **Battery Design**: The batteries are designed with a patented combination of parallel and series arrangements for the cells in a pack. The arrangement allows adequate levels of current and voltage flow, and enables a fast-charge mechanism. The batteries for electric vehicles and consumer electronics also sport a battery cooling system in the pack to lower the chances of overheating and allow heat escape during high power-driven tasks, especially with high power engines in electric vehicles.
 
-## Technical Aspects
+### Technical Aspects
 
 These batteries are very useful for industrial uses as they have:
 
@@ -61,8 +60,7 @@ These rice stubble batteries can also be used to charge smartphones and other ga
 
 In conclusion, batteries made from rice stubble prove to be an excellent alternative in all aspects and hence should be more widely encouraged and opted for to help achieve a sustainable environment for the future.
 
-References:
-
+References:          
 - https://nexuspower.in/
 
 > Paraphrased by,  
