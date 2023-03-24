@@ -48,7 +48,7 @@ You can’t deny it; most of us spent a major part of our first year here openin
 
 ### the OAT…
 
-![](https://lh6.googleusercontent.com/f6K8wd9ZHb9cySkPhwQcvA0RGc1Lzo6RC4SEwNBGNXNHqyCzyJzbGkEuraJAHchn30AZ44nFMRPhl0p5cDYyaAIgiUQDErv1c-0AYe4IuRDFDFZV9SzNDGSLtWmLPPd4x4viEw8Nv__67tDzJx51Oak)
+![](images/dsc_3294.jpg)
 
 *Sometimes, the moon is pink.*
 
