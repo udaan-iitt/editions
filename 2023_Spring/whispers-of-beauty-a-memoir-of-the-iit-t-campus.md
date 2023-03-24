@@ -120,7 +120,7 @@ The computer lab in the early hours of the morning is a most beautiful and seren
 
 ### hostel Malhaar…
 
-![](https://lh3.googleusercontent.com/Ke2en__I_Pm9N2hWFtrf7j7WN3rcA6ayc31X1MR4a-rl68wqxdBbBRViXuoyVBFbTuGNHzoHSrW6R9ihShj-YmvcIXmGizXRCLjWXxQ2ZppfL-boK5xPwc4SX3gFX3v_7H8qDPyF-yHF-qBeXX0KkOI)
+![](images/dsc_0006.jpg)
 
 Walking across it at midnight is amazing. It looks like a stream of light spanning an abyss of darkness.
 
