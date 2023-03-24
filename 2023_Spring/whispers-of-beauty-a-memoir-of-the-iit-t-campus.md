@@ -84,7 +84,7 @@ Oh if only walls could talk, if only bricks and concrete had voices, if only we 
 
 ### the main inner road…
 
-![](https://lh5.googleusercontent.com/Hd7u2wR5LHKEracDWfVts8HHq_SoFMF6nlAseuucy7Z7amXRLg9J6WMEwmEri4qq93Gs-DhmMBd0RVwkSr3FVnZc4QwxpP_l7KLtsygK0jSiXkZd5IM1RlpFiSkrSTQJ26VVzpyMNgE-8yeXEKYQC5w)
+![](images/campus-16.jpg)
 
 Sometimes you walk this path with your best friend in the whole wide world, and sometimes with someone who broke your heart, but you pretend it's just a nightmare.
 
