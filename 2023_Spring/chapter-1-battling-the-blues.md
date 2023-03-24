@@ -6,7 +6,7 @@ desc: "Even the darkest night will eventually end, and the sun will rise again.
   Presenting Chapter 1 to 'It's the Climb';  where we talk about the various
   aspects of a very common battle fought in the silence of one’s own mind:
   Depression."
-thumbnail: images/battling-blues.jpg
+thumbnail: images/battlingblues.jpg
 authors: Krithi Shailya
 starred: false
 abio: ""
