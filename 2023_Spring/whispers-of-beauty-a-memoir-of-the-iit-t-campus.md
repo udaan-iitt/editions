@@ -30,7 +30,7 @@ Well, on the other hand, if you’re heading to a class in the CRC in the middle
 
 ### the basketball court…
 
-![](https://lh6.googleusercontent.com/cUkFuHKugQUr6_nPceEfSeRuDxd9facYYNdjaTaXn0d6La23gZfNySbhmxHdFJUf-YwihAW131UhwO1bw6N1uM5FKTA0NBm1S13XUlet7fiL0JVOvhnmVASqs_3W69iIZavVvWzxA_B_4-dYShk7CM4)
+![](images/sports-13.jpg)
 
 A vast bright blue canvas, a garden full of the roses of camaraderie and the thorns of competition, the basketball court is art. Such a simple design, yet so intricate. A court of length exactly equal to the distance you can run back and forth before your body gives up its basic functions. A three-point line exactly far enough from the ring to make you miss every shot by a hair's width. A ring suspended high enough to make you feel tall yet small. A free throw line at the exact distance from the ring to ensure the shots feel well-earned but unrewarding. A ball of the perfect size and perfect grip which will always slip off your fingers when your shot counts the most. A net intended to simply let you know if the ball passed through the ring, but all the magic...all the joy...all the glory...all those moments of harsh training...all those droplets of sweat...and all those hopes and dreams reside in that net. A "swish", a legendary feeling, neatly sums up what basketball is all about. 
 
