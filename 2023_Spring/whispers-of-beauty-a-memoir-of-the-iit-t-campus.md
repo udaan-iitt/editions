@@ -6,11 +6,11 @@ desc: >
   Have you forgotten the magic that surrounds the IIT-T campus, or grown too
   accustomed to it? Here’s to the sights we walk past everyday, recalling the
   same wonder we felt when we first saw them during our first days on campus! 
-thumbnail: ./images/benchbond.jpg
-alt: ""
-abio: ""
+thumbnail: images/cover.jpg
 authors: Team Udaan
 starred: true
+abio: ""
+alt: ""
 ---
 *Have most of us forgotten the magic that surrounds this campus, or have we grown too accustomed to it? Walked by the same things everyday like clockwork and taken their presence for granted?* 
 
