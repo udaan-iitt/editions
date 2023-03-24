@@ -104,8 +104,6 @@ Instead of, 
 
 As a side note, only include information that you completely understand! You would not want to miss out on the position just because you cannot answer that one project you don't fully understand. Make sure you can back up every point on your resumé with adequate explanation in case you are questioned about it during an interview. 
 
-
-
 ![](images/resume2.jpg)
 
 - - -
@@ -221,6 +219,6 @@ In conclusion, a resumé is a crucial tool for any job seeker. As intimidating a
 
 A special thanks to Debeshee and Ishaan for their inputs on this article.
 
-1.  r/resumes FAQ - <https://www.reddit.com/r/resumes/wiki/index/faq>
+1. Résumés FAQ - <https://www.reddit.com/r/resumes/wiki/index/faq>
 2. How to Write an Irresistible Technical Résumé - <https://www.grammarly.com/blog/technical-resume>
-3. How to Write an Effective Resume - <https://blog.coursera.org/how-to-write-an-effective-resume>
+3. How to Write an Effective Résumé - <https://blog.coursera.org/how-to-write-an-effective-resume>
