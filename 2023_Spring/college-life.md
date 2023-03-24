@@ -4,7 +4,7 @@ category: Poetry
 date: 2023-03-21T18:21:50.984Z
 desc: This poem is a tribute to the ever-evolving nature of life and the people
   we share it with. As we move forward in our lives, there is a part of us that
-  longs for our old friends that helped us shape into who we are today.
+  longs for our old friends who helped us shape into who we are today.
 thumbnail: images/college.jpg
 authors: Abhishek
 starred: false
