@@ -112,7 +112,7 @@ Under the neem tree is a sanctuary. It is solace. It is peace. Proving to be a p
 
 ### the CC lab…
 
-![](https://lh4.googleusercontent.com/Fs0TGhuPGw176SihU7OwiU5ahn1DvjmYs_vybJZI-El3f4fNuigE9zeD4N0L11hh-73HCWnYYVzLgb-RaUPmzbRb-BQ02PpLCZT1HxyP_qwNVAIdV8FPpK5uv34VbL1YGVimjXFcQvM9lA3ufWzVbPs)
+![](images/20230210_000505.jpg)
 
 The computer lab in the early hours of the morning is a most beautiful and serene space. The stillness of the air, punctuated only by the soft whir of the machines, creates an atmosphere of peace and tranquillity. The lab provides a sense of solitude that can be hard to find in the bustle of college life. The rows of desks, each with its own computer, stretch out, inviting you to sit and do what you please - be it work, learning or downloading something the hostel wifi would not grant you the privilege to, all while catching a glimpse of people typing away in their own intriguing fashions and getting their work done for the day. There’s something reassuring in how people collectively and individually complete their goals, one at a time, and the lab sets this reassurance in motion. But how can we possibly end without mentioning the server room, with its racks of gleaming machines and the soft purple light that dances across the walls casting a mesmerising glow over the room? The hum of the servers and people typing away at breakneck speeds all come together to create a symphony that bears testament to the power of technology and its ability to transform our lives. 
 
