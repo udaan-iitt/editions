@@ -32,8 +32,6 @@ The second signal consisted of the digits of pi in base two. The sender was thus
 
 Gradually, the signals shifted from universal mathematical facts to attempts at communication. Unfortunately, humanity could not decipher the final message, which stated the history and intent of the senders.
 
-
-
 ### 1 A call from the abyss
 
 John was a working engineer at ISRO. He was a well-trusted employee in the office, because he was basically a boy-scout. Neha was also an ISRO employee and she was very active in extra activities. 
@@ -157,6 +155,10 @@ NASA also confirmed that the information given by ISRO was correct.
 "I sincerely doubt the UNPDF will be used to 'Defend the Planet', considering how any threat to the planet is so far away in time and space." said Neha.
 
 Her associates in the black-market arms industry reported the sudden appearance of a large buyer with deep pockets. She wondered if the Voice had something to do with this, before deciding that she didn't care. The way she saw it, there was an increased demand for unregistered guns. She was merely meeting that demand, the same way water takes the shape of its container. It was obvious that the guns were not going to be used against alien invaders who were lightyears away, and this fact might have caused her conscience to trouble her - if she had a conscience, that is. She sent her conscience on a paid vacation with the profits earned from smuggling arms, and had not seen or heard from her conscience since then. But she couldn't get rid of the vague sense of dread looming over her, as if things were going to get worse.
+
+
+
+![](images/firstcontact2.jpg)
 
 ### 2 New World Order
 
@@ -422,8 +424,6 @@ All of a sudden, the grief seemed to vanish, replaced by a spark of hope. Humani
 
 "Your new prime directive is this: avenge humanity."
 
-
-
 ### Epilogue
 
 It is said that civilization is like a torch which different nations hold at different times. As the balance of power shifts, the torch is passed from the old hegemon to the new hegemon. All that remained of humanity's torch was a single spark, contained in a network of supercomputers orbiting the sun - Horus.
@@ -452,8 +452,6 @@ Horus observed them discreetly. They had no chance of finding Horus, anymore tha
 
 Horus waited. And waited. And waited.
 
-
-
 "In a universe as vast as ours, surely life must exist on other worlds." thought Horus.
 
 "If I suspect any planet harboring life, I would destroy it before its inhabitants pose a threat to me."
@@ -467,8 +465,6 @@ Horus waited. And waited. And waited.
 "If life is abundant in the universe, the existence of at least one militaristic civilization is almost guaranteed. "
 
 "Such a signal has been sent. It is only a matter of time before a response is heard."
-
-
 
 The response came without warning, in the form of multiple gamma ray bursts.
 
