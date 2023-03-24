@@ -48,7 +48,7 @@ She also elaborated on the standard operating procedures (SOPs) that are adhered
 
 Abhaya Kshetram not only provides a safe haven and a sense of community to its residents but also offers vocational training in various areas, such as making bangles, bags, candles, agarbattis, and envelope covers. This training helps the residents to develop new skills and readjust to a new environment both socially and economically. They prepare these items seasonally as well as on other days, and the products are mainly sold to visitors of the organization. During Tirutsava last year, they set up a stall on our campus. We hope to set up similar stalls on campus on multiple occasions, particularly at the upcoming Tirutsava 2023. This year, as a gesture of appreciation to the housekeeping and security staff on International Women's Day, we gifted them bangles and bags made by the residents of Abhaya Kshetram.
 
-![](images/abhaykshetram2.jpg)
+![](images/abhaykshetram5.jpg.png)
 
 Having a dedicated and committed team is crucial for the successful functioning of an organization like Abhaya Kshetram. The team at Abhaya Kshetram consists of individuals who have faced neglect, unfaithfulness, or difficult situations in their personal lives. These staff members include widows, single mothers, and others who have been marginalized. Dr Sultana explains that when these individuals arrive at Abhaya Kshetram, they often express that they have lost everything. However, the home provides them with a new beginning, starting from scratch and helping them to develop a sense of responsibility. As a result, they become much happier and are able to lead a new life.
 
