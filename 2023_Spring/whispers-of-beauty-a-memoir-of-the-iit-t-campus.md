@@ -40,7 +40,7 @@ Generations of friendship, discipline, laughter, falling down and getting right 
 
 ### the badminton court…
 
-![](https://lh3.googleusercontent.com/__eoIvNTQ58mCQbmjDRZe_w5wNlXHsPJCz62MUke_SonhVbsRW6NQCBfsr2PpJLFp4YoIuTYbXyIgpm2X-duiWrRdl-C8NaAMXhA5PV3R0VPj0G1OCHeGmFmc3unGoFoX9i4u5mZ6xoSodoYCLVIP0Q)
+![](images/sports-8.jpg)
 
 You can’t deny it; most of us spent a major part of our first year here opening ourselves up to the freedom of college and allowing ourselves to move freely without being overly conscious. We gained confidence by playing badminton (coolly or clumsily, so be it) and forged some lasting friendships, the court being the officiant of the bond. The acoustics of the indoor complex deserve their own recognition - tiptoeing into the empty building for a cool splash of water in the middle of the night with the temptation to belt a note out to the ceiling, walking back from Sargam practice sessions with a blanket of fulfilment and a pronounced sense of euphoria, and watching movies with friends on a Saturday night - with the acoustics, limitless spirit of the court, and the freedom of the night, we could go as far as to say the indoor complex is a temple for the soul.
 
