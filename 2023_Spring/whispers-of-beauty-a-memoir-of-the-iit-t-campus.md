@@ -66,7 +66,7 @@ This is our collective happening. This is a symbol of our oneness as IITT, where
 
 ### the lab 2 building…
 
-![](https://lh6.googleusercontent.com/bhqce0k53bY4MkAKuC-R1QNJHjgzWdN8OVsWHN2-x-oA2MQHeimeZmczjIkSsvFM4nU23JdMz8rXxZfA-bZBDdu12CcjcyI3PWVUzdmG0z5YfZ9eJp41ma0fGoli2sd8yTjYW__UY23sso1J3SOY2SA)
+![](images/dsc_3285.jpg)
 
 Easily the most happening place on our campus, this is one for the crowds. This is where legends are made, and where stories are told. For many people, for many nights, this place is home. This could be considered the college equivalent of a temple hall, where you have a sit down with your family and eat prasad while exchanging niceties. Being the perfect junction for every path on our campus, nothing escapes the eyes of these pillars. Meetings, events, celebrations, drama, gossip, fights, you name it, we've seen it here. The seniors would remember the open mic culture that used to kick off back in 2019 - those were some of the most comedic moments when everyone sat out in the open and laughed to their hearts’ content. Moreover, every couple of weeks or so, you can walk by to see people preparing for events, having rangoli competitions, making wish cards for Christmas trees, watching Xcite dance rehearsals or eating pani puri at the Rasoi food stalls. But when we get dressed at the crack of dawn to attend pujas here or gather to decorate Christmas trees, it reminds us of home and how festivals would be celebrated amongst family; it gives strangers a beautiful peek into the festive culture as we celebrate each other’s occasions.
 
@@ -74,7 +74,7 @@ Easily the most happening place on our campus, this is one for the crowds. This 
 
 ### the CRC balcony…
 
-![](https://lh3.googleusercontent.com/18myXzPJFkuqQ0DnNhPTs6melFfpQPYIezYQPofF8ILfLfbV5SNNMrprEImBqzcGrdlulw_M1ys4UzFfLUp4ixvBGodfOzooeAcavrxiIrf_Afp3TB-SrzVWSa5dw3AEqQ_vDbCEl1ky5YaX4VgTYjw)
+![](images/dsc_3258.jpg)
 
 Oh if only walls could talk, if only bricks and concrete had voices, if only we could hear the whispers of the wind from up here, what stories would they tell, what legends would they write, what news would they bring? Would they sigh in melancholy? Would they weep for your sins? Would they giggle with glee? Would they whisper about scandals? Would they cheer with your joy? The perfect location for you, your 3 am thoughts, and the ghosts of your past. If you are here with your friends at night, you can talk about the most random topics, and make fun of each other while the wind blows on your face as you see the night lights go off, one by one.
 
