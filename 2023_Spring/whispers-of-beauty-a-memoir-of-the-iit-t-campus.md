@@ -132,7 +132,7 @@ If you're someone who likes late-night strolls around our campus, there is no wa
 
 ### the IIT Tirupati board ledge...
 
-![](https://lh6.googleusercontent.com/lQJh4gGfBzIg3q9cUfJnXlZkiNSMVk__yzW6mIW2DXihLvV-wdi3aAgjPtXJmKjr-DuAGBPoyG3THDOU3Si8jNaKKLTDsZ6gJ7u9LwCOTtF3gJ9zfTokiBYACaFCak8lj6E46xmB8hcfHQFBit_go-Y)
+![](images/dsc_3231.jpg)
 
 *Did you even attend IITT if you haven't taken a picture in front of this wall?*
 
