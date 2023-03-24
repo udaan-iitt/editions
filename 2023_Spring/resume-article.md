@@ -1,5 +1,5 @@
 ---
-title: Resumé Article
+title: How To Resumé
 category: Op-Ed
 date: 2023-03-19T18:33:02.702Z
 desc: A resumé is an essential tool for any job seeker. It is meant to summarise
