@@ -58,7 +58,7 @@ Festivals and college nights bring to life a chain of trees twinkling in a tangl
 
 ### the OAT stage…
 
-![](https://lh6.googleusercontent.com/LGtzNdjfixAZv7ABWfxyj5maXndrvs-1R03sGO2UEkEpdEWzMdCyntMPrnGw0Z0YIX2FPo3HF3ehSLmc1BHmS1ICt6Ziwbv9tZ6Jn0KYplrAQGMlVCO0-x00NQW_QJ-Nks5ODMzGsI3npSEuFZL2Fwc)
+![](images/dsc_3228.jpg)
 
 This is our collective happening. This is a symbol of our oneness as IITT, where people walking on separate paths come together to share a moment or two under the skies and on a grassy carpet. The nights spent here give rise to chaos, butterflies, stomachs aching from laughter, shoulders hoisting up each other, and perhaps even a fist or two flying around in the spirit of festivity. Pictures. Unflattering pictures. Pictures that will go down in history as the most beautiful moments to be captured; pictures that do justice to smiles, tears, shared experiences and friendship. Memories we’ll hold on to and talk about long after we’re gone. Love letters about a certain someone in red who vanishes into the crowd. The lights blind you when you’re on stage, making you forget who you essentially are and where you come from - leaving you with the urge to give everything you have to the outside world.
 
