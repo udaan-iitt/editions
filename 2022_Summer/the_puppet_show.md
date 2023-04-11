@@ -835,7 +835,7 @@ All The Best!!!!
 >*-Debeshee*
 
 >An extremely sweet person at heart, but extremely intimidating in the first interaction. Everyone I knew was initially scared of Sneha, and it's probably her bold but unique way of talking, I was never able to figure out why! And it's not just the way she talks, she's bold and confident in her actions too. And her work ethic is very inspiring. She does way too many things at a time, and till date, I have no idea how she manages to do justice to all of them!
-On a work related personal note, she's very focused and a quick learner. I received a lot of help from her when I was LAS, and I knew that if she was taking care of something, I could rest easy and be assured that it would go well!
+>On a work related personal note, she's very focused and a quick learner. I received a lot of help from her when I was LAS, and I knew that if she was taking care of something, I could rest easy and be assured that it would go well!
 >
 >*-Prabhat*
 
