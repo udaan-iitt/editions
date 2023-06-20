@@ -2,24 +2,6 @@
 // value
 
 export const newsletter = [
-  // {
-  //   key: 'noble',
-  //   email: 'ch19b023@iittp.ac.in',
-  //   title: 'Noble Saji Mathews',
-  //   link: 'https://in.linkedin.com/in/noble-saji-mathews',
-  // },
-  // {
-  //   key: 'debeshee',
-  //   email: 'cs19b012@iittp.ac.in',
-  //   title: 'Debeshee Das',
-  //   link: 'https://www.linkedin.com/in/debeshee-das/',
-  // },
-  // {
-  //   key: 'sirish',
-  //   email: 'cs20b043@iittp.ac.in',
-  //   title: 'Sirish',
-  //   link: 'https://www.linkedin.com/in/sirish-sekhar-6896b51a7/',
-  // },
   {
     key: 'krithi',
     email: 'ee20b038@iittp.ac.in',
