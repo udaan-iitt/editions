@@ -2,18 +2,24 @@
 // value
 
 export const newsletter = [
-  {
-    key: 'noble',
-    email: 'ch19b023@iittp.ac.in',
-    title: 'Noble Saji Mathews',
-    link: 'https://in.linkedin.com/in/noble-saji-mathews',
-  },
-  {
-    key: 'debeshee',
-    email: 'cs19b012@iittp.ac.in',
-    title: 'Debeshee Das',
-    link: 'https://www.linkedin.com/in/debeshee-das/',
-  },
+  // {
+  //   key: 'noble',
+  //   email: 'ch19b023@iittp.ac.in',
+  //   title: 'Noble Saji Mathews',
+  //   link: 'https://in.linkedin.com/in/noble-saji-mathews',
+  // },
+  // {
+  //   key: 'debeshee',
+  //   email: 'cs19b012@iittp.ac.in',
+  //   title: 'Debeshee Das',
+  //   link: 'https://www.linkedin.com/in/debeshee-das/',
+  // },
+  // {
+  //   key: 'sirish',
+  //   email: 'cs20b043@iittp.ac.in',
+  //   title: 'Sirish',
+  //   link: 'https://www.linkedin.com/in/sirish-sekhar-6896b51a7/',
+  // },
   {
     key: 'krithi',
     email: 'ee20b038@iittp.ac.in',
@@ -49,12 +55,6 @@ export const newsletter = [
     email: 'me21b045@iittp.ac.in',
     title: 'Sneha Battula',
     link: 'mailto:me21b045@iittp.ac.in',
-  },
-  {
-    key: 'sirish',
-    email: 'cs20b043@iittp.ac.in',
-    title: 'Sirish',
-    link: 'https://www.linkedin.com/in/sirish-sekhar-6896b51a7/',
   },
   {
     key: 'mohith',
@@ -101,12 +101,50 @@ export const newsletter = [
 ];
 export const pastmembers = [
   {
+    key: 'debeshee',
+    title: 'Debeshee Das',
+    tagLine1: '',
+    tagLine2: '',
+    role: 'Editor-in-Chief | 2022-23 , Editor | 2021-22',
+    year: '2020-23',
+    desc1: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vitae diam euismod, aliquam elit vitae, ultricies ni',
+    desc2:
+      '',
+    link: 'https://www.linkedin.com/in/debeshee-das/',
+  },
+  {
+    key: 'noble',
+    title: 'Noble Saji Mathews',
+    tagLine1: '',
+    tagLine2: '',
+    role: 'Udaan\'s spine | Since inception, Tech team lead | 2020-23',
+    year: '2020-23',
+    desc1:
+      'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vitae diam euismod, aliquam elit vitae, ultricies ni',
+    desc2:
+      '',
+    link: 'https://in.linkedin.com/in/noble-saji-mathews',
+  },
+  {
+    key: 'sirish',
+    title: 'Sirish',
+    tagLine1: '',
+    tagLine2: '',
+    role: 'Tech team',
+    year: '2022-23',
+    desc1:
+      'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vitae diam euismod, aliquam elit vitae, ultricies ni',
+    desc2:
+      '',
+    link: 'https://www.linkedin.com/in/sirish-sekhar-6896b51a7/',
+  },
+  {
     key: 'prabhat',
     title: 'Prabhat Reddy',
     tagLine1: 'AKA pace577. An institution and inspiration',
     tagLine2: 'The Prabotriarchy',
     role: 'Editor-in-chief',
-    year: '2021-22',
+    year: '2020-22',
     desc1: 'Team Udaan trailblazer and pacesetter.',
     desc2:
       'Designed,Organised and meticulously documented the workflow of Udaan',
@@ -118,7 +156,7 @@ export const pastmembers = [
     tagLine1: 'Founding Father',
     tagLine2: `The "lit" Sec, who started it all`,
     role: 'Editor-in-chief',
-    year: '2021-22',
+    year: '2020-22',
     desc1:
       'Team Udaan pioneer and visionary who brought to life the idea of a student-run institute magazine.',
     link: 'https://www.linkedin.com/in/shreyansh-mehra/',
