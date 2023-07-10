@@ -26,6 +26,7 @@ What does the trending switch-over from WhatsApp to Signal, the public cloud, su
 And it doesn&rsquo;t stop there. Widely used programs like [OBS](https://obsproject.com/), [VLC media player](https://en.wikipedia.org/wiki/VLC_media_player), [Audacity](https://www.audacityteam.org/), [Mozilla Firefox](https://en.wikipedia.org/wiki/Firefox), [Blender](https://www.blender.org/) are all belong to the family of Free and Open-Source Software (FOSS). The trending programming language [Python](https://www.python.org/about/) and the famous web development language [PHP](https://en.wikipedia.org/wiki/PHP) are FOSS. Even [LaTeX](https://www.latex-project.org/), the software cherished by researchers around the world is FOSS.
 
 [Free and open-source software](https://en.wikipedia.org/wiki/Free_and_open-source_software) (FOSS) has become popular worldwide especially over the past 2 decades and its use has become so widespread, that it isn&rsquo;t something that only concerns software developers anymore; it has a significant impact on the society&rsquo;s functioning and our way of life. Even the recent trend in switching over to Signal from WhatsApp messenger has its roots in Signal being FOSS. So let&rsquo;s see what the FOSS is all about!
+*******
 
 <a id="org79bcc39"></a>
 
@@ -47,6 +48,7 @@ To understand the concept, you should think of “free” as in “free speech,�
 While open-source software has a [similar definition](https://en.wikipedia.org/wiki/The_Open_Source_Definition), it is not exactly the same; they [differ on philosophical grounds](https://www.gnu.org/philosophy/open-source-misses-the-point.html). Free software emphasizes on ethics and user rights, while [open source software focuses on marketing and pays little to no attention to user&rsquo;s rights](https://en.wikipedia.org/wiki/Free_software#Naming_and_differences_with_Open_Source). A software is classified as free software and/or open-source software [according to the license it is published in](https://en.wikipedia.org/wiki/Comparison_of_free_and_open-source_software_licences).
 
 Now that we know what it is, let&rsquo;s look into how FOSS effects our lives today.
+********
 
 <a id="org6d4dbd5"></a>
 
@@ -69,6 +71,7 @@ Theory lays the foundation for engineering, but practice is where an engineer ta
 Another direct consequence of effortlessly duplicating information is the ability to **share information**. This ability gave birth to E-mail, Digital news, social media, [memes](https://www.youtube.com/watch?v=ixY5SrGHb7I), [music](https://www.youtube.com/watch?v=_8Gx6AFMJ9U) and [creative content that one can&rsquo;t even begin to explain](https://youtu.be/rrZi125UOUY). This enabled the community to create and maintain widely used and trusted knowledge bases like [Wikipedia](https://en.wikipedia.org/wiki/Main_Page) and [Stack Exchange](https://stackexchange.com/sites#), information exchange sites like [Quora](https://waxy.org/2018/12/why-you-should-never-ever-use-quora/), software collaboration suites like GitHub, and many more.
 
 FOSS makes use of sharing information to the maximum possible extent. By the virtue of the freedoms associated with FOSS, anyone can make a copy of (or _fork_) publicly available source code, modify it to make it better, and share it back to the community so other people can use it for their needs or contribute to the software in a similar manner. This _community driven development_ has the potential to lead to higher rates of development, higher than this world has ever seen, and the emergence of FOSS in the last two decades is the proof of that statement.
+*********
 
 <a id="orga346934"></a>
 
@@ -87,6 +90,7 @@ Also, no one has to worry about any FOSS going extinct. If a company decides to 
 It doesn&rsquo;t stop there. The community driven nature of FOSS enables the community to take control over their data and activity on the internet. Take a look at WhatsApp for instance. WhatsApp has a centralized structure, i.e. all communication must pass through WhatsApp&rsquo;s servers before reaching the intended recipient. This enables WhatsApp or any other centralized software to use this data however they wish, which lead to controversies over issues like undesirable personalized advertisements, privacy invasion, users rights violation.
 
 People decided to take matters into their own hands, and this led to the rise of _decentralized communication_. This [encompasses a range of communication techniques](https://decentpatterns.xyz/report/#key-terms) like [P2P](https://en.wikipedia.org/wiki/Peer-to-peer) and [federated networks](<https://en.wikipedia.org/wiki/Federation_(information_technology)>) that prevents a single entity to have control over user data. Apps like [Tox](https://tox.chat/index.html) that use P2P, or _Peer to Peer_ communication, lets the user communicate directly with another user without the need of a middleman. Federated networks used by the [Fediverse](https://en.wikipedia.org/wiki/Fediverse) software platforms, like [Mastodon](https://joinmastodon.org/) (alternative to Twitter) and [Pixelfed](https://pixelfed.org/) (alternative to Instagram) among others, allow for the interconnection of multiple networks across the world.
+********
 
 <a id="org42279b7"></a>
 
@@ -105,6 +109,7 @@ Let&rsquo;s take a look at PCs for example. People are beginning to use [Linux e
 ![img](./images/foss5.jpg)
 
 There are FOSS alternatives to other widely used software, even for online services like the Google search engine, OneNote, Gmail, and they are growing faster every day. You can find such alternatives [here](https://www.linuxjournal.com/content/foss-software-alternatives-popular-proprietary-software) and [here](https://lifehacksthatwork.com/a-massive-list-of-free-software-alternatives/).
+*********
 
 <a id="org4bb75e1"></a>
 
