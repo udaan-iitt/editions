@@ -11,6 +11,7 @@ alt: "amazon"
 ---
 Amazon came to our campus around October for taking interns for the Software Development role. Generally, they take two rounds for their summer intern hiring. The first one is an online test consisting of MCQs related to code debugging, coding questions related to data structures, work style assessment based on Amazon’s leadership principle, and Logical ability questions. Once it is cleared, you get an invite for a one-to-one technical interview round in which they ask questions based on coding. In our case, two questions were asked from this and the others were related to the resume.
 
+******************
 
 Arpit’s Experience
 ---
@@ -27,7 +28,7 @@ At Amazon, I didn’t have any fixed time slot to work, though the team generall
 
 Finally, I would say that I had a very good time at Amazon and I got exposure to how work is done in an industrial setting from discussing ideas at the initial stage to pushing a production-ready code!
 
-
+***************************
 
 Sudheesh's Experience
 ---
