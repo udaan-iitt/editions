@@ -69,19 +69,17 @@ The annual Inter IIT Tech Summit was hosted online this year by IIT Kharagpur fr
 
 <a id="gcu"></a>
 ### **GCU**
-The Guidance and Counselling Unit of IITT, Sarathi, has been keeping up the good work of ensuring that students are healthy physically and mentally. They have ensured that help will always be provided for whoever reaches out. In the previous academic year, Sarathi has continued conducting in-person counselling sessions on a regular basis, while ensuring the confidentiality of those who availed these sessions. On top of this, an exclusive room for Sarathi was set up in the basement of F Block for the conduction of in-person counselling sessions. Since not everyone who needs help actually reaches out, Sarathi also took help from the Faculty advisors and the Student Body to identify those who needed help and arranged counselling sessions for those who agreed to attend. A webinar on **‘Empower Your Inner Self’**, and a webinar on **‘A Guide to Suicide Prevention’** were also conducted which saw active participation, including that of the the Director, IITT. For the faculties of our institute, a barefoot counselling session was held in collaboration with YourDost.           
-<br> 
+The Guidance and Counselling Unit of IITT, Sarathi, has been keeping up the good work of ensuring that students are healthy physically and mentally. They have ensured that help will always be provided for whoever reaches out. In the previous academic year, Sarathi has continued conducting in-person counselling sessions on a regular basis, while ensuring the confidentiality of those who availed these sessions. On top of this, an exclusive room for Sarathi was set up in the basement of F Block for the conduction of in-person counselling sessions. Since not everyone who needs help actually reaches out, Sarathi also took help from the Faculty advisors and the Student Body to identify those who needed help and arranged counselling sessions for those who agreed to attend. A webinar on **‘Empower Your Inner Self’**, and a webinar on **‘A Guide to Suicide Prevention’** were also conducted which saw active participation, including that of the the Director, IITT. For the faculties of our institute, a barefoot counselling session was held in collaboration with YourDost.                                  
 
 Sarathi reached a milestone in their development with the official launch of their [website](https://iittp.ac.in/gcu/) on December 17, 2021. Once the new set of students joined the institute, GCU IITT allotted **UG Buddies** with the aim of improving communications between seniors and juniors and for the seniors to guide their juniors through transitioning into college life. Another milestone in the development of Sarathi was achieved in January 2022 with the launch of the official youtube channel and Instagram page to improve their online presence and reach. GCU posters were designed as a guide for students to seek help when they need it and these were attached all around the campus. Sarathi also hosted three talks by distinguished experts and speakers of mental health in addition to three talks in collaboration with YourDost. All of these events saw enthusiastic participation from students who wanted to focus on self-improvement.
 
 ------
 <a id="nss"></a>
 ### **NSS** 
-The NSS team had a very busy year both online and offline as they conducted and involved students in numerous community service events and activities. On the occasion of Gandhi Jayanthi, students, professors and other administrative officials of IITT volunteered in cleaning the institute premises. Masks and sweets were distributed to housekeeping staff as a token of gratitude, and students were encouraged to cut down plastic usage for a week. On the occasion of the 53rd NSS day on 24th September 2021, NSS IITT hosted the **‘Let's Plant a Tree’** activity, which saw active participation from students at home, who planted trees and uploaded pictures of the same. Team NSS, along with professors of IITT in association with *JCI*, distributed groceries worth Rs. 25,000 to people of a nearby village whose income had been affected by the pandemic. They also conducted a poster-making and video-making contest on awareness of the pandemic, and a poster-making contest on **‘India: Then vs Now’** on the occasion of Independence day.         
-<br>  
+The NSS team had a very busy year both online and offline as they conducted and involved students in numerous community service events and activities. On the occasion of Gandhi Jayanthi, students, professors and other administrative officials of IITT volunteered in cleaning the institute premises. Masks and sweets were distributed to housekeeping staff as a token of gratitude, and students were encouraged to cut down plastic usage for a week. On the occasion of the 53rd NSS day on 24th September 2021, NSS IITT hosted the **‘Let's Plant a Tree’** activity, which saw active participation from students at home, who planted trees and uploaded pictures of the same. Team NSS, along with professors of IITT in association with *JCI*, distributed groceries worth Rs. 25,000 to people of a nearby village whose income had been affected by the pandemic. They also conducted a poster-making and video-making contest on awareness of the pandemic, and a poster-making contest on **‘India: Then vs Now’** on the occasion of Independence day.                               
 
 For Swachchtha Pakhwada 2021, NSS IITT held a pledge and tree plantation event, a best out of waste contest, a poster-making contest, a bag-making contest, a mass cleaning campaign where students cleaned their own rooms and gave a day off to housekeeping staff, an essay writing contest on the theme **‘Role of Engineers in Rural Development’**, a stress relief activity focusing on creativity, and initiated kitchen gardening along with the horticulture officer. Under the schools and Elderly homes division of NSS IITT, a total of 25 activities were organized over a month in collaboration with the *SOS organisation and the Ullas Trust*. 
-<br>   
+
 
 Apart from that, a mask activity where masks and meals were donated to homeless children in the neighbourhood, and a **Cook-Up activity** to promote students' interaction with their parents and grandparents was conducted on the Instagram page. They also conducted an activity called **Know Your Social Worker**, an online project competition, **‘Science Hack 2.0’**, and distributed the donations by the students. The Health team of NSS IITT organised a poster-making contest for a tobacco-free campus, a talk on **‘Tobacco: A Devil In Disguise'**, a dental checkup in association with *Haripriya Dental Hospital*, a stress management seminar in collaboration with GCU, an eye checkup in collaboration with *Kartika Eye and ENT hospital*, a voluntary blood donation camp in collaboration with *NTR Blood donation trust*, and started an Instagram post series to provide awareness on diseases.
 
@@ -91,8 +89,7 @@ Apart from that, a mask activity where masks and meals were donated to homeless 
 
 <a id="cdc"></a>
 ### **CDC**
-CDC IITT has kept up the good work in guiding students to facilitate their placements and internships and has been working hard to achieve results through seminars and guidance sessions. They conducted mock placement interviews in association with *‘Talerang’*, guided students on how to improve their resumes and gave tips on personal skill development. A centralised student repository of internship processes and experiences has been created. Placement updates have been posted on notice boards around the campus to encourage active placement culture among the students. CDRs and CGRs gave the students updates about various industry-recognised contests and opportunities that would help them stand out from others. A workshop by the IITT Alumni association was conducted to guide final year students on job search, interview preparation, and resume preparation. 
-<br>     
+CDC IITT has kept up the good work in guiding students to facilitate their placements and internships and has been working hard to achieve results through seminars and guidance sessions. They conducted mock placement interviews in association with *‘Talerang’*, guided students on how to improve their resumes and gave tips on personal skill development. A centralised student repository of internship processes and experiences has been created. Placement updates have been posted on notice boards around the campus to encourage active placement culture among the students. CDRs and CGRs gave the students updates about various industry-recognised contests and opportunities that would help them stand out from others. A workshop by the IITT Alumni association was conducted to guide final year students on job search, interview preparation, and resume preparation.                  
 
 Moreover, CDC IITT increased its reach on social media by regularly updating flyers and posters to help reach the students better. To clear any doubts regarding their future in respective branches, a **‘Know Your Branch’** series was conducted for the BTech students by alumni and seniors of the respective branches. Webinars and seminars were conducted on different career options such as management, civil services etc, to keep the students informed about all sorts of options for their future. A placement talk series and a talk on resume and profile development on Linkedin was conducted to help students navigate the internships and placement process smoothly. Webinars on *GATE* and *ESE, UPSC Civil services examination*, and an exclusive talk on **'Career Roadmap for Engineers'** by *Unacademy* were also hosted by CDC IITT. Overall, CDC IITT has been giving numerous opportunities for students to sort out their future plans, and ensure that the placement and internships process proceed without any doubts or hindrances. CDC IITT seems to have covered any and every issue or doubt that a student may have regarding their careers. 
 
@@ -101,14 +98,11 @@ Moreover, CDC IITT increased its reach on social media by regularly updating fly
 <a id="tirutsava"></a>
 ### **Tirutsava**
 After _lots_ of uncertainty, rescheduling and discussion, our very own techno-cultural fest **'Tirutsava'** kick-started in Jan 2022. The grand fest was conducted in three phases namely *'The Inception', 'The Avenue' and 'The Conclusion'*. All the committees were formed and pumped up to put on a great show which they did deliver. **The Inception** started around 22nd January 2022 and went on till 26th February 2022. It had many exciting events such as *BGMI, Freefire, Competitive Coding, Insta Hunt*, and lots more. In collaboration with Sargam, a workshop on *'Introduction to music theory*' was conducted. As a part of the second phase, **The Avenue**, competitions on some trending games which include *COD, Volarant*, etc. were held with enthusiastic participation from students all across the country. 
-<br>
-
-Where’s the fun in an online fest? With the grace of covid and the covid committee, the gateway to conduct an offline fest opened. It was decided that the third phase, **The Conclusion**, would be conducted offline. The dates were fixed to be 15th April 2022 to 17th April 2022 and invitations were sent out to selected colleges (limited of course due to covid restrictions). *‘Garuda’* was chosen to be the mascot of this year’s fest. 
-<br>
-
+                              
+Where’s the fun in an online fest? With the grace of covid and the covid committee, the gateway to conduct an offline fest opened. It was decided that the third phase, **The Conclusion**, would be conducted offline. The dates were fixed to be 15th April 2022 to 17th April 2022 and invitations were sent out to selected colleges (limited of course due to covid restrictions). *‘Garuda’* was chosen to be the mascot of this year’s fest.                  
+                                           
 With the fest just about the corner, the groundwork for most of the committees began with full vigour. The campus was a buzz of activity as people from various committees did their best to ensure the smooth conduction of the fest. As a promotional and marketing strategy, flash mobs were conducted in several locations around Tirupati city. The much-awaited official Tirutsava merchandise went up for sale on the website. The Creative Cell worked day and night to make sure the campus was beautifully decorated and looked festive. They came up with different themes to decorate the campus for the big event which turned out to be a centre of attraction. As the fest drew even closer, the work of the Hospitality committee and the Security and Logistics committee began. The day before the fest was very hectic as all committees tried to ensure everything was in place for the big event. The very air was filled with festive vibes and anticipation.
-<br>
-
+                             
 The much-awaited Day 1 of Tirutsava 2022 started off with many cultural events including *Expressivo, Enigma, Funky Feet*, and Tech events such as the *App Development contest and Web Development contest* which saw active participation. The inaugural ceremony was held that evening followed by a fashion show by our students. Later that evening the stage was lit up by the many dancers from various parts of our country performing as a part of the group dance contest *‘Funky Feet’*. 
 
 |  |  |
@@ -117,11 +111,9 @@ The much-awaited Day 1 of Tirutsava 2022 started off with many cultural events i
 |<img src="./images/Student_Act/104.jpg" alt="noodles" width="100%" >|<img src="./images/Student_Act/40.jpg" alt="pasta" width="100%">
 
 On the second day, events such as *Squid Games, JAM, Ideathon, and Treasure Hunt* took place with much energy and zeal. That evening, for the pro show, the mesmerising *'Shri Rama Chandra'*, the winner of Indian Idol - 2013, immersed the audience in an enthralling musical performance. A huge crowd from in and around Tirupati gathered in the OAT to witness his performance. 
-<br>
-
+                         
 The last and the final day witnessed events such as *Robosphera, Crime Busters, Talky Jockey*, and many more. Apart from these events, *Data Science and Ethical Hacking* workshops were conducted. The fest came to an end on a very high note. As a part of the pro show, we had *DJ Esha* and *Ashtrix* whose energetic beats brought dancers out of everybody and left the students with a night to remember.
-<br>
-
+                                           
 The fest proved to be an amazing and memorable experience. Despite being hybrid, Tirutsava 2022 proved to be a grand success. Many of the students got a chance to understand how things needed to be dealt with as they got a chance to work being part of various committees. With all the technical, cultural, and literary events, students got a chance to explore their talents and interests. To read a more detailed account on what goes on behind the scenes to pull off a success like Tirutsava 2022, [click here.](https://udaaniitt.in/editions/2022_Summer/Tirutsava_Behind_the_Scenes/)
 
 ------
@@ -130,16 +122,13 @@ The fest proved to be an amazing and memorable experience. Despite being hybrid,
 ### **Spic Macay**
 
 Despite being an on and off year, **SPIC MACAY IITT** managed to conduct various activities. An **'Online Flute Concert'** was held where *Shri Ajeet Pathak* on the flute accompanied *Pandit Ronu Majumdar on Mridangam* on 11th February 2022. Another **'Online Veena concert'** by *Vid. Punya Srinivas* accompanied by *Shri D.A. Srinivas on Mridangam* and *Shri S. Sunil Kumar on Kanjira* was held on 21st August 2021.
-<br>
-
+                                         
 When everything was back to normal, a two-day **'Cheriyal painting workshop'** was conducted on April 30 and May 1. This event was refreshing as the participants got an opportunity to explore this ancient art form. An Offline event inviting *Sri Sikkil Gurucharan* accompanied by *Padma Vibhushan Sangita Kalanidhi Kalaimamani Dr Umayalapuram K Sivaraman on Mridangam, Sri Sanjeev V on Violin, KanjiraMan Sri B Shree Sundar Kumar on Kanjira* was held on 28th May 2022 in our campus. 
 
 |  |  |
 |:-:|:-:|
 |<img src="./images/Student_Act/ADS_9835.jpg" alt="noodles" width="100%" >|<img src="./images/Student_Act/ADS_9858.jpg" alt="pasta" width="100%">
-
-<br>      
-
+                                     
 <a id="festivals"></a>
 ### **Festivals**                                                           
 #### **Independence Day**              
@@ -151,8 +140,7 @@ The Independence Day celebrations were held online due to the then-ongoing pande
 
 #### **Diwali**                       
 Diwali is considered to be one of the most exciting festivals of the year. The festival became more exciting as it was the first festival on campus for many of us after a long break that none of us wanted. The day started with a diya painting event. Later that afternoon, students gathered near Lab 2 to decorate the place with beautiful and colourful rangolis.
-<br>
-
+                        
 In the evening, a pooja was held followed by a bonfire. Then came the most exciting part of the event where students lit crackers and lanterns followed by a DJ. It was an evening well spent, enjoying with friends. Diwali did bring light into a lot of our lives and memories.
 
 |  |  |
@@ -184,8 +172,7 @@ The festival of colours was spent in a very joyous manner. All the students on c
 
 <a id="have-we-met-before"></a>
 ### Have we met before   
-When it comes to memories, the fleeting moments spent with friends be it randomly bumping into each other at 2 am, or standing in long lines in the mess, fighting for ice cream in the canteen, the two-minute conversations that lead into deep conversations, and so on, are the ones that stand out. But when the college was nothing but the four walls of your room and a laptop screen, how does one make these memories? How does one interact with their college mates? The LAC and GCU came together to address this issue and organised *"Have We Met Before?*” - an institute-wide interactive and fun event, open to all UG and PG students where students across branches, and years came together to participate in a variety of activities.    
-<br>
+When it comes to memories, the fleeting moments spent with friends be it randomly bumping into each other at 2 am, or standing in long lines in the mess, fighting for ice cream in the canteen, the two-minute conversations that lead into deep conversations, and so on, are the ones that stand out. But when the college was nothing but the four walls of your room and a laptop screen, how does one make these memories? How does one interact with their college mates? The LAC and GCU came together to address this issue and organised *"Have We Met Before?*” - an institute-wide interactive and fun event, open to all UG and PG students where students across branches, and years came together to participate in a variety of activities.                                           
 
 The planning for this event, which was held on the 4th of July, began weeks before the event. The organisation of the event involved the entire team of the LAC along with volunteers from the GCU. The team planned out various activities. Over 150 students registered for the event, who were then divided into teams with a mix of PG and UG students, across the years. A discord server was created to host the event. Volunteers to conduct the event were briefed about the process of the event, and test runs were conducted. On the day of the event, the organisers and the volunteers saw tremendous participation from all the students who had registered. The event was held in two sessions in morning and afternoon, for efficient management from the organisers’ side. The event received an overwhelmingly positive response and feedback. True to its aim, “Have We Met Before” brought together students from different parts of their college journey and formed bonds and friendships that continue to this date. Despite the online restrictions, students were able to go from ‘Have we met before?’ to ‘Yes, we have met before’, and got a glimpse of what offline social interactions in college would look like.
 
