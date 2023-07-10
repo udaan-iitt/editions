@@ -211,7 +211,7 @@ Reference:
 
 <a id="coronavirus-and-heat"></a>
 
-## Is Coronavirus vulnerable to heat?
+### Is Coronavirus vulnerable to heat?
 
 This myth stems from the common belief that hot temperatures kill germs. While this is true as most bacteria can be destroyed by exposing it to high temperatures during the cooking process, the same cannot be generalized to all viruses. The normal human body temperature remains the same, regardless of the external temperature or weather, and so does the effect of the virus. There is no clear scientific evidence stating that Coronavirus cannot survive in hot environments. The best practice is to stay aware of this fact, and take precautions against COVID-19 irrespective of the season.
 
