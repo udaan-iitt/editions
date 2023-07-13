@@ -41,8 +41,9 @@ This article will be exploring some of these myths and the extent to which they 
 20. [Cow urine doesn’t cure COVID.](#cow-urine-does-not-cure-covid)
 21. [Believing you’ll recover from COVID will help you, but doing only that will not help you.](#covid-and-positivity)
 
-<a id="are-vaccines-safe-and-effective"></a>
+********
 
+<a id="are-vaccines-safe-and-effective"></a>
 ### The vaccines have been developed so quickly; are they truly safe?
 
 Developing a vaccine indeed involves years of research. Earlier, the vaccine development involved a series of steps, but in the case of the coronavirus vaccine, the scientists and regulators worked in tandem, accelerating the whole process without compromises on any protocols and any step. The vaccines approved in India have proven to be effective with some mild side effects as stated below.
@@ -59,6 +60,7 @@ References:
 - [COVID-19 Vaccines Work | CDC](https://www.cdc.gov/coronavirus/2019-ncov/vaccines/effectiveness/work.html)
 
 <a id="waiting-period-before-vaccination-after-recovery"></a>
+********
 
 ### Should a person who recovered from Covid-19 wait for a certain period before getting vaccinated?
 
@@ -69,7 +71,8 @@ Reference:
 - [New Recommendations of NEGVAC - Union Ministry of Health and Family Welfare](https://pib.gov.in/PressReleasePage.aspx?PRID=1719925)
 
 <a id="waiting-period-before-donating-blood-after-vaccination"></a>
-
+***********
+                   
 ### After vaccination, how long do I have to wait before donating blood?
 
 As per the new guidelines released by the National Expert Group On Vaccine Administration, an individual can donate blood 14 days after receiving COVID-19 vaccine or testing RT-PCR negative.
@@ -77,7 +80,8 @@ As per the new guidelines released by the National Expert Group On Vaccine Admin
 Reference:
 
 - [New Recommendations of NEGVAC - Union Ministry of Health and Family Welfare](https://pib.gov.in/PressReleasePage.aspx?PRID=1719925)
-
+********
+                  
 <a id="nebulizer-not-a-replacement-for-oxygen-cylinder"></a>
 
 ### Nebulizers cannot be used as a replacement for medical oxygen tanks.
@@ -88,7 +92,8 @@ References:
 
 - [Fact check: No, nebulizer cannot be used as substitute for oxygen cylinder | Deccan Herald](https://www.deccanherald.com/national/fact-check-no-nebulizer-cannot-be-used-as-substitute-for-oxygen-cylinder-978547.html)
 - [Oxygen saturation of 92 or 93 should not be considered critical, says Randeep Guleria | The Hindu](https://www.thehindu.com/news/national/oxygen-saturation-of-92-or-93-should-not-be-considered-critical-says-randeep-guleria/article34498589.ece)
-
+********************* 
+       
 <a id="vaccine-does-not-make-you-impotent"></a>
 
 ### Vaccine does not make you impotent.
@@ -98,6 +103,7 @@ This is a common misconception regarding many vaccines, not just Covid-19. Peopl
 Reference:
 
 - [India Covid-19: Misleading claims shared about vaccines - BBC News](https://www.bbc.com/news/55768656)
+*********************          
 
 <a id="vaccine-does-not-contain-pork"></a>
 
@@ -109,6 +115,7 @@ References:
 
 - [India Covid-19: Misleading claims shared about vaccines - BBC News](https://www.bbc.com/news/55768656)
 - [No pork-derived products: AstraZeneca counters Indonesian Muslims&rsquo; concern over Covid-19 Vaccine | India Today](https://www.indiatoday.in/coronavirus-outbreak/vaccine-updates/story/no-pork-derived-products-astrazeneca-counters-indonesian-muslim-concern-covid-19-vaccine-1781874-2021-03-21)
+*******************   
 
 <a id="vaccine-does-not-contain-microchip"></a>
 
@@ -119,6 +126,7 @@ Once again this proves how social media is a hub for the spread of misinformatio
 Reference:
 
 - [India Covid-19: Misleading claims shared about vaccines - BBC News](https://www.bbc.com/news/55768656)
+**********************
 
 <a id="take-precautions-after-vaccination"></a>
 
@@ -129,6 +137,7 @@ There are so many cases of vaccinated people getting affected by Covid. Ain’t 
 Reference:
 
 - [Can you resume normal life after taking Covid-19 vaccine? - Coronavirus Outbreak | India Today](https://www.indiatoday.in/coronavirus-outbreak/story/resume-normal-life-after-taking-covid-19-vaccine-mask-1795861-2021-04-28)
+***********      
 
 <a id="vaccinate-after-getting-infected"></a>
 
@@ -142,6 +151,7 @@ References:
 
 - [Yes, you should get a vaccine even if you’ve already had the coronavirus | Scroll](https://scroll.in/article/990792/yes-you-should-get-a-vaccine-even-if-youve-already-had-the-coronavirus)
 - [Reinfection with COVID-19 | CDC](https://www.cdc.gov/coronavirus/2019-ncov/your-health/reinfection.html)
+*****************************     
 
 <a id="non-vegetarian-food-and-infection"></a>
 
@@ -152,6 +162,7 @@ This is one such myth circulating in social media and the internet. Please under
 Reference:
 
 - [COVID-19: Is It Safe To Consume Non-Vegetarian Foods? Know The Facts Here | Netmeds](https://www.netmeds.com/health-library/post/covid-19-is-it-safe-to-consume-non-vegetarian-foods-know-the-facts-here)
+*******************           
 
 <a id="lemonade-does-not-make-you-immune-to-covid"></a>
 
@@ -164,6 +175,7 @@ Lemons are high in vitamin C, a potent antioxidant that can improve your immune 
 Reference:
 
 - [Build Your Immunity to Fight Covid: Lemon juice in warm water - Lifestyle News | India Today](https://www.indiatoday.in/lifestyle/health/story/build-your-immunity-to-fight-covid-lemon-juice-in-warm-water-1795185-2021-04-26)
+***************              
 
 <a id="alcohol-does-not-cure-covid"></a>
 
@@ -174,7 +186,8 @@ Okay, so where do we begin with this one? Although there is almost no backup log
 Reference:
 
 - [Alcohol and coronavirus (COVID-19): Myths and effects on the body | Medical News Today](https://www.medicalnewstoday.com/articles/alcohol-and-covid-19#summary)
-
+**********************
+              
 <a id="young-people-and-covid"></a>
 
 ### Are young people getting affected more by the second wave of Covid?
@@ -183,6 +196,7 @@ With the escalating rise in the numbers in the wake of the second wave, it is be
 
 Reference:                   
 - [India Covid-19 fact check: Are more young people falling ill? Are vaccinated people getting infected? | CNN](https://edition.cnn.com/2021/05/03/india/india-coronavirus-fact-check-intl-hnk-dst/index.html)
+**************************              
 
 <a id="wearing-mark-does-not-reduce-oxygen-level"></a>
 
@@ -193,16 +207,18 @@ It is widely believed that face masks tend to reduce the oxygen supply and cause
 Reference:
 
 - [No, Face Masks Don&rsquo;t Lower Oxygen Levels | WebMD](https://www.webmd.com/lung/news/20201103/dont-believe-the-myth-face-masks-dont-lower-oxygen-levels#1)
+*******************************              
 
 <a id="coronavirus-and-heat"></a>
 
-## Is Coronavirus vulnerable to heat?
+### Is Coronavirus vulnerable to heat?
 
 This myth stems from the common belief that hot temperatures kill germs. While this is true as most bacteria can be destroyed by exposing it to high temperatures during the cooking process, the same cannot be generalized to all viruses. The normal human body temperature remains the same, regardless of the external temperature or weather, and so does the effect of the virus. There is no clear scientific evidence stating that Coronavirus cannot survive in hot environments. The best practice is to stay aware of this fact, and take precautions against COVID-19 irrespective of the season.
 
 Reference:
 
 - [Will Heat Kill the COVID-19 Spread This Summer? | WebMD](https://www.webmd.com/lung/coronavirus-heat)
+**********************              
 
 <a id="amount-of-alcohol-in-sanitizer"></a>
 
@@ -213,6 +229,7 @@ When we come into contact with an object/a person with traces of the virus, the 
 Reference:
 
 - [How much alcohol should hand sanitizer contain? Efficacy and more | Medical News Today](https://www.medicalnewstoday.com/articles/how-much-alcohol-should-hand-sanitizer-contain)
+**********************                    
 
 <a id="thermal-scanners-cannot-detect-covid"></a>
 
@@ -223,6 +240,7 @@ All public places like grocery shops, malls, examination centres, etc use therma
 Reference:
 
 - [Mythbusters | WHO](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters#thermal-scanners)
+**********************************                 
 
 <a id="spraying-alcohol-on-body"></a>
 
@@ -233,6 +251,7 @@ Disinfectants such as alcohol and chlorine are useful to decontaminate surfaces 
 Reference:
 
 - [Mythbusters – India Research Center | hsph.harvard.edu](https://www.hsph.harvard.edu/india-center/myths-vs-facts/)
+************               
 
 <a id="5g-cannot-cause-covid"></a>
 
@@ -243,6 +262,7 @@ This myth gives a stark flashback of the times when you tell your parents that y
 Reference:
 
 - [5G Doesn’t Cause COVID-19, But the Rumor It Does Spread Like a Virus | SPH](https://www.bu.edu/sph/news/articles/2021/5g-doesnt-cause-covid-19-but-myth-went-viral/)
+**********************               
 
 <a id="cow-urine-does-not-cure-covid"></a>
 
@@ -253,6 +273,7 @@ In today’s edition of “How did we even come up with this”, we have a bizar
 Reference:
 
 - [Cow urine, bleach, oregano oil: Medical COVID-19 quackery has big ramifications for public health | CBC](https://www.cbc.ca/news/canada/edmonton/false-advertising-covid-19-fake-medical-advice-1.5520301)
+************
 
 <a id="covid-and-positivity"></a>
 

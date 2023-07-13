@@ -30,6 +30,7 @@ alt: Experiences
 10. [Contributors](#org62fdc1d)
 
 <!-- Life puts us in situations that we’re unprepared for. We all have been forced into lockdown without prior notice due to the pandemic. The decision our institute took as a consequence was to turn this entire semester online. A new medium meant new experiences, with students at home experiencing the past semester in their own unique way.. To get a deeper insight into how their experiences were, we collected opinions from students, mostly those from 1st and 2nd year, and compiled them into a narrative. There’s a host of feelings and emotions associated with this experience that you must see for yourself! -->
+******
 
 <a id="orga98fefb"></a>
 
@@ -69,6 +70,7 @@ Extracurricular activities are undeniably an integral part of college life, and 
 Student-run clubs understand this issue very well; they&rsquo;ve been facing the same problem. While student participation in club events dropped due to increased coursework, the club coordinators worked hard to organize innovative events even under academic pressure!
 
 > The club coordinators are trying their hearts out to continue with their efforts, kudos to them but at the same time nothing can match the unparalleled face to face conversations at the institute. &#x2013;Soham
+********
 
 <a id="orgb276c19"></a>
 
@@ -94,6 +96,7 @@ Some professors seem to understand this problem, and are addressing this with im
 Irrespective of what anyone says, I&rsquo;m sure every single one of us can relate to this lighthearted comment on some level!
 
 > Getting up late and having breakfast in the class, there was a weird sense of gratification. If the class gets boring, pop up another tab and keep going. Not attending classes and binge-watching the recorded lectures before the exam was just amazing! &#x2014;Kranthi
+********
 
 <a id="org03d775b"></a>
 
@@ -113,6 +116,7 @@ However, that doesn&rsquo;t mean the attempt was a smooth sail. Here are some cr
 Assignments on the other hand were a constant burden on the shoulder. By the time an assignment deadline arrived, two more assignments would pop up! Nevertheless, they seemed to have a positive impact on those who worked to finish them.
 
 > We were always busy writing assignments, tests, quizzes etc. More tests were conducted so that we don&rsquo;t waste our time at home and follow the classes regularly. There were regular assessments to ensure that everyone is following. &#x2014;Sahithi
+*********     
 
 <a id="orge4a6c88"></a>
 
@@ -122,6 +126,7 @@ Mail and WhatsApp have become the primary means of communication and doubt clari
 > I had an easier time learning in physical classrooms because it was easier for me to focus and get help from faculties and peers. &#x2014;Madhavan
 >
 > There was no chance for students to clarify their doubts. There is no good interaction between the students and faculty. &#x2014;Dhanush
+**********
 
 <a id="org35498c7"></a>
 
@@ -139,6 +144,7 @@ Hostel corridors, common rooms, classrooms, the mess, all these places come to l
 While we can at least see a few people with a positive opinion on online interaction, it&rsquo;s not the case with team projects. Remote collaboration and communication turned out to be quite difficult, especially because how well you work with team is highly dependent on how good your technology and network connectivity is. Work division within a team and assessing team dynamics are other key issues that need immediate solutions.
 
 > About ED group projects, as one project is in the hands of just one guy, the marks are dependent on his work, so if he/she is not good in the creative process, the other 4 may lose marks due to his work, that is kinda not fair. &#x2014;Maulik
+********** 
 
 <a id="orgca2a735"></a>
 
@@ -166,6 +172,7 @@ Be it a smartphone display or a laptop monitor, the digital screen was the only 
 Another serious problem was the disturbance of people&rsquo;s sleep cycle. With increasing workload and decreasing leisure time, there weren&rsquo;t any obvious alternatives for most people.
 
 > I gradually started sleeping at 12 AM, and it was unintentional. &#x2014;Shreetesh
+***************
 
 <a id="orgcdf9230"></a>
 
@@ -177,6 +184,7 @@ One thing that continues to help the students and continues to surprise freshers
 > Another thing that I loved about the teaching system here is the freedom that the students get in making decisions. They understood our concerns and also suggested alternatives if possible. &#x2014;Krithi
 
 However, it wouldn&rsquo;t be true if I say that the faculty have taken the right decisions at every step. Excessive course work, dissonant teaching pace, high volume of syllabus were just a few consequences owing to the decreased faculty-student interaction and apprehension against trying out new methods. But their enthusiasm to take feedback and making adjustments in their procedures helped students a lot so far, and will keep doing so in the future.
+*************
 
 <a id="orgbfe6b5a"></a>
 
@@ -218,6 +226,7 @@ Here are some personal experiences elegantly penned down by a couple of individu
 > Like any other JEE aspirant, I was also keen to get admitted into the IIT system. But god had decided to play some pranks with us, and we all landed in the global pandemic of COVID-19, as a result of which this online semester started.
 >
 > Online learning has both pros and cons like any other thing in this world. Studying online decreases motivation to study and also reduces healthy competition. The most important flavor of class are those tiny gossips between the lectures, extensive discussions over difficult questions, that urge to prove your point of view on a particular question, those small arguments with sir, and of course sitting next to friends and roaming in a completely different world are missed a lot. If someone asks us about the number of years we studied B.Tech, we cannot say 4 as it actually is 3.5, and we hope it remains 3.5 and won’t go below that. Besides, all of this online learning and interaction is great for an introvert person to expose himself/herself.
+***************
 
 <a id="org0b74334"></a>
 

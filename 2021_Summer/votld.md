@@ -34,6 +34,7 @@ alt: Lock Down
 11. [Anonymous (Batch of 2020)](#anonymous2020)
 12. [Jaynarayan T Tudu](#jaynarayan)
 13. [Anant Tyagi](#anant)
+*****
 
 <a id="lakshmi"></a>
 
@@ -45,6 +46,7 @@ But then, I decided to choose my health as my priority rather than marks and all
 I just tried putting my pain, maybe it is a little clumsy. But it’s the bitter truth. Be strong. Health is first, goals are next.
 
 >Mathemsetty Sindhura Lakshmi, Student (Batch of 2019-2021)
+*****
 
 <a id="abhishek"></a>
 
@@ -83,6 +85,7 @@ I just tried putting my pain, maybe it is a little clumsy. But it’s the bitter
 इक नये सफर पे निकला जायेगा&#x2026;
 
 >Abhishek, Student (Batch of 2020)
+*****
 
 <a id="gk"></a>
 
@@ -97,6 +100,7 @@ Again, I was the one who had to take care of all the funeral activities (in plac
 I want to conclude that this is the most stressful year of my life and I hope I won&rsquo;t experience such a bizarre time in my life again.
 
 >GK, Student (Batch of 2018)
+*****
 
 <a id="anonymous2018"></a>
 
@@ -105,6 +109,7 @@ I want to conclude that this is the most stressful year of my life and I hope I 
 Understand, Adapt and Evolve, these 3 have been taking place since the past 15 months in almost everyone&rsquo;s lives. When I got tested positive in wave 1, I don&rsquo;t want to mention the time, I wasn&rsquo;t tensed, rather I wondered about how the symptoms would evolve. And how my living has changed since then. I would say fighting against Covid is half a mental war, and the other half is the discipline one adapts. I was made aware of many such things which are useful in these times. And it’s unfortunate and lucky that I was practising the same, as my parents have been tested positive and were responding well to the medication. I tried to influence them with my perspective of quarantine. Though it was a bit difficult for the first 2 days, they adapted to the environment they were in. Hard days are for everyone. Bring the best version in you, cover the weakness with positive attitude and win it out. Stay Home, Stay Safe. Hang on! One last thing, never hesitate in these situations, like we always do in asking a doubt to a professor.
 
 > Anonymous, Student (Batch of 2018)
+*****
 
 <a id="pv"></a>
 
@@ -131,6 +136,7 @@ online classes beckon,
 bright screens and stony silences.
 
 > PV, Faculty
+*****
 
 <a id="org8c6733c"></a>
 
@@ -145,6 +151,7 @@ What I seek to learn from this is, change is the only constant.
 Yesterday might have been bad. Today might have been worse. But never forget, there will be a tomorrow, a day waiting for you. This roller coaster ride is full of unpredictable twists and turns. We need to hang on and let the change happen. We need to be strong for our friends, our family, all our loved ones and most importantly ourselves. Never forget, first comes the battle of the mind then the battle of fists.
 
 >:-), Student (Batch of 2020)
+*****
 
 <a id="geraltofsalem"></a>
 
@@ -153,6 +160,7 @@ Yesterday might have been bad. Today might have been worse. But never forget, th
 The dream of studying among the best minds in the world has been put to rest in a way. Never have set foot on the campus, and I don&rsquo;t think I will. Studying alone is hard, it&rsquo;s hard to find motivation, the right atmosphere, right people, etc. Work wouldn&rsquo;t seem this hard when doing it together with others, I think. Trying to stay positive and safe.
 
 >Geralt_0f_Salem, Student (Batch of 2020)
+*****
 
 <a id="krithi"></a>
 
@@ -166,6 +174,7 @@ The first step to battling an emotion is accepting it. By forcing yourself to st
 Most people don&rsquo;t realize that toxic positivity is harmful and once recognized, it&rsquo;s easier to identify and remain uninfluenced by this negative form of optimism. As the saying goes, &ldquo;If you keep brushing problems under the rug, you eventually start to trip over the lumps you form&rdquo;. Trying to suppress your emotions is as good as forming these lumps which hinder your progress in healing and overcoming problems. It is important to make the best of the current situation, not by forcing yourself to do something productive but by accepting the situation as it is and doing the best you can with it. The only person who really knows you is you, so make sure to deal with what you&rsquo;re feeling without succumbing to what the world thinks you should feel.
 
 >Krithi, Student (Batch of 2020)
+*****
 
 <a id="aditi"></a>
 
@@ -174,6 +183,7 @@ Most people don&rsquo;t realize that toxic positivity is harmful and once recogn
 The second wave of Covid took a lot from the people; loved ones, courage to survive, motivation and peace. My parents were admitted to the hospital and all those days I had sleepless nights, didn&rsquo;t have the will to talk to share, a constant loneliness was there, frequent break down and a 24x7 anxious mind. It was a time when one had to be strong no matter how hard the days were because even if you don&rsquo;t believe optimism was the only way to escape this feeling of uncertainty.
 
 > Aditi Palit, Student (Batch of 2021)
+******
 
 <a id="anonymous2019"></a>
 
@@ -182,6 +192,7 @@ By gods blessings, though my home mates are safe from Covid, there has been a hu
 I couldn&rsquo;t take food properly, couldn’t do my regular activities, and nothing I did during those suffering times. Some of my relatives&rsquo; death story is really heartbreaking, which made me feel so scared of Covid that I couldn’t improve my mental health. And finally I could say my experience in these tough times are worst. I hope our world gets out of this pandemic very soon. More power to all those families who are effected by Covid.
 
 > Anonymous, Student (Batch of 2019)
+******
 
 <a id="anonymous2020"></a>
 
@@ -197,6 +208,7 @@ But are we really ready to be that intense?
 > Anonymous, Student (Batch of 2020)
 
 <a id="jaynarayan"></a>
+********
 
 ### Jaynarayan T Tudu
 
@@ -207,6 +219,7 @@ We have been tracing the spread of the Covid since December-January 2020 when it
 The lock-down has been a different kind of experience for me. I have become less productive and less enthusiastic in due course of two-three months. Realised that a human being or for that matter any living creature can&rsquo;t be happy or prosperous in isolation. For a few days I have been kind of struggling with some sort of depression, probably due to loneliness. My only solution was prayer to my sweet lord and trying out life&rsquo;s techniques. Somehow managed the first lock-down in different ways. Online was one of the ways to be connected with the people know and unknown. All of us have made use of it extensively. Covid has taken the life of many who otherwise would have lived this beautiful human life for a few more years to explore what it is? The society we live in is connected therefore if we don&rsquo;t co-operate, we suffer and fail to tackle the current problem. Lock-down is not a sweet solution, it has horrific side effect, and one of them is mental illness.
 
 > Dr. Jaynarayan T Tudu, Faculty
+*******
 
 <a id="anant"></a>
 
