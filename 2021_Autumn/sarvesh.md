@@ -14,6 +14,7 @@ alt: Prima Innotech LLC
 ## Prerequisite for reading this article
 Knowing that I am in Mechanical is enough. Those who have watched The Wolf of
 Wall Street will enjoy the article more.
+**************
 
 ### Introduction
 My name is Sarvesh, and today I will be writing a pretty formal article. This one will
@@ -25,12 +26,15 @@ LLC. I worked on developing cost-effective solutions for collaborative robots un
 the excellent mentorship of a Stanford/IIT-M alumni, Dr. Ajit Paranjpe. Before moving
 forward with the experience and learning, I shall discuss why I applied and how I got
 it.
+*******
 
 ### Why I applied
 Money was good.
+*********
 
 ### How I got in-the short answer
 The Wolf of Wall Street movie.
+****************
 
 ### How I got in-the long answer
 I applied and was asked for my resume and given an assignment. The assignment
@@ -43,17 +47,18 @@ the assignment off and was again assigned to design a motor controller, an elect
 domain problem. I thought I was doomed to work on the EE stuff now. Then someone
 dropped a task in the Mechanical domain, and I was assigned that. Then I
 worked Happily Ever Six Months on developing mechanical solutions for a six-axis collaborative robot.
+*********
 
 ### A few learnings from the internship
 1. For the last three years of my bachelor's degree, I constantly asked a question
 to the universe: I learned the theory, mugged the big rusty formula, and solved
 the problems. Now, where and how is the theory used in real life? Here is the
 answer: The concepts from the course on Machine Elements are used to
-design lead screws and racks. Moreover, the hectic 8 hour/week Machine Drawing
+design lead screws and racks. Moreover, the hectic 8-hour/week Machine Drawing
 classes were worth it. And on and on. The theory does matter, like a lot, for
 Mechanical core subjects.
 2. I was always scared that working part-time would affect my GPA. After
-everything is said and done, it did not.
+everything is said and done; it did not.
 3. Before the internship, I always preferred a non-core over a core. However, I will
 now try my best to opt for a core placement in my final year. Still, fingers crossed, metaphorically.
 
