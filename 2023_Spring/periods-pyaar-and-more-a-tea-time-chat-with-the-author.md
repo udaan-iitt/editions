@@ -46,6 +46,8 @@ The second book picks up at the end of Shweta’s college graduation. Everything
 
 ### Getting to know shortgirlbigbook
 
+![](images/author_interview.jpg)
+
 Eashani, from Darjeeling, West Bengal, is pursuing her final year in Organic Agriculture at Amity University Noida. Diving right in, we asked, “Could you please tell us a moment from your life that you’re proud of?”
 
 > Oh, wow. Suddenly your mind's blank! It was very surprising when I got the audiobook for, ‘Did you get your period?’. Suddenly I got a message from the Wattpad CEO asking if I would be interested in this, and that was definitely a moment of, “Oh my God, this is happening! Awesome!”
@@ -154,7 +156,7 @@ How would you respond to people, often women, who proudly walk around, saying th
 
 Don't you think people have taken power away from the term ‘feminism’? With all the pseudo-feminism and craziness surrounding it, many people are scared to say they're feminists. Can we bring power back to the term, or do we just pick up a different term and go forward with it? Is the term tarnished beyond help?
 
-> I don't think it's tarnished beyond help. It's like giving a dog a bad name and hanging it. Ultimately there's no shame in calling ourselves feminists. Although feminism has a bad name, it also has a good name. Taking away the term feminism would erase its good aspects. There is so much incredible feminist literature! Can we replace the term with “Humanist literature” or “Equalist literature”? There are a lot of new terms, but I think the name is trivial when we compare it to the ideology behind it. And for a topic that's as vast and intersectional as feminism, there will always be misconceptions about it. We'll have to take that along with us, as we go on. There are always going to be people who take advantage of it. They're a huge problem. I think that gives feminism and women, in general, a bad name. 
+> I don't think it's tarnished beyond help. It's like giving a dog a bad name and hanging it. Ultimately there's no shame in calling ourselves feminists. Although feminism has a bad name, it also has a good name. Taking away the term feminism would erase its good aspects. There is so much incredible feminist literature! Can we replace the term with “Humanist literature” or “Equalist literature”? There are a lot of new terms, but I think the name is trivial when we compare it to the ideology behind it. And for a topic that's as vast and intersectional as feminism, there will always be misconceptions about it. We'll have to take that along with us, as we go on. There are always going to be people who take advantage of it. They're a huge problem. I think that gives feminism and women, in general, a bad name.             
 
 Speaking of misconceptions around feminism, STEM fields are usually dominated by men, and as a result, various companies hire women specifically for better representation. Some people feel this is unfair because someone “less competent” gets hired. But people need to understand the reason behind these programs without which they create negative, misconstrued notions around feminism. 
 
