@@ -1679,6 +1679,6 @@ Get the budget sorted first and try to keep all the documents well organized. Al
 
 *************************
 
-That's all folks. We conclude this comical tribute to our student representatives, hoping that you found it as enjoyable as we did. We extend our gratitude to everyone who participated in curating this article. A special shoutout to *Anant* and *Sathyanarayan* for their exceptional work in designing the stunning profile cards.
+That's all folks. With this we conclude this comical tribute to our student representatives, hoping that you found it as enjoyable as we did. We extend our gratitude to everyone who participated in curating this article. A special shoutout to *Anant* and *Sathyanarayan* for their exceptional work in designing the stunning profile cards.
 
 ******************************
