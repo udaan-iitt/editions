@@ -3,7 +3,7 @@ title: "The Puppet Show: An Ode to the Student Body"
 category: Experiences
 date: 2023-07-13 12:30:00 +05:30
 desc: Embark on a whimsical journey as we unveil a delightful tribute capturing the untold stories of the student body of 2022-23, celebrating their achievements, sharing their difficulties, and thanking them for their efforts. 
-thumbnail: ./images/placeholder.jpg
+thumbnail: ./Images/placeholder.jpg
 authors: Krithi, Akhil, Sneha Battula, Sneha M S, Keshav
 starred: true
 abio: NONE
@@ -23,7 +23,7 @@ But let’s be real, what’s a tribute without a little roast? So brace yoursel
 
 *Students General Secretary*
 
-<img src="images/profilecards/Rohit.png"
+<img src="Images/profilecards/Rohit.png"
      alt="Rohit Profile"
      style="float: left; margin-right: 20rem; margin-bottom:40px; width: 90%;"/>
 
@@ -82,7 +82,7 @@ There are times when being polite and soft does not work. Stand your ground and 
 
 *Academic Affairs Secretary*
 
-<img src="images/profilecards/Dheeraj.png"
+<img src="Images/profilecards/Dheeraj.png"
      alt="Dheeraj Profile"
      style="float: left; margin-right: 20rem; margin-bottom:40px; width: 90%;"/>
 
@@ -124,7 +124,7 @@ The minimum required attendance, despite much persuasion, could not be reduced t
 
 *Hostel Affairs Secretary*
 
-<img src="images/profilecards/Jose.png"
+<img src="Images/profilecards/Jose.png"
      alt="Jose Profile"
      style="float: left; margin-right: 20rem; margin-bottom:40px; width: 90%;"/>
 
@@ -166,7 +166,7 @@ Don't escape from student issues. Be logical and quick.
 
 *Mess Affairs Secretary*
 
-<img src="images/profilecards/Maulik.png"
+<img src="Images/profilecards/Maulik.png"
      alt="Maulik Profile"
      style="float: left; margin-right: 20rem; margin-bottom:40px; width: 90%;"/>
 
@@ -211,7 +211,7 @@ He'll figure that out himself… :)
 
 *Technical Affairs Secretary*
 
-<img src="images/profilecards/Pavan.png"
+<img src="Images/profilecards/Pavan.png"
      alt="Pavan Profile"
      style="float: left; margin-right: 20rem; margin-bottom:40px; width: 90%;"/>
 
@@ -255,7 +255,7 @@ I've made mistakes, but now I don't regret them, as they taught me valuable less
 
 *Cultural Affairs Secretary*
 
-<img src="images/profilecards/Shamil.png"
+<img src="Images/profilecards/Shamil.png"
      alt="Shamil Profile"
      style="float: left; margin-right: 20rem; margin-bottom:40px; width: 90%;"/>
 
@@ -320,7 +320,7 @@ I've made mistakes, but now I don't regret them, as they taught me valuable less
 
 *Literary Affairs Secretary*
 
-<img src="images/profilecards/Pranav.png"
+<img src="Images/profilecards/Pranav.png"
      alt="Pranav Profile"
      style="float: left; margin-right: 20rem; margin-bottom:40px; width: 90%;"/>
 
@@ -362,7 +362,7 @@ My suggestions for the next representative are for them to keep working on diffe
 
 *Placement Co-ordinator*
 
-<img src="images/profilecards/Sreeja.png"
+<img src="Images/profilecards/Sreeja.png"
      alt="Sreeja Profile"
      style="float: left; margin-right: 20rem; margin-bottom:40px; width: 90%;"/>
 
@@ -409,7 +409,7 @@ More transparency could have been brought in and all the issues raised could hav
 
 *Internship and Guidance Coordinator*
 
-<img src="images/profilecards/Ishaan.png"
+<img src="Images/profilecards/Ishaan.png"
      alt="Ishaan Profile"
      style="float: left; margin-right: 20rem; margin-bottom:40px; width: 90%;"/>
 
@@ -474,7 +474,7 @@ Delegate, delegate and delegate. If it's not absolutely important for you to be 
 
 *Guidance and Counselling Unit Student Head*
 
-<img src="images/profilecards/Chaitanya.png"
+<img src="Images/profilecards/Chaitanya.png"
      alt="Chaitanya Profile"
      style="float: left; margin-right: 20rem; margin-bottom:40px; width: 90%;"/>
 
@@ -525,7 +525,7 @@ Do try to be more consistent with work and advancing GCU, which I counbld.t do c
 
 *NSS Principal Coordinator*
 
-<img src="images/profilecards/Chandini.png"
+<img src="Images/profilecards/Chandini.png"
      alt="Chandini Profile"
      style="float: left; margin-right: 20rem; margin-bottom:40px; width: 90%;"/>
 
@@ -582,7 +582,7 @@ As the NSS LinkedIn account has been newly created, all the social media and web
 
 *Sports Secretary I*
 
-<img src="images/profilecards/Harshit.png"
+<img src="Images/profilecards/Harshit.png"
      alt="Harshit Profile"
      style="float: left; margin-right: 20rem; margin-bottom:40px; width: 90%;"/>
 
@@ -626,7 +626,7 @@ For the next SAS, there is the list of improvements that he could make, as I was
 
 *Sports Secretary II*
 
-<img src="images/profilecards/Poornesh.png"
+<img src="Images/profilecards/Poornesh.png"
      alt="Poornesh Profile"
      style="float: left; margin-right: 20rem; margin-bottom:40px; width: 90%;"/>
 
@@ -671,7 +671,7 @@ Sincerity works out.
 
 *Actomania Coordinator*
 
-<img src="images/profilecards/Susreesh.png"
+<img src="Images/profilecards/Susreesh.png"
      alt="Susreesh Profile"
      style="float: left; margin-right: 20rem; margin-bottom:40px; width: 90%;"/>
 
@@ -716,7 +716,7 @@ Have some scripts in your hand prior to the events, choose the core team careful
 
 *Artista Coordinator*
 
-<img src="images/profilecards/Sathya.png"
+<img src="Images/profilecards/Sathya.png"
      alt="Sathya Profile"
      style="float: left; margin-right: 20rem; margin-bottom:40px; width: 90%;"/>
 
@@ -780,7 +780,7 @@ Firstly, get budget approval done as early as possible. make good use of the ama
 
 *Photography and Film Cluh Student Head*
 
-<img src="images/profilecards/Prasanna.png"
+<img src="Images/profilecards/Prasanna.png"
      alt="Prasanna Profile"
      style="float: left; margin-right: 20rem; margin-bottom:40px; width: 90%;"/>
 
@@ -857,7 +857,7 @@ By addressing these points, the following representative can build upon the club
 
 *Sargam Coordinator*
 
-<img src="images/profilecards/Krithi.png"
+<img src="Images/profilecards/Krithi.png"
      alt="Krithi Profile"
      style="float: left; margin-right: 20rem; margin-bottom:40px; width: 90%;"/>
 
@@ -924,7 +924,7 @@ Please find a way to simplify the financial procedures and save yourself some ru
 
 *Xcite Coordinator*
 
-<img src="images/profilecards/Kajal.png"
+<img src="Images/profilecards/Kajal.png"
      alt="Kajal Profile"
      style="float: left; margin-right: 20rem; margin-bottom:40px; width: 90%;"/>
 
@@ -971,7 +971,7 @@ Don’t let the culture of dance go down. After COVID, it took us a lot to start
 
 *Rasoi Coordinator*
 
-<img src="images/profilecards/Dhruti.png"
+<img src="Images/profilecards/Dhruti.png"
      alt="Dhruti Profile"
      style="float: left; margin-right: 20rem; margin-bottom:40px; width: 90%;"/>
 
@@ -1024,7 +1024,7 @@ I would like to offer a small tip to the future coordinator: forming a core comm
 
 *Debate and Oratory Club Coordinator*
 
-<img src="images/profilecards/Akhil.png"
+<img src="Images/profilecards/Akhil.png"
      alt="Akhil Profile"
      style="float: left; margin-right: 20rem; margin-bottom:40px; width: 90%;"/>
 
@@ -1071,7 +1071,7 @@ Sort out your core team, your lean, mean team of sheer will and purpose. They'll
 
 *Quiz Club Coordinator*
 
-<img src="images/profilecards/Vignesh.png"
+<img src="Images/profilecards/Vignesh.png"
      alt="Vignesh Profile"
      style="float: left; margin-right: 20rem; margin-bottom:40px; width: 90%;"/>
 
@@ -1119,7 +1119,7 @@ Well congratulations for becoming the next QC head .  Try to keep an active soci
 
 *Scribbles Coordinator*
 
-<img src="images/profilecards/Mohith.png"
+<img src="Images/profilecards/Mohith.png"
      alt="Mohith Profile"
      style="float: left; margin-right: 20rem; margin-bottom:40px; width: 90%;"/>
 
@@ -1166,7 +1166,7 @@ Make sure you regularly conduct activities/events (which can be recurring) so th
 
 *Digital Wizards Coordinator*
 
-<img src="images/profilecards/Soham.png"
+<img src="Images/profilecards/Soham.png"
      alt="Soham Profile"
      style="float: left; margin-right: 20rem; margin-bottom:40px; width: 90%;"/>
 
@@ -1230,7 +1230,7 @@ Keep up the culture and try to supersede the current expectations of the club!
 
 *Techmaniacs Coordinator*
 
-<img src="images/profilecards/Sumukh.png"
+<img src="Images/profilecards/Sumukh.png"
      alt="Sumukh Profile"
      style="float: left; margin-right: 20rem; margin-bottom:40px; width: 90%;"/>
 
@@ -1282,7 +1282,7 @@ Continue the spark we generated in the students last in electronics and robotics
 
 *Gagan Vedhi Coordinator*
 
-<img src="images/profilecards/Pranav.png"
+<img src="Images/profilecards/Pranav.png"
      alt="Pranav Profile"
      style="float: left; margin-right: 20rem; margin-bottom:40px; width: 90%;"/>
 
@@ -1358,7 +1358,7 @@ All the Best!
 
 *Winged Voyage Coordinator*
 
-<img src="images/profilecards/Jeya.png"
+<img src="Images/profilecards/Jeya.png"
      alt="Jeya Profile"
      style="float: left; margin-right: 20rem; margin-bottom:40px; width: 90%;"/>
 
@@ -1399,7 +1399,7 @@ We hope Person of Interest has valid reasons for ghosting the editorial team. Th
 
 *Aranya Coordinator*
 
-<img src="images/profilecards/Vibhav.png"
+<img src="Images/profilecards/Vibhav.png"
      alt="Vibhav Profile"
      style="float: left; margin-right: 20rem; margin-bottom:40px; width: 90%;"/>
 
@@ -1450,7 +1450,7 @@ You can also try to take people out for adventurous activities near Tirupati lik
 
 *Chaturanga Coordinator*
 
-<img src="images/profilecards/Sanket.png"
+<img src="Images/profilecards/Sanket.png"
      alt="Sanket Profile"
      style="float: left; margin-right: 20rem; margin-bottom:40px; width: 90%;"/>
 
@@ -1506,7 +1506,7 @@ As my time as coordinator comes to an end, I'm filled with mixed emotions. On on
 
 **
 
-<img src="images/profilecards/Sameer.png"
+<img src="Images/profilecards/Sameer.png"
      alt="Sameer Profile"
      style="float: left; margin-right: 20rem; margin-bottom:40px; width: 90%;"/>
 
@@ -1548,7 +1548,7 @@ Try to improve student participation in entrepreneurial events and increase the 
 
 *Ideas² Student Head*
 
-<img src="images/profilecards/Arun.png"
+<img src="Images/profilecards/Arun.png"
      alt="Arun Profile"
      style="float: left; margin-right: 20rem; margin-bottom:40px; width: 90%;"/>
 
@@ -1610,7 +1610,7 @@ Get the budget sorted first and try to keep all the documents well organized. Al
 
 *Ideas² Student Head*
 
-<img src="images/profilecards/Sneha.png"
+<img src="Images/profilecards/Sneha.png"
      alt="Sneha Profile"
      style="float: left; margin-right: 20rem; margin-bottom:40px; width: 90%;"/>
 
