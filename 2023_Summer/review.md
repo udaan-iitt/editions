@@ -1,5 +1,5 @@
 ---
-title: Let Hope Narrate Love
+title: Series Review - Andor
 category: Review
 date: 2023-07-14 12:58:00 +05:30
 desc: 
