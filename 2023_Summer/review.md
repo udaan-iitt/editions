@@ -3,7 +3,7 @@ title: Let Hope Narrate Love
 category: Review
 date: 2023-07-14 12:58:00 +05:30
 desc: 
-thumbnail: Images/andor.jpg
+thumbnail: images/andor.jpg
 authors: Jeremy Pacman
 starred: false
 abio: NONE
@@ -57,7 +57,7 @@ Another notable character is Karn, who starts out as an overzealous corporate se
 
 |  |  |
 |:-:|:-:|
-|<img src="./Images/andor1.jpg" alt="noodles" width="100%" >|<img src="./Images/andor2.jpg" alt="pasta" width="94%">
+|<img src="./images/andor1.jpg" alt="noodles" width="100%" >|<img src="./images/andor2.jpg" alt="pasta" width="94%">
                        
 Karn is Andor’s antithesis – While Andor starts out with no principles at all, Karn starts out being completely devoted to the corporation he works for. While Andor changes and grows, Karn refuses to let go of his delusions about the world. Andor’s extreme cynicism about how the world is is contrasted with Karn’s extreme idealism about how the world ought to be.                  
                      
