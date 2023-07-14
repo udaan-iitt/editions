@@ -320,7 +320,7 @@ I've made mistakes, but now I don't regret them, as they taught me valuable less
 
 *Literary Affairs Secretary*
 
-<img src="Images/profilecards/Pranav.png"
+<img src="Images/profilecards/PranavP.png"
      alt="Pranav Profile"
      style="float: left; margin-right: 20rem; margin-bottom:40px; width: 90%;"/>
 
@@ -1282,7 +1282,7 @@ Continue the spark we generated in the students last in electronics and robotics
 
 *Gagan Vedhi Coordinator*
 
-<img src="Images/profilecards/Pranav.png"
+<img src="Images/profilecards/PranavS.png"
      alt="Pranav Profile"
      style="float: left; margin-right: 20rem; margin-bottom:40px; width: 90%;"/>
 
