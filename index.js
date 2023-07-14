@@ -31,6 +31,21 @@ export const newsletter = [
     role: 'Editor',
   },
   {
+    key: 'sachin',
+    email: 'cs20b034@iittp.ac.in',
+    title: 'Sachin Sahu',
+    link: 'https://www.linkedin.com/in/sachin431/',
+    role: 'Tech Team Lead',
+
+  },
+  {
+    key: 'mohith',
+    email: 'ch20b021@iittp.ac.in',
+    title: 'Ram Mohith',
+    link: 'https://www.linkedin.com/in/ram-mohith-223386218',
+    role: 'Editor',
+  },
+  {
     key: 'chaitali',
     email: 'me20b053@iittp.ac.in',
     title: 'Chaitali Uday Karekar',
@@ -45,26 +60,11 @@ export const newsletter = [
     role: 'Editor',
   },
   {
-    key: 'mohith',
-    email: 'ch20b021@iittp.ac.in',
-    title: 'Ram Mohith',
-    link: 'https://www.linkedin.com/in/ram-mohith-223386218',
-    role: 'Editor',
-  },
-  {
     key: 'swathi',
     email: 'ce20b010@iittp.ac.in',
     title: 'Swathi',
     link: 'https://www.linkedin.com/in/swathi-gummadi-67826a226/',
     role: 'Editor',
-  },
-  {
-    key: 'sachin',
-    email: 'cs20b034@iittp.ac.in',
-    title: 'Sachin Sahu',
-    link: 'https://www.linkedin.com/in/sachin431/',
-    role: 'Tech Team Lead',
-
   },
   {
     key: 'mathew',
