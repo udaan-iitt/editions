@@ -57,7 +57,7 @@ Another notable character is Karn, who starts out as an overzealous corporate se
 
 |  |  |
 |:-:|:-:|
-|<img src="./images/andor1.jpg" alt="noodles" width="100%" >|<img src="./images/andor2.jpg" alt="pasta" width="94%">
+|<img src="./images/andor1.jpg" alt="noodles" width="100%" >|<img src="./images/andor2.jpg" alt="pasta" width="90%">
                        
 Karn is Andor’s antithesis – While Andor starts out with no principles at all, Karn starts out being completely devoted to the corporation he works for. While Andor changes and grows, Karn refuses to let go of his delusions about the world. Andor’s extreme cynicism about how the world is is contrasted with Karn’s extreme idealism about how the world ought to be.                  
                      
