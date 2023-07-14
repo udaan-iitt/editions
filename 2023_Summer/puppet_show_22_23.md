@@ -1679,6 +1679,6 @@ Get the budget sorted first and try to keep all the documents well organized. Al
 
 *************************
 
-That's all folks. With this we conclude this comical tribute to our student representatives, hoping that you found it as enjoyable as we did. We extend our gratitude to everyone who participated in curating this article. A special shoutout to *Anant* and *Sathyanarayann* for their exceptional work in designing the stunning profile cards.
+That's all folks. For those wondering why half the editors are on the cards themselves, we can assure you, we played fair and made sure the other half had a chance at roasting us. That being said, we conclude this comical tribute to our student representatives, hoping that you found it as enjoyable as we did. Kudos to all the amazing secretaries and coordinators who worked all year to establish several foundations for years to come. Congratulations to the new student body, and we at Udaan are ready with our cards to see what's in store for the next year. We extend our gratitude to everyone who participated in curating this article. A special shoutout to *Anant* and *Sathyanarayann* for their exceptional work in helping with the design of the stunning profile cards.
 
 ******************************
