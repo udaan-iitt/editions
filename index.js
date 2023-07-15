@@ -11,7 +11,7 @@ export const newsletter = [
   },
   {
     key: 'sneha',
-    email: 'ch20b022@iittp.ac.in',
+    email: 'me20b052@iittp.ac.in',
     title: 'Sneha M S',
     link: 'https://www.linkedin.com/in/snems/',
     role: 'Editor-in-Chief',
