@@ -3,7 +3,7 @@ title: "Student Clubs - Outlets of Expression"
 category: "Campus News"
 date: "2023-07-14 12:5:00 +05:30"
 desc: ""
-thumbnail: "./Images/placeholder.jpg" 
+thumbnail: "./Images/clubActs.jpg" 
 authors: "Mohith, Swathi, Bineeth "
 starred: false
 abio: "NONE"
@@ -93,14 +93,24 @@ stack for the editors. They have also launched the institute’s first-ever podc
 That’s it with the literary wing. Now moving on, we have our sports clubs.                                         
                        
 **Aranya**, the adventure club of IIT Tirupati, organised three exhilarating treks to the stunning **Talakona** and **Nelakona** Waterfalls, which drew the participation of a whopping 400 enthusiastic
-students. The club’s efforts in providing such exciting opportunities for its members to explore nature and push their limits are commendable. It has been great to see so many young people getting involved in outdoor activities and experiencing the beauty of the world around them.            
+students. The club’s efforts in providing such exciting opportunities for its members to explore nature and push their limits are commendable. It has been great to see so many young people getting involved in outdoor activities and experiencing the beauty of the world around them.   
+
+
+![](Images/talakona.jpg)                                
+
                 
 The **Chaturanga** Club had an action-packed year from 2022 to 2023, hosting various tournaments and events. These included the Freshers’ Chess Tournament, Chess960 Arena, Brawl on Board, Hand and Brain Tournament, Battle of Branches, No Castle Chess Tournament, Women’s Chess Tournament, and Intra-IIT Chess Tournament. In addition, our passionate players competed in inter-college events like AICL 4.0 and CMPL. A team of six players represented our institute at the Inter-IIT Sports Meet in IIT Delhi, where they secured the **10th position out of 23 IITs.**
 
 The Fitness Club - **Arogya** conducted an exciting set of events for the students over the course of the year. They organised a **‘3K Run’** for National Sports Day on August 29, 2022. They also conducted a similar **‘Unity Run’** as part of Sardar Vallabhbhai Patel’s birth anniversary
-on October 30, 2022, which saw an appreciable amount of participation. Other events which they organised were a Yoga Workshop, a cyclathon and a webinar on fitness. They are looking forward to conducting more such activities in the coming year.                             
+on October 30, 2022, which saw an appreciable amount of participation. Other events which they organised were a Yoga Workshop, a cyclathon and a webinar on fitness. They are looking forward to conducting more such activities in the coming year.         
+
+![](Images/unityRun.jpg)                                
+
                 
-The sports council conducted the second edition of **Kridan-2023**, the annual Intra IIT Sports meet. The houses were divided based on the hostels the students stay in (Kedar, Abheri, Bhairav and Malhar for boys; Sahana and Basant for Girls). There were a plethora of sports and athletics matches conducted between these houses, and each house put out its best fight to get the championship cup.                 
+The sports council conducted the second edition of **Kridan-2023**, the annual Intra IIT Sports meet. The houses were divided based on the hostels the students stay in (Kedar, Abheri, Bhairav and Malhar for boys; Sahana and Basant for Girls). There were a plethora of sports and athletics matches conducted between these houses, and each house put out its best fight to get the championship cup.             
+
+![](Images/kridan.jpg)                                
+
                                       
 Wrapping up with sports, lastly, we have the tech clubs.             
                    
