@@ -1610,7 +1610,7 @@ Get the budget sorted first and try to keep all the documents well organized. Al
 
 *Ideas² Student Head*
 
-<img src="images/profilecards/Sneha.png"
+<img src="Images/profilecards/Sneha.png"
      alt="Sneha Profile"
      style="float: left; margin-right: 20rem; margin-bottom:40px; width: 90%;"/>
 
