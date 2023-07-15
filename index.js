@@ -99,11 +99,11 @@ export const pastmembers = [
   {
     key: 'debeshee',
     title: 'Debeshee Das',
-    tagLine1: '',
+    tagLine1: 'Udaan Blithe',
     tagLine2: '',
     role: 'Editor-in-Chief | 2022-23 , Editor | 2021-22',
     year: '2020-23',
-    desc1: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vitae diam euismod, aliquam elit vitae, ultricies ni',
+    desc1: 'Being a part of the editorial team in her initial years, Debeshee took over the Chief Editor role for the year 2022-23 and carried Udaan to greater heights with initiatives like the Podcast, new editions, and many more. Known for her “how is she so talented” vibe, she managed to give Udaan her own little touch and is often found furiously documenting meetings or laughing at quite literally everything.',
     desc2:
       '',
     link: 'https://www.linkedin.com/in/debeshee-das/',
@@ -111,12 +111,12 @@ export const pastmembers = [
   {
     key: 'noble',
     title: 'Noble Saji Mathews',
-    tagLine1: '',
-    tagLine2: '',
-    role: 'Udaan\'s spine | Since inception, Tech team lead | 2020-23',
+    tagLine1: 'Udaan\'s spine',
+    tagLine2: 'The Actual Fourth Maraurder',
+    role: ' Since inception, Tech team lead | 2020-23',
     year: '2020-23',
     desc1:
-      'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vitae diam euismod, aliquam elit vitae, ultricies ni',
+      'The unparalleled technical lead who gave the writers a place to write, the audience a place to read, and Udaan a home. This extremely noble (get it?) Udaan elder considers sleep a formality and can frequently be spotted changing Discord names during voice calls.  ',
     desc2:
       '',
     link: 'https://in.linkedin.com/in/noble-saji-mathews',
@@ -129,7 +129,7 @@ export const pastmembers = [
     role: 'Tech team',
     year: '2022-23',
     desc1:
-      'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vitae diam euismod, aliquam elit vitae, ultricies ni',
+      'As a part of the tech team, Sirish blended right in with Udaan and helped explore various technical aspects of an online magazine He is an extremely fun person to work with and always has the perfect level of quirkiness embedded in his reply. ',
     desc2:
       '',
     link: 'https://www.linkedin.com/in/sirish-sekhar-6896b51a7/',
@@ -634,6 +634,26 @@ export const author_info = [
     role: '',
     year: '',
     desc1: 'Akhil is your average "I suck at this life stuff, but I love it" human. Considered by few to be a hopeless romantic, he is of the opinion that soft music can reach into your heart and simply shatter it. You can find him staring at every passing pretty car and if you can't find him, chances are he's asleep from all the nightowlness. He is also a huge video game fangirl. Currently pursuing his dream degree in Mechanical Engineering, he hopes to swim through life and make it out in one piece, him and the indecisiveness that never leaves him.',
+    link: '',
+  },
+  {
+    key: 'rudransh',
+    title: 'Rudransh Pujari',
+    tagLine1: '',
+    tagLine2: '',
+    role: '',
+    year: '',
+    desc1: 'Rudransh, a B.tech student pursuing Mechanical Engineering. From his infamous "chidiya ka ghosla" hairstyle, he has transformed into a more presentable person to represent the student community. With an undying love for basketball and tennis, he never fails to catch the excitement of grand slams and NBA playoffs. Alongside his passion for sports, Rudransh is an occasional writer and a devoted documentary enthusiast.',
+    link: '',
+  },
+  {
+    key: 'neerav',
+    title: 'Neerav Sreekumar',
+    tagLine1: '',
+    tagLine2: '',
+    role: '',
+    year: '',
+    desc1: 'Neerav actually means silence in Sanskrit, and it may be fair enough to call him a taciturn. A sophomore pursuing a BTech in Chemical Engineering at IIT Tirupati, he is known for being a committed lover, but the only twist being that his soulmate is football. Apart from being a Bayern Munich fanatic, he enjoys Hollywood, novels, chess and being a meat foodie. His weakness? Not being run by an open source algorithm.',
     link: '',
   },
   
