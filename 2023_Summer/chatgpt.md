@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT: Not A Great Parent Replacement"
+title: "ChatGPT - Not A Great Parent Replacement"
 category: Op-Ed
 date: 2023-07-14 12:57:00 +05:30
 desc: 
