@@ -1504,7 +1504,7 @@ As my time as coordinator comes to an end, I'm filled with mixed emotions. On on
 </summary>
 </br>
 
-**
+*E-cell Student Head*
 
 <img src="images/profilecards/Sameer.png"
      alt="Sameer Profile"
