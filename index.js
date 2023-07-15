@@ -31,6 +31,21 @@ export const newsletter = [
     role: 'Editor',
   },
   {
+    key: 'sachin',
+    email: 'cs20b034@iittp.ac.in',
+    title: 'Sachin Sahu',
+    link: 'https://www.linkedin.com/in/sachin431/',
+    role: 'Tech Team Lead',
+
+  },
+  {
+    key: 'mohith',
+    email: 'ch20b021@iittp.ac.in',
+    title: 'Ram Mohith',
+    link: 'https://www.linkedin.com/in/ram-mohith-223386218',
+    role: 'Editor',
+  },
+  {
     key: 'chaitali',
     email: 'me20b053@iittp.ac.in',
     title: 'Chaitali Uday Karekar',
@@ -45,26 +60,11 @@ export const newsletter = [
     role: 'Editor',
   },
   {
-    key: 'mohith',
-    email: 'ch20b021@iittp.ac.in',
-    title: 'Ram Mohith',
-    link: 'https://www.linkedin.com/in/ram-mohith-223386218',
-    role: 'Editor',
-  },
-  {
     key: 'swathi',
     email: 'ce20b010@iittp.ac.in',
     title: 'Swathi',
     link: 'https://www.linkedin.com/in/swathi-gummadi-67826a226/',
     role: 'Editor',
-  },
-  {
-    key: 'sachin',
-    email: 'cs20b034@iittp.ac.in',
-    title: 'Sachin Sahu',
-    link: 'https://www.linkedin.com/in/sachin431/',
-    role: 'Tech Team Lead',
-
   },
   {
     key: 'mathew',
@@ -94,16 +94,37 @@ export const newsletter = [
     link: 'https://www.linkedin.com/in/keshav-manjhi-a8a2a321b',
     role: 'Art Editor',
   },
+  {
+    key: 'tarun',
+    email: 'me21b051@iittp.ac.in',
+    title: 'Tarun J Palani',
+    link: '',
+    role: 'Art Editor',
+  },
+  {
+    key: 'akhil',
+    email: 'me21b039@iittp.ac.in',
+    title: 'Akhil Krishnan',
+    link: '',
+    role: 'Editor',
+  },
+  {
+    key: 'siddhartha',
+    email: 'cs20b040.ac.in',
+    title: 'Siddhartha G',
+    link: '',
+    role: 'Tech Team',
+  },
 ];
 export const pastmembers = [
   {
     key: 'debeshee',
     title: 'Debeshee Das',
-    tagLine1: '',
+    tagLine1: 'Udaan Blithe',
     tagLine2: '',
     role: 'Editor-in-Chief | 2022-23 , Editor | 2021-22',
     year: '2020-23',
-    desc1: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vitae diam euismod, aliquam elit vitae, ultricies ni',
+    desc1: 'Being a part of the editorial team in her initial years, Debeshee took over the Chief Editor role for the year 2022-23 and carried Udaan to greater heights with initiatives like the Podcast, new editions, and many more. Known for her “how is she so talented” vibe, she managed to give Udaan her own little touch and is often found furiously documenting meetings or laughing at quite literally everything.',
     desc2:
       '',
     link: 'https://www.linkedin.com/in/debeshee-das/',
@@ -111,12 +132,12 @@ export const pastmembers = [
   {
     key: 'noble',
     title: 'Noble Saji Mathews',
-    tagLine1: '',
-    tagLine2: '',
-    role: 'Udaan\'s spine | Since inception, Tech team lead | 2020-23',
+    tagLine1: 'Udaan\'s spine',
+    tagLine2: 'The Actual Fourth Maraurder',
+    role: ' Since inception, Tech team lead | 2020-23',
     year: '2020-23',
     desc1:
-      'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vitae diam euismod, aliquam elit vitae, ultricies ni',
+      'The unparalleled technical lead who gave the writers a place to write, the audience a place to read, and Udaan a home. This extremely noble (get it?) Udaan elder considers sleep a formality and can frequently be spotted changing Discord names during voice calls.  ',
     desc2:
       '',
     link: 'https://in.linkedin.com/in/noble-saji-mathews',
@@ -129,7 +150,7 @@ export const pastmembers = [
     role: 'Tech team',
     year: '2022-23',
     desc1:
-      'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vitae diam euismod, aliquam elit vitae, ultricies ni',
+      'As a part of the tech team, Sirish blended right in with Udaan and helped explore various technical aspects of an online magazine He is an extremely fun person to work with and always has the perfect level of quirkiness embedded in his reply. ',
     desc2:
       '',
     link: 'https://www.linkedin.com/in/sirish-sekhar-6896b51a7/',
@@ -578,7 +599,7 @@ export const author_info = [
     tagLine2: '',
     role: '',
     year: '',
-    desc1: 'Bineet Barman - Bineet is a casual writer and a second year Mechanical Engineering undergraduate at IIT Tirupati, apart from being a guitarist for the institute\'s band. The following poem was composed impromptu for an Intra-IIT 2022 event with "considerable amount of naivety". He is also enthusiastic about art and instruments.',
+    desc1: 'Bineet is a lethargic individual, phasing through his Mechanical Engineering degree. Though with a general interest in all arts, he focuses primarily on playing guitar. For some amounts, he also enjoys reading, writing, and editing, regardless of his understanding. His current hope is to keep up with his peers and become an adept adult by the end of his college education. He will probably need an MTech degree too. And a PhD.',
     desc2: '',
     link: '',
   },
@@ -615,4 +636,46 @@ export const author_info = [
     desc2: '',
     link: '',
   },
+   {
+    key: 'Ansh',
+    title: 'Ansh Anand',
+    tagLine1: '',
+    tagLine2: '',
+    role: '',
+    year: '',
+    desc1: 'Ansh, a perpetually curious soul, thrives on the thrill of exploring and creating the unknown. With an insatiable appetite for knowledge, Ansh can often be found diving deep into diverse topics, ranging from technology and science to philosophy and politics but when it comes to his own academic course, he may occasionally resemble a lost traveler in the backrooms.',
+    desc2: '',
+    link: '',
+  },
+  {
+    key: 'Akhil',
+    title: 'Akhil Krishnan',
+    tagLine1: '',
+    tagLine2: '',
+    role: '',
+    year: '',
+    desc1: 'Akhil is your average "I suck at this life stuff, but I love it" human. Considered by few to be a hopeless romantic, he is of the opinion that soft music can reach into your heart and simply shatter it. You can find him staring at every passing pretty car and if you can't find him, chances are he's asleep from all the nightowlness. He is also a huge video game fangirl. Currently pursuing his dream degree in Mechanical Engineering, he hopes to swim through life and make it out in one piece, him and the indecisiveness that never leaves him.',
+    link: '',
+  },
+  {
+    key: 'rudransh',
+    title: 'Rudransh Pujari',
+    tagLine1: '',
+    tagLine2: '',
+    role: '',
+    year: '',
+    desc1: 'Rudransh, a B.tech student pursuing Mechanical Engineering. From his infamous "chidiya ka ghosla" hairstyle, he has transformed into a more presentable person to represent the student community. With an undying love for basketball and tennis, he never fails to catch the excitement of grand slams and NBA playoffs. Alongside his passion for sports, Rudransh is an occasional writer and a devoted documentary enthusiast.',
+    link: '',
+  },
+  {
+    key: 'neerav',
+    title: 'Neerav Sreekumar',
+    tagLine1: '',
+    tagLine2: '',
+    role: '',
+    year: '',
+    desc1: 'Neerav actually means silence in Sanskrit, and it may be fair enough to call him a taciturn. A sophomore pursuing a BTech in Chemical Engineering at IIT Tirupati, he is known for being a committed lover, but the only twist being that his soulmate is football. Apart from being a Bayern Munich fanatic, he enjoys Hollywood, novels, chess and being a meat foodie. His weakness? Not being run by an open source algorithm.',
+    link: '',
+  },
+  
 ];
