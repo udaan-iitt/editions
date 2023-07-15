@@ -1,13 +1,14 @@
----
-title: "ChatGPT - Not A Great Parent Replacement"
+--- 
+title: "Chat GPT - Not A Great Parent Replacement"
 category: "Op-Ed"
-date: "2023-07-14 12:57:00 +05:30"
+date: "2023-07-14 12:56:00 +05:30"
 desc: ""
-thumbnail: "Images/placeholder.jpg"
+thumbnail: "./Images/placeholder.jpg" 
 authors: "Sneha Battula, Ansh Anand"
 starred: false
-abio=""
---- 
+abio: ""
+alt: "chatgpt"
+---
                 
 A slow crack of knuckles in the attempt to be unheard. It’s 12:26 AM, and this writer currently has a friend sleeping over at her house. But no problem, work that’s been procrastinated upon must be completed.                   
                     
