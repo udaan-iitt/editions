@@ -33,6 +33,6 @@ Through a series of encounters with marginalized communities, Che Guevara's eyes
                               
 "The Motorcycle Diaries" paints a portrait of Che Guevara's evolution from an ordinary young man to a leader of the oppressed. It presents a profound realization—that even the most feared dictators were once human beings like you and me. They experienced moments of awakening, where their conscience compelled them to confront the suffering around them. This realization strikes you like a bolt of lightning. It shatters the notion of tyrants as mere monsters, born with malicious intent. Instead, you see them as complex individuals, susceptible to the impact of life-altering incidents that awaken their sense of purpose. The film whispers a powerful truth—that the potential for both good and evil resides within each of us.                       
 
-<img align="center" src="Images/Dictator_human.jpeg">,<br>
+![](Images/Dictator_human.jpeg)   
                                                      
 This movie has taught me an important lesson - “Our choices matter”. It reminds us that the capacity for change lies within us, waiting to be sparked by the fire of compassion in the pursuit of justice. So, as the credits rolled, I found myself forever changed. Inspired by the story of a young man's awakening, I started my own quest to understand the forces that shape individuals and the world they inhabit. And perhaps, armed with this newfound insight, I could probably change the world a little, before I turn into ashes.                
