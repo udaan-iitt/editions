@@ -43,8 +43,11 @@ The second book picks up at the end of Shweta’s college graduation. Everything
 <!--EndFragment-->
 
 <!--StartFragment-->
+**********
 
 ### Getting to know shortgirlbigbook
+
+![](images/author_interview.jpg)
 
 Eashani, from Darjeeling, West Bengal, is pursuing her final year in Organic Agriculture at Amity University Noida. Diving right in, we asked, “Could you please tell us a moment from your life that you’re proud of?”
 
@@ -93,6 +96,7 @@ What about the people around you? In your college, your family - what is their r
 <!--EndFragment-->
 
 <!--StartFragment-->
+*******************
 
 ### Relationships, relationships.
 
@@ -111,6 +115,7 @@ One of our favorite things about the book was the growth of Seema as a single mo
 Do you have any thoughts, or let's say *gyaan* to other parents - Do you have any pointers on how they could navigate this? Because they're doing this for the first time as well, right? 
 
 > Oh my goodness! I do not feel like I'm qualified to answer. When my mother happened to read the chapter with Seema’s mother giving advice, she called me up and said, “You have a lot of *gyaan*”, and I remember just dying on the inside. Because I'm not at all qualified. *Choti muh badi baat*, but I would still suggest that please try to have an open mind. I understand that you might have concerns. Maybe give them some freedom, a little at a time, so you can build up on that trust. It makes sense that it is an uncomfortable experience for them. But growth is uncomfortable, so you can't really do much about it. 
+******************
 
 ### Let’s talk about PCOS!
 
@@ -131,6 +136,7 @@ Do you think it's important to have more conversation about and around PCOS and 
 > And another aspect of PCOS that I don't think we talk much about is how it affects your mental health. And again, when I was thirteen, it was 2013, so there was still not a lot of awareness regarding mental health. So when I had extreme mood swings, I would not understand what was happening without realising that this reaction was happening inside my body. I was just pinning the blame onto myself and being like, “Oh, there is something wrong with me as an individual!”. It's also necessary to consider this when it comes to PCOS. Because it's a lifestyle disorder, it affects almost every aspect of you. 
 >
 > Sometimes, you can also find out about PCOD because celebrities have started making a point to talk about it - it helps people get diagnosed. Many women deal with a lot of weight gain, but for many women, it’s not related to weight gain. I have lean PCOS, which made it extra unhelpful when the doctor said, “Do cardio”. So there are different types as well. We need to have a lot of casual conversations about this and be completely open about it because it can help so many people! 
+******************
 
 ### The F word
 
@@ -154,7 +160,7 @@ How would you respond to people, often women, who proudly walk around, saying th
 
 Don't you think people have taken power away from the term ‘feminism’? With all the pseudo-feminism and craziness surrounding it, many people are scared to say they're feminists. Can we bring power back to the term, or do we just pick up a different term and go forward with it? Is the term tarnished beyond help?
 
-> I don't think it's tarnished beyond help. It's like giving a dog a bad name and hanging it. Ultimately there's no shame in calling ourselves feminists. Although feminism has a bad name, it also has a good name. Taking away the term feminism would erase its good aspects. There is so much incredible feminist literature! Can we replace the term with “Humanist literature” or “Equalist literature”? There are a lot of new terms, but I think the name is trivial when we compare it to the ideology behind it. And for a topic that's as vast and intersectional as feminism, there will always be misconceptions about it. We'll have to take that along with us, as we go on. There are always going to be people who take advantage of it. They're a huge problem. I think that gives feminism and women, in general, a bad name. 
+> I don't think it's tarnished beyond help. It's like giving a dog a bad name and hanging it. Ultimately there's no shame in calling ourselves feminists. Although feminism has a bad name, it also has a good name. Taking away the term feminism would erase its good aspects. There is so much incredible feminist literature! Can we replace the term with “Humanist literature” or “Equalist literature”? There are a lot of new terms, but I think the name is trivial when we compare it to the ideology behind it. And for a topic that's as vast and intersectional as feminism, there will always be misconceptions about it. We'll have to take that along with us, as we go on. There are always going to be people who take advantage of it. They're a huge problem. I think that gives feminism and women, in general, a bad name.             
 
 Speaking of misconceptions around feminism, STEM fields are usually dominated by men, and as a result, various companies hire women specifically for better representation. Some people feel this is unfair because someone “less competent” gets hired. But people need to understand the reason behind these programs without which they create negative, misconstrued notions around feminism. 
 
@@ -167,6 +173,7 @@ As girl students at an IIT, we also struggled with this ideology. Both of us rec
 *“I had the same struggle - I didn’t want to take up the IIT seat because I felt I hadn’t earned it fairly. I get that some girls deserve opportunities like this, but I had a lot of support. I wanted to go to IISc instead because I had earned my seat there, fair and square. But if I didn’t take up the IIT seat, another girl who is “less deserving” (with less deserving in quotes because we’re only considering JEE rank here) would get the seat instead. I will not make even a scratch in the system; forget about making a dent. I realised that I couldn’t fight the system from mindlessly rebelling and that I needed to learn more to understand why this was happening.”* - Debeshee
 
 The focus should definitely be on women of less privilege. But when these programs affect women of a certain privilege, there will be a moral struggle. The best way we who get to avail these opportunities can help is by using our voices as representatives and making the field more suitable for more women to come to it - eventually in a more normalised manner instead of through special measures. This is our sacred duty and something we can actually help with. 
+***********************
 
 ### Our favourite part…
 
