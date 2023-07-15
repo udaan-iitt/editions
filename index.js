@@ -36,7 +36,6 @@ export const newsletter = [
     title: 'Sachin Sahu',
     link: 'https://www.linkedin.com/in/sachin431/',
     role: 'Tech Team Lead',
-
   },
   {
     key: 'mohith',
@@ -67,6 +66,27 @@ export const newsletter = [
     role: 'Editor',
   },
   {
+    key: 'saurabh',
+    email: 'cs20b038@iittp.ac.in',
+    title: 'Saurabh Kumar',
+    link: 'https://www.linkedin.com/in/saurabh-kumar-089ab4241',
+    role: 'Editor',
+  },
+  {
+    key: 'akhil',
+    email: 'me21b039@iittp.ac.in',
+    title: 'Akhil Krishnan',
+    link: '',
+    role: 'Editor',
+  },
+  {
+    key: 'ME21B012',
+    email: 'me21b012@iittp.ac.in',
+    title: 'Bineet Barman',
+    link: '',
+    role: 'Editor',
+  },
+  {
     key: 'mathew',
     email: 'cs20b021@iittp.ac.in',
     title: 'Mathew KJ',
@@ -80,13 +100,7 @@ export const newsletter = [
     link: 'https://www.linkedin.com/in/ganesh-priyatham-palivela-abb599229',
     role: 'Tech Team',
   },
-  {
-    key: 'saurabh',
-    email: 'cs20b038@iittp.ac.in',
-    title: 'Saurabh Kumar',
-    link: 'https://www.linkedin.com/in/saurabh-kumar-089ab4241',
-    role: 'Editor',
-  },
+  
   {
     key: 'keshav',
     email: 'cs21b027@iittp.ac.in',
@@ -102,16 +116,16 @@ export const newsletter = [
     role: 'Art Editor',
   },
   {
-    key: 'akhil',
-    email: 'me21b039@iittp.ac.in',
-    title: 'Akhil Krishnan',
+    key: 'siddhartha',
+    email: 'cs20b040@iittp.ac.in',
+    title: 'Siddhartha G',
     link: '',
-    role: 'Editor',
+    role: 'Tech Team',
   },
   {
-    key: 'siddhartha',
-    email: 'cs20b040.ac.in',
-    title: 'Siddhartha G',
+    key: 'ansh',
+    email: 'me21b006@iittp.ac.in',
+    title: 'Ansh Anand',
     link: '',
     role: 'Tech Team',
   },
