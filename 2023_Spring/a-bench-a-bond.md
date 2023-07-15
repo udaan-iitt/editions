@@ -7,7 +7,7 @@ desc: An honest attempt to highlight the essentiality of a myriad of
 thumbnail: ./images/benchbond.jpg
 authors: Bineet Barman
 starred: false
-abio: ""
+abio: "Bineet Barman is a casual writer and a second year Mechanical Engineering Undergraduate at IIT Tirupati, currently active as a guitarist for his institute's band. The poem is, in his own words, a "naive but honest" attempt at meaningful poetry. He is also passionate about music and instruments, sketching and recreational math"
 alt: ""
 ---
 <p style="text-align: center;align:center;">There is a bench at the local park, under the shade of trees<br>

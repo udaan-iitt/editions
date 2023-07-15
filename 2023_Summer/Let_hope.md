@@ -2,7 +2,7 @@
 title: Let Hope Narrate Love
 category: Story
 date: 2023-07-14 12:59:00 +05:30
-desc: 
+desc: "A tale ft. money and love, when a bunch of corrupt politicians sit down for a game of chess against a middle class family, leaving it all to fate itself, with every ticking second of the clock. Why so? Well..."
 thumbnail: Images/placeholder.jpg
 authors: Neerav Sreekumar
 starred: false

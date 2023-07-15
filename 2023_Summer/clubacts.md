@@ -4,7 +4,7 @@ category: "Campus News"
 date: "2023-07-14 12:5:00 +05:30"
 desc: ""
 thumbnail: "./Images/clubActs.jpg" 
-authors: "Mohith, Swathi, Bineeth "
+authors: "Mohith, Swathi, Bineeth Barman "
 starred: false
 abio: "NONE"
 alt: "clubacts"

@@ -2,7 +2,7 @@
 title: Algebra Of Safety
 category: Op-Ed
 date: 2023-07-14 12:50:00 +05:30
-desc: 
+desc: "Safety holds primal value within humans. Fundamentally, the absence of danger, early humans knew safety very well. The caves were safer. The fires kept us safe from the predators in the wild. But, today, as the world shifts to an information-rich regime, does the concept of safety stay the same? What constitutes as "safe"? Could we provide an all-encompassing definition? And the big question, could a rigorous study of information safety make the world any.....safer?"
 thumbnail: ./Images/infosafety.jpg
 authors: Cosmic Cutie
 starred: false
