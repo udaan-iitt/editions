@@ -94,6 +94,27 @@ export const newsletter = [
     link: 'https://www.linkedin.com/in/keshav-manjhi-a8a2a321b',
     role: 'Art Editor',
   },
+  {
+    key: 'tarun',
+    email: 'me21b051@iittp.ac.in',
+    title: 'Tarun J Palani',
+    link: '',
+    role: 'Art Editor',
+  },
+  {
+    key: 'akhil',
+    email: 'me21b039@iittp.ac.in',
+    title: 'Akhil Krishnan',
+    link: '',
+    role: 'Editor',
+  },
+  {
+    key: 'siddhartha',
+    email: 'cs20b040.ac.in',
+    title: 'Siddhartha G',
+    link: '',
+    role: 'Tech Team',
+  },
 ];
 export const pastmembers = [
   {
@@ -572,7 +593,7 @@ export const author_info = [
     link: '',
   },
   {
-    key: 'Bineet',
+    key: 'ME21B012',
     title: 'Bineet Barman',
     tagLine1: '',
     tagLine2: '',
