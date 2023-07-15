@@ -3,7 +3,7 @@ title: "Chat GPT - Not A Great Parent Replacement"
 category: "Op-Ed"
 date: "2023-07-14 12:56:00 +05:30"
 desc: ""
-thumbnail: "./Images/placeholder.jpg" 
+thumbnail: "./Images/chatGPT.jpg" 
 authors: "Sneha Battula, Ansh Anand"
 starred: false
 abio: ""
