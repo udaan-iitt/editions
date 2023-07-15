@@ -18,11 +18,7 @@ a spontaneous play contest where the participants were given a situation and wer
 ![](Images/monologue.jpg)                                
                
                                      
-**Artista** camp also had a packed academic year with a plethora of events. For Independence Day, the club conducted **‘Freedom to Depict’**, a contest to celebrate the work of Classical Indian Artists. As a part of Freshers' Week, the club conducted a costume design contest that saw many out-of-the-box outfits, leaving the spectators in awe.          
-              
-![](Images/Costume_18.jpg)                     
-                                        
-For Dussehra celebrations, the club crafted a 10-foot effigy of Ravan for Ravan Dahan. Rangoli and Diya painting events were also conducted as a part of Diwali celebrations.                                           
+**Artista** camp also had a packed academic year with a plethora of events. For Independence Day, the club conducted **‘Freedom to Depict’**, a contest to celebrate the work of Classical Indian Artists. As a part of Freshers' Week, the club conducted a costume design contest that saw many out-of-the-box outfits, leaving the spectators in awe. For Dussehra celebrations, the club crafted a 10-foot effigy of Ravan for Ravan Dahan. Rangoli and Diya painting events were also conducted as a part of Diwali celebrations.                                                             
                 
 |  |  |
 |:-:|:-:|
