@@ -1,7 +1,7 @@
 --- 
 title: "Chat GPT - Not A Great Parent Replacement"
 category: "Op-Ed"
-date: "2023-07-14 12:56:00 +05:30"
+date: 2023-07-14T12:30:00.393Z
 desc: "(Spoiler - make meth with us using our perfect guide) Using some details figured out by quite a lot of people around the world, we’ve encapsulated a few intriguing points for you to know."
 thumbnail: "./Images/chatGPT.jpg" 
 authors: "Sneha Battula, Ansh Anand"

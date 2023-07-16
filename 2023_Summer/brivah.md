@@ -1,12 +1,13 @@
 ---
 title: Brivah
 category: Story
-date: 2023-07-14 12:45:00 +05:30
+date: 2023-07-14T12:30:00.393Z
 desc: "In the lands old North America, where cultures and conflicts collided, Sammi's life took an unexpected turn. Amidst the growing tensions between tribes and the encroaching British presence, a fateful encounter shattered his world. Bound by loss and driven by vengeance, young Sammi found himself on a journey where the struggle for survival intertwined with the enduring spirit of humanity."
-thumbnail: Images/Brivah(1).jpg
+thumbnail: Images/Brivah_1.jpg
 authors: Keshav Kumar Manjhi
 starred: false
 abio: ""
+alt: "brivah"
 ---
 Crack!                     
                                                           

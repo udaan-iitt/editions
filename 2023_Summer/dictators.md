@@ -1,8 +1,8 @@
 --- 
 title: "Unveiling the human side of great dictators"
 category: "Review"
-date: "2023-07-14 12:56:00 +05:30"
-desc: "Embark on a transformative journey through "The Motorcycle Diaries," where the innocence of youth meets the awakening of a revolutionary spirit. Witness the unexpected twists and soul-stirring encounters that forever changed the life of Che Guevara, challenging our perception of history's most infamous leaders."
+date: 2023-07-14T12:30:00.393Z
+desc: "Embark on a transformative journey through \"The Motorcycle Diaries\", where the innocence of youth meets the awakening of a revolutionary spirit. Witness the unexpected twists and soul-stirring encounters that forever changed the life of Che Guevara, challenging our perception of history's most infamous leaders."
 thumbnail: "./Images/dictator.jpg" 
 authors: "Rudransh Pujari"
 starred: false

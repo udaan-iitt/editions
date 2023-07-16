@@ -1,9 +1,10 @@
 ---
 title: "Series Review - Andor"
 category: Review
-date: 2023-07-14 12:58:00 +05:30
-desc: "Does the Star Wars series "Andor" provide a conclusive answer to the ongoing debate about the Galactic Empire's nature? Did the series live upto its franchise stardom? Hop in and read this comprehensive analysis and review of the recent series in the world of Jedi and Sith."
-thumbnail: images/andor.jpg
+date: 2023-07-14T12:30:00.393Z
+desc: "Does the Star Wars series \"Andor\" provide a conclusive answer to the ongoing debate about the Galactic Empire's nature? Did the series live upto its franchise stardom? Hop in and read this comprehensive analysis and review of the recent series in the world of Jedi and Sith."
+thumbnail: ./Images/andor.jpg
+alt: "Andor"
 authors: Jeremy Pacman
 starred: false
 abio: NONE

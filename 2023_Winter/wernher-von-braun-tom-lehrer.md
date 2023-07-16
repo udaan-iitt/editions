@@ -10,6 +10,7 @@ thumbnail: images/tomlehrer.jpg
 authors: Cosmic Cutie
 starred: false
 abio: ""
+alt: Tom Lehrer
 ---
 <!--StartFragment-->
 

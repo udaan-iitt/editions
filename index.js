@@ -668,7 +668,7 @@ export const author_info = [
     tagLine2: '',
     role: '',
     year: '',
-    desc1: 'Akhil is your average "I suck at this life stuff, but I love it" human. Considered by few to be a hopeless romantic, he is of the opinion that soft music can reach into your heart and simply shatter it. You can find him staring at every passing pretty car and if you can't find him, chances are he's asleep from all the nightowlness. He is also a huge video game fangirl. Currently pursuing his dream degree in Mechanical Engineering, he hopes to swim through life and make it out in one piece, him and the indecisiveness that never leaves him.',
+    desc1: "Akhil is your average \"I suck at this life stuff, but I love it\" human. Considered by few to be a hopeless romantic, he is of the opinion that soft music can reach into your heart and simply shatter it. You can find him staring at every passing pretty car and if you can't find him, chances are he's asleep from all the nightowlness. He is also a huge video game fangirl. Currently pursuing his dream degree in Mechanical Engineering, he hopes to swim through life and make it out in one piece, him and the indecisiveness that never leaves him.",
     link: '',
   },
   {

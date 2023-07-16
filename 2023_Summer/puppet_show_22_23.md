@@ -1,9 +1,9 @@
 ---
 title: "The Puppet Show: An Ode to the Student Body"
 category: Experiences
-date: 2023-07-13 12:30:00 +05:30
+date: 2023-07-14T12:30:00.393Z
 desc: Embark on a whimsical journey as we unveil a delightful tribute capturing the untold stories of the student body of 2022-23, celebrating their achievements, sharing their difficulties, and thanking them for their efforts. 
-thumbnail: ./images/puppetShow.jpg
+thumbnail: ./Images/puppetShow.jpg
 authors: Krithi Shailya, Akhil Krishnan, Sneha Battula, Sneha M S, Keshav Kumar Manjhi
 starred: true
 abio: NONE

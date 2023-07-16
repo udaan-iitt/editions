@@ -1,13 +1,13 @@
 ---
 title: Algebra Of Safety
 category: Op-Ed
-date: 2023-07-14 12:50:00 +05:30
-desc: "Safety holds primal value within humans. Fundamentally, the absence of danger, early humans knew safety very well. The caves were safer. The fires kept us safe from the predators in the wild. But, today, as the world shifts to an information-rich regime, does the concept of safety stay the same? What constitutes as "safe"? Could we provide an all-encompassing definition? And the big question, could a rigorous study of information safety make the world any.....safer?"
+date: 2023-07-14T12:30:00.393Z
+desc: "Safety holds primal value within humans. Fundamentally, the absence of danger, early humans knew safety very well. The caves were safer. The fires kept us safe from the predators in the wild. But, today, as the world shifts to an information-rich regime, does the concept of safety stay the same? What constitutes as \"safe\"? Could we provide an all-encompassing definition? And the big question, could a rigorous study of information safety make the world any.....safer?"
 thumbnail: ./Images/infosafety.jpg
 authors: Cosmic Cutie
 starred: false
 abio: NONE
-alt: ""
+alt: "safety"
 ---
 
 ```
@@ -115,7 +115,7 @@ This model captures an aspect of information that our earlier model did not - co
 
 In other words, the FSB might have had more pins on their drawing board but /pol/ was better at connecting them. In the end, only some pins on the board matter; adding more pins makes the puzzle harder to solve.
 
-![](Images/infosafety(1).jpg)
+![](Images/infosafety_1.jpg)
 
 To generalise, the very act of exploring configurations of a graph generates new information. Though a list of nodes implicitly contains every possible set of edges which can exist between them, searching for a particular configuration requires a non-trivial amount of effort. Thus the closure operator generates "new" information (in a manner of speaking).
 
@@ -224,7 +224,7 @@ Are there any measures against dangerous true statements in the public domain? H
 
 In countries which use the jury system, a peculiar phenomena arises as a consequence of the legal system - [jury nullification](https://en.wikipedia.org/wiki/Jury_nullification). A jury has the ultimate freedom to decide whatever they want without any fear of retaliation from the court. If the jury's verdict is too harsh against a defendant, the defendant may appeal to a higher court. On the other hand, if the jury's verdict is too lenient, nothing can be done since the rule against double jeopardy disallows prosecuting someone for the same crime twice. Thus the jury has the power to unilaterally and irreversibly shield someone from criminal prosecution, no matter how much evidence there is of their guilt.
 
-![](Images/infosafe.jpg)
+![](Images/infosafe.png)
                        
 An infamous example of this is the case of [Commander K. M. Nanavati vs. State of Maharashtra](https://en.wikipedia.org/wiki/K._M._Nanavati_v._State_of_Maharashtra), in which a naval officer who admitted to killing someone was acquitted by a sympathetic jury. The resulting outrage resulted in the judge overturning the verdict and a subsequent retrial.
 
