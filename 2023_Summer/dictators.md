@@ -1,12 +1,13 @@
----
+--- 
 title: "Unveiling the human side of great dictators"
-category: "Op-Ed"
-date: "2023-07-14 12:47:00 +05:30"
+category: "Review"
+date: "2023-07-14 12:56:00 +05:30"
 desc: "Embark on a transformative journey through "The Motorcycle Diaries," where the innocence of youth meets the awakening of a revolutionary spirit. Witness the unexpected twists and soul-stirring encounters that forever changed the life of Che Guevara, challenging our perception of history's most infamous leaders."
-thumbnail: "Images/dictator.jpg"
+thumbnail: "./Images/dictator.jpg" 
 authors: "Rudransh Pujari"
 starred: false
 abio: ""
+alt: "dictator"
 ---
 
 There are moments when life takes an unexpected turn, leading people down uncharted paths and igniting a fire within us that we never knew existed. Such moments leave a mark on our souls, forever changing the way we perceive the world.                    
