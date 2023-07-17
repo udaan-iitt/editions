@@ -3,13 +3,13 @@ title: क्या-क्या बाकी है?
 category: Poetry
 date: 2023-07-14T12:30:00.393Z
 desc: "The poem reflects the yearning of untold emotions and beauty of unspoken desires. The poem also explores how some unfulfilled wishes remain with you as a bittersweet memory."
-thumbnail: Images/Kyakyabakihai.png
+thumbnail: images/Kyakyabakihai.png
 authors: Rajat Pratap
 starred: false
 abio: NONE
 alt: "kyakya"
 ---
-![](Images/KyaKyaBakihai_1.jpg)
+![](images/KyaKyaBakihai_1.jpg)
 
 <p style="text-align: center;align:center;">जब गगन के धुंधले दर्पण में,<br>
 संध्या का स्वर्णिम दर्शन हो,<br>

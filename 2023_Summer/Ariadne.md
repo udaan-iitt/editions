@@ -3,13 +3,13 @@ title: Ariadne's Laments
 category: Poetry
 date: 2023-07-14T12:30:00.393Z
 desc: "This poem is based on the Greek myth of Ariadne, a princess who helped the hero Theseus defeat the Minotaur and escape the Labyrinth. Apathetic to her love, he abandoned her at the island of Naxos. The poem expresses Ariadne's sorrow, anger and betrayal at being left by Theseus, and questions his love and loyalty for her." 
-thumbnail: Images/Ariadne_1.png
+thumbnail: images/Ariadne_1.png
 authors: Iftekhar Ahmed
 starred: false
 abio: ""
 alt: "Ariadne"
 ---
-![](Images/Ariadne.png)
+![](images/Ariadne.png)
 
 <p style="text-align: center;align:center;">Oh, Theseus! What would you do?
 <br>

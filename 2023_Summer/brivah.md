@@ -3,7 +3,7 @@ title: Brivah
 category: Story
 date: 2023-07-14T12:30:00.393Z
 desc: "In the lands old North America, where cultures and conflicts collided, Sammi's life took an unexpected turn. Amidst the growing tensions between tribes and the encroaching British presence, a fateful encounter shattered his world. Bound by loss and driven by vengeance, young Sammi found himself on a journey where the struggle for survival intertwined with the enduring spirit of humanity."
-thumbnail: Images/Brivah_1.jpg
+thumbnail: images/Brivah_1.jpg
 authors: Keshav Kumar Manjhi
 starred: false
 abio: ""
@@ -105,7 +105,7 @@ The stout chief, Pererra, was once the head of the factions that guarded the fam
                                          
 "Lhaje Merjahn!" roared the crowd as they raised their weapons and pounded them on the ground. Amidst the tumult of emotions, we began walking, gripping our weapons tight, marching into the last act of the unknown that this night was to unleash upon us.         
 
-![](Images/brivah.jpg)
+![](images/brivah.jpg)
 
 The night was clouded with the grey overcast as the winds began to blow strongly through the woods. The information was, in fact, accurate, and the camp was in place while the combatants proceeded to skirt it all around, surrounding them in a valley of blood-thirsty blades. Every person's role was decided, and we were to strike methodically. I had not expected the prowess of military intellect from Pererra that I encountered, wondering how he ended up just as a bodyguard and not a martial strategist. 
 I crouched behind a thorny shrub, holding my dagger close to my chest, as we could see a campfire, with redcoats sitting on benches munching on steamed pork whose whiff could be sensed from far away. A few generals were visible, sipping on drinks, lying around stout and drooling and laughing, probably about how easily they could kill us like insects. Several carriages with horses were visible, and a lot of women too. The man beside me, Kasha, held a huge tomahawk half my size. "Don't go in too fast," he said as he patted my back and stared at the feasting whites, murmuring an inaudible chant.                              
