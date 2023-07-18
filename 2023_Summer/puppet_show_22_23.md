@@ -1,10 +1,10 @@
 ---
 title: "The Puppet Show: An Ode to the Student Body"
 category: Experiences
-date: 2023-07-13 12:30:00 +05:30
+date: 2023-07-14T12:30:00.393Z
 desc: Embark on a whimsical journey as we unveil a delightful tribute capturing the untold stories of the student body of 2022-23, celebrating their achievements, sharing their difficulties, and thanking them for their efforts. 
 thumbnail: ./images/puppetShow.jpg
-authors: Krithi, Akhil, Sneha Battula, Sneha M S, Keshav
+authors: Krithi Shailya, Akhil Krishnan, Sneha Battula, Sneha M S, Keshav Kumar Manjhi
 starred: true
 abio: NONE
 alt: The Puppet Show
@@ -360,7 +360,7 @@ My suggestions for the next representative are for them to keep working on diffe
 </summary>
 </br>
 
-*Placement Co-ordinator*
+*Placement Coordinator*
 
 <img src="images/profilecards/Sreeja.png"
      alt="Sreeja Profile"
@@ -493,7 +493,7 @@ Could have organized more events.
 --------------
 
 **Dear Future GCU Student Head,**                                                                                                     
-Do try to be more consistent with work and advancing GCU, which I counbld.t do compelete justice to.       
+Do try to be more consistent with work and advancing GCU, which I couldn't do compelete justice to.       
 
 ---------
 
@@ -671,7 +671,7 @@ Sincerity works out.
 
 *Actomania Coordinator*
 
-<img src="images/profilecards/Susreesh.png"
+<img src="images/profilecards/Susreesh.png"          
      alt="Susreesh Profile"
      style="float: left; margin-right: 20rem; margin-bottom:40px; width: 90%;"/>
 
@@ -726,7 +726,7 @@ One of the key issues I wanted to address as club head was how most individuals 
                                         
 Another achievement I would like to mention is the consistency in our social media presence. In my tenure the social media team has ensured consistency in showing off student artworks, as well as maintaining our new informative posts series about the traditional artforms of India.                    
                                                   
-Of Course the Inter IIT art contingent and their dedication to attending practice sessions and giving their all in the Inter IIT deserves a shoutout.                                    
+Of course, the Inter IIT art contingent and their dedication to attending practice sessions and giving their all in the Inter IIT deserves a shoutout.                                    
 
 -----------
 
@@ -746,7 +746,7 @@ Firstly, get budget approval done as early as possible. make good use of the ama
 
 *Thoughts and reviews from the student community*                     
                               
->Somehow while appearing to be the friendliest person in the room, Sathya can get you to do many things. Probably he uses that rangoli art he makes (black magic?). Also, he made so many tasks that seem impossible, possible. If there is anything, it's just that he had to let go of some of his pre planned events because he didn't want to disturb students during busy times. When we started as a team and discussed our plans, many of us were skeptical about some ideas. But during execution we never felt the drag because of how fun they were. That's how good he's organization was! He was the centre of the club. It was like Artista was his surname. All while being a part of so many other clubs! Cool leader, amazing person. He's a combined package of fun, talent and responsibility. I learned a lot from him.
+>Somehow while appearing to be the friendliest person in the room, Sathya can get you to do many things. Probably he uses that rangoli art he makes (black magic?). Also, he made so many tasks that seem impossible, possible. If there is anything, it's just that he had to let go of some of his pre planned events because he didn't want to disturb students during busy times. When we started as a team and discussed our plans, many of us were skeptical about some ideas. But during execution we never felt the drag because of how fun they were. That's how good his organization was! He was the centre of the club. It was like Artista was his surname. All while being a part of so many other clubs! Cool leader, amazing person. He's a combined package of fun, talent and responsibility. I learned a lot from him.
 >
 >*-Vishnu Teja* 
               
@@ -755,7 +755,7 @@ Firstly, get budget approval done as early as possible. make good use of the ama
 >
 >*-Aman*
 
->Working with sathya is definitely fun, anyone who worked with would say the same.  Hes the one who says "Bro, I Have no clue" but at the end hes the one sorting the things out at the right moment. Despite being busy with N number of other works yet he never left the club dangling. Though there were many last moment rushes, we as a team managed to pull of things before its too late. His omnipresense during Inter IIT preparation is worth mentioning, being a master of multiple arts he was just running like a machine giving individual tasks to each team, tracking their progress, coordinating with cultural secretary for updates, getting art supplies etc. His feats at the account section for modifying and  adjusting the budget before and after every event needs a special mention.
+>Working with sathya is definitely fun, anyone who worked with would say the same.  He's the one who says "Bro, I Have no clue" but at the end he's the one sorting the things out at the right moment. Despite being busy with N number of other works yet he never left the club dangling. Though there were many last moment rushes, we as a team managed to pull of things before its too late. His omnipresense during Inter IIT preparation is worth mentioning, being a master of multiple arts he was just running like a machine giving individual tasks to each team, tracking their progress, coordinating with cultural secretary for updates, getting art supplies etc. His feats at the account section for modifying and  adjusting the budget before and after every event needs a special mention.
 >
 >*-Sanjay*
 
@@ -778,7 +778,7 @@ Firstly, get budget approval done as early as possible. make good use of the ama
 </summary>
 </br>
 
-*Photography and Film Cluh Student Head*
+*Photography and Film Club Student Head*
 
 <img src="images/profilecards/Prasanna.png"
      alt="Prasanna Profile"
@@ -789,7 +789,7 @@ Firstly, get budget approval done as early as possible. make good use of the ama
 
 As the head of the Photography and Films Club, I take immense pride in the achievements of our team. One of the most memorable experiences was leading the team during the prestigious Inter IIT meet, where we showcased our skills and creativity on a national platform. Despite most of our team members being relatively inexperienced, we delivered substantially well.                           
                                 
-Additionally, our coverage of Tirutsva, our college fest, was a resounding success. We captured the spirit and energy of the event through stunning visuals and engaging videos, leaving a lasting impression on participants and spectators, throughout the entire fest that lasted 3 days.                     
+Additionally, our coverage of Tirutsava, our college fest, was a resounding success. We captured the spirit and energy of the event through stunning visuals and engaging videos, leaving a lasting impression on participants and spectators, throughout the entire fest that lasted 3 days.                     
                          
 Apart from these marquee events, we undertook numerous projects, each with unique challenges and triumphs. I am particularly proud of establishing a dedicated design wing within the club, which has provided a platform for creative expression and further elevated our artistic endeavors.                        
                                
@@ -822,7 +822,7 @@ For the next representative of the Photography and Films Club, I would suggest f
                                         
 6. Take a proactive approach to identify areas for growth and implement necessary changes for future success.                          
                             
-By addressing these points, the following representative can build upon the club's foundation and drive it towards even more remarkable accomplishments and positive impact within the college community."
+By addressing these points, the following representative can build upon the club's foundation and drive it towards even more remarkable accomplishments and positive impact within the college community.
        
 ---------
 
@@ -837,7 +837,7 @@ By addressing these points, the following representative can build upon the club
 >*-Anant Tyagi*
            
                              
->Nice job at giving out work (I mean really 👁👁), and at telling me "ay you do this okay" in his distinct voice. Also we went for our first inter iit so yayyy, wasn't disastrous atleast. "We make things happen...somehow. I don't know how, I don't know who pushes but it happens at the end. I wish we could have made more things happen
+>Nice job at giving out work (I mean really 👁👁), and at telling me "ay you do this okay" in his distinct voice. Also we went for our first inter iit so yayyy, wasn't disastrous atleast. We make things happen...somehow. I don't know how, I don't know who pushes but it happens at the end. I wish we could have made more things happen
 >
 >*-Keshav*      
                                        
@@ -890,7 +890,7 @@ Please find a way to simplify the financial procedures and save yourself some ru
 >*-Chaitali*
 
 
->Krithi was able to keep the band spirit of sargam alive by pushing us to come to the sargam room to practice different songs and by allowing us to experiment with our intruments without interfereing much. My experience with sargam was absolutely fantastic. During the semester when everything gets hectic and I had a lot of work to do, Sargam was the place I liked to be at to calm myself down and enjoy a bit while also getting things done.            
+>Krithi was able to keep the band spirit of sargam alive by pushing us to come to the sargam room to practice different songs and by allowing us to experiment with our intruments without interfering much. My experience with sargam was absolutely fantastic. During the semester when everything gets hectic and I had a lot of work to do, Sargam was the place I liked to be at to calm myself down and enjoy a bit while also getting things done.            
 >
 >Apart from her weird and iconic thumbs up which we got as a gesture of appreciation and/or sarcasm from her whenever we did something right/wrong she always had the funniest things to say to keep us going. Due to me being the only drummer in the band I got a special pass from the usual core member duties to focus mainly on my skills which helped me grow a lot as a drummer. P.S - She even saved me from my PFC duties to help me squeeze a little more time into drumming, which I am really thankful for.                
 >
@@ -899,7 +899,7 @@ Please find a way to simplify the financial procedures and save yourself some ru
 >*-Abhinav*
               
                             
->Everything was consulted with everyone. Equipments, instruments, and practise - all was dealt with fairly. Krithi is chill and easy to talk to so progress was smooth. Traveling to locations and stay was also handled well (IIIT Sricity was a rollercoaster, oof). All in all, a competent person! The jam sessions were always a blast! Figuring out how the parts should be arranged, multiple retries and then finally nailing it was all part of the fun. And to Krithi, I'll be always thankful for also trusting me with keeping in my room, one guitar, because goddamn it helped with my boredom (and allowed me to practice more ofcourse!)
+>Everything was consulted with everyone. Equipments, instruments, and practise - all was dealt with fairly. Krithi is chill and easy to talk to so progress was smooth. Traveling to locations and stay was also handled well (IIIT Sricity was a rollercoaster, oof). All in all, a competent person! The jam sessions were always a blast! Figuring out how the parts should be arranged, multiple retries and then finally nailing it was all part of the fun. And to Krithi, I'll be always thankful for also trusting me with keeping in my room, one guitar, because goddamn it helped with my boredom (and allowed me to practice more of course!)
 >
 >*-Bineet*
         
@@ -956,7 +956,7 @@ Don’t let the culture of dance go down. After COVID, it took us a lot to start
 >*-Vinay*
                  
                       
->She believes in working together, I being part of the crew have seen her fighting for our opportunities in dancing. She supports each and every one and encourages us to dance and push our limits. She worked very hard for our inter IIT. I enjoyed a lot by being a part of the team as family. In tough times we divided the work and worked as a team. I have learnt many things from the team. It was a good experience working with the team.
+>She believes in working together and I, being part of the crew have seen her fighting for our opportunities in dancing. She supports each and every one and encourages us to dance and push our limits. She worked very hard for our inter IIT. I enjoyed a lot by being a part of the team as family. In tough times we divided the work and worked as a team. I have learnt many things from the team. It was a good experience working with the team.
 >
 >*-Sai Chathurya Bheemoju*
 
@@ -997,7 +997,7 @@ I would like to offer a small tip to the future coordinator: forming a core comm
 
 *Thoughts and reviews from the student community* 
 
-><joke>Dhruti can be called Ms. I don't think we are winning. Cause thats what she said after our ICI competition. We ended up winning the first prize lol <joke> I believe her's was an amazing term. First year of the club and we ended up getting our first Inter-IIT medal, celebrated various festivals on campus and also planned and executed an event in Tirutsava. I would call her a visionary who lacked confidence at times but made sure that stuff happened. The way she got us budget, cooking apparatus and organized stuff, its just commendable. And apart from all this, she is definitely a great cook. It was great teaming up with her in Inter-IIT and in the ICI cooking competition. "
+><joke>Dhruti can be called Ms. I don't think we are winning. Cause thats what she said after our ICI competition. We ended up winning the first prize lol <joke> I believe her's was an amazing term. First year of the club and we ended up getting our first Inter-IIT medal, celebrated various festivals on campus and also planned and executed an event in Tirutsava. I would call her a visionary who lacked confidence at times but made sure that stuff happened. The way she got us budget, cooking apparatus and organized stuff, it's just commendable. And apart from all this, she is definitely a great cook. It was great teaming up with her in Inter-IIT and in the ICI cooking competition. "
 >
 >*-Ishaan Kulkarni*
                   
@@ -1009,7 +1009,7 @@ I would like to offer a small tip to the future coordinator: forming a core comm
 >*-Abhimenyu*
            
                        
->To put it in a few words, Druti is an extremely enthusiastic individual who took up the club in its infant stage, while she herself was in her infant stage and grew along with the club. I watched her freak out about sending forms, buying ingredients, conducting events, managing money, asking for budget and what not, and somehow manage to pull it off eventually (ofc cuz I was there). One thing she could do effortlessly was to somehow get so tensed that everybody else calmed down and got work done. She could rope in the most random people who showed the slightest interest in Rasoi or even by any chance uttered “If you want anything let me know” (Been there). But of course through all this, she managed to make the club take its stand after being shut down multiple times for being a new and growing club that needed more time.        
+>To put it in a few words, Dhruti is an extremely enthusiastic individual who took up the club in its infant stage, while she herself was in her infant stage and grew along with the club. I watched her freak out about sending forms, buying ingredients, conducting events, managing money, asking for budget and what not, and somehow manage to pull it off eventually (ofc cuz I was there). One thing she could do effortlessly was to somehow get so tensed that everybody else calmed down and got work done. She could rope in the most random people who showed the slightest interest in Rasoi or even by any chance uttered “If you want anything let me know” (Been there). But of course through all this, she managed to make the club take its stand after being shut down multiple times for being a new and growing club that needed more time.        
 > 
 >*-Krithi*
 
@@ -1077,8 +1077,8 @@ Sort out your core team, your lean, mean team of sheer will and purpose. They'll
 
 ---
 **Commendable Achievements from his tenure as the Quiz Club Coordinator**                                                            
-One of the biggest challenges ever since I joined the club as a core member was finding out people who are interested/ actively participate in the quizzing events . I never really had a huge contingent who were regularly into quizzing and interested enough to go participate in outside competitions. This year , however ,through the events conducted , I was able to scout some real hidden talent to work with .
-With this enthusiastic team , quizzing was fun and we were almost able to reach the finals of multiple quizzes in inter iit .          
+One of the biggest challenges ever since I joined the club as a core member was finding out people who are interested/ actively participate in the quizzing events. I never really had a huge contingent who were regularly into quizzing and interested enough to go participate in outside competitions. This year, however, through the events conducted, I was able to scout some real hidden talent to work with.
+With this enthusiastic team, quizzing was fun and we were almost able to reach the finals of multiple quizzes in Inter IIT.          
                                     
 This team will be a good base to start with next year to take the club to greater heights so I’m proud of discovering and nurturing this team.
 
@@ -1087,13 +1087,13 @@ This team will be a good base to start with next year to take the club to greate
 **Mistakes**                                                                                                  
 I feel I didn’t conduct many events and the planning and timeline of these events could have been better.         
                                
-Apart from this, I failed to bring up the social media presence for the club , and due to this many people are simply not aware of the club’s events . So the revival of the Instagram page and the discord server should be done asap.
+Apart from this, I failed to bring up the social media presence for the club, and due to this many people are simply not aware of the club’s events. So the revival of the Instagram page and the discord server should be done asap.
  
 
 --------------
 
 **Dear Future Coordinator,**                                                              
-Well congratulations for becoming the next QC head .  Try to keep an active social media handle for the club , and make sure that the fire of the contingent doesn’t die down . I hope you can conduct more events and have take the club to greater heights!                                  
+Well congratulations for becoming the next QC head. Try to keep an active social media handle for the club, and make sure that the fire of the contingent doesn’t die down. I hope you can conduct more events and take the club to greater heights!                                  
 
 ---------
 
@@ -1104,7 +1104,7 @@ Well congratulations for becoming the next QC head .  Try to keep an active soci
 >*-Arvind Srinivasan*
            
                              
->Vignesh and his fellow club members are all brilliant when it comes to quizzes. From planning them to hosting, from India to General to Sports to MELA, their always up to date with their own knowledge, hence making it great to see them develop our quizzing culture really well. With the promising juniors that Vignesh has helped and supported throughout his tenure (especially for the Inter IIT meet), I have no doubt that they'll continue to be excellent in representing our college in the next few years too. Being a member of the quizzing team, I enjoyed all of the interactions, sessions and preparation meetings we used to have with all the core members and participants. I was good to see Vignesh and Co carry on a similar approach as the core team this year, like our previous years' equally great quiz teams. I would've hoped for and expected them to conduct more events than they did, however, it was a great start that Vignesh gave to the club as the coordinator directly after we moved on from the COVID phase. Things will only improve with time for the club's future coordinators and core teams.
+>Vignesh and his fellow club members are all brilliant when it comes to quizzes. From planning them to hosting, from India to General to Sports to MELA, they are always up to date with their own knowledge, hence making it great to see them develop our quizzing culture really well. With the promising juniors that Vignesh has helped and supported throughout his tenure (especially for the Inter IIT meet), I have no doubt that they'll continue to be excellent in representing our college in the next few years too. Being a member of the quizzing team, I enjoyed all of the interactions, sessions and preparation meetings we used to have with all the core members and participants. I was good to see Vignesh and Co carry on a similar approach as the core team this year, like our previous years' equally great quiz teams. I would've hoped for and expected them to conduct more events than they did, however, it was a great start that Vignesh gave to the club as the coordinator directly after we moved on from the COVID phase. Things will only improve with time for the club's future coordinators and core teams.
 >
 >*-Pranav Panicker*
 
@@ -1373,7 +1373,7 @@ We hope Person of Interest has valid reasons for ghosting the editorial team. Th
 
 >The Automobile Club is quite different from the other clubs. It does not have club sessions. It has no room for short-term goals and easy victories. It is born of visions and dreams, and managing such a Club is by no means even a moderate task, let alone easy.                     
 >
->After the Lockdown, the Club was left with nothing to its name. No progress, no designs, no visions. Just a few tens of kilograms of rusting steel pipes, someday intended to form a race-spec chassis. Now comes the role of Club Coordinator. To be thrown into such a position, given the circumstances, is Hell itself. Combining that with a lack of experience in leading a work-heavy Club and an acute shortage of interest in motorsport and racing, all hopes of a thriving Club are washed down the drain. On top of the aforementioned, the absence of an interested team (understandable, considering the state of the Club itself) and unavailable funds put down the already stunted growth of the Club for good. Perhaps Jeyasitaram’s tenure is a grim reminder that being in the wrong place at the wrong time is a very real thing. He may be cut out to work in a Race Engineering team, but leading a team of toddlers who are just learning to say their first words in Automobile Design is a whole nother deal. ”          
+>After the Lockdown, the Club was left with nothing to its name. No progress, no designs, no visions. Just a few tens of kilograms of rusting steel pipes, someday intended to form a race-spec chassis. Now comes the role of Club Coordinator. To be thrown into such a position, given the circumstances, is Hell itself. Combining that with a lack of experience in leading a work-heavy Club and an acute shortage of interest in motorsport and racing, all hopes of a thriving Club are washed down the drain. On top of the aforementioned, the absence of an interested team (understandable, considering the state of the Club itself) and unavailable funds put down the already stunted growth of the Club for good. Perhaps Jeyasitaram’s tenure is a grim reminder that being in the wrong place at the wrong time is a very real thing. He may be cut out to work in a Race Engineering team, but leading a team of toddlers who are just learning to say their first words in Automobile Design is a whole another deal. ”          
 >
 >*-A once hopeful core member*
                       
@@ -1406,7 +1406,7 @@ We hope Person of Interest has valid reasons for ghosting the editorial team. Th
 ---
 **Commendable Achievements from his tenure as the Aranya Coordinator**              
 
-Okay! The first achievement is that I got Gopi inside the club as a core member (Coordinator to be honest). Aranya is a club that needs to get through a lot of permission stuff to do one trek or even an event, and you do all that, you still have the weather conditions and trek place situations ready to disappoint you. Even with all the mood swings the weather had in my tenure (I don't know what wrong I did but that black cloud just comes out of a clear sky when I say that there'll be a trek), we were able to pull out treks (to the same old place ahhh anyways) and tried to accommodate as many people as possible. Also, the club requires a lot of people interaction right from talking with students regarding their interests and their free-time to talking with secretaries, our core team, with the authorities, transportation, mess management and talking with the forest officials, guides and so on, there'll be a lot to talk and do with people and co-ordinate things between them. I'm so proud that we were able to do that successfully. There are also so many on the go decisions needed to be taken as a part of treks and events organised, which our team was able to execute perfectly everytime. The fact that there were very few treks in Sandesh bhaiya's tenure due to covid and we were able to do three of them is something I'm happy about. I'm happy that I was able to withhold the trekking culture in our campus.                        
+Okay! The first achievement is that I got Gopi inside the club as a core member (Coordinator to be honest). Aranya is a club that needs to get through a lot of permission stuff to do one trek or even an event, and you do all that, you still have the weather conditions and trek place situations ready to disappoint you. Even with all the mood swings the weather had in my tenure (I don't know what wrong I did but that black cloud just comes out of a clear sky when I say that there'll be a trek), we were able to pull out treks (to the same old place ahhh anyways) and tried to accommodate as many people as possible. Also, the club requires a lot of people interaction right from talking with students regarding their interests and their free-time to talking with secretaries, our core team, with the authorities, transportation, mess management and talking with the forest officials, guides and so on, there'll be a lot to talk and do with people and co-ordinate things between them. I'm so proud that we were able to do that successfully. There are also so many on the go decisions needed to be taken as a part of treks and events organised, which our team was able to execute perfectly everytime. The fact that there were very few treks in Sandesh bhaiya's tenure due to covid and we were able to do three of them is something I'm happy about. I'm happy that I was able to uphold the trekking culture in our campus.                        
                           
 To summarise, I could really say that I learnt to better deal with people and monkeys.                                           
 
@@ -1481,7 +1481,7 @@ As my time as coordinator comes to an end, I'm filled with mixed emotions. On on
 >*-Gopi*
           
                     
->An interesting point is how the team seemed more interested in playing than anything else, and funnily enough that seemed to work 😂. I think the team did an excellent job overall and I would say best in conducting tournaments, to keep everyone in the community active in this regard. "              
+>An interesting point is how the team seemed more interested in playing than anything else, and funnily enough that seemed to work 😂. I think the team did an excellent job overall and I would say best in conducting tournaments, to keep everyone in the community active in this regard.           
 >                     
 >*-Vishrut*
                          
@@ -1610,17 +1610,17 @@ Get the budget sorted first and try to keep all the documents well organized. Al
 
 *Ideas² Student Head*
 
-<img src="Images/profilecards/Sneha.png"
+<img src="images/profilecards/Sneha.png"
      alt="Sneha Profile"
      style="float: left; margin-right: 20rem; margin-bottom:40px; width: 90%;"/>
 
 ---
-**The Good, Bad and the Ugly**
+**The Good, the Bad and the Ugly**
 - The fact that this role exists in our student body is an achievement. All credits to Natesh. This was required.                 
                         
 - We successfully (ahem!) kicked out the research scholar cubicles from the room. Not really our achievement but the institute’s for giving them their own dedicated space. Victory to us all, I guess.                  
                               
-- We conducted 3 workshops without spending a single penny from Ideas² coffers. I guess that is an achievement. But honestly, thanks to IITTNiF (thanks to Rosahn sir) and the Technical Council (thanks Pavan) for funding the workshops. Note to the next head, Ideas² funds cannot be used for conducting workshops. It’s solely for infrastructure set-up. We realized this the hard way and had to do some kinda jugaad.               
+- We conducted 3 workshops without spending a single penny from Ideas² coffers. I guess that is an achievement. But honestly, thanks to IITTNiF (thanks to Roshan sir) and the Technical Council (thanks Pavan) for funding the workshops. Note to the next head, Ideas² funds cannot be used for conducting workshops. It’s solely for infrastructure set-up. We realized this the hard way and had to do some kinda jugaad.               
                          
 - The Dream is to make Ideas² like the innovation center from BIg Hero 6 -”The NErd Lab”. I believe we lay the groundwork for this to become a reality one day (I like to think so, atleast).  Enthusiastically, we got all the plans, proposals ready but when it came to on ground implementation we had to face a lot of hurdles. We were not really informed about how the Ideas² funds and budget works and by the time we got to the point to place order, we realized there’s a lot of procedure that needs to be initiated in the beginning of the academic year. Because of the COVID break, not anyone was really sure how to access these funds, and months went away just trying to figure that out. I mean we have done the grunt work, the next heads should be able to sail through smoothly, at least with respect to accessing the funds.                          
                                               
