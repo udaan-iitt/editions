@@ -18,7 +18,7 @@ My dear readers, I grab your hand on this late night and pull you along on a que
 
 ![](Images/chatgpt_1.png)
 
-Not surprising, in the least. That brings a halt our quest for truth and transparency.                 
+Not surprising, in the least. That brings a halt to our quest for truth and transparency.                 
                         
 Good shot, well tried, better luck next time.                  
                                  
