@@ -56,9 +56,7 @@ Andor transcends the “rebels always good, empire always bad” paradigm of oth
                                
 Another notable character is Karn, who starts out as an overzealous corporate security officer. His misplaced sense of justice and honour leads him to disobey standing orders, get his underlings killed and inadvertently cause Ferrix to be brought under direct imperial control. Karn is shown to be the architect of his own misfortunes, the logical conclusion of the imperial prioritization of stability over all else. Even at Karn’s low point of going back to live in his mother’s apartment, he does not once think to question the ideology he believes.                                
 
-|  |  |
-|:-:|:-:|
-|<img src="./images/andor1.jpg" alt="noodles" width="105%" >|<img src="./images/andor2.jpg" alt="pasta" width="90%">
+![](images/andor_1.jpg)
                        
 Karn is Andor’s antithesis – While Andor starts out with no principles at all, Karn starts out being completely devoted to the corporation he works for. While Andor changes and grows, Karn refuses to let go of his delusions about the world. Andor’s extreme cynicism about how the world is is contrasted with Karn’s extreme idealism about how the world ought to be.                  
                      

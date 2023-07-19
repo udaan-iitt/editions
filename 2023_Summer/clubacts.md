@@ -3,14 +3,14 @@ title: "Student Clubs - Outlets of Expression"
 category: "Campus News"
 date: 2023-07-14T12:30:00.393Z
 desc: "Another year to look back to what our clubs achieved, and the fun we had. With so much going on, it's difficult to keep up with all the news. So here's a not-so-brief article to help you catch up with everything our clubs been upto."
-thumbnail: "./images/clubActs.jpg" 
+thumbnail: "./Images/clubActs.jpg" 
 authors: "Mohith, Swathi, Bineeth Barman "
-starred: false
-abio: "NONE"
+starred: true
+abio: ""
 alt: "clubacts"
 ---
 
-With the arrival of the first fully offline batch after the Corona epidemic, club activities have been steadier than ever before. This was also the year when Inter IIT Cultural Meet was resumed - which is a sign for even livelier times to come. Here are some highlights of all the work done by our student clubs in the preceding academic session.                                       
+With the arrival of the first fully offline batch after the Corona pandemic, club activities have been steadier than ever before. This was also the year when Inter IIT Cultural Meet was resumed - which is a sign of the even livelier times to come. Here are some highlights of all the work done by our student clubs in the preceding academic session.                                       
                                                            
 Beginning with the culturals: On the occasion of Independence Day of 2022, **Actomania** started their year with a stage play on **‘Ahimsa’**- promoting Gandhi's principles of non-violence. Going forward, they also lit up the stage with monologue performances for the Freshers' Night. As a part of Intra IIT, the club also came up with two activities: A monologue event where the participants had to deliver a dialogue with their own theme or background and **‘Witty Comedy’**,
 a spontaneous play contest where the participants were given a situation and were asked to construct a play and enact it spontaneously. Both the events were creative in their own ways and attracted many participants from the contingents. The participants had a lot of fun, and it was a nice interactive session. Post-winter break, a stage play was performed on the importance of voting and choosing a proper leader for the greater society. On International Women's Day, a gripping stage play was presented on the importance of women empowerment by showcasing the darker side of prostitution. All these thought-provoking stage plays made a long-lasting impression in the audience's minds.                                                                               
@@ -30,7 +30,7 @@ As usual, **PFC** team members were seen running around the campus trying to cap
                    
 ![](images/desire.png)            
                              
-It expresses the themes of gender roles, societal expectations, and the importance of pursuing one's passion. The upcoming videos from the team include the much-awaited 2022 batch intro video, the 2019 batch video, and a sequel to **‘Lost in Flow’**, which would contain a timelapse of construction and scenery at our permanent campus. Alongside these activities, the club designed posters for various programs conducted by the institute, helped the Public Relations Department in the making of the 2023 Year Calendar for IIT Tirupati, and designed the institute's New Year Greeting Card for 2023, as requested by the respected Director sir.                      
+It expresses the themes of gender roles, societal expectations, and the importance of pursuing one's passion. The upcoming videos from the team include the 2019 batch video and a sequel to **‘Lost in Flow’**, which would contain a timelapse of construction and scenery at our permanent campus. Alongside these activities, the club designed posters for various programs conducted by the institute, helped the Public Relations Department in the making of the 2023 Year Calendar for IIT Tirupati, and designed the institute's New Year Greeting Card for 2023, as requested by the respected Director sir.                      
                                              
 People at **Sargam** had a busy academic year with numerous enthralling events. The students' favourite radio nights were conducted in hybrid and offline modes alongside online mode. The club practised and performed on occasions like Independence Day and Ganesh Chathurthi. Karaoke Night was organised by the club to keep up with the spirits of the freshers, which saw noteworthy participation.          
                   
@@ -84,11 +84,11 @@ at IIT Madras, and the team gave their best performance in the English Creative 
 ![](images/udaan.png) 
 
 **Udaan**, the student-run magazine of IIT Tirupati, now officially releases four editions a year,
-The Winter, Spring and Summer editions, along with the Internship special Autumn edition.
+The Winter, Spring and Summer editions, along with the internship special Autumn edition.
 The magazine saw a particularly busy year with the largest number of articles published this
 year in various categories - stories, poems, interviews, critical compilation and more. Udaan
-also got its own domain name (udaaniitt.in) along with some significant upgrades to the tech
-stack for the editors. They have also launched the institute’s first-ever podcast, **Udaan Untethered**, pushing the horizon of modes of expression!                               
+also got its own domain name ([udaaniitt.in](https://udaaniitt.in/)) along with some significant upgrades to the tech
+stack for the editors. They have also launched the institute’s first-ever podcast series, [**Udaan Untethered**](https://udaaniitt.in/podcast/), pushing the horizon of modes of expression. This series has two episodes out now!                               
                                       
 That’s it with the literary wing. Now moving on, we have our sports clubs.                                         
                        

@@ -18,7 +18,7 @@ My dear readers, I grab your hand on this late night and pull you along on a que
 
 ![](images/chatgpt_1.png)
 
-Not surprising, in the least. That brings a halt our quest for truth and transparency.                 
+Not surprising, in the least. That brings a halt to our quest for truth and transparency.                 
                         
 Good shot, well tried, better luck next time.                  
                                  
@@ -114,6 +114,3 @@ Much appreciated, bot. I’m not sure I feel comforted, but points for effort.
 Alright, readers. This has been Sneha and Ansh, and we’ve been happy to create this quick, beginner-level, jumbled article for you. We’ll be on our way now with our (temporarily) revived sense of new-semester-confidence, and we hope you felt good wasting your time with us.               
                          
 Until the next messily-narrated piece.          
-
-
-

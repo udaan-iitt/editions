@@ -17,7 +17,7 @@ I stepped on a tiny twig as I trudged through the crops of mature yellow corn, c
                                                                  
 My father would venture into these verdant fields every day, establishing the notion suggested by my mother that his true home is the crop field, lest he would spend some of his days in his thatched roofed house too. He was an old, thin man with skin as brown as the wild nuts of the Corata village and eyes which shone like the pearls of the eastern shores glinting at every laugh. He scuttled through the field in his pale brown breechclout and the new crimson leather tunic he got as a bounty from landlord Koraht for all the extra hours he spent on the farms.                                  
                                    
-"Why did you bring me and not Burim? Is he sick?" I asked as I followed my father behind him.            
+"Why did you bring me and not Burim? Is he sick?" I asked, as I followed my father behind him.            
                                                                      
 "No, but you are a man now. You need to learn about harvesting soon, Sammi. I won't be able to feed your mother and your sisters when I get old. And, I would hardly be able to walk, let alone run around with a sickle, cutting crops under the hot sun." He raised the sickle in his hand and pointed at a big old tree to the right. "Er, there's some shade. We rest there for now."                         
                      
@@ -35,7 +35,7 @@ I towed the harvest cart full of ripe corn, making my way through the dense, tal
                                                                
 "Brivah defeated Teshim, but when She was about to execute Him, Teshim's brother Rain intervened and begged to stop her. They wove an accord that Rain would bestow his blessed gifts upon the Land every year if He wanted Teshim to live on. We worship Brivah for Her benevolence that She spared Teshim, but She also managed to ingeniously fabricate an agreement, fostering an eternity of harvests for men with the gift of Rain."                              
                                            
-He looked over his shoulder at my long youthful face, greased with dirt. "The new kingdoms of those redcoats will ask you to convert and accept their cross as your heritage. Even if they put a blade on your neck, you don't let go of the culture you're born with. If you give in, they'll make you their cattle, a slave. They'll try to tear your belief and stick a mark of their Christ on your head, they'll strip you of your language and nail their languages to your tongue, but you don't give in. You fight!"                              
+He looked over his shoulder at my long, youthful face, greased with dirt. "The new kingdoms of those redcoats will ask you to convert and accept their cross as your heritage. Even if they put a blade on your neck, you don't let go of the culture you're born with. If you give in, they'll make you their cattle, a slave. They'll try to tear your belief and stick a mark of their Christ on your head, they'll strip you of your language and nail their languages to your tongue, but you don't give in. You fight!"                              
                                       
 He pulled my arm and unfolded my fist, setting the coin down with his old, wrinkled hands.                              
                                           
@@ -43,7 +43,7 @@ He pulled my arm and unfolded my fist, setting the coin down with his old, wrink
                                   
 I looked at the engraving; the sword that once had slain the Gods was now but a tale to tell. "Lhaje Merjahn", I smiled at him while pinning it to the chain hanging on my neck.                                    
                                       
-"Lhaje Merjahn." He patted my slouched shoulders as we gazed at the sun turn amber ahead of dusk.                        
+"Lhaje Merjahn." He patted my slouched shoulders as we gazed at the sun turning amber ahead of dusk.                        
                                     
 We loaded all the harvest onto the cart and started walking back. The night was setting its dark reign on the sky, much like those redcoats who had already laid their outposts along the eastern lines of the village. Old men talked of them as the devils who were here to rob us of our silver and our animals. Fear would envelop the hearts of women who'd tiptoe to their homes post sunset lest the white men would rob them of their pride, let alone their firewood or the gold. While men kneeled and implored the Gods for their safety, the invaders took a hundred steps with each passing midnight at the behest of their generals who only reckoned us as the filth of this Land. A shepherd would tell his friend that he saw troops march west as he walked his flock on top of the hill, while a thief would narrate the horrors of the torture at the hands of their soldiers. The hearsay marched across the village faster than the soldiers, woe betide anyone discovered by the white men, or the British, as they called themselves.                         
                            
@@ -97,7 +97,7 @@ The stout chief, Pererra, was once the head of the factions that guarded the fam
                                     
 "I have heard tales of their Lord turning water into wine." exclaimed one as others murmured.                   
                                            
-"What kind of magic is that? Our Gods can bring Rain upon them and drench their fireplaces if they may! We'll see if their Christ can turn that into wine." yelled a tall man with his face painted crimson as he chewed on corn. Everyone started laughing. Confusion was inevitable, but the troops were scared, lest some monster would be unleashed upon us perchance amidst the attack.                            
+"What kind of magic is that? Our Gods can bring Rain upon them and drench their fireplaces if they may! We'll see if their Christ can turn that into wine," yelled a tall man with his face painted crimson as he chewed on corn. Everyone started laughing. Confusion was inevitable, but the troops were scared, lest some monster would be unleashed upon us perchance amidst the attack.                            
                                                             
 "Quiet!" commanded Pererra. "We need to march now as the dark hour approaches us. We chant the names of our Gods, and we parade in silence. Remember all the blood you saw. Remember your children being slaughtered at the hands of those inhumans. Feel the rage, the anger and bear it with pride. We're not here to hide like the frail goblins but to soar high like the eagles of the east.                            
 

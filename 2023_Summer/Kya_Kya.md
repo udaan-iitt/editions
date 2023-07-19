@@ -6,7 +6,7 @@ desc: "The poem reflects the yearning of untold emotions and beauty of unspoken 
 thumbnail: images/Kyakyabakihai.png
 authors: Rajat Pratap
 starred: false
-abio: NONE
+abio: ""
 alt: "kyakya"
 ---
 ![](images/KyaKyaBakihai_1.jpg)
