@@ -27,7 +27,7 @@ export const newsletter = [
     key: 'sathyanarayann',
     email: 'ee20b046@iittp.ac.in',
     title: 'Sathyanarayann',
-    link: 'mailto:ee20b046@iittp.ac.in',
+    link: 'www.linkedin.com/in/sathyanarayann-v-321b1b24',
     role: 'Editor',
   },
   {
@@ -55,7 +55,7 @@ export const newsletter = [
     key: 'battula',
     email: 'me21b045@iittp.ac.in',
     title: 'Sneha Battula',
-    link: 'mailto:me21b045@iittp.ac.in',
+    link: 'https://www.linkedin.com/in/sneha-battula-066b1122bn',
     role: 'Editor',
   },
   {
@@ -76,14 +76,14 @@ export const newsletter = [
     key: 'akhil',
     email: 'me21b039@iittp.ac.in',
     title: 'Akhil Krishnan',
-    link: '',
+    link: 'https://www.linkedin.com/in/akhil-krishnan-bb113426b',
     role: 'Editor',
   },
   {
     key: 'ME21B012',
     email: 'me21b012@iittp.ac.in',
     title: 'Bineet Barman',
-    link: '',
+    link: 'https://www.linkedin.com/in/bineet-barman-0a9563242',
     role: 'Editor',
   },
   {
@@ -113,21 +113,21 @@ export const newsletter = [
     key: 'tarun',
     email: 'me21b051@iittp.ac.in',
     title: 'Tarun J Palani',
-    link: '',
+    link: 'https://www.linkedin.com/in/tarun-j-palani-1033b3284',
     role: 'Art Editor',
   },
   {
     key: 'siddhartha',
     email: 'cs20b040@iittp.ac.in',
     title: 'Siddhartha G',
-    link: '',
+    link: 'https://www.linkedin.com/in/siddharthag22/',
     role: 'Tech Team',
   },
   {
     key: 'ansh',
     email: 'me21b006@iittp.ac.in',
     title: 'Ansh Anand',
-    link: '',
+    link: 'https://www.linkedin.com/in/anshanandp',
     role: 'Tech Team',
   },
 ];
@@ -488,7 +488,7 @@ export const author_info = [
     desc1: 'Sathyanarayann is a coffee addict  lover and an art enthusiast, who considers himself a walking shitpost. He can be found online on instagram at all ungodly hours of the day and night as he practically lives there. As a pre-final year student pursuing Electrical Engineering at IIT Tirupati, he is also a part of the Editors Team at Udaan, IITT’s very own student magazine. He enjoys bingeing on tv shows, art, deep philosophical conversations (preferably late night), art, obsessing over fictional characters in novels, poetry and, did I mention art?',
     desc2:
       '',
-    link: '',
+    link: 'www.linkedin.com/in/sathyanarayann-v-321b1b24',
   },
   {
     key: 'battula',
@@ -500,7 +500,7 @@ export const author_info = [
     desc1: 'The younger Sneha of the IITT Udaan team, she is a generally small sized person with an even smaller attention span. She is pursuing Mechanical Engineering in her second year now at IIT Tirupati. Stepping into her shoes would mean walking through the pouring rain at 4 am, tiptoeing through shrubs to pick a flower, and stomping through a wasteland of a million daydreams. Call her on her phone and she will probably tell you she is in the middle of obsessively writing about the people she loves or precariously balancing on the edge of a huge wall for no reason but chaos.',
     desc2:
       '',
-    link: '',
+    link: 'https://www.linkedin.com/in/sneha-battula-066b1122b',
   },
   {
     key: 'mathew',
@@ -616,7 +616,7 @@ export const author_info = [
     year: '',
     desc1: 'Bineet is a lethargic individual, phasing through his Mechanical Engineering degree. Though with a general interest in all arts, he focuses primarily on playing guitar. For some amounts, he also enjoys reading, writing, and editing, regardless of his understanding. His current hope is to keep up with his peers and become an adept adult by the end of his college education. He will probably need an MTech degree too. And a PhD.',
     desc2: '',
-    link: '',
+    link: 'https://www.linkedin.com/in/bineet-barman-0a9563242',
   },
   {
     key: 'CS20B006',
@@ -660,17 +660,17 @@ export const author_info = [
     year: '',
     desc1: 'Ansh, a perpetually curious soul, thrives on the thrill of exploring and creating the unknown. With an insatiable appetite for knowledge, Ansh can often be found diving deep into diverse topics, ranging from technology and science to philosophy and politics but when it comes to his own academic course, he may occasionally resemble a lost traveler in the backrooms.',
     desc2: '',
-    link: '',
+    link: 'https://www.linkedin.com/in/anshanandp',
   },
   {
-    key: 'Akhil',
+    key: 'akhil',
     title: 'Akhil Krishnan',
     tagLine1: '',
     tagLine2: '',
     role: '',
     year: '',
-    desc1: 'Akhil is your average "I suck at this life stuff, but I love it" human. Considered by few to be a hopeless romantic, he is of the opinion that soft music can reach into your heart and simply shatter it. You can find him staring at every passing pretty car and if you can't find him, chances are he's asleep from all the nightowlness. He is also a huge video game fangirl. Currently pursuing his dream degree in Mechanical Engineering, he hopes to swim through life and make it out in one piece, him and the indecisiveness that never leaves him.',
-    link: '',
+    desc1: 'Akhil is your average "I suck at this life stuff, but I love it" human. Considered by few to be a hopeless romantic, he is of the opinion that soft music can reach into your heart and simply shatter it. You can find him staring at every passing pretty car and if you can\'t find him, chances are he\'s asleep from all the nightowlness. He is also a huge video game fangirl. Currently pursuing his dream degree in Mechanical Engineering, he hopes to swim through life and make it out in one piece, him and the indecisiveness that never leaves him.',
+    link: 'https://www.linkedin.com/in/akhil-krishnan-bb113426b',
   },
   {
     key: 'rudransh',

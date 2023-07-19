@@ -4,7 +4,7 @@ category: "Campus News"
 date: 2023-07-14T12:30:00.393Z
 desc: "Another year to look back to what our clubs achieved, and the fun we had. With so much going on, it's difficult to keep up with all the news. So here's a not-so-brief article to help you catch up with everything our clubs been upto."
 thumbnail: "./images/clubActs.jpg" 
-authors: "Mohith, Swathi, Bineeth Barman "
+authors: "Ram Mohith, Swathi, Bineet Barman "
 starred: true
 abio: ""
 alt: "clubacts"

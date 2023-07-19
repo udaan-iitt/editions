@@ -2,14 +2,12 @@
 title: Let Hope Narrate Love
 category: Story
 date: 2023-07-14T12:30:00.393Z
-date: 2023-07-14T12:30:00.393Z
 desc: "A tale ft. money and love, when a bunch of corrupt politicians sit down for a game of chess against a middle class family, leaving it all to fate itself, with every ticking second of the clock. Why so? Well..."
 thumbnail: images\pexels-pavel-danilyuk-8057349.jpg
 authors: Neerav Sreekumar
 starred: false
 abio: "Neerav actually means silence in Sanskrit, and it maybe fair enough to call him a taciturn. 
 A sophomore pursuing a BTech in Chemical Engineering at IIT Tirupati, he is known for being a committed lover, but the only twist being that his soulmate is football. Apart from being a Bayern Munich fanatic, he enjoys Hollywood, novels, chess and being a meat foodie. His weakness? Not being run by an open source algorithm."
-alt: "hope"
 alt: "hope"
 ---
 
@@ -163,7 +161,7 @@ The old man took a deep breath, his voice filled with a mixture of vulnerability
                                       
 “For the first time since I was thrown in jail, I felt imprisoned."
 
-![](images/pexels-ron-lach-10473514.jpg)
+![](images/pexels-ron-lach-10473514.png)
                                                                                                                         
 "I found myself in an unnerving position, being treated as someone special – mind you, definitely not in a positive way.                                                    
                          

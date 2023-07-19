@@ -4,7 +4,7 @@ category: Campus News
 date: 2023-07-14T12:30:00.393Z
 desc: From amusing encounters to comical mishaps, here is a quirky chronicle that captures all the student activities of 2022-23. Join us as we take a trip down memory lane with a collection of tales that will leave you smiling from ear to ear. 
 thumbnail: ./images/ourTake.jpg
-authors:  V Sathyanarayann, Sneha M S, Krithi Shailya, Sneha Battula,
+authors:  Sathyanarayann, Sneha M S, Krithi Shailya, Sneha Battula
 starred: true
 abio: ""
 alt: Our Take
