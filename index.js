@@ -43,7 +43,6 @@ export const newsletter = [
     title: 'Ram Mohith',
     link: 'https://www.linkedin.com/in/ram-mohith-223386218',
     role: 'Editor',
-    role: 'Editor',
   },
   {
     key: 'chaitali',
@@ -51,14 +50,12 @@ export const newsletter = [
     title: 'Chaitali Uday Karekar',
     link: 'https://www.linkedin.com/in/chaitali-karekar-829881230',
     role: 'Editor',
-    role: 'Editor',
   },
   {
     key: 'battula',
     email: 'me21b045@iittp.ac.in',
     title: 'Sneha Battula',
     link: 'mailto:me21b045@iittp.ac.in',
-    role: 'Editor',
     role: 'Editor',
   },
   {
@@ -111,20 +108,6 @@ export const newsletter = [
     title: 'Keshav Kumar Manjhi',
     link: 'https://www.linkedin.com/in/keshav-manjhi-a8a2a321b',
     role: 'Art Editor',
-  },
-  {
-    key: 'tarun',
-    email: 'me21b051@iittp.ac.in',
-    title: 'Tarun J Palani',
-    link: '',
-    role: 'Art Editor',
-  },
-  {
-    key: 'siddhartha',
-    email: 'cs20b040@iittp.ac.in',
-    title: 'Siddhartha G',
-    link: '',
-    role: 'Tech Team',
   },
   {
     key: 'tarun',
