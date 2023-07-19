@@ -8,7 +8,7 @@ desc: >
   mental health. Ultimately, it's not about how fast you get there; it's about
   the climb. 
 thumbnail: images/gcu_ch0.jpg
-authors: Krithi Shailya, Mathew K J
+authors: Krithi Shailya, Mathew KJ
 starred: true
 abio: ""
 alt: gcu

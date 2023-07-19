@@ -6,7 +6,7 @@ desc: A walk, a lunch, and a lecture. Delve into a pool of intriguing concepts
   and mind-twisting theories as Mathew narrates his experience of taking a
   special course at IIT Delhi.
 thumbnail: images/iitd.jpg
-authors: Mathew K J
+authors: Mathew KJ
 starred: false
 abio: ""
 alt: ""

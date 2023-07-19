@@ -4,7 +4,7 @@ category: "Op-Ed"
 date: "2021-01-28 10:00:00 +09:00"
 desc: "“Growing up is the greatest dream of childhood and the greatest regret of adulthood”."
 thumbnail: "./images/growing.jpg"
-authors: "V Sathyanarayann"
+authors: "Sathyanarayann"
 starred: false
 abio: "NONE"
 alt: "Hiraeth"
