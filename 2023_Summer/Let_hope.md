@@ -244,3 +244,6 @@ Don't wake me I'm not dreaming….</p>
 "Perhaps justice took a detour, a path we did not expect. Maybe the forces of greed and power prevailed, tearing apart my life and career. Maybe Vikas's actions left a trail of destruction, shattering not only my dreams but also those of my wife. Yet, amidst it all, there was one thing that money and power could never conquer – our love for each other. Love is a pain worth experiencing once in a lifetime. They tried to break us, but our bond grew stronger each day. Love became the foundation upon which we rebuilt our lives, brick by brick. And here you are, Raj, listening to our story."                            
                         
 As Raj glanced into their eyes, he could still sense the lingering agony and pain. But alongside the turmoil was an undeniable presence of love, like an intoxicating elixir that continued to envelop them. It remained as potent as ever, defying the test of time and the hurdles they overcame.                                    
+
+> Edited by,
+> Sneha, Akhil and Chaitali
