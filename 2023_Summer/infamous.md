@@ -1,5 +1,5 @@
 --- 
-title: "Unveiling the human side of infamous leaders"
+title: "The Motorcycle Diaries: A Journey of Awakening, Empathy, and Human Potential"
 category: "Review"
 date: "2023-07-14 12:56:00 +05:30"
 desc: "Embark on a transformative journey through \"The Motorcycle Diaries,\" where the innocence of youth meets the awakening of a revolutionary spirit. Witness the unexpected twists and soul-stirring encounters that forever changed the life of Che Guevara, challenging our perception of history's most infamous leaders."
@@ -7,7 +7,7 @@ thumbnail: "./images/dictator.jpg"
 authors: "Rudransh Pujari"
 starred: false
 abio: ""
-alt: "leader"
+alt: "motorcycle"
 ---
 
 There are moments when life takes an unexpected turn, leading people down uncharted paths and igniting a fire within us that we never knew existed. Such moments leave a mark on our souls, forever changing the way we perceive the world.                    
