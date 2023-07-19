@@ -177,8 +177,8 @@ export const pastmembers = [
   {
     key: 'sirish',
     title: 'Sirish',
-    tagLine1: '',
-    tagLine2: '',
+    tagLine1: 'Tech Team',
+    tagLine2: 'Interviewer',
     role: 'Tech team',
     year: '2022-23',
     desc1:
