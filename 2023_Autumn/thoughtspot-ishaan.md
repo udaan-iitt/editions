@@ -2,7 +2,7 @@
 title: ThoughtSpot - Ishaan
 category: Experiences
 date: 2023-09-26T07:28:10.466Z
-desc: ThoughtSpot Internship Ishaan
+desc: ThoughtSpot - Ishaan Kulkarni
 authors: Ishaan Kulkarni
 starred: false
 ---
