@@ -29,10 +29,12 @@ Knowing that the code I am writing will eventually make its way to production wa
 ### Advice….
 
 * Before getting selected:
-* * Work hard on your problem solving skills. Have a couple of good projects on your CV.
+
+  * Work hard on your problem solving skills. Have a couple of good projects on your CV.
   * Give your interviews well
 *  During your internship:
-* * Work hard, embrace challenges! GET OUT OF YOUR COMFORT ZONE!!
+
+  * Work hard, embrace challenges! GET OUT OF YOUR COMFORT ZONE!!
   * Show genuine interest and ask meaningful questions. Get things clarified.
   * Never shy away from learning and applying new technologies. Explore as much as you can.
   * Learn from everyone, everywhere and all the time!
@@ -57,7 +59,5 @@ Almost a week after writing this article, I was contacted by the TS team and the
 I couldn’t have asked for anything better than this.
 
 PS: I got a MacBook Pro! (Not to take home! Just work…Duh!)
-
-
 
 <!--EndFragment-->
