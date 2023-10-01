@@ -3,7 +3,7 @@ title: Let Hope Narrate Love
 category: Story
 date: 2023-07-14T12:30:00.393Z
 desc: "A tale ft. money and love, when a bunch of corrupt politicians sit down for a game of chess against a middle class family, leaving it all to fate itself, with every ticking second of the clock. Why so? Well..."
-thumbnail: images\pexels-pavel-danilyuk-8057349.jpg
+thumbnail: ./images/pexels-pavel-danilyuk-8057349.jpg
 authors: Neerav Sreekumar
 starred: false
 abio: "Neerav actually means silence in Sanskrit, and it maybe fair enough to call him a taciturn. 
@@ -13,19 +13,19 @@ alt: "hope"
 
 ### PRELUDE
 
-Raj walked in, sliding the creaky door that led down the dimly lit hallway. His grandpa was bedridden for quite some time now. Though he could speak, his body had worn down. He was no longer Mr Mohan of DD News, a revered name in the media industry.                     
-                 
-Raj watched with his eyelids rather heavy as his granny fed the old man porridge. He had never witnessed a silence this loud.             
-                
-The old couple puzzled him at times. He was doomed with questions that made him ponder over another road of thought.                      
-                                         
-What made his granny keep up with the tiring circle of food, drugs, hospitals, and repeat? What kept the fire of commitment going?                                                           
-                        
-*He could feel the pain in their eyes,*                                 
-*An aroma of a long tale of love,*                                    
-*A super strong commitment,*                                                         
-*…Maybe a red-thread concept, after all.*                                          
-                                                                           
+Raj walked in, sliding the creaky door that led down the dimly lit hallway. His grandpa was bedridden for quite some time now. Though he could speak, his body had worn down. He was no longer Mr Mohan of DD News, a revered name in the media industry.
+
+Raj watched with his eyelids rather heavy as his granny fed the old man porridge. He had never witnessed a silence this loud.
+
+The old couple puzzled him at times. He was doomed with questions that made him ponder over another road of thought.
+
+What made his granny keep up with the tiring circle of food, drugs, hospitals, and repeat? What kept the fire of commitment going?
+
+_He could feel the pain in their eyes,_  
+_An aroma of a long tale of love,_  
+_A super strong commitment,_  
+_…Maybe a red-thread concept, after all._
+
 <p style="text-align: center;align:center;">I want you to look right into my eyes.<br>
 To tell me you love me, to be by my side<br>
 I want you at the end of my life.<br>
@@ -70,81 +70,82 @@ Because it hadn't taken long for Vikas to learn about the journalist's relentles
                                           
 A few weeks later, as Mohan was driving his Ambassador down the University Road, he spotted a man, grievously wounded with his bicycle shattered, lying in a pool of blood just outside a nearby bar. Mohan halted immediately and rushed to help the injured man.                         
                                      
-But what followed was beyond his imagination…                              
+But what followed was beyond his imagination…
 
 ![](images/pexels-bhavesh-jain-2284750.jpg)
-                                
-In a startling turn of events, a convoy of police vans arrived at the scene and swiftly restrained Mohan in handcuffs. The officers claimed to have witnessed him exceeding the speed limit and striking down the driver right before their eyes.                     
-                    
-Confused and dumbstruck, all Mohan managed to say at that point was, “HUH?”                      
-                       
-Gradually, it became clear to Mohan that Vikas was undoubtedly involved in orchestrating the accident. He suspected that the bigshot politician might have bribed the bar owner to testify against him and had manipulated the police officers to ensure he was locked behind bars, wanting to bury the sexual harassment case along with it. Mohan’s suspicions may have been right, but there was no way he could have suspected the bottomless pit of darkness and corruption he was about to fall into. Trapped amidst false accusations and deceitful testimonies, Mohan could see no way out.                                  
-                                                    
-The unfortunate demise of the cyclist within a few days added a sinister and unsolvable dimension to the case.                                                 
-                            
-Even with a lawyer, Mohan found himself helpless.                 
-                                  
-The bar owner was the only witness, and he had no intentions of walking a righteous path.                              
-                            
-Mohan was sentenced to 10 years in prison.    
-                        
+
+In a startling turn of events, a convoy of police vans arrived at the scene and swiftly restrained Mohan in handcuffs. The officers claimed to have witnessed him exceeding the speed limit and striking down the driver right before their eyes.
+
+Confused and dumbstruck, all Mohan managed to say at that point was, “HUH?”
+
+Gradually, it became clear to Mohan that Vikas was undoubtedly involved in orchestrating the accident. He suspected that the bigshot politician might have bribed the bar owner to testify against him and had manipulated the police officers to ensure he was locked behind bars, wanting to bury the sexual harassment case along with it. Mohan’s suspicions may have been right, but there was no way he could have suspected the bottomless pit of darkness and corruption he was about to fall into. Trapped amidst false accusations and deceitful testimonies, Mohan could see no way out.
+
+The unfortunate demise of the cyclist within a few days added a sinister and unsolvable dimension to the case.
+
+Even with a lawyer, Mohan found himself helpless.
+
+The bar owner was the only witness, and he had no intentions of walking a righteous path.
+
+Mohan was sentenced to 10 years in prison.
+
 His life was unjustly derailed.
-            
+
 <p style="text-align: center;align:center;">Oh, I love it, and I hate it at the same time,<br>
 You and I drink the poison from the same vine.<br>
 Oh, I love it, and I hate it at the same time,<br>
 Hidin' all of our sins from the daylight<br>
 From the daylight, runnin' from the daylight…</p>                 
                                  
-This was all Raj knew. His grandparents hadn't revealed anything more than this other than that Meera had seeked solace at her sister's place in Mumbai during those tough times. Despite his curiosity to delve deeper into their story, he found himself uncertain about how to broach the subject directly with them.                   
+This was all Raj knew. His grandparents hadn't revealed anything more than this other than that Meera had seeked solace at her sister's place in Mumbai during those tough times. Despite his curiosity to delve deeper into their story, he found himself uncertain about how to broach the subject directly with them.
 
-But that day, there was a different energy in the air. As if reading what was going on in her grandson's mind, Meera began,                                      
-                                           
-"We fought against more than just bars and prison walls. It was a battle against an unjust system that favoured power and money over truth and justice. They thought they could suppress us, silence our voices, and break our spirits. But they underestimated the strength of our love and our unwavering belief in what was right."                    
-             
-Her eyes met Mohan's, and in that moment, an unspoken understanding passed between them.                               
-                          
-Mohan cleared his throat, his aged voice carrying the weight of memories and untold stories. The room fell silent, filled with anticipation as Raj leaned in, his eyes locked onto his grandfather, ready to absorb every word.                            
+But that day, there was a different energy in the air. As if reading what was going on in her grandson's mind, Meera began,
 
-***************
+"We fought against more than just bars and prison walls. It was a battle against an unjust system that favoured power and money over truth and justice. They thought they could suppress us, silence our voices, and break our spirits. But they underestimated the strength of our love and our unwavering belief in what was right."
+
+Her eyes met Mohan's, and in that moment, an unspoken understanding passed between them.
+
+Mohan cleared his throat, his aged voice carrying the weight of memories and untold stories. The room fell silent, filled with anticipation as Raj leaned in, his eyes locked onto his grandfather, ready to absorb every word.
+
+---
+
 ### DRINKING TRAUMA
 
-“How could I forget…cell No. 15, 4th Block, Yerwada Prison.”, Mohan began in a relieved yet scared voice. “The first few weeks were tough. The other inmates were cold and distant, so socializing was a challenge. The place was dirty, not dusty, but filled with the scum of society and their pastimes - bribery, robbery, substance abuse and violence. All I could do was settle in for a completely different journey and brace myself.”                    
-                                 
-“The months went by. The days would repeat without change. Slowly. Monotonously. Without purpose.”, Mohan shuddered. “All I had to distract myself were menial inmate jobs. My career felt like a dream from a long time ago. I spent my days lost in thoughts, smoking cigarettes, and longing for my family. I gazed at the stars each night, hoping that destiny had other plans."                                        
-                      
-"The prospects of bail dimmed, and my lawyer's spirits were crushed. However, a glimmer of hope emerged when he sent me a letter," Mohan revealed. "He wanted the DD to independently investigate the accident and Meera's harassment case, hoping that public knowledge would expose the politicians' wrongdoing."                     
-                   
-The room fell into silence, the weight of Mohan's words settling upon them. The letter held the promise of a potential turning point. Mohan's gaze shifted to his grandson, Raj, conveying a silent message - the tale was not yet over, and there were further revelations to come.                    
-                                    
-"I followed my lawyer's instructions diligently. I reached out to every media contact I had, pleading with them to delve into the issue and uncover the truth, holding onto the hope that justice could be served."                            
-                        
-He continued with a far away look in his eyes.                     
-                   
-"The following two months were filled with uncertainty. DD diligently pursued the case to determine if my Ambassador had indeed collided with the bicycle. Not so surprisingly, the car remained untouched, raising questions about the circumstances surrounding the accident." His eyes glistened.                 
-                          
-"They also interrogated the bar owners; the records were meticulously examined to identify any individuals present on University Road that night. A witness came forward, reporting the presence of people connected to MLA Vikas. Coincidentally, the investigation also shed light on the sexual harassment incident on the bus a few weeks before the accident. The bus conductor and other passengers were scrutinized and intensely questioned."                 
-                         
-Taking a croaky breath, he continued,               
-                    
-"All seemed to be in our favour. But we were sadly mistaken. The brains behind the entire fiasco were smarter than we had expected. Sensing the situation getting out of their control, they used all their influence to puppeteer the jail authorities and the wardens. Let me put it this way. You play Chess, don't you?" he asked.                        
-                 
-Raj nodded.                     
+“How could I forget…cell No. 15, 4th Block, Yerwada Prison.”, Mohan began in a relieved yet scared voice. “The first few weeks were tough. The other inmates were cold and distant, so socializing was a challenge. The place was dirty, not dusty, but filled with the scum of society and their pastimes - bribery, robbery, substance abuse and violence. All I could do was settle in for a completely different journey and brace myself.”
 
-![](images/pexels-sk-814133.jpg)            
-                                                                           
-"Then you must know there's no luck involved in the game. It's all strategy and skill. Think of the queen as money, its beauty granting it unlimited power and influence. In this analogy, you are the king, burdened with responsibilities, making cautious moves, one block at a time, navigating through life. Your family, the rooks, bishops, and knights, are there to support you. But when the opposing queen launches a powerful attack, they can become helpless, unable to withstand her influence.                                                                    
-                                  
-Now, imagine the pawns as your pieces of evidence or your Plan B. Move them forward slowly, strategically, and keep them safe until they reach the end of the board. With diligence and perseverance, they can transform into the queen.               
-                                
-But here's the twist, before our pawn could reach the end of the board, theirs did. They now had two queens in action, and it was no longer a fair game of chess.”                                    
-                       
-"Very soon, a disturbing rumour spread like wildfire; The false claim from the wardens asserted that 'Mr. Mohan, the inmate in cell 15 of block 4, was mentally unstable.' Then even went as far as to produce a fake medical certificate that diagnosed me with PTSD and bipolar disorder. They tried everything they could to ruin me." Taking a slight pause, he continued.             
-                       
-“Since the jail authorities lacked the power to transfer me to a mental asylum based solely on a falsified medical report, their plan was to manipulate my fellow inmates into witnessing and reporting behaviour that would serve as grounds to remove me from the equation. The investigations conducted by DD regarding our case lost momentum as Vikas, the mastermind, had devised another scheme; A money laundering accusation was hurled at the chief editor to silence him."                   
-                        
-"My poor Meera spiraled into depression. She made the difficult decision to resign from her job, unable to bear the weight any longer. Fear silenced her. The frequency of death threats only intensified. She was trapped in a state of constant anxiety and distress. What else could she have done?Her family was her only solace."                      
-                               
+“The months went by. The days would repeat without change. Slowly. Monotonously. Without purpose.”, Mohan shuddered. “All I had to distract myself were menial inmate jobs. My career felt like a dream from a long time ago. I spent my days lost in thoughts, smoking cigarettes, and longing for my family. I gazed at the stars each night, hoping that destiny had other plans."
+
+"The prospects of bail dimmed, and my lawyer's spirits were crushed. However, a glimmer of hope emerged when he sent me a letter," Mohan revealed. "He wanted the DD to independently investigate the accident and Meera's harassment case, hoping that public knowledge would expose the politicians' wrongdoing."
+
+The room fell into silence, the weight of Mohan's words settling upon them. The letter held the promise of a potential turning point. Mohan's gaze shifted to his grandson, Raj, conveying a silent message - the tale was not yet over, and there were further revelations to come.
+
+"I followed my lawyer's instructions diligently. I reached out to every media contact I had, pleading with them to delve into the issue and uncover the truth, holding onto the hope that justice could be served."
+
+He continued with a far away look in his eyes.
+
+"The following two months were filled with uncertainty. DD diligently pursued the case to determine if my Ambassador had indeed collided with the bicycle. Not so surprisingly, the car remained untouched, raising questions about the circumstances surrounding the accident." His eyes glistened.
+
+"They also interrogated the bar owners; the records were meticulously examined to identify any individuals present on University Road that night. A witness came forward, reporting the presence of people connected to MLA Vikas. Coincidentally, the investigation also shed light on the sexual harassment incident on the bus a few weeks before the accident. The bus conductor and other passengers were scrutinized and intensely questioned."
+
+Taking a croaky breath, he continued,
+
+"All seemed to be in our favour. But we were sadly mistaken. The brains behind the entire fiasco were smarter than we had expected. Sensing the situation getting out of their control, they used all their influence to puppeteer the jail authorities and the wardens. Let me put it this way. You play Chess, don't you?" he asked.
+
+Raj nodded.
+
+![](images/pexels-sk-814133.jpg)
+
+"Then you must know there's no luck involved in the game. It's all strategy and skill. Think of the queen as money, its beauty granting it unlimited power and influence. In this analogy, you are the king, burdened with responsibilities, making cautious moves, one block at a time, navigating through life. Your family, the rooks, bishops, and knights, are there to support you. But when the opposing queen launches a powerful attack, they can become helpless, unable to withstand her influence.
+
+Now, imagine the pawns as your pieces of evidence or your Plan B. Move them forward slowly, strategically, and keep them safe until they reach the end of the board. With diligence and perseverance, they can transform into the queen.
+
+But here's the twist, before our pawn could reach the end of the board, theirs did. They now had two queens in action, and it was no longer a fair game of chess.”
+
+"Very soon, a disturbing rumour spread like wildfire; The false claim from the wardens asserted that 'Mr. Mohan, the inmate in cell 15 of block 4, was mentally unstable.' Then even went as far as to produce a fake medical certificate that diagnosed me with PTSD and bipolar disorder. They tried everything they could to ruin me." Taking a slight pause, he continued.
+
+“Since the jail authorities lacked the power to transfer me to a mental asylum based solely on a falsified medical report, their plan was to manipulate my fellow inmates into witnessing and reporting behaviour that would serve as grounds to remove me from the equation. The investigations conducted by DD regarding our case lost momentum as Vikas, the mastermind, had devised another scheme; A money laundering accusation was hurled at the chief editor to silence him."
+
+"My poor Meera spiraled into depression. She made the difficult decision to resign from her job, unable to bear the weight any longer. Fear silenced her. The frequency of death threats only intensified. She was trapped in a state of constant anxiety and distress. What else could she have done?Her family was her only solace."
+
 <p style="text-align: center;align:center;">Hey, what's up, it's been a while<br>
 Talking 'bout it's not my style<br>
 Thought I'd see what's up<br>
@@ -162,23 +163,23 @@ The old man took a deep breath, his voice filled with a mixture of vulnerability
 “For the first time since I was thrown in jail, I felt imprisoned."
 
 ![](images/pexels-ron-lach-10473514.png)
-                                                                                                                        
-"I found myself in an unnerving position, being treated as someone special – mind you, definitely not in a positive way.                                                    
-                         
-I had lost the right to enjoy or complain about the food without being labelled mentally unstable.                              
-                
-I had no right to express anger or raise my voice.                    
-                         
-I lost the ability to shed tears out of the fear of being labelled mentally weak.                             
-                         
-Every single action and emotion was scrutinized with great detail to determine my mental state.                              
-                           
-I tried my best to remain unaffected. But it's not that easy.                        
-                                                                                                 
-Gradually, I felt a growing rivalry with my mind, attempting to act 'normal' while constantly being watched and judged from all sides.               
-                                                              
+
+"I found myself in an unnerving position, being treated as someone special – mind you, definitely not in a positive way.
+
+I had lost the right to enjoy or complain about the food without being labelled mentally unstable.
+
+I had no right to express anger or raise my voice.
+
+I lost the ability to shed tears out of the fear of being labelled mentally weak.
+
+Every single action and emotion was scrutinized with great detail to determine my mental state.
+
+I tried my best to remain unaffected. But it's not that easy.
+
+Gradually, I felt a growing rivalry with my mind, attempting to act 'normal' while constantly being watched and judged from all sides.
+
 The friendships I had formed within the prison walls began to crumble, not that there were really many. In their eyes, I was already a mental patient."
-     
+
 <p style="text-align: center;align:center;">Feel my blood runnin', swear the sky's fallin'<br>
 How do I know if this shit's fabricated?<br>
 Time goes by, and I can't control my mind<br>
@@ -220,16 +221,16 @@ Mohan continued, his voice filled with a mixture of resignation and detachment.
                                    
 "I became withdrawn, rarely engaging in conversation with others. I didn't want to think of the past. I just couldn’t bring myself to."                                             
             
-Raj felt profound admiration and respect for the person sitting before him. His grandfather, who had initially chosen to shield him from the depths of his painful past, had reached a stage where he was sharing the immense trials he had endured. His heart swelled with a deep sense of gratitude and a desire to become the kind of grandson that would make his grandfather proud.                              
+Raj felt profound admiration and respect for the person sitting before him. His grandfather, who had initially chosen to shield him from the depths of his painful past, had reached a stage where he was sharing the immense trials he had endured. His heart swelled with a deep sense of gratitude and a desire to become the kind of grandson that would make his grandfather proud.
 
-![](images/pexels-suzy-hazelwood-1157151.jpg) 
-                                        
-"Meera had endured immense mental strain during those years. Still, she was my lifeline. I wouldn't be what I am today without her. The weekly letters we exchanged became our lifeline, the only flickering embers of hope that remained in our lives. After a long and arduous two years, I was finally released from that madhouse. Returning to familiar surroundings, I couldn't help but notice the pensive gazes from people around me. Their silent judgments and unspoken questions only added to my already burdened self-esteem.                               
-                                            
-But amidst it all, your grandmother's eyes shone with a different light. Instead of pain, they overflowed with tears of joy. At that moment, I realized I should have presented her with a simple flower to express my love and gratitude. Yet, how could any flower compare to her beauty and grace?                                  
-                            
-I yearned to begin a new life. Meera deserved nothing less than the utmost devotion and care, and I was determined to provide that for her."                                    
-                
+![](images/pexels-suzy-hazelwood-1157151.jpg)
+
+"Meera had endured immense mental strain during those years. Still, she was my lifeline. I wouldn't be what I am today without her. The weekly letters we exchanged became our lifeline, the only flickering embers of hope that remained in our lives. After a long and arduous two years, I was finally released from that madhouse. Returning to familiar surroundings, I couldn't help but notice the pensive gazes from people around me. Their silent judgments and unspoken questions only added to my already burdened self-esteem.
+
+But amidst it all, your grandmother's eyes shone with a different light. Instead of pain, they overflowed with tears of joy. At that moment, I realized I should have presented her with a simple flower to express my love and gratitude. Yet, how could any flower compare to her beauty and grace?
+
+I yearned to begin a new life. Meera deserved nothing less than the utmost devotion and care, and I was determined to provide that for her."
+
 <p style="text-align: center;align:center;">Past lives couldn't ever hold me down<br>
 Lost love is sweeter when it's finally found<br>
 I've got the strangest feeling<br>
@@ -241,7 +242,7 @@ Don't wake me I'm not dreaming….</p>
                                                           
 "Perhaps justice took a detour, a path we did not expect. Maybe the forces of greed and power prevailed, tearing apart my life and career. Maybe Vikas's actions left a trail of destruction, shattering not only my dreams but also those of my wife. Yet, amidst it all, there was one thing that money and power could never conquer – our love for each other. Love is a pain worth experiencing once in a lifetime. They tried to break us, but our bond grew stronger each day. Love became the foundation upon which we rebuilt our lives, brick by brick. And here you are, Raj, listening to our story."                            
                         
-As Raj glanced into their eyes, he could still sense the lingering agony and pain. But alongside the turmoil was an undeniable presence of love, like an intoxicating elixir that continued to envelop them. It remained as potent as ever, defying the test of time and the hurdles they overcame.                                    
+As Raj glanced into their eyes, he could still sense the lingering agony and pain. But alongside the turmoil was an undeniable presence of love, like an intoxicating elixir that continued to envelop them. It remained as potent as ever, defying the test of time and the hurdles they overcame.
 
-> Edited by,                     
+> Edited by,  
 > Sneha, Akhil and Chaitali
