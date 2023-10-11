@@ -4,12 +4,13 @@ category: Campus News
 date: 2023-10-11T19:21:55.944Z
 desc: Um, where do we start?
 thumbnail: images/pexels-fauxels-3184465.jpg
-authors: Krithi, Sathya, Anant, Keshav, Neerav, Sneha MS
-starred: false
+authors: Krithi Shailya, Sathyanarayann, Anant Tyagi, Keshav Kumar Manjhi,
+  Neerav Sreekumar, Sneha M S
+starred: true
 ---
 <!--StartFragment-->
 
-# Preface 
+### Preface 
 
 The main aim of this article was to sort of navigate through the placement process, talk about different aspects of placements, and find out what’s actually going on. The authors of this article are currently fourth-years themselves trying to sit through the placement process and would like to apologize for any unintentional bias against, um, where do we start?  
 
@@ -25,7 +26,8 @@ There are plenty of concerns that have been raised, addressed, and taken care of
 
 *<Okay, let’s move on to the first item on the list>*
 
-# Index
+***************************
+### Index
 
 [Where do we stand?](https://docs.google.com/document/d/1DDAeE1Ehr4axW6ZigghCI_vBV1YYIBzI-FMog_YS2yo/edit#heading=h.xzbb9oxkt3g7)
 
@@ -41,7 +43,8 @@ There are plenty of concerns that have been raised, addressed, and taken care of
 
 [Backstage](https://docs.google.com/document/d/1DDAeE1Ehr4axW6ZigghCI_vBV1YYIBzI-FMog_YS2yo/edit#heading=h.7p3uwdjx5sze)
 
-# Where Do We Stand?
+****************************
+### Where Do We Stand?
 
 Sure, it looks like things are horrible right now, but is it just us?
 
@@ -61,7 +64,8 @@ Well, it is indeed the job of the PO to contact the HR of different companies, r
 >
 > ***\-Ishaan, ex-Internship, and Guidance Coordinator***
 
-# Process
+****************************
+### Process
 
 Now that we have a decent idea of how we’re currently doing, let’s maybe take a look at what we’re currently doing? From the students’ end, there are multiple placement tests that are conducted, some of which are smooth, others that make you never want to take a test again. 
 
@@ -111,8 +115,8 @@ An advice from Team Udaan to all the readers skimming through this article. Do j
 > ***\- Sushant***
 
 Of course, handling a vast group of students is not an easy task. On the other hand, every company is a potential opportunity for any student who applies, and it is essential to ensure that the student community receives a fair shot at anything they’re eligible for. But what else do we learn from this particular conversation? Please bring your own laptops as a backup lest you wanna find yourself in a tough spot. In a constantly developing campus like IIT Tirupati, there are several issues that result from constantly migrating and expanding facilities. However, it is definitely an upgrade from the constantly fluctuating Wifi and unavailability of rooms to take tests from. Maybe sometime in the future, we’ll see our juniors lining up to give tests in something called the “Placement Lab - 1.”. In the future, we trust. 
-
-# 6-month internships 
+*****************************
+### 6-month internships 
 
 Another critical hurdle many students have been facing on both the placement and the internship side is the requirement of 6-month internships. Many companies, especially core industries, value hands-on experience and expect students to have contributed to the industry in some way before providing full-time employment. This learning curve, according to the industry standard, takes at least six months. On the other hand, the current curriculum believes three months should be enough for students to learn, apply, present, and add to their resume. This poses heavy problems in getting companies for placement when the minimum criteria is a six-month internship or above, considering that the current curriculum does not have any flexibility in the last two semesters to house internships. Moreover, the campus is also unable to invite some companies for internships since they cannot allow the students to extend their three-month vacation to 6 months. 
 
@@ -127,8 +131,8 @@ While this request has gone unheard for the current batch, the new education pol
 > ***\- Ishaan***
 
 Well, there goes another case of in the future, we trust. What ever happened to ‘*We are the future*’? But luckily, this is one such future the current second years get to witness. With no provision of 6-month internships in their curriculum, they get to see their juniors, who are the pioneer batch adapting the new curriculum designed according to the new NEP. The present first years could potentially choose a 6-month internship and explore the road not taken by many before them. Do we feel pleased or jealous? Maybe we were born in the wrong year. 
-
-# Core Domains
+************************
+### Core Domains
 
 Looking at the previous placements is, of course, a ritual before applying to a college. The grand places your seniors have reached, you can take the same step someday and have as much money as you can, even claiming that money grows on trees. But nobody tells you how the branch placement split up is. Out of 120, 85 are placed with such good packages, and you go in confident that you can somehow make your way to be one of those 85. But little do you expect almost all of those are from circuital branches for SDE roles, and you, as core, are yeeted out into the world to either settle for a below-average consultant role or maybe open up your own tea shop?
 
@@ -167,8 +171,8 @@ On the other hand, another logical conclusion is to skill up in current job dema
 > ***\- Chetan***
 
 Of course, we know Noble, our Udaan elder! Speaking of migrating to current job market fluctuations, we decided to find out the direct influence the current recession trends have had on internship and placement recruitments. 
-
-# Recession
+**********************
+### Recession
 
 We asked Ishaan, the previous internship coordinator who was thrown into the middle of a Placement officer change and rapidly emerging recession season, about the impact of the recession on our institute because, well, it makes sense, right?
 
@@ -193,8 +197,8 @@ We asked Ishaan, the previous internship coordinator who was thrown into the mid
 > \- ***Sushant***
 
 That sounds about all we can do about this, not going to lie. But with several other aspects of placements and internships, there is definitely scope for improvement from different parties involved.
-
-# What can be done?
+*******************************
+### What can be done?
 
 Where are we headed? In terms of the current job market, the recession has caused a dent. In terms of the internship duration requirements, the old curriculum we’re following is of no help. In terms of good packages and core placements, the industry itself has a specific procedure. So what does #settledforlife mean right now?
 
@@ -239,8 +243,8 @@ But thankfully, this future did come true. This interview was taken before the [
 > \- ***Ishaan***
 
 Definitely a good time to work on your resume then. Don’t worry; we've got you covered. DO hop in and read our article on [How to Resum](https://udaaniitt.in/editions/2023_Spring/resume-article/)é.
-
-# Backstage
+***************************
+### Backstage
 
 > With so much in the way, a noteworthy mention goes to all the placement and internship representatives. Being students themselves, they’ve stepped up to represent the community and find jobs for not just themselves but the entire student body. Organizing tests, talking to companies, going through the process, and dealing with slip-ups definitely requires dedicating a significant amount of your time apart from the academic schedule. 
 >
@@ -251,8 +255,8 @@ Definitely a good time to work on your resume then. Don’t worry; we've got you
 > **\- Ishaan**
 
 We’d like to applaud and thank the representatives for the efforts that they’ve put in to try and secure as much of a successful placement/internship season as possible. With the right amount of cooperation and coordination, we’re sure we can see good numbers for future JosAA applicants to google up. 
-
-# An Ode to the Upcoming Batches
+*****************************
+### An Ode to the Upcoming Batches
 
 After all that ranting, we have just one thing for you: 
 
@@ -284,6 +288,6 @@ We’re sure the campus will have something in store for you. But maybe, try off
 
 In the grand scheme of things, your journey is just beginning, and there's a world of possibilities awaiting you beyond graduation. We surely hope so. Embrace the adventure and keep moving forward; you could be the next Cornelius (Lewis) Robinson. Until next time!
 
-*P.S. This article was not intended to offend anyone. As the campus magazine, our primary aim is to shed light on the events and issues on campus, offering constructive critiques where necessary. This is the essence of journalism, and we are committed to upholding its principles and spirit. Our intention is to inform, provoke thought, and encourage positive change within our community. We appreciate your understanding and support as we continue to fulfill this important role.*
+*P.S. This article was not intended to offend anyone. As the campus magazine, our primary aim is to shed light on the events and issues on campus, offering constructive critiques where necessary. This is the essence of journalism, and we are committed to upholding its principles and spirit. Our intention is to inform, provoke thought, and encourage positive change within our community. We appreciate your understanding and support as we continue to fulfil this important role.*
 
 <!--EndFragment-->
