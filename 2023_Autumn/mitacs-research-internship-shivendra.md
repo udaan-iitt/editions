@@ -1,8 +1,9 @@
 ---
-title: Mitacs Research Internship - Shivendra
+title: Mitacs Globalink Research Internship
 category: Experiences
 date: 2023-10-08T12:44:39.997Z
-desc: Shivendra's Mitacs Research Internship
+desc: "From India to Canada: Join Shivendra as he shares with us his experience
+  in the MITACS GRI Program."
 authors: Shivendra
 starred: false
 ---
