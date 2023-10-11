@@ -60,7 +60,7 @@ I worked on bugs initially and learnt so much with respect to code quality worki
 
 By the time I had resolved my first bug, my partner, Vaibhav from IIIT H and myself were tasked to extend a feature on one of the USP’s of ThoughtSpot, the LiveBoard. Again, not getting into the details, we successfully implemented the feature, not only according to the product team’s requirements but going a step further and implementing an extra sub-feature. After this I worked on a backend project which got called off. Then, I was allotted another feature. I was nervous but somehow, I ended up pulling it off on the last day before my presentation with my code getting merged almost at midnight. 
 
-![](images/ishaan2.jpg)
+![](images/screenshot-from-2023-10-12-01-57-01.png)
 
 One of the most rewarding aspects was knowing that the code I was working on would eventually find its way into production. 
 
