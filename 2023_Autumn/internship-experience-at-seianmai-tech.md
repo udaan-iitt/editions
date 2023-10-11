@@ -4,6 +4,7 @@ category: Experiences
 date: 2023-10-11T18:30:22.246Z
 desc: Embark on a cobotics journey at SeiAnmai Tech, an IIT Delhi startup, and
   explore telepresence robots along with Sumukh.
+thumbnail: images/sumukh.jpg
 authors: Sumukh
 starred: false
 ---
