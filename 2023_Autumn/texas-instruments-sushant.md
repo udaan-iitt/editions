@@ -1,22 +1,21 @@
 ---
-title: Texas Instruments - Sushant
+title: Internship Experience at Texas Instruments
 category: Experiences
 date: 2023-09-28T05:37:56.966Z
-desc: Texas Instruments internship experience by Sushant
+desc: A journey from initial uncertainty to valuable industry insights at Texas
+  Instruments.
 authors: Sushant
 starred: false
 ---
 <!--StartFragment-->
 
-### **Preparation** 
-
+### Preparation 
 Let me start the story by telling you about preparation before the internship season. The calendar had flipped to September's first week when the notification came about Texas Instruments. After going through the internship roles, I decided to apply for the Embedded Software Intern and Digital role. Back then, Texas Instrument came for analog, digital and embedded profiles. I was sure analog was not my interest area. Life has not been easy when non-linear devices were introduced into the circuits. After the screening test, I got shortlisted for the interview round of the embedded software role. One thing that helped me to clear the interview was Texas Instruments had mentioned broad topics they would expect an interviewee to know. I thoroughly reviewed them and practised questions on pointers, endianness, RTOS, etc. The results were out at the end of the day, and I was selected out of 6 shortlisted students. I still remember how my friends and I had a warm dancing session followed by a party on the same day. 
-
+*******************
 ### Pre Intern Preparation
-
-Two months before the internship, I was assigned a mentor who was a system engineer with 15+ years of work experience in Texas Instruments. I contacted him by mail and asked a few questions my curious mind wanted answers to. A few days later, he called me after I reached my hostel room after a day-long drone workshop. We introduced each other, and when he learned I worked on UAVs, he got very excited. He started enquiring about drone motors, their type and their specification. Soon after, he told me my team would be Brushless DC Motor, a team under the umbrella of motor drives. He explained my work would be in the bench testing. I was sceptical about this because it was not what I was expecting to work as an embedded software intern and was not what I was preparing for. So, I told him about my expectations, and he was very patient to hear this, and he reassigned me to a different mentor.
-
-### **Internship**
+Two months before the internship, I was assigned a mentor who was a system engineer with 15+ years of work experience in Texas Instruments. I contacted him by mail and asked a few questions my curious mind wanted answers to. A few days later, he called me after I reached my hostel room after a day-long drone workshop. We were introduced to each other, and when he learned I worked on UAVs, he got very excited. He started enquiring about drone motors, their type and their specification. Soon after, he told me my team would be Brushless DC Motor, a team under the umbrella of motor drives. He explained my work would be in the bench testing. I was sceptical about this because it was not what I was expecting to work as an embedded software intern and was not what I was preparing for. So, I told him about my expectations, and he was very patient to hear this, and he reassigned me to a different mentor.
+**************************
+### Internship
 
 I had an on-site internship in the Texas Instruments office in Banglore. On the very first day, we were given a welcome kit followed by an orientation session, which went on for a complete day. The next day, I was introduced to my new mentor and the project I will be working on. I was put on the validation team of Brushless Motor (BLDC). A Brushless DC (BLDC) motor is an electric motor that employs electronic commutation instead of mechanical brushes for switching the current direction in the motor windings. This design offers several advantages over traditional brushed DC motors, including improved efficiency, reliability, and longevity.
 
