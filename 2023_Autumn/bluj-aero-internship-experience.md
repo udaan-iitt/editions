@@ -105,7 +105,7 @@ My BLUJ Aerospace internship sticks out as a clear thread in the fabric of my li
 
 For third-year students, it's essential to recognise that core internships do come along, even if they seem uncertain. Preliminary research on companies' expectations and interview domains can work wonders. Don't stress over your CGPA; focus on mastering fundamental concepts. Learning Finite Element Analysis and boosting your technical confidence is crucial to standing out."
 
-Wheeee!!! Congrats peeps! You have made it to the end of the article. We hope that this article answers most of your questions. Feel free to contact any of us in case of any further queries. We wish you all the very best for your internship season ahead! 
+Wheeee!!! Congrats peeps! You have made it to the end of the article. We hope that this article answered most of your questions. Feel free to contact any of us in case of any further queries. We wish you all the very best for your internship season ahead! 
 
 
 
