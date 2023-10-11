@@ -1,16 +1,17 @@
 ---
-title: Sprinklr - Anush
+title: Internship Experience at Sprinklr
 category: Experiences
 date: 2023-09-26T11:22:55.066Z
-desc: Sprinklr - Anush Mangal
+desc: Join Anush as he narrates his journey of diverse interests, challenges,
+  and success.
 authors: Anush Mangal
 starred: false
 ---
 <!--StartFragment-->
 
- “After due evaluation of their performance in respective projects, we are delighted to share the results and extend a Pre-Placement offer to the following student(s) from your campus…”
+“After due evaluation of their performance in respective projects, we are delighted to share the results and extend a Pre-Placement offer to the following student(s) from your campus…”
 
- On reading my name on the list, I ran to my parents and shouted with the brightest gleam in my eyes, 'Job lag gayiii!!!' 
+On reading my name on the list, I ran to my parents and shouted with the brightest gleam in my eyes, 'Job lag gayiii!!!' 
 
 They were so happy!! Their eyes said it all.
 
@@ -47,7 +48,5 @@ We used to have weekly floor fun events at Sprinklr. These activities included s
 The time flew swiftly. Over those eight weeks, I experienced a wide range of emotions—stress from work, happiness from solving problems, excitement from events, and much more. We submitted our laptops the next day, and the internship finally ended. To celebrate our last day, my friend Yashwardhan and myself went to an escape room. It was fun. 
 
 The result came in one week, which marked the end of my successful internship experience at Sprinklr.
-
- 
 
 <!--EndFragment-->
