@@ -4,6 +4,7 @@ category: Experiences
 date: 2023-10-11T17:51:35.800Z
 desc: Yet another RIYA scholar from IIT Tirupati. Join Viaks as he shares with
   us his wonderful learning experience in this prestigious Internship program.
+thumbnail: images/ohio.jpg
 authors: Sai Vikas
 starred: false
 abio: Sai is a final year Mechanical Engineering Undergraduate at IIT Tirupati,
