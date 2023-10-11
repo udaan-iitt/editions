@@ -40,9 +40,9 @@ The trip back home is akin to a war hero returning from the battlefield. The bra
 
 *Ha, but forget all that mushy stuff, VACATION is here.* <br>*I better try my hand at all those things I’ve been putting off since college. AND get some sleep. Yes, I will get some good, good sleep.* <br>*I’ll try out my guitar again. I’ll get back to writing poetry. I’ll meet all of my high school friends again. I’ll have a heart-to-heart with my little brother about his crushes. I’ll get a new laptop. I’ll watch as many sappy rom-coms as I can. I’ll…*
 
-\*\*falls asleep\*\*
+*\*falls asleep\**
 
-\*wakes up\*
+*\*wakes up\**
 
 *Oh boy, the Sun is bright today. Wait. Why is it so bright?<br>It’s 12:30! Good god, what all classes have I miss-*
 
@@ -64,11 +64,11 @@ Home food breathes back life into a human. Especially after prolonged exposure t
 
 *Now that was a good day. I’ve done a lot of things today. It felt absolutely amazing to be this free after so long. Oh but I still have to go clothes shopping. I’ll have to get my PAN sorted as well. Maybe, I’ll go to that Sushi place with my sister tomorrow. Maybe, I’ll…*
 
-\*\*falls asleep\*\*
+*\*falls asleep\**
 
 For the first time in many days, falling asleep is looked forward to. Sleep becomes nothing more than an obstacle between this amazing day and the next. Why sleep? The answer to that during this phase of Summer is essentially, “So I have enough energy to enjoy tomorrow too.”
 
-\*\*wakes up\*\*
+*\*wakes up\**
 
 This day is a rite of passage in every Summer Vacation. The “meeting friends” day. After 2 whole weeks of planning, hours of “no, that’s a horrible restaurant, the pasta there is just bland” and some other days of “why do you have football coaching on Sundays?” Finally, the time is now. 
 
@@ -92,9 +92,9 @@ Is it okay if I haven’t changed? I think it’s okay, I like who I am. I like 
 
 *Ha. Pfft. I’m on vacation. What else should I be doing? It’s time to chill. Let’s see, what can I do tomorrow? Maybe I’ll pick out a thing or two to learn over the Summer. Maybe, I’ll…*
 
-\*\*falls asleep\*\*
+*\*falls asleep\**
 
-\*\*wakes up\*\*
+*\*wakes up\**
 
 *Oh, I’m up. What should I do today? I could maybe try out some new TV shows today. I’ll probably also go get a haircut. Nothing much, just a short trim.* 
 
@@ -112,11 +112,11 @@ Another rite of passage in every Summer is the urge to perform a skewed form of 
 
 *What happened to Thursday and Friday? Where did they go?<br>I can’t even tell the passing of time now… Why?<br>Why?<br>Why do I feel like this?<br>It’s almost like Wednesday never ended properly. Not enough things happened on Wednesday. It’s incomplete. My days are incomplete. They aren’t letting me move to the next.*
 
-<br><br>
+<br>
 
 *Why?<br>What am I missing?<br>Maybe I don’t have something important to do?<br>I’ve tried all the things I wanted to do…What now?<br>I’ll have to search out there for something new to do.*
 
-<br><br>
+<br>
 
 *Ahh…this reminds me of Lockdown all over again. It was very boring, wasn’t it? <br>Wait. Lockdown? Oh my gosh, what happened to those times when we would stay up all night to play games and chat on voice calls? Despite everyone being sleepy and not willing to work one bit, we’d stay up. <br>*
 
@@ -202,21 +202,7 @@ This was unacceptable. This was downright outrageous. In a fit of desperation, s
 
 *Nani?*
 
-*Summer Solstice? Isn’t that…*
-
-*…the 21st of June?*
-
-*It’s June?*
-
-*Worse, it’s the 21st already?*
-
-*JUNE IS ALMOST OVER?*
-
-*There’s only about…a month of vacation left.* 
-
-*What have I done all this while? Good God, I’ve done…*
-
-*…absolutely nothing.* 
+*Summer Solstice? Isn’t that…<br>…the 21st of June?<br>It’s June?<br>Worse, it’s the 21st already?<br>JUNE IS ALMOST OVER?<br>There’s only about…a month of vacation left.* <br>*What have I done all this while? Good God, I’ve done…<br>…absolutely nothing.* 
 
 *There’s only about a month left. I’ll have to go back to college. I’ll have to go back to working all day and studying and assignments and labs and boring lectures and…*
 
