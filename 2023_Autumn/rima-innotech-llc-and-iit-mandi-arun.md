@@ -1,22 +1,24 @@
 ---
-title: Prima Innotech LLC and IIT Mandi - Arun
+title: Internship Experience at Prima Innotech LLC and IIT Mandi
 category: Experiences
 date: 2023-09-28T05:43:33.859Z
-desc: Internship experience at Prima Innotech and IIT Mandi by Arun
+desc: From securing a remote internship with Prima Innotech to delving into a
+  research internship at IIT Mandi, Arun speaks of his summer of relentless
+  learning.
 authors: Arun
 starred: false
 ---
 <!--StartFragment-->
 
-### **How It All Started** 
+### How It All Started
 
 After finishing my second year, I was really excited and confident about finding a good internship. I was searching for internships that would give me exposure to good projects and provide a proper stipend as well.  I thought my previous internship experience would help, but I realized that your grades are really important if you're aiming for a research internship. While I wanted to earn more, it was really tough to find a well-paying internship in India, especially in a core field. I tried applying to all kinds of internships, both in India and in other countries. But the results weren't great.
 
 When I started losing hope and enthusiasm, I received an internship proposal from Prima Innotech in January. The pay was good and what I expected, and the project description interested me, even though the company wasn't a standard one. The unique thing was that the internship was remote since the company was based in the US. After careful consideration on the very last date, I decided to apply. After a week, I received an email from my internship advisor stating that I had an assignment to complete. My selection for the internship depended on how well I performed on this assignment.
 
 The assignment was about using Model Predictive Control (MPC) for path tracking, and it turned out to be more challenging than I anticipated. During this process, I had moments of low motivation because the problem statement was way out of my domain, but some events that happened in February gave me a boost. With renewed determination, I submitted the assignment and underwent a review round. This involved making a presentation based on my completed assignment. Thankfully, I did well on the review round and was selected for the internship right after my presentation. One Important note to the juniors is that if you are a bit confused about the problem statement, contact your guide on how to proceed with it. Get a clear understanding of the problem statement and then proceed further. 
-
-### **About the Internship**
+************************
+### About the Internship
 
 Three months later, I started my internship. I was assigned a project related to the control of autonomous electric vehicles. In this project, I worked on creating models in Simulink for steering control, traction control, and regenerative braking for the electric vehicle. The end goal of this project is to develop an autonomous EV framework up to Level 3. I progressed well in this project but later transitioned to another project called "Design of Lift-Off Apparatus for Controlled Spalling Process." This project focused on creating an affordable design for removing GaN layers from sapphire, considering the enhanced properties of GaN compared to Si. I found this project intriguing because of my previous experience with SolidWorks, a design software.
 
