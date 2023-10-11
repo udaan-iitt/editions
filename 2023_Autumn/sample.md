@@ -8,6 +8,7 @@ desc: Get ready for an exhilarating voyage as we delve into the captivating
   the enigmatic realm of gravitons, and the thoughtful insights of a physicist
   who, even at the age of 75, strives to make significant contributions to the
   world of science.
+thumbnail: images/img_20230817_223349.jpg
 authors: Sneha M S, Shreyas
 starred: false
 ---
