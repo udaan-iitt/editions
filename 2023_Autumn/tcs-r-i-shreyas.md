@@ -11,6 +11,7 @@ desc: >+
 
 
 
+thumbnail: images/shreyas.jpeg
 authors: Shreyas
 starred: false
 ---
