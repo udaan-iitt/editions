@@ -11,48 +11,12 @@ alt: ""
 ---
 <!--StartFragment-->
 
-In the winter, when the world is frozen,
+<p style="text-align: center;align:center;">In the winter, when the world is frozen,<br>and stray animals cuddle in packs of a dozen,<br>make yourself a cup of steaming tea,<br>and watch your life unfold its beauty.</p>
 
-and stray animals cuddle in packs of a dozen,
+<p style="text-align: center;align:center;">In the summer, when the world is boiling,<br>and the animals in search of water are toiling,<br>find yourself wading through a beach with glee,<br>eternal bliss, my man, demands no fee.</p>
 
-make yourself a cup of steaming tea,
+<p style="text-align: center;align:center;">In the spring, when new leaves are blooming,<br>and the animals are jolly - alive and stirring,<br>lose yourself in nature’s quietude,<br>learn to find bliss in holistic solitude.</p>
 
-and watch your life unfold its beauty.
-
-
-
-
-
-In the summer, when the world is boiling,
-
-and the animals in search of water are toiling,
-
-find yourself wading through a beach with glee,
-
-eternal bliss, my man, demands no fee.
-
-
-
-
-
-In the spring, when new leaves are blooming,
-
-and the animals are jolly - alive and stirring,
-
-lose yourself in nature’s quietude,
-
-learn to find bliss in holistic solitude.
-
-
-
-
-
-In the autumn, when the leaves finally fall,
-
-when animals stock food, and respond to nature’s call,
-
-stroll through a forest, and hear the leaves crackle,
-
-when the mind is happy, any problem you shall tackle
+<p style="text-align: center;align:center;">In the autumn, when the leaves finally fall,<br>when animals stock food, and respond to nature’s call,<br>stroll through a forest, and hear the leaves crackle,<br>when the mind is happy, any problem you shall tackle</p>
 
 <!--EndFragment-->
