@@ -26,7 +26,7 @@ Production Scheduling is a common task in manufacturing units, by which all the 
 
 Since optimization was outside our core curriculum (it was offered as a department elective after the 6th semester), I had to learn all the basics before my internship started. And since the foundries domain doesn't really come under chemical engineering, I had to get familiar with the process and terminologies involved in foundries for the first two weeks at the company. One of the professors from my department constantly mentored me and overviewed my progress. My main objective is to provide the company with an initial feasible optimal solution for the scheduling. We did a literature survey and found out similar research works are already being done in foundries. After thorough study, I picked one of them and tried to formulate and implement the same for the company’s problem. 
 
-![](images/pexels-lukas-574071.jpg)
+![](images/screenshot-from-2023-10-12-01-54-55.png)
 
 I used Python to model the problem and solved it using SCIP solver, an open-source constrained programming solver. It yielded a valid optimal solution with minimum lateness.  
 
