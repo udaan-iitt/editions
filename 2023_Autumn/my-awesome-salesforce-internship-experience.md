@@ -47,5 +47,5 @@ Talking about the HR round, Salesforce conducts proper HR interviews to assess c
 
 Lastly, I encourage you to stay in touch with your seniors, seek their guidance, and learn from their experiences. You can also reach out to me if you have any questions.
 
-LinkedIn: [https://www.linkedin.com/in/sachin431/](https://www.linkedin.com/in/sachin431)
+LinkedIn: [https://www.linkedin.com/in/sachin431](https://www.linkedin.com/in/sachin431)                              
 Email: cs20b034@iittp.ac.in
