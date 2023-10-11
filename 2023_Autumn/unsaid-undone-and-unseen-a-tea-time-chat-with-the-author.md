@@ -5,7 +5,7 @@ date: 2023-10-11T19:08:15.677Z
 desc: Buckle up for a literary adventure through the heart of India with an
   author who expertly weaves stories that transcend the boundaries of chick-lit,
   falling somewhere between the realms of romance and young adult fiction.
-authors: Sneha MS
+authors: Sneha M S, Krithi Shailya
 starred: false
 ---
 <!--StartFragment-->
