@@ -6,6 +6,7 @@ desc: >-
   "Your Grain, Our Brain"
 
   Join Sunandan as he narrates his remarkable journey during an internship at Agri Process Innovations Technologies LLP (APIT), where he delves into the world of paddy processing
+thumbnail: images/sunandan3.jpg
 authors: Sunandan
 starred: false
 ---
