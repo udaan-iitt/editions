@@ -3,7 +3,7 @@ title: Faculty Interview with Dr Raghavendra Kanakagiri
 category: Campus News
 date: 2022-06-29 12:40:00 +09:00
 desc: "From pepper spray and Clash of Clans to Julia and Panchayat, read on to
-  experience a fantastic interview with Prof Raghavendra! "
+  experience a fantastic interview with Dr Raghavendra! "
 thumbnail: ./images/Raghavendra_Sir_cover.jpeg
 authors: Pranathi, Debeshee
 starred: false
