@@ -3,6 +3,7 @@ title: "Placements and Internships: Through the Students' lens "
 category: Campus News
 date: 2023-10-11T19:21:55.944Z
 desc: Um, where do we start?
+thumbnail: images/pexels-fauxels-3184465.jpg
 authors: Krithi, Sathya, Anant, Keshav, Neerav, Sneha MS
 starred: false
 ---
