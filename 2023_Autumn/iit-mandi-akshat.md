@@ -1,5 +1,5 @@
 ---
-title: IIT Mandi - Akshat
+title: Internship Experience at IIT Mandi
 category: Experiences
 date: 2023-09-30T15:44:41.159Z
 desc: A quaint and fun description of IIT Mandi through the eyes of Akshat Seth,
