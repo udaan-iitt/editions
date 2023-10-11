@@ -5,6 +5,7 @@ date: 2023-10-11T20:15:00.238Z
 desc: "Have you ever stopped to observe the small stories that nature gently
   whispers in your ear? Read on as Anvay talks about finding joy in the
   simplicity of nature. "
+thumbnail: images/pexels-oleksandr-p-345522.jpg
 authors: Anvay Joshi
 starred: false
 alt: ""
