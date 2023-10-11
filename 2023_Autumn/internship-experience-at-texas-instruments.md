@@ -5,6 +5,7 @@ date: 2023-10-11T17:49:35.909Z
 desc: "Join Samhitha as she talks about getting into and learning from a very
   meaningful and hands-on experience at Texas Instruments as a Digital Design
   intern. "
+thumbnail: images/texas.jpeg
 authors: "Samhitha "
 starred: false
 abio: Samhitha is a final year Electrical student interested in watching every
