@@ -4,6 +4,7 @@ category: Experiences
 date: 2023-09-26T11:22:55.066Z
 desc: Join Anush as he narrates his journey of diverse interests, challenges,
   and success.
+thumbnail: images/sprinklr.jpg
 authors: Anush Mangal
 starred: false
 ---
