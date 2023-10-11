@@ -5,6 +5,7 @@ date: 2023-09-28T05:43:33.859Z
 desc: From securing a remote internship with Prima Innotech to delving into a
   research internship at IIT Mandi, Arun speaks of his summer of relentless
   learning.
+thumbnail: images/pexels-vojtech-okenka-392018.jpg
 authors: Arun
 starred: false
 ---
