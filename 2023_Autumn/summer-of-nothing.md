@@ -9,6 +9,7 @@ desc: >
   our last true Summer Vacations very seriously and well….do vacation things.
   Sadly, this undeniably foolproof plan forgot to take into account this one
   particular fool - the human mind. 
+thumbnail: images/frc_lnzxsaeh-mn.jpg
 authors: Akhil Krishnan, Sneha Battula
 starred: false
 ---
