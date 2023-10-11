@@ -4,6 +4,7 @@ category: Experiences
 date: 2023-09-30T15:40:04.106Z
 desc: It's Still Day 1. December 17, 2022. 21:46. The moment Yamini's life took
   a turn for the good.
+thumbnail: images/yamini.jpg
 authors: Yamini Shree
 starred: false
 ---
