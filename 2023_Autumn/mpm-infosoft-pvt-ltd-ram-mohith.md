@@ -1,25 +1,22 @@
 ---
-title: MPM Infosoft Pvt Ltd. - Ram Mohith
+title: Internship Experience at MPM Infosoft Pvt Ltd.
 category: Experiences
 date: 2023-10-08T12:32:42.585Z
-desc: Ram Mohith's Internship as a Data Analyst at MPM Infosoft Pvt. Ltd., based
-  out of the IIT Madras Research Park
+desc: Hop in and read Ram Mohith's Internship as a Data Analyst at MPM Infosoft
+  Pvt. Ltd., based out of the IIT Madras Research Park.
 authors: Ram Mohith
 starred: false
 ---
 <!--StartFragment-->
 
-Initial Processes
-
+### Initial Processes
 I am Ram Mohith, currently pursuing a bachelor's in chemical engineering. I did my summer internship as a Data Analyst at MPM Infosoft Pvt Ltd., which is based in IIT Madras Research Park. To give a brief about the company, they are a data science team focused on making data-driven software for foundry industries. Foundries are manufacturing industries which cast different metal products. 
-
-
 
 Although my role was that of a data analyst, the project required core domain knowledge as well since our department doesn't allow students to sit for internship recruitments other than in the chemical engineering domain. The company was called to recruit interns through one of our professors. Interested students' resumes were sent to the company, and since the number of applications is small, the company chose to interview all the applicants. The interview focused more on the student's knowledge of data science and machine learning and their projects. After all the interview processes, they announced that I was selected for the internship.
 
 
-
-About the Internship
+***********************
+### About the Internship
 
 My internship work is based on Production Scheduling for Foundries using optimization techniques (under operations research). To break it down, consider them as two separate entities: foundries and production scheduling. In Foundries, they use different techniques to create structures called moulds, which have empty void spaces in them. When molten metal/alloy is poured inside it and allowed to cool, the solidified form takes the shape of the empty space, our desired product. Big manufacturing companies often outsource some/many parts of their machinery/product from foundries. So, a foundry can have multiple customers, and it can get multiple orders from them at the same time. And many foundries are make-to-order foundries, meaning they will plan their production based on the orders they get. 
 
@@ -36,8 +33,8 @@ Since optimization was outside our core curriculum (it was offered as a departme
 I used Python to model the problem and solved it using SCIP solver, an open-source constrained programming solver. It yielded a valid optimal solution with minimum lateness.  
 
 
-
-Remarks
+***************************
+### Remarks
 
 Overall, the internship was a very nice experience. IITM Research Park is a tech hub for research and innovation, with many companies and startups trying to solve in-demand problems in various domains. Working in such an ecosystem is a great boost, which motivated me to work on my project. I had a chance to interact with a very brilliant and supportive data science team. I got to know more about the respective projects they were working on, which helped me understand the industry standards and assess my skills. Although there was little scope to apply core chemical engineering principles in my project, the regular courses covered in the curriculum have helped me build intuition on approaching and tackling real industry problems. There was this particular Applied Process Engineering course (a 1-credit course present in 4 semesters) where we had to solve an industry-level problem, which helped fill the so-called gap between what is taught in college and what is applied in real industries. 
 
