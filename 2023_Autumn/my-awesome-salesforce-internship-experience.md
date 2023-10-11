@@ -24,7 +24,7 @@ As my internship progressed, Salesforce made sure to balance work with an enjoya
 
 In addition to my regular work, I participated in various intern events that encouraged networking among peers. Salesforce's culture is built on keeping employees happy, evident through initiatives like swag distribution, VTO (Volunteer Time Off) events, Sports Day, and Futurefest. Fun is not only encouraged in your daily work but also celebrated as a means to create impactful solutions. When work is infused with fun, magic happens! 
 
-
+![](images/screenshot-from-2023-10-12-01-52-41.png)
 
 I also had the opportunity to interact with esteemed business leaders, including Arundhati Bhattacharya, Salesforce India's Chairman and CEO, Vinod Shah, VP of Software Engineering, and Michele Nyrop, a senior ES leader. These interactions were invaluable and helped me to learn more about the Salesforce ecosystem and the challenges and opportunities facing the industry.
 
@@ -35,6 +35,8 @@ At Salesforce, teamwork and support are fundamental values. Co-workers readily s
 Additionally, giving back to the community is core to Salesforce's culture. Even during my limited time there, I discovered several volunteering opportunities organized by the office. I participated in Seed Ball making, Gratitude Graffiti, and other exciting activities. Salesforce employees are encouraged to participate in philanthropic activities through Volunteer Time Off.
 
 Overall, my internship at Salesforce was a fantastic experience. Aside from the technical skills and projects I worked on, Salesforce instilled in me lasting values, friendships, and habits. This internship was nothing short of a dream come true and a once-in-a-lifetime experience. Looking back, I can see how much I've grown, and I am immensely grateful for this opportunity.
+
+![](images/screenshot-from-2023-10-12-01-53-41.png)
 
 - - -
 
