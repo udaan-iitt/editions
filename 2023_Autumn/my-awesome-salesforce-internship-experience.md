@@ -5,6 +5,7 @@ date: 2023-10-11T18:24:59.469Z
 desc: Embark on a transformative journey with Salesforce as a Software
   Engineering Intern alongside Sachin in Hyderabad. This surely is a dynamic,
   fun, and impactful internship experience!
+thumbnail: images/sachin.jpg
 authors: Sachin
 starred: false
 abio: Sachin is a tech enthusiast and a final-year Computer Science and
@@ -43,9 +44,11 @@ Another vital component of preparation is networking. Reached out to current or 
 
 For technical rounds and interviews, practice coding problems regularly, review data structures and algorithms, and seek feedback from peers and mentors. Most interviewers focus on coding skills, problem-solving aptitude, and the ability to work through technical challenges. Even if you code a problem correctly but fail to explain, it will leave a wrong impression on interviewers. I used Leetcode and Interviewbit to practice coding questions.
 
+![](images/int.jpg)
+
 Talking about the HR round, Salesforce conducts proper HR interviews to assess cultural fit and soft skills. I prepared for these by reflecting on my experiences, identifying key achievements and challenges, and practicing how to communicate them effectively.
 
 Lastly, I encourage you to stay in touch with your seniors, seek their guidance, and learn from their experiences. You can also reach out to me if you have any questions.
 
-LinkedIn: [https://www.linkedin.com/in/sachin431](https://www.linkedin.com/in/sachin431)                              
+LinkedIn: <https://www.linkedin.com/in/sachin431>\
 Email: cs20b034@iittp.ac.in
