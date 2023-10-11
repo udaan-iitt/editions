@@ -1,8 +1,16 @@
 ---
-title: TCS R&I - Shreyas
+title: Internship Experience at TCS R&I
 category: Experiences
 date: 2023-10-08T12:25:41.685Z
-desc: Shreyas' Internship at TCS R&I in the IIT Madras Research Park
+desc: >+
+  Join Shreyas on his fascinating research journey as he explores
+  physics-informed neural networks and models fluid flow during his time at IITM
+  Research Park.
+
+
+
+
+
 authors: Shreyas
 starred: false
 ---
@@ -23,7 +31,5 @@ While a workplace was in the process of being allotted to me, Codes were written
 As my official internship end date was nearing I chose to extend it by a week as the problems dealt with became more complicated leading to more training times causing the durations for hyperparameter tuning to reduce. Simultaneously, I spent my time preparing the internship report to be submitted to my mentor. The act of extending the duration not only helped me achieve satisfactory results but also allowed me to spend more of my time on the report which was going to be the one conveying the progress made in a detailed and formal manner to my mentor.
 
 Looking back at how my summer went, I would say it was an enriching experience having worked on a topic that has only recently been explored, still in the realm of fundamental research.
-
-
 
 <!--EndFragment-->
