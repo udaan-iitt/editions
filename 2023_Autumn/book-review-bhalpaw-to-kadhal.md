@@ -6,6 +6,7 @@ desc: "\"Bhalpaw to Kadhal\" is a delightful love story that unfolds against the
   backdrop of a train journey. Authored by Manchikatla Teja, a third-year CSE
   student from IIT Tirupati. Hop in to read Team Udaan's first venture into the
   realm of original book reviews."
+thumbnail: images/screenshot-from-2023-10-12-02-13-35.png
 authors: Sneha M S, Bineet Barman
 starred: false
 ---
