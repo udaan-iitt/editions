@@ -1,5 +1,5 @@
 ---
-title: "Internships and Placements: Through the Students' lens "
+title: "Placements and Internships: Through the Students' lens "
 category: Campus News
 date: 2023-10-11T19:21:55.944Z
 desc: Um, where do we start?
