@@ -14,6 +14,7 @@ starred: false
 abio: ""
 alt: The Hitchhiker’s Guide to the GRE
 ---
+> PS: This article was written in 2021 when the examination pattern was quite different.                          
 
 ### Introduction:              
 The [Graduate Records Examination](https://en.wikipedia.org/wiki/Graduate_Record_Examinations) is an exam conducted by the [Educational Testing Service](https://en.wikipedia.org/wiki/Educational_Testing_Service) often used by top foreign universities as a criterion when evaluating applications. Though there is a gradual shift away from using the GRE, a good GRE score (valid for five years after writing the exam) will boost your application. Most universities use the GRE score only as a cutoff, so there is no marginal utility in increasing one's score beyond the cutoff of one's target university (In our opinion, crossing 330 is enough; the only real benefit to scoring higher than that is a boost to one's ego).                          
