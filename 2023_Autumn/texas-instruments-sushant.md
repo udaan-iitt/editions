@@ -4,6 +4,7 @@ category: Experiences
 date: 2023-09-28T05:37:56.966Z
 desc: A journey from initial uncertainty to valuable industry insights at Texas
   Instruments.
+thumbnail: images/sushant.jpg
 authors: Sushant
 starred: false
 ---
