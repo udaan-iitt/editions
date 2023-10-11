@@ -10,44 +10,12 @@ starred: false
 ---
 <!--StartFragment-->
 
-Youngsters from across the country
+<p style="text-align: center;align:center;">Youngsters from across the country<br>From backgrounds different too<br>Different language each one speaks<br>But all I see is you</p>
 
-From backgrounds different too
+<p style="text-align: center;align:center;">Your eyes, twin galaxies of endless depth<br>Hold secrets and stories untold<br>A mystical pool where emotions ebb<br>With each glance, an adventure unfolds</p>
 
-Different language each one speaks
+<p style="text-align: center;align:center;">Your laughter, like a melody divine<br>Rings within the chambers of my soul<br>Its rhythm, like the symphony of time<br>Enchants my heart, making it whole</p>
 
-But all I see is you
-
-
-
-Your eyes, twin galaxies of endless depth
-
-Hold secrets and stories untold
-
-A mystical pool where emotions ebb
-
-With each glance, an adventure unfolds
-
-
-
-Your laughter, like a melody divine
-
-Rings within the chambers of my soul
-
-Its rhythm, like the symphony of time
-
-Enchants my heart, making it whole
-
-
-
-My admiration blooms and grows
-
-Though silent like a fox in the forest
-
-A silent witness to her mystery
-
-A love that in my heart shall rest
-
-
+<p style="text-align: center;align:center;">My admiration blooms and grows<br>Though silent like a fox in the forest<br>A silent witness to her mystery<br>A love that in my heart shall rest</p>
 
 <!--EndFragment-->
