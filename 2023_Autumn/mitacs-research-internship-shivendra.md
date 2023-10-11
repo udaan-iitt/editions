@@ -4,6 +4,7 @@ category: Experiences
 date: 2023-10-08T12:44:39.997Z
 desc: "From India to Canada: Join Shivendra as he shares with us his experience
   in the MITACS GRI Program."
+thumbnail: images/mitacs.png
 authors: Shivendra
 starred: false
 ---
