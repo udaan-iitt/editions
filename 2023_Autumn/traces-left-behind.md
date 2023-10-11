@@ -5,6 +5,7 @@ date: 2023-10-11T20:22:24.464Z
 desc: Join Piyush a heartwarming journey through this poem about friendship,
   courage, and the longing for home, all wrapped up in the simplicity of life's
   moments.
+thumbnail: images/pexels-vraj-shah-633814.jpg
 authors: Piyush Gupta
 starred: false
 ---
