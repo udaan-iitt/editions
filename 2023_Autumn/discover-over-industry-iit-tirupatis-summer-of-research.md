@@ -55,6 +55,8 @@ While research internships enable you to be in touch with current research in yo
 >
 > **The first brick for building our research**
 >
+> ![](images/brick.png)
+>
 > We started our internship on 11th May 2023 with rigorous techniques to build a masonry product from this waste. Initially, we faced a lot of minor problems like cracks in our masonry bricks, etc. Around ten days passed, and we had gotten no positive results. It was the first time we encountered failure, and we did not know how to face it. I still remember when we first reported our failed results to our professors. We were so embarrassed at that time, and we did not have enough courage to speak with them. Seeing us in such a state, our professors gave us a life lesson on perseverance and said how to embrace our failures in research rather than running away from them. That 45-minute talk totally changed our perspective on research. We continued our work from there and tackled all the minor problems that came our way. Before we were about to give up on research work, on 30th May, we made our first brick (as shown in the figure).
 >
 > **The daily research**
