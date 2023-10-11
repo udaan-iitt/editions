@@ -5,6 +5,7 @@ date: 2023-10-11T20:19:43.369Z
 desc: Explore the emotions of an unspoken love in this heartfelt poem. Dive into
   the story of someone secretly in love, yet to reveal their feelings to the one
   who has stolen their heart.
+thumbnail: images/pexels-jasmin-wedding-photography-1415131.jpg
 authors: Aditya Patil
 starred: false
 ---
