@@ -1,7 +1,7 @@
 ---
 title: Internship Experience at MPM Infosoft Pvt Ltd.
 category: Experiences
-date: 2023-10-08T12:32:42.585Z
+date: 2023-10-12T18:13:56.165Z
 desc: Hop in and read Ram Mohith's Internship as a Data Analyst at MPM Infosoft
   Pvt. Ltd., based out of the IIT Madras Research Park.
 thumbnail: images/mohith.jpg
