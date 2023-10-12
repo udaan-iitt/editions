@@ -1,7 +1,7 @@
 ---
 title: Internship Experience at Texas Instruments
 category: Experiences
-date: 2023-10-11T17:49:35.909Z
+date: 2023-10-12T18:12:09.338Z
 desc: "Join Samhitha as she talks about getting into and learning from a very
   meaningful and hands-on experience at Texas Instruments as a Digital Design
   intern. "
