@@ -8,7 +8,9 @@ desc: Buckle up for a literary adventure through the heart of India with an
 thumbnail: images/pexels-richa-sharma-4217462.jpg
 authors: Sneha M S, Krithi Shailya
 starred: false
+abio: none
 ---
+
 <!--StartFragment-->
 
 In her debut novel, "[I Was, I Am](https://www.wattpad.com/story/49405751-i-was-i-am)," she introduces us to a group of childhood friends whose lives take unexpected turns, and it's a journey filled with "messy goodbyes" and "unfinished confrontations." But amidst the chaos, there's an undying passion for interior design that keeps our protagonist, Aditi, going. This story will take you on a ride filled with "drama," "unexpectedly blooming office romance," and the thrilling exploration of forgiveness and change.
@@ -19,7 +21,7 @@ In the sequel, "[Back and Forth](https://www.wattpad.com/story/114409725-back-an
 
 The final instalment, "[Back in Time](https://www.wattpad.com/story/131249967-back-in-time)," promises to be a fitting conclusion to the "Back to Back" series. The author tantalisingly suggests that love may have knocked on Vedant's door in the form of a red Nike backpack when he was just twenty. However, carrying each other's bags may not be enough, hinting at a deeper exploration of love and relationships.
 
-And don't miss out on "[Unsaid, Undone](https://www.wattpad.com/story/187532332-unsaid-undone)," a captivating spin-off that navigates class differences, disapproving parents, and heartbreaking compromises. 
+And don't miss out on "[Unsaid, Undone](https://www.wattpad.com/story/187532332-unsaid-undone)," a captivating spin-off that navigates class differences, disapproving parents, and heartbreaking compromises.
 
 After this quick and not-so-subtle nudge from our end to check out all her works (you truly must check them out), it's time to sit back and enjoy a tea-time chat with the author herself, [Kimayaa-Ankita](https://www.wattpad.com/user/Kimayaa). As we explore her enchanting world of storytelling, we delve deeper into her inspirations, writing process, and the magic she infuses into her books.
 
@@ -96,7 +98,7 @@ Ankita reflected on her writing journey and how it has evolved over time. She re
 
 Regarding the pressure to keep up with reader requests, Ankita admitted that she doesn't succumb to those demands anymore. As a child, the number of reads and reader engagement held significant importance to her. However, she has since realised that she won't compromise her mental health or well-being for the sake of popularity or engagement. She's observed many writers who started after her gaining more followers and readers, even becoming brand ambassadors, but she's comfortable with her approach and priorities.
 
-When it comes to writer's block, Ankita shared her strategy - giving it time. She doesn't force herself to write when the inspiration isn't there. While some suggest simply starting to write, Ankita recognises that it's essential to respect the creative process and allow ideas to flow naturally. Ankita further explained her creative process, highlighting that she experiences either a strong urge to write with words flowing effortlessly or a complete absence of that feeling. There is no middle ground for her. When she doesn't have that inspiration, she takes it easy, allowing herself time to recharge creatively. One of her strategies for rekindling her creativity is to read other works. Reading books by other authors helps her get her mind back into the writing zone and find the inspiration she needs to continue her own storytelling journey. 
+When it comes to writer's block, Ankita shared her strategy - giving it time. She doesn't force herself to write when the inspiration isn't there. While some suggest simply starting to write, Ankita recognises that it's essential to respect the creative process and allow ideas to flow naturally. Ankita further explained her creative process, highlighting that she experiences either a strong urge to write with words flowing effortlessly or a complete absence of that feeling. There is no middle ground for her. When she doesn't have that inspiration, she takes it easy, allowing herself time to recharge creatively. One of her strategies for rekindling her creativity is to read other works. Reading books by other authors helps her get her mind back into the writing zone and find the inspiration she needs to continue her own storytelling journey.
 
 Ankita's journey on Wattpad has been marked by the ebb and flow of the community that surrounds it. She reminisces about a time in her late teens when the platform was teeming with Indian authors, creating an atmosphere of competition. The constant comparison of reading and book attention became a regular occurrence, albeit not always a healthy one. However, as time passed, she noticed a significant turnover, with many authors leaving the platform, realising that writing on Wattpad may not be their true calling.
 
@@ -106,7 +108,7 @@ Family is the ultimate support system, and this stands true with Ankita as well.
 
 Ankita's sister has read all of her works. Beyond her immediate family, Ankita's cousins and friends have also been part of her journey. They have read her stories for various reasons, including support, constructive criticism, and even to help Ankita understand the source of occasional hate comments. These close connections have played a role in Ankita's growth as a writer, providing valuable insights and diverse perspectives.
 
-With this, our tea-time chat comes to an end. It has been a pleasure sharing this literary journey with you exploring the depths of Ankita's creativity and inspiration. Thank you for sticking along till the end. We trust that you loved the chat as much as we did. Don't forget to immerse yourself in the captivating world of Ankita's works; they are a treasure trove of storytelling brilliance waiting to be discovered. 
+With this, our tea-time chat comes to an end. It has been a pleasure sharing this literary journey with you exploring the depths of Ankita's creativity and inspiration. Thank you for sticking along till the end. We trust that you loved the chat as much as we did. Don't forget to immerse yourself in the captivating world of Ankita's works; they are a treasure trove of storytelling brilliance waiting to be discovered.
 
 Until our next literary rendezvous!!
 

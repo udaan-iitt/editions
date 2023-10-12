@@ -8,7 +8,9 @@ desc: Explore the emotions of an unspoken love in this heartfelt poem. Dive into
 thumbnail: images/pexels-jasmin-wedding-photography-1415131.jpg
 authors: Aditya Patil
 starred: false
+abio: none
 ---
+
 <!--StartFragment-->
 
 <p style="text-align: center;align:center;">Youngsters from across the country<br>From backgrounds different too<br>Different language each one speaks<br>But all I see is you</p>

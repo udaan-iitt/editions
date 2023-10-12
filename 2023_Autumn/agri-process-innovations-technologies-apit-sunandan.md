@@ -9,7 +9,9 @@ desc: >-
 thumbnail: images/sunandan3.jpg
 authors: Sunandan
 starred: false
+abio: none
 ---
+
 <!--StartFragment-->
 
 ### Chapter 1: The Prelude
@@ -18,13 +20,13 @@ In search of a company to do an internship from home, I had passed on so many co
 
 Two days later, I got selected, and another week later, I received the offer letter. It was the first time in my entire life that I was working for a company.
 
-- - -
+---
 
 ### Chapter 2: About the Company
 
 Agri Process Innovations Technologies LLP, or APIT for short, is the world’s best paddy process specialist with a profound motto of “Your Grain, Our Brain.” Located in the industrial area of Dodballapura, in Bengaluru Rural District, this company started out small in 2016. Still, it gradually grew to become a prime player in providing completely automated solutions for paddy parboiling processes, their patented “Super-ageing process”, and, most importantly, tailor-made process plants based on the production and quality needs of the consumer. This is evident in a huge number of plants, national and even international, resorting to APIT for plant setup. Under the guidance of the founder and current managing director, Shashikumar Thimmaiah, ambitions are at an all-time high and are not in sight of slowing down.
 
-- - -
+---
 
 ### Chapter 3: The Process
 
@@ -38,7 +40,7 @@ What followed was an intense period of continuously doing different tests on the
 
 Some things are initially unplanned, but they go well to be one of your most memorable experiences if you are “into it.” I think they call it serendipity.
 
-- - -
+---
 
 ### Chapter 4: Wee bit of advice
 

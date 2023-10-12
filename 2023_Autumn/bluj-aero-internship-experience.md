@@ -8,43 +8,45 @@ desc: An in-depth account of the internship experiences at BluJ Aerospace, a
 thumbnail: images/image_editor-1-.png
 authors: Swathi, Kanishk, Srihitha, Sai Charan, Dhanesh
 starred: false
+abio: none
 ---
+
 <!--StartFragment-->
 
-Hello folks! In this article, we would like to answer the whats and hows about our internship at BluJ. Please bear with us as this is going to be a longggg  article. We had to compile all our experiences. But trust us; It will be worth the time. 
+Hello folks! In this article, we would like to answer the whats and hows about our internship at BluJ. Please bear with us as this is going to be a longggg article. We had to compile all our experiences. But trust us; It will be worth the time.
 
 Before we begin, what exactlty is BluJ Aerospace?
-BluJ Aerospace is a dynamic startup in the aerospace industry based in the vibrant city of Hyderabad. It was formed with the vision of making aviation simpler & sustainable. The company aims to achieve cost-efficiency and sustainability through vertical integration of all the key technologies involved. They are working on cutting-edge VTOL technologies with an aim to cut down travel time significantly. The company is spearheaded by visionary leaders, the CEO, and the CTO, who are not only accomplished professionals but also exceptionally friendly and approachable. BluJ's core team has deep domain expertise, having previously built aircraft, rockets, wind turbines, and advanced propulsion systems. This welcoming environment set the stage for an enriching internship experience. 
+BluJ Aerospace is a dynamic startup in the aerospace industry based in the vibrant city of Hyderabad. It was formed with the vision of making aviation simpler & sustainable. The company aims to achieve cost-efficiency and sustainability through vertical integration of all the key technologies involved. They are working on cutting-edge VTOL technologies with an aim to cut down travel time significantly. The company is spearheaded by visionary leaders, the CEO, and the CTO, who are not only accomplished professionals but also exceptionally friendly and approachable. BluJ's core team has deep domain expertise, having previously built aircraft, rockets, wind turbines, and advanced propulsion systems. This welcoming environment set the stage for an enriching internship experience.
 
-- - -
+---
 
 ### Application Process
 
-For most of us, the application and shortlisting process was the same. It was high time in March when most of the core students were looking for exciting internship opportunities to knock on their doors. Thanks to Dr. Subbareddy Daggumati for inviting this company to our institute. A Google form was shared where students were asked to fill in their basic details like mobile number, roll number, resume, and other formal details. Most of our seniors told us that many of the core companies select students for internships based on resumes. So, we ensured our resumes were attractive. But to our surprise, on a Tuesday morning (which was a holiday), we received an email letting us know that we were shortlisted and the interview timings would be informed in due time. Chemical and Mechanical students had their interviews on the same day. On the following day, it was the Electrical and Civil students’ turn. After 5 days, the final shortlist was out, and we made it. YAY!!!!! 
+For most of us, the application and shortlisting process was the same. It was high time in March when most of the core students were looking for exciting internship opportunities to knock on their doors. Thanks to Dr. Subbareddy Daggumati for inviting this company to our institute. A Google form was shared where students were asked to fill in their basic details like mobile number, roll number, resume, and other formal details. Most of our seniors told us that many of the core companies select students for internships based on resumes. So, we ensured our resumes were attractive. But to our surprise, on a Tuesday morning (which was a holiday), we received an email letting us know that we were shortlisted and the interview timings would be informed in due time. Chemical and Mechanical students had their interviews on the same day. On the following day, it was the Electrical and Civil students’ turn. After 5 days, the final shortlist was out, and we made it. YAY!!!!!
 
-Sai Charan had a different approach altogether. Let's listen …oopsie :)…. read it in his words. 
+Sai Charan had a different approach altogether. Let's listen …oopsie :)…. read it in his words.
 
 "Before entering the doors of BluJ Aerospace, some uncertainties cast doubt on the availability of core internships for mechanical branch students. Sriram sir, our guide, was candid about the scarcity of paid internships and the bleak prospect of post-internship job offers. A glimmer of hope arrived when CMTI, a core internship opportunity, emerged. Out of 45 mechanical students, 26 of us applied and secured the opportunity at CMTI. However, the excitement was short-lived as we realised that accommodation was not provided, posing a major challenge. Despite the obstacles, we pressed on, determined to learn from the experience. Later, there was a silver lining as CMTI approved accommodation for students, easing the challenges we initially faced. But they did go back on their word eventually. 😅
 
 Dr. Subba Reddy, a member of BluJ's design team and a source of inspiration for many, came forward with an unexpected opportunity. He extended internships not only to mechanical students but also to those from civil, chemical, and electrical departments. Having taken his "Composite Materials" course, I saw his dedication and decided to take a chance. The decision turned out to be transformative as I secured an off-campus internship with Bluj Aerospace after a fruitful interview."
 
-- - -
+---
 
 ### Pre-Internship setup:
 
-One week prior to our reporting, an online meeting was held where both the founders and Subbareddy sir addressed us. Each of us was instructed to install some software that we would be using over the course of time. For most of us, it was more or less our first time in Hyderabad. We were looking for some affordable and clean PGs on any and every website available online. The founders of the company came to our rescue at this crucial moment. They took care of all the logistics, which included accommodation and transport from the PG to the company. With that being done, all we had to do was pack our bags and reach Hyderabad. Utham Kumar, one of the founders of BluJ, paid a visit to our PG. He gave us a small pep talk over a cup of tea. All these gestures by the founders eased our entry into the workspace. Slowly, the anxiety turned into excitement. 
+One week prior to our reporting, an online meeting was held where both the founders and Subbareddy sir addressed us. Each of us was instructed to install some software that we would be using over the course of time. For most of us, it was more or less our first time in Hyderabad. We were looking for some affordable and clean PGs on any and every website available online. The founders of the company came to our rescue at this crucial moment. They took care of all the logistics, which included accommodation and transport from the PG to the company. With that being done, all we had to do was pack our bags and reach Hyderabad. Utham Kumar, one of the founders of BluJ, paid a visit to our PG. He gave us a small pep talk over a cup of tea. All these gestures by the founders eased our entry into the workspace. Slowly, the anxiety turned into excitement.
 
-- - -
+---
 
 ### PROJECTS WORKED ON (TECHY TECH PART)
 
-**SWATHI**: "I worked under the guidance of Utham. My work was to perform stress analysis on the control model of the aircraft prototype and to determine the structural stability of the model. In layman's terminology, I had to check for the failure of the connections and decide on cross-sections of various parts used in the model. For this, we performed 1D and 2D Finite Element Analysis on the model and derived the conclusions from the results obtained. 
+**SWATHI**: "I worked under the guidance of Utham. My work was to perform stress analysis on the control model of the aircraft prototype and to determine the structural stability of the model. In layman's terminology, I had to check for the failure of the connections and decide on cross-sections of various parts used in the model. For this, we performed 1D and 2D Finite Element Analysis on the model and derived the conclusions from the results obtained.
 
 For this, we performed 1D FEA initially by considering the CG shift effect. Based on these results, the cross-sections of a few beams were decided. For this, we had to look up to the options available for us in the market. Later on, 2D analysis was performed by considering CG shift and propeller failure as well. The whole process enhanced my critical thinking skills. We even procured the parts, which we finalised after running n number of analyses.
 
 Finite Element Analysis was an alien topic for me. Utham sir was kind enough to understand my plight. He gave me enough time and resources to learn the topic. We used Patran and MSc Nastran software to accomplish the tasks. The whole internship was a great learning opportunity for me. I was fascinated by the miracles a person can perform by learning the Finite Element Method and Finite Element Analysis. This fascination motivated me to learn about the subject in depth post-internship as well. "
 
-**KANISHK**: "I was responsible for developing a linear testing setup for Type-4 hydrogen tanks as well as building a prediction model for hydrogen permeation through the tank liner. I was delighted to have Maruthi Amardeep Sri Vatsavaya, one of the company's co-founders, as my mentor. BLUJ Aerospace focuses on hydrogen-powered vertical take-off and landing (VTOL) aircraft, which requires an efficient hydrogen storage solution. Type-4 tanks, designed for their lightweight and corrosion-resistant properties, can handle pressures of up to 700 bar. Hydrogen, recognized for its high energy density and minimal carbon emissions, is also the lightest and smallest element, making storage a unique problem, particularly in VTOLs that require lightweight solutions. 
+**KANISHK**: "I was responsible for developing a linear testing setup for Type-4 hydrogen tanks as well as building a prediction model for hydrogen permeation through the tank liner. I was delighted to have Maruthi Amardeep Sri Vatsavaya, one of the company's co-founders, as my mentor. BLUJ Aerospace focuses on hydrogen-powered vertical take-off and landing (VTOL) aircraft, which requires an efficient hydrogen storage solution. Type-4 tanks, designed for their lightweight and corrosion-resistant properties, can handle pressures of up to 700 bar. Hydrogen, recognized for its high energy density and minimal carbon emissions, is also the lightest and smallest element, making storage a unique problem, particularly in VTOLs that require lightweight solutions.
 
 The Type-4 tank components consist of an impact-resistant dome, valve, polymer liner, carbon-reinforced shell, and an external protective shell. The polymer liner acts as an important barrier against gas permeation. My liner testing setup tried to measure the hydrogen gas moving through the liner sample, helping in material selection and determining liner thickness. We used the rotomolding procedure with HDPE, LDPE, and LLDPE materials. Hydrogen typically enters polymers via diffusion, absorption, and desorption processes that are influenced by temperature, pressure, crystallinity, molecular chain, and additives.
 
@@ -58,7 +60,7 @@ Simulating a battery pack for an aerospace project involves considering a pletho
 
 The configuration of a battery pack is not a one-size-fits-all endeavour. The number of cells in series is determined by the required pack voltage, while the number of cells in parallel is dictated by the pack capacity. This level of customisation ensures that the battery pack aligns perfectly with the mission's unique demands, optimising its performance and safety.
 
-The project was a thrilling blend of theory and practice, offering insights into the complexities of *electrical systems in aerospace technologies."*
+The project was a thrilling blend of theory and practice, offering insights into the complexities of _electrical systems in aerospace technologies."_
 
 **SAI CHARAN**: "My journey was one of learning, adaptability, and embracing opportunities. My primary task revolved around the design of the eVTOL's frame, a critical component in ensuring structural integrity and safety using ABAQUS software. The initial phase of this endeavour took around two weeks to complete. However, being part of a startup meant that changes and refinements were part of the process, leading to several delays. This experience was an eye-opener, revealing the dynamic and agile nature of startup operations.
 
@@ -70,13 +72,11 @@ Each day brought new insights, technical challenges, and the satisfaction of con
 
 ![](images/pexels-olia-danilevich-4974912.jpg)
 
-
-
 **DHANESH**: "I worked under the guidance of Utham. Though I am a student with a background in Mechanical Engineering, the work that I did was a mix of coding and force balances. I worked on creating a genetic algorithm for estimating the propeller forces for an eVTOL aircraft in hovering conditions using C++. It included different criteria like shift in the centre of mass of aircraft, failure in one of the propellers, and a combination of both. Along with this, Kanish and I developed the official website of the company. Throughout the process, both Utham and Amar sir provided their valuable inputs, which made the workflow pretty simple for me."
 
-The evident fact from all this is that whatever tasks we were asked to perform, small or big, everything contributed to the final output. To be simple, not even a single task that we performed as a part of our internship was a waste of time or energy. 
+The evident fact from all this is that whatever tasks we were asked to perform, small or big, everything contributed to the final output. To be simple, not even a single task that we performed as a part of our internship was a waste of time or energy.
 
-- - -
+---
 
 ### WORK ATMOSPHERE AND HYD EXPERIENCE
 
@@ -84,23 +84,23 @@ The evident fact from all this is that whatever tasks we were asked to perform, 
 
 **KANISHK**: "My expectations of a strict industrial environment were quickly shattered as I entered BLUJ Aerospace. Instead, I experienced a friendly and accepting environment in which mentors encouraged questions and relationships developed. Hyderabad provided a new aspect to this journey. Its cool weather made for a great setting as I ventured into a new city. I expanded my experience by exploring local culture and cuisine while working."
 
-**SRIHITHA**: "Being the first batch of interns at BluJ Aerospace was a thrilling prospect. It meant that we were entrusted with pioneering work and given opportunities to make a significant impact on the company's projects. From day one, it was evident that BluJ Aerospace was invested in our success and growth. What truly set BluJ Aerospace apart was the welcoming and supportive atmosphere created by the CEO, CTO, and the entire team. They treated us as more than just interns, embracing us as integral members of their team. Their willingness to share knowledge, address our queries, and mentor us through intricate challenges greatly contributed to our growth. 
+**SRIHITHA**: "Being the first batch of interns at BluJ Aerospace was a thrilling prospect. It meant that we were entrusted with pioneering work and given opportunities to make a significant impact on the company's projects. From day one, it was evident that BluJ Aerospace was invested in our success and growth. What truly set BluJ Aerospace apart was the welcoming and supportive atmosphere created by the CEO, CTO, and the entire team. They treated us as more than just interns, embracing us as integral members of their team. Their willingness to share knowledge, address our queries, and mentor us through intricate challenges greatly contributed to our growth.
 
 Reflecting on my time at BluJ Aerospace, I couldn't help but appreciate the warm and friendly atmosphere that permeated the workplace. The entire team, from the CEO and CTO to my fellow interns, created an environment where one felt comfortable and supported. Even as a newcomer to the professional world, I never felt like an outsider. This camaraderie and sense of belonging were invaluable."
 
 **SAI CHARAN**: "My internship in Hyderabad, the city of Pearl, offered insights beyond my expectations. The environment, the people, and the experiences all painted a unique picture. The TCS employees living in the same locality became friends, and through them, I glimpsed the world of IT professionals. I realised that while the struggles might differ, everyone is fighting their battles, striving to make the best of their circumstances."
 
-- - -
+---
 
 ### THE QUESTION
 
-The question that most of us interns encountered post-internship was, "*How was it working under Subbareddy sir?*". Though most of us had little to no work under him, his insights during the presentation that we gave at the company post-internship were very insightful. His commitment to shaping the future of the company was unwavering. Both the founders and Subbareddy sir shared a great comradery, which used to brighten the workspace. Their jokes to reduce the work stress and make everyone feel involved were very witty and highly intellectual a few times.
+The question that most of us interns encountered post-internship was, "_How was it working under Subbareddy sir?_". Though most of us had little to no work under him, his insights during the presentation that we gave at the company post-internship were very insightful. His commitment to shaping the future of the company was unwavering. Both the founders and Subbareddy sir shared a great comradery, which used to brighten the workspace. Their jokes to reduce the work stress and make everyone feel involved were very witty and highly intellectual a few times.
 
-Here is what Sai Charan has to answer this question, as he was the one who worked under him directly. 
+Here is what Sai Charan has to answer this question, as he was the one who worked under him directly.
 
 "Working under the guidance of Dr. Subba Reddy was an inspiring and transformative experience. His unwavering commitment to excellence pushed me to exceed my own limits. What truly stood out was my unceasing interest in the work; I was so engrossed in it that I willingly extended my learning hours, often heading to the office, even on weekends. Dr Subba Reddy, not only my guide but also the Placement Officer at IIT Tirupati, provided invaluable insights into my career prospects. His guidance on ABAQUS, emphasising the need to acquire higher-end coding skills and take advanced FEM courses, opened new doors of opportunity. He encouraged me to present my work effectively, fostering my communication and presentation skills. I made daily presentations using PowerPoint slides, ensuring that I could articulate my progress clearly. What made this experience even more enriching was Dr Subba Reddy's presence at IIT Tirupati during that period. Our frequent and lengthy online discussions allowed me to fine-tune my work continuously. Sometimes, I would have a morning meeting, make substantial progress during the day, and present my findings again in the afternoon. This dynamic interaction and feedback loop ensured that the work progressed at an astonishing pace, a testament to the power of effective guidance and collaboration. Under his mentorship, I felt a sense of purpose, knowing that the work I was engaged in was innovative and had real-world relevance. On a personal level, he played the role of a counsellor, caring about my work-life balance. Additionally, he broadened my skill set by introducing me to Hypermesh, another powerful finite element analysis tool. Dr. Subba Reddy's mentorship transcended the professional realm, leaving a lasting impact on both my career and personal growth."
 
-- - -
+---
 
 ### Closing remarks:
 
@@ -116,6 +116,6 @@ My BLUJ Aerospace internship sticks out as a clear thread in the fabric of my li
 
 For third-year students, it's essential to recognise that core internships do come along, even if they seem uncertain. Preliminary research on companies' expectations and interview domains can work wonders. Don't stress over your CGPA; focus on mastering fundamental concepts. Learning Finite Element Analysis and boosting your technical confidence is crucial to standing out."
 
-Wheeee!!! Congrats peeps! You have made it to the end of the article. We hope that this article answered most of your questions. Feel free to contact any of us in case of any further queries. We wish you all the very best for your internship season ahead! 
+Wheeee!!! Congrats peeps! You have made it to the end of the article. We hope that this article answered most of your questions. Feel free to contact any of us in case of any further queries. We wish you all the very best for your internship season ahead!
 
 <!--EndFragment-->

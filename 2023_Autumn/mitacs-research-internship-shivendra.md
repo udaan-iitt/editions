@@ -7,7 +7,9 @@ desc: "From India to Canada: Join Shivendra as he shares with us his experience
 thumbnail: images/mitacs.png
 authors: Shivendra
 starred: false
+abio: none
 ---
+
 <!--StartFragment-->
 
 The adventure began during the evening snack time at the mess in my second year of B.Tech. It was then that I crossed paths with Srikarah, a senior student. Curious about his plans, I inquired about his upcoming internship. He told me about the research internship opportunity in Canada offered by Mitacs, which immediately caught my attention. With Srikarah's guidance, I aimed for the exciting possibility of embarking on an international research internship in Canada.

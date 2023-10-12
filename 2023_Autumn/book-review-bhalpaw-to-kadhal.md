@@ -2,17 +2,19 @@
 title: "Book Review: Bhalpaw to Kadhal"
 category: Review
 date: 2023-10-11T20:01:15.472Z
-desc: "\"Bhalpaw to Kadhal\" is a delightful love story that unfolds against the
+desc: '"Bhalpaw to Kadhal" is a delightful love story that unfolds against the
   backdrop of a train journey. Authored by Manchikatla Teja, a third-year CSE
-  student from IIT Tirupati. Hop in to read Team Udaan's first venture into the
-  realm of original book reviews."
+  student from IIT Tirupati. Hop in to read Team Udaan''s first venture into the
+  realm of original book reviews.'
 thumbnail: images/screenshot-from-2023-10-12-02-13-35.png
 authors: Sneha M S, Bineet Barman
 starred: false
+abio: none
 ---
+
 <!--StartFragment-->
 
-"Bhalpaw to Kadhal" weaves a captivating and emotional tale, skillfully navigating the intricate web of love, loss, and new beginnings. In this enchanting story, the destinies of its two main characters, Pallavi and Anirudh, are interwoven in a way that pulls at your heartstrings and leaves a lasting impact. The story unfolds primarily on a  journey from Dibrugarh to Kanyakumari - the longest train route in India. We meet a plethora of characters, and each of their stories slowly unravels until the final puzzle piece falls into place. 
+"Bhalpaw to Kadhal" weaves a captivating and emotional tale, skillfully navigating the intricate web of love, loss, and new beginnings. In this enchanting story, the destinies of its two main characters, Pallavi and Anirudh, are interwoven in a way that pulls at your heartstrings and leaves a lasting impact. The story unfolds primarily on a  journey from Dibrugarh to Kanyakumari - the longest train route in India. We meet a plethora of characters, and each of their stories slowly unravels until the final puzzle piece falls into place.
 
 A standout feature of this narrative is the author's descriptive narration. They masterfully paint vivid pictures with their words, inviting readers to fully immerse themselves in the world of Pallavi and Anirudh. From the bustling train stations to the serene landscapes, every setting springs to life, enhancing the overall reading experience.
 
@@ -35,8 +37,8 @@ While the story is emotionally engaging and beautifully written, there are areas
 In closing, we extend our best wishes to the author for their future endeavors. "Bhalpaw to Kadhal" truly captures the essence of love and resilience, making it a must-read for those who appreciate heartfelt storytelling.
 
 You can buy:
-E-Book from [Amazon Kindle](https://www.amazon.in/BHALPAW-KADHAL-Love-destination-Journey-ebook/dp/B0C5JL5V9L/ref=sr_1_1?keywords=bhalpaw+to+kadhal&sr=8-1) for ₹99       <br>                        
-Paperback from [Pothi.com ](https://store.pothi.com/book/vineela-manchikatla-bhalpaw-kadhal/)  <br>Or you can buy the PDF from author for
-₹80 
+E-Book from [Amazon Kindle](https://www.amazon.in/BHALPAW-KADHAL-Love-destination-Journey-ebook/dp/B0C5JL5V9L/ref=sr_1_1?keywords=bhalpaw+to+kadhal&sr=8-1) for ₹99 <br>  
+Paperback from [Pothi.com ](https://store.pothi.com/book/vineela-manchikatla-bhalpaw-kadhal/) <br>Or you can buy the PDF from author for
+₹80
 
 <!--EndFragment-->

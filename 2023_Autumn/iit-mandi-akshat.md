@@ -7,14 +7,16 @@ desc: A quaint and fun description of IIT Mandi through the eyes of Akshat Seth,
 thumbnail: images/akshat.jpg
 authors: Akshat Seth
 starred: false
+abio: none
 ---
-*Bro… The mess food is so good!*
+
+_Bro… The mess food is so good!_
 
 Is that what you want to say, too? If yes, then IIT Mandi is the place you should travel to. 😉
 
 Hello, fellow reader! I am Akshat, and I’m going to take you on a small tour of a not-so-small place called “Mandi”, located in the scenic hills of Himachal Pradesh. The campus of IIT Mandi is located 24 Km from the city of Mandi (yeah, that sounds like our college!), on the left bank of the river Uhl, making it really picturesque.
 
-*How did I get the opportunity?* Well, Dr. Janaki Ramaiah forwarded an announcement email that IIT Mandi had released for the Summer Internship Programme they were to conduct during the summer months of 2023. After filling out the form, submitting my CV to them (which looked very questionable to me back then), and sitting for a small interview with the professor, I was finally selected for the programme.
+_How did I get the opportunity?_ Well, Dr. Janaki Ramaiah forwarded an announcement email that IIT Mandi had released for the Summer Internship Programme they were to conduct during the summer months of 2023. After filling out the form, submitting my CV to them (which looked very questionable to me back then), and sitting for a small interview with the professor, I was finally selected for the programme.
 
 Happy? Yes, I was!
 
@@ -22,7 +24,7 @@ But…
 
 After writing at least a million emails to the Academic Section to get an NOC (No Objection Certificate), I couldn’t get it due to the new ERP ATS (which they probably weren’t sure how to use yet). Soon after, I received an email from my faculty advisor, Dr. Prasanna Kumar Behera, who finally provided me with the NOC, and I was all set for the experience.
 
-I want to start the narration with a picture of the overwhelming beauty of the campus and the place in general. I’ve personally been a great admirer of mountains since I was a kid, so being at such an alluring place was breathtaking for me (Waku Waku!). Luckily, the rain was always there to add to the beauty and recess the work, accompanied by the occasional hailstorms. 
+I want to start the narration with a picture of the overwhelming beauty of the campus and the place in general. I’ve personally been a great admirer of mountains since I was a kid, so being at such an alluring place was breathtaking for me (Waku Waku!). Luckily, the rain was always there to add to the beauty and recess the work, accompanied by the occasional hailstorms.
 
 Rain is beautiful, isn’t it? Not quite in Mandi!
 
