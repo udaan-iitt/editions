@@ -86,8 +86,7 @@ at IIT Madras, and the team gave their best performance in the English Creative 
 The Winter, Spring and Summer editions, along with the internship special Autumn edition.
 The magazine saw a particularly busy year with the largest number of articles published this
 year in various categories - stories, poems, interviews, critical compilation and more. Udaan
-also got its own domain name ([udaaniitt.in](https://udaaniitt.in/)) along with some significant upgrades to the tech
-stack for the editors. They have also launched the institute’s first-ever podcast series, [**Udaan Untethered**](https://udaaniitt.in/podcast/), pushing the horizon of modes of expression. This series has two episodes out now!
+also got its own domain name ([udaaniitt.in](https://udaaniitt.in/)) along with some significant upgrades to the tech stack for the editors. They have also launched the institute’s first-ever podcast series, [**Udaan Untethered**](https://udaaniitt.in/podcast/), pushing the horizon of modes of expression. This series has two episodes out now!
 
 That’s it with the literary wing. Now moving on, we have our sports clubs.
 

@@ -1,13 +1,14 @@
 ---
-title: "Faculty Interview with Prof. Raghavendra Kanakagiri"
-category: "Campus News"
-date: "2022-06-29 12:40:00 +09:00"
-desc: "From pepper spray and Clash of Clans to Julia and Panchayat, read on to experience a fantastic interview with Prof Raghavendra! "
-thumbnail: "./images/Raghavendra_Sir_cover.jpeg"
-authors: "Pranathi, Debeshee"
+title: Faculty Interview with Dr Raghavendra Kanakagiri
+category: Campus News
+date: 2022-06-29 12:40:00 +09:00
+desc: "From pepper spray and Clash of Clans to Julia and Panchayat, read on to
+  experience a fantastic interview with Dr Raghavendra! "
+thumbnail: ./images/Raghavendra_Sir_cover.jpeg
+authors: Pranathi, Debeshee
 starred: false
-abio: "NONE"
-alt: "Interview"
+abio: NONE
+alt: Interview
 ---
 
 OK! Brace yourself, guys! Here we have Professor *K*, the First *PCLer*, long-time *Clash of Clans* pro, computer architecture enthusiast, and unanimously one of the coolest persons on campus, Dr Raghavendra Kanakagiri! CS students know him from the fun and exciting Computer Organisation classes. He runs the Parallel Computing Lab (PCL) at IIT Tirupati, where the students get to explore a wide range of projects and dabble in exciting research problems *(friendly reminder for the juniors to join!).* 
