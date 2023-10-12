@@ -1,7 +1,7 @@
 ---
 title: Internship Experience at SeiAnmai Tech
 category: Experiences
-date: 2023-10-11T18:30:22.246Z
+date: 2023-10-12T18:11:43.772Z
 desc: Embark on a cobotics journey at SeiAnmai Tech, an IIT Delhi startup, and
   explore telepresence robots along with Sumukh.
 thumbnail: images/sumukh.jpg
