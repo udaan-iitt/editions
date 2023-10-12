@@ -15,6 +15,7 @@ abio: >
   and improve sustainability. He enjoys tinkering with motors, batteries, and
   other gadgets. In his spare time, he enjoys playing cricket and walking around
   campus.
+alt: chips
 ---
 # The Global Chip Shortage
 

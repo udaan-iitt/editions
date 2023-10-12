@@ -12,6 +12,7 @@ abio: "Abhishek: Abhishek Rajkumar a poet at heart, likes to describe himself as
   At present, he is a Ph.D. scholar at the Department of Mathematics and
   Statistics, IIT Tirupati. Along with writing, he is a medium fast bowler, and
   not surprisingly, very fond of cricket"
+alt: "tanhayee"
 ---
 <p style="text-align: center;align:center;">
 आँखें खुली, मेरा ख्वाब टूट गया <br>

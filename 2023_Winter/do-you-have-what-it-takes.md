@@ -9,6 +9,7 @@ thumbnail: images/snehacover.jpg
 authors: Sneha Battula
 starred: false
 abio: ""
+alt: "do you"
 ---
 The writer of this particular article would like to inform you that this piece of work is neither a composed essay nor a comprehensive poem. She requests you to leave your shoes with respect at the doorstep as you venture to read ahead, and welcomes you into six particular rooms of her mind. 
 

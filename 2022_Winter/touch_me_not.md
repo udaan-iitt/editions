@@ -4,7 +4,7 @@ category: "Story"
 date: "2021-01-28 10:00:00 +09:00"
 desc: "Who doesn’t hate Covid, all it has caused is pain and loss. I sometimes wonder what did we ever do to deserve this. Well, if viruses could speak we might just have this answer…"
 thumbnail: "./images/pandemic.jpg"
-authors: "S Ram Mohith"
+authors: "Ram Mohith"
 starred: false
 abio: "NONE"
 alt: "The rise of the planet of Touch me Not"

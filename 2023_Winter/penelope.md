@@ -17,6 +17,7 @@ abio: Iftekhar Ahmed:If you ask a friend of Iftekar’s to describe him, the fir
   currently pursuing an undergraduate degree in Electrical Engineering at IIT
   Tirupati. He is also a well-known badminton player who spends his spare time
   immersed in books and movies.
+alt: penelope
 ---
 <p style="text-align: center;align:center;">Every day begins with the dawn,<br>
 Sun rises at the eastern horizon,<br>

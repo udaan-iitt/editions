@@ -9,6 +9,7 @@ thumbnail: images/manofdreams.jpg
 authors: Keshav Kumar Manjhi
 starred: false
 abio: ""
+alt: dreams
 ---
 <!--StartFragment-->
 

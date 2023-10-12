@@ -9,7 +9,7 @@ desc: Time is an illusion; exam-time doubly so. Mathew took it upon himself to
   break-down of the GRE and authentic test-taker information that you will
   definitely find interesting!
 thumbnail: ./images/GRE_guide.jpg
-authors: Mathew K J
+authors: Mathew KJ
 starred: false
 abio: ""
 alt: The Hitchhiker’s Guide to the GRE

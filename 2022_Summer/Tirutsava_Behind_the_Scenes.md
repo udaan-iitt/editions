@@ -6,7 +6,7 @@ desc: The word Utsava means a festival or any joyful occasion. But it takes a
   lot for the 'Tirutsava' to be a joyful one. Here's what it's like behind the
   scenes, from the main actors themselves.
 thumbnail: ./images/Tirutsava_Behind_the_scenes.jpg
-authors: Chaitali, Mathew, Mohith
+authors: Chaitali, Mathew KJ, Ram Mohith
 starred: false
 abio: NONE
 alt: Tirutsava-Behind_the_Scenes

@@ -1,5 +1,5 @@
 ---
-title: "The Path Paved by Wings "
+title: "The Path Paved by Wings"
 category: Campus News
 date: 2023-02-16T05:13:30.368Z
 desc: One of the country’s most inspiring legends, a solitary-path woman, the
@@ -12,6 +12,7 @@ thumbnail: images/padma_bandopadhyay.jpg
 authors: Chaitali
 starred: true
 abio: ""
+alt: wings
 ---
 <!--StartFragment-->
 
