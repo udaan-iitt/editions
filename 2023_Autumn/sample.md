@@ -9,8 +9,8 @@ desc: Get ready for an exhilarating voyage as we delve into the captivating
   who, even at the age of 75, strives to make significant contributions to the
   world of science.
 thumbnail: images/img_20230817_223349.jpg
-authors: Sneha M S, Shreyas
-starred: false
+authors: Sneha M S, Shreyas Suresh
+starred: true
 ---
 
 
