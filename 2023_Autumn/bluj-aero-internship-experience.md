@@ -1,7 +1,7 @@
 ---
 title: Internship Experience at BLUJ Aero
 category: Experiences
-date: 2023-10-11T18:22:43.252Z
+date: 2023-10-12T18:06:10.131Z
 desc: An in-depth account of the internship experiences at BluJ Aerospace, a
   dynamic startup in Hyderabad that is working on cutting-edge VTOL
   technologies.
