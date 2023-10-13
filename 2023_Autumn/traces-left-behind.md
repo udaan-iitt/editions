@@ -8,7 +8,9 @@ desc: Join Piyush a heartwarming journey through this poem about friendship,
 thumbnail: images/pexels-vraj-shah-633814.jpg
 authors: Piyush Gupta
 starred: false
+abio: none
 ---
+
 <!--StartFragment-->
 
 <p style="text-align: center;align:center;">With no shortcuts to any places<br>Letting nature choose mine cycle's traces<br>From destining my course through many villages<br>Something strengthened me to touch higher edges<br>You gave me courage<br>to track down woody mazes</p>

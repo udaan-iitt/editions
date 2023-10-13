@@ -9,7 +9,9 @@ thumbnail: images/pexels-oleksandr-p-345522.jpg
 authors: Anvay Joshi
 starred: false
 alt: ""
+abio: none
 ---
+
 <!--StartFragment-->
 
 <p style="text-align: center;align:center;">In the winter, when the world is frozen,<br>and stray animals cuddle in packs of a dozen,<br>make yourself a cup of steaming tea,<br>and watch your life unfold its beauty.</p>

@@ -7,12 +7,14 @@ desc: Embark on a cobotics journey at SeiAnmai Tech, an IIT Delhi startup, and
 thumbnail: images/sumukh.jpg
 authors: Sumukh
 starred: false
+abio: none
 ---
-During my summer break, I was granted a valuable opportunity to participate in an internship at SeiAnmai Tech, a pioneering startup specializing in Telepresence Robots. This venture is incubated by IIT Delhi's Innovation Hub for Cobotics (IHFC). My journey commenced when I contacted Dr S K Saha, a prominent faculty member in the mechanical engineering department at IIT Delhi, who is actively engaged in Robotics. Dr. Saha also serves as the Project Director for IHFC. After reviewing my Resume and Statement of Purpose (SOP), he endorsed my profile to Mr. S Srikrishna, the Director of SeiAnmai Tech. Subsequently, Mr. Srikrishna invited me for an interview, which took place on April 30th. The interview covered topics such as my fascination with robotics, my prior experiences, and a technical assessment. My responses left a positive impression, and I received an official offer letter on May 4th.          
+
+During my summer break, I was granted a valuable opportunity to participate in an internship at SeiAnmai Tech, a pioneering startup specializing in Telepresence Robots. This venture is incubated by IIT Delhi's Innovation Hub for Cobotics (IHFC). My journey commenced when I contacted Dr S K Saha, a prominent faculty member in the mechanical engineering department at IIT Delhi, who is actively engaged in Robotics. Dr. Saha also serves as the Project Director for IHFC. After reviewing my Resume and Statement of Purpose (SOP), he endorsed my profile to Mr. S Srikrishna, the Director of SeiAnmai Tech. Subsequently, Mr. Srikrishna invited me for an interview, which took place on April 30th. The interview covered topics such as my fascination with robotics, my prior experiences, and a technical assessment. My responses left a positive impression, and I received an official offer letter on May 4th.
 
 The focus of my project was ‘Development of TeleOperation and TeleObservance Robot'. In the initial days, I engaged in discussions via Online Meet to outline the goals of my two-month internship. This project demanded expertise in diverse areas including Simultaneous Localization & Mapping, Computer Vision, Robotics Operating System, Sensor fusion, Path planning & navigation, Python & C programming, and Control of mobile robots & robotic manipulators.
 
-- - -
+---
 
 ### Internship Tasks:
 
@@ -22,7 +24,7 @@ After completion of the software tasks, our focus shifted towards hardware assem
 
 With navigation refined, the project moved into the realm of autonomous docking. This intricate process entailed programming the robot to independently approach a charging station upon receiving a docking command or detecting low battery levels. Utilizing Computer Vision techniques and ArUco Markers, the robot would then autonomously establish a connection with the charging station.
 
-- - -
+---
 
 ### Experiences:
 
