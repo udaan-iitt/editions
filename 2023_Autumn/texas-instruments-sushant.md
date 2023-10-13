@@ -5,7 +5,7 @@ date: 2023-10-12T18:15:13.128Z
 desc: A journey from initial uncertainty to valuable industry insights at Texas
   Instruments.
 thumbnail: images/sushant.jpg
-authors: Sushant
+authors: Sushant Nasare
 starred: false
 abio: none
 ---
