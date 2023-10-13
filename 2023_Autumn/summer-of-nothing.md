@@ -50,7 +50,7 @@ The trip back home is akin to a war hero returning from the battlefield. The bra
 
 *Oh boy, the Sun is bright today. Wait. Why is it so bright?<br>It’s 12:30! Good god, what all classes have I miss-*
 
-*<br>No.* <br>*I didn’t miss anything. I’m home!<br>*
+*No.* <br>*I didn’t miss anything. I’m home!<br>*
 
 It takes a day or two to calibrate to home settings. Well, why wouldn’t it? Home is warm. Home is fuzzy. Home is comforting. Home gives you peace.
 
