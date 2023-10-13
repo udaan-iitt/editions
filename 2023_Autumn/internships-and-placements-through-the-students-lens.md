@@ -22,11 +22,11 @@ Some of you might have written this chapter’s ending already. Or had multiple 
 
 There are plenty of concerns that have been raised, addressed, and taken care of, and plenty of concerns that have magically disappeared after the classic “We’re working on it.” Since most of us only go through the placement process with a little purple pod icon, we at Udaan decided to talk to the backstage members about some key concerns that we’ve heard most of the student community complain about to get an idea of what has been done, and what can be done.
 
-_<Quick rant>_
+_< Quick Rant >_
 
 _Why aren’t enough companies registering at our institute ? Why are decent packages not offered? Why are there so many hurdles in the placement process? Why are there several slip-ups from the institute? Why do we not have adequate WiFi to sit through the placement tests?_
 
-_<Okay, let’s move on to the first item on the list>_
+_< Okay, let’s move on to the first item on the list >_
 
 ---
 
