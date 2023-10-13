@@ -7,7 +7,12 @@ desc: It's Still Day 1. December 17, 2022. 21:46. The moment Yamini's life took
 thumbnail: images/yamini.jpg
 authors: Yamini Shree
 starred: false
-abio: none
+abio: Yamini is a perpetually loud computer science student who is almost always
+  found outdoors. When she isn't breaking her back with CS assignments or
+  coding, you can find her fooling around and being silly with the people she
+  loves. She is also a self-proclaimed "FRIENDS" aficionado, with a delightful
+  concoction of quirks and humour that never fails to brighten up any room she
+  enters.
 ---
 
 During the summer of my second year, I embarked on an adventure that would shape my career and leave an indelible mark on my professional journey. Landing an internship at Amazon, a tech giant renowned for its innovation and global impact, was a dream come true. I applied to this internship through the Amazon Future Engineer Program which has guided me and given me practice through Bootcamps since my first year. I got shortlisted by my profile and passed an online coding test. My offer letter came within ten days of my resume’s screening.
