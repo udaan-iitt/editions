@@ -1,12 +1,12 @@
 ---
 title: "Discover over Industry: IIT Tirupati's Summer of Research"
 category: Experiences
-date: 2023-10-11T17:57:23.571Z
+date: 2023-10-12T18:07:12.421Z
 desc: Take a look at some of our student community who chose to beat the heat
   and work on exciting projects and patents. From identifying projects to
   learning key skills over the summer, here's what our research interns have to
   say!
-thumbnail: images/iit_main_gate.png
+thumbnail: images/20230815_095605.jpg
 authors: Sathyanarayann, Jaswanth, Gayathri, Rahul, Naveen
 starred: false
 abio: none

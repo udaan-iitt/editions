@@ -1,7 +1,7 @@
 ---
 title: Internship Experience at Prima Innotech LLC and IIT Mandi
 category: Experiences
-date: 2023-09-28T05:43:33.859Z
+date: 2023-10-12T18:14:18.673Z
 desc: From securing a remote internship with Prima Innotech to delving into a
   research internship at IIT Mandi, Arun speaks of his summer of relentless
   learning.

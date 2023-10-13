@@ -1,7 +1,7 @@
 ---
 title: Summer of Nothing
 category: Experiences
-date: 2023-10-11T19:14:13.881Z
+date: 2023-10-12T18:03:33.385Z
 desc: >
   Amidst the articles about Summer Internship experiences and tales of those
   fascinating places and things that people have visited and done, here’s a
@@ -11,7 +11,7 @@ desc: >
   particular fool - the human mind.
 thumbnail: images/cryinglikeidied.jpg
 authors: Akhil Krishnan, Sneha Battula
-starred: false
+starred: true
 abio: none
 ---
 

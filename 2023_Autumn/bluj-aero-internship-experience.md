@@ -1,7 +1,7 @@
 ---
 title: Internship Experience at BLUJ Aero
 category: Experiences
-date: 2023-10-11T18:22:43.252Z
+date: 2023-10-12T18:06:10.131Z
 desc: An in-depth account of the internship experiences at BluJ Aerospace, a
   dynamic startup in Hyderabad that is working on cutting-edge VTOL
   technologies.
@@ -72,7 +72,7 @@ Each day brought new insights, technical challenges, and the satisfaction of con
 
 ![](images/pexels-olia-danilevich-4974912.jpg)
 
-**DHANESH**: "I worked under the guidance of Utham. Though I am a student with a background in Mechanical Engineering, the work that I did was a mix of coding and force balances. I worked on creating a genetic algorithm for estimating the propeller forces for an eVTOL aircraft in hovering conditions using C++. It included different criteria like shift in the centre of mass of aircraft, failure in one of the propellers, and a combination of both. Along with this, Kanish and I developed the official website of the company. Throughout the process, both Utham and Amar sir provided their valuable inputs, which made the workflow pretty simple for me."
+**DHANESH**: "I worked under the guidance of Utham Kumar, CTO of Bluj Aero. Though I am a student with a background in Mechanical Engineering, the work that I did was a mix of coding and solving engineering mechanics problem. I worked on creating a genetic algorithm for estimating the propeller forces for an eVTOL aircraft in hovering conditions using C++. It included different criteria like shift in the centre of mass of aircraft, failure in one of the propellers, and a combination of both. Along with this, Kanish and I developed the official website of Bluj. Throughout the process, both Utham and Amar sir provided their valuable inputs, which made the workflow pretty simple for me."
 
 The evident fact from all this is that whatever tasks we were asked to perform, small or big, everything contributed to the final output. To be simple, not even a single task that we performed as a part of our internship was a waste of time or energy.
 
