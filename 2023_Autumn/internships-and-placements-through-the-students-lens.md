@@ -31,20 +31,14 @@ _< Okay, let’s move on to the first item on the list >_
 ---
 
 ### Index
+1. [Where do we stand?](#Where-do-we-stand)
+2. [What are we doing to stand?](#What-are-we-doing-to-stand)
+3. [6-month vacation >> 3-month vacation (\*internship)](#6-month-internships)
+4. [What about Core?](#Core-Domains)
+5. [Recession: Stuck with no luck](#Recession)
+6. [Backstage](#Backstage)
+7. [An Ode to the Upcoming Batches](#An-Ode-to-the-Upcoming-Batches)       
 
-[Where do we stand?](#Where-do-we-stand)
-
-[What are we doing to stand?](#What-are-we-doing-to-stand)
-
-[6-month vacation >> 3-month vacation (\*internship)](#6-month-internships)
-
-[What about Core?](#Core-Domains)
-
-[Recession: Stuck with no luck](#Recession)
-
-[Backstage](#Backstage)
-
-[An Ode to the Upcoming Batches](#An-Ode-to-the-Upcoming-Batches)
 ---
 
 ### Where do we stand?
