@@ -1,7 +1,7 @@
 ---
 title: Experience at Agri Process Innovations Technologies (APIT)
 category: Experiences
-date: 2023-10-12T18:05:51.089Z
+date: 2023-10-14T10:44:16.746Z
 desc: >-
   "Your Grain, Our Brain"
 
