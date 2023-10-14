@@ -22,33 +22,32 @@ Some of you might have written this chapter’s ending already. Or had multiple 
 
 There are plenty of concerns that have been raised, addressed, and taken care of, and plenty of concerns that have magically disappeared after the classic “We’re working on it.” Since most of us only go through the placement process with a little purple pod icon, we at Udaan decided to talk to the backstage members about some key concerns that we’ve heard most of the student community complain about to get an idea of what has been done, and what can be done.
 
-_<Quick rant>_
+_< Quick Rant >_
 
 _Why aren’t enough companies registering at our institute ? Why are decent packages not offered? Why are there so many hurdles in the placement process? Why are there several slip-ups from the institute? Why do we not have adequate WiFi to sit through the placement tests?_
 
-_<Okay, let’s move on to the first item on the list>_
+_< Okay, let’s move on to the first item on the list >_
 
 ---
 
 ### Index
 
-[Where do we stand?](https://docs.google.com/document/d/1DDAeE1Ehr4axW6ZigghCI_vBV1YYIBzI-FMog_YS2yo/edit#heading=h.xzbb9oxkt3g7)
+[Where do we stand?](#Where-do-we-stand)
 
-[What are we doing to stand?](https://docs.google.com/document/d/1DDAeE1Ehr4axW6ZigghCI_vBV1YYIBzI-FMog_YS2yo/edit#heading=h.nyjklgp7f2bn)
+[What are we doing to stand?](#What-are-we-doing-to-stand)
 
-[6-month vacation >> 3-month vacation (\*internship)](https://docs.google.com/document/d/1DDAeE1Ehr4axW6ZigghCI_vBV1YYIBzI-FMog_YS2yo/edit#heading=h.f6gy5vqi1qux)
+[6-month vacation >> 3-month vacation (\*internship)](#6-month-internships)
 
-[What about Core?](https://docs.google.com/document/d/1DDAeE1Ehr4axW6ZigghCI_vBV1YYIBzI-FMog_YS2yo/edit#heading=h.b8dru26th8vv)
+[What about Core?](#Core-Domains)
 
-[Recession: Stuck with no luck](https://docs.google.com/document/d/1DDAeE1Ehr4axW6ZigghCI_vBV1YYIBzI-FMog_YS2yo/edit#heading=h.dc9gezoof2o9)
+[Recession: Stuck with no luck](#Recession)
 
-[An Ode to the Upcoming Batches](https://docs.google.com/document/d/1DDAeE1Ehr4axW6ZigghCI_vBV1YYIBzI-FMog_YS2yo/edit#heading=h.94643s1t1hi)
+[Backstage](#Backstage)
 
-[Backstage](https://docs.google.com/document/d/1DDAeE1Ehr4axW6ZigghCI_vBV1YYIBzI-FMog_YS2yo/edit#heading=h.7p3uwdjx5sze)
-
+[An Ode to the Upcoming Batches](#An-Ode-to-the-Upcoming-Batches)
 ---
 
-### Where Do We Stand?
+### Where do we stand?
 
 Sure, it looks like things are horrible right now, but is it just us?
 
@@ -70,7 +69,7 @@ Well, it is indeed the job of the PO to contact the HR of different companies, r
 
 ---
 
-### Process
+### What are we doing to stand
 
 Now that we have a decent idea of how we’re currently doing, let’s maybe take a look at what we’re currently doing? From the students’ end, there are multiple placement tests that are conducted, some of which are smooth, others that make you never want to take a test again.
 
@@ -123,7 +122,7 @@ Of course, handling a vast group of students is not an easy task. On the other h
 
 ---
 
-### 6-month internships 
+### 6 month internships 
 
 Another critical hurdle many students have been facing on both the placement and the internship side is the requirement of 6-month internships. Many companies, especially core industries, value hands-on experience and expect students to have contributed to the industry in some way before providing full-time employment. This learning curve, according to the industry standard, takes at least six months. On the other hand, the current curriculum believes three months should be enough for students to learn, apply, present, and add to their resume. This poses heavy problems in getting companies for placement when the minimum criteria is a six-month internship or above, considering that the current curriculum does not have any flexibility in the last two semesters to house internships. Moreover, the campus is also unable to invite some companies for internships since they cannot allow the students to extend their three-month vacation to 6 months.
 

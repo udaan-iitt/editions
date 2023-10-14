@@ -1,7 +1,7 @@
 ---
 title: Internship Experience at Sprinklr
 category: Experiences
-date: 2023-10-12T18:14:30.073Z
+date: 2023-10-14T05:07:26.282Z
 desc: Join Anush as he narrates his journey of diverse interests, challenges,
   and success.
 thumbnail: images/sprinklr.jpg
