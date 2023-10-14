@@ -835,7 +835,7 @@ export const author_info = [
 		tagLine2: '',
 		role: '',
 		year: '',
-		desc1: 'Shreyas Suresh is a final-year mech student at IIT-Tirupati. Author is credible coz he did internship there. And he honestly couldn\'t think of anything else to write.',
+		desc1: 'Shreyas Suresh is a final-year mech student at IIT-Tirupati. Thank you.',
 		desc2: '',
 		link: '',
 	},
