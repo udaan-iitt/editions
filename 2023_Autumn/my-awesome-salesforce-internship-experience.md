@@ -43,8 +43,6 @@ Another vital component of preparation is networking. Reached out to current or 
 
 For technical rounds and interviews, practice coding problems regularly, review data structures and algorithms, and seek feedback from peers and mentors. Most interviewers focus on coding skills, problem-solving aptitude, and the ability to work through technical challenges. Even if you code a problem correctly but fail to explain, it will leave a wrong impression on interviewers. I used Leetcode and Interviewbit to practice coding questions.
 
-![](images/int.jpg)
-
 Talking about the HR round, Salesforce conducts proper HR interviews to assess cultural fit and soft skills. I prepared for these by reflecting on my experiences, identifying key achievements and challenges, and practicing how to communicate them effectively.
 
 Lastly, I encourage you to stay in touch with your seniors, seek their guidance, and learn from their experiences. You can also reach out to me if you have any questions.
