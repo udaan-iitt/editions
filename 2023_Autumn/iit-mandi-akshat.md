@@ -1,7 +1,7 @@
 ---
 title: Internship Experience at IIT Mandi
 category: Experiences
-date: 2023-10-14T05:07:14.881Z
+date: 2023-10-14T10:46:23.965Z
 desc: A quaint and fun description of IIT Mandi through the eyes of Akshat Seth,
   who took it upon himself to critique the mess and the mountains.
 thumbnail: images/akshat.jpg
