@@ -1,7 +1,7 @@
 ---
 title: Internship Experience at OSU feat RIYA
 category: Experiences
-date: 2023-10-12T18:12:16.120Z
+date: 2023-10-14T05:07:04.461Z
 desc: Yet another RIYA scholar from IIT Tirupati. Join Viaks as he shares with
   us his wonderful learning experience in this prestigious Internship program.
 thumbnail: images/ohio.jpg
