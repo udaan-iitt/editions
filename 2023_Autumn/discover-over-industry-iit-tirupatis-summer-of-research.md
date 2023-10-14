@@ -1,5 +1,5 @@
 ---
-title: "Discover over Industry: IIT Tirupati's Summer of Research"
+title: "Discovery over Industry: IIT Tirupati's Summer of Research"
 category: Experiences
 date: 2023-10-12T18:07:12.421Z
 desc: Take a look at some of our student community who chose to beat the heat
