@@ -10,7 +10,6 @@ authors: Arunkumar V
 starred: false
 abio: none
 ---
-
 <!--StartFragment-->
 
 ### How It All Started
@@ -21,7 +20,7 @@ When I started losing hope and enthusiasm, I received an internship proposal fro
 
 The assignment was about using Model Predictive Control (MPC) for path tracking, and it turned out to be more challenging than I anticipated. During this process, I had moments of low motivation because the problem statement was way out of my domain, but some events that happened in February gave me a boost. With renewed determination, I submitted the assignment and underwent a review round. This involved making a presentation based on my completed assignment. Thankfully, I did well on the review round and was selected for the internship right after my presentation. One Important note to the juniors is that if you are a bit confused about the problem statement, contact your guide on how to proceed with it. Get a clear understanding of the problem statement and then proceed further.
 
----
+- - -
 
 ### About the Internship
 
@@ -31,13 +30,15 @@ Every week, I met with my internship advisor, Mr. Ajit Paranjpe, who is not only
 
 In addition to my experience at Prima Innotech, I also embarked on a research internship at IIT Mandi. This was an incredibly valuable learning journey. Both these internships were conducted remotely and focused on core mechanical subjects.
 
-Around 15 days after starting the Prima internship, I found myself making smooth and steady progress with the project. While staying in my hometown, I often completed my tasks four days after our general discussions so I would be free for the rest of my week. I have a knack for planning my workflow efficiently, and I always strive to be engaged in my work. Reflecting on this, I had a pivotal moment where I had a deep discussion with myself, thinking of whatever I have done till now. As I thought about things, I realized that I'm not the kind of person who can just relax all day. I'm someone who enjoys staying busy and working on multiple things. I was so confused regarding another internship, but at that moment, I got to look at a quote that said, “Nothing to Lose, Everything to Win”—that moment sparked the fire. I had decided to get another internship done, this time to enhance my profile. I had immense determination to complete another internship and also to become much better.
+![](images/arun_1.png)
 
-![](images/pexels-startup-stock-photos-7114.jpg)
+Around 15 days after starting the Prima internship, I found myself making smooth and steady progress with the project. While staying in my hometown, I often completed my tasks four days after our general discussions so I would be free for the rest of my week. I have a knack for planning my workflow efficiently, and I always strive to be engaged in my work. Reflecting on this, I had a pivotal moment where I had a deep discussion with myself, thinking of whatever I have done till now. As I thought about things, I realized that I'm not the kind of person who can just relax all day. I'm someone who enjoys staying busy and working on multiple things. I was so confused regarding another internship, but at that moment, I got to look at a quote that said, “Nothing to Lose, Everything to Win”—that moment sparked the fire. I had decided to get another internship done, this time to enhance my profile. I had immense determination to complete another internship and also to become much better.
 
 I delved into a search for research internships, contacting professors and ultimately securing the IIT Mandi summer research internship through their program. I applied on the last day and was set to complete this internship. My plan for this internship involved carefully selecting a project related to design and optimization that could be accomplished remotely. I express my gratitude to Dr. Himanshu Pathak from the SMME Department of IIT Mandi for offering me this chance. The project involved designing wing attachments with tapered bolt configurations to counteract wing drooping. This project required tools like Ansys and SolidWorks.
 
 This project involves the complete design of an aero-structural wing model and the analysis of the total deformation upon tapering bolt attachments. I have also analyzed the variation of total deformation when composite material is used in place of aluminium alloy.
+
+![](images/arun_2.png)
 
 Balancing both internships was possible because I gained virtual access to the IIT Mandi system. My routine consisted of working on the Prima internship in the morning, switching to the IIT Mandi design project in SolidWorks, and then simulating it on a virtual computer, a process that took three to four hours. During this time, I would revisit my Prima Internship tasks. Thanks to my IIT Mandi internship guide, our flexible meeting schedule facilitated a smooth workflow. I structured my day, concluding tasks by evening. While I dedicated the week to work, I also found time for physical activities and trips with friends.
 
