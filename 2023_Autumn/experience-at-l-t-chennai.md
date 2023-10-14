@@ -1,7 +1,7 @@
 ---
 title: Experience at L&T Chennai
 category: Experiences
-date: 2023-10-12T18:08:24.595Z
+date: 2023-10-14T10:46:35.563Z
 desc: A short narration of Sriharipriya's hands-on journey into construction,
   planning, and project execution at L&T.
 thumbnail: images/larson.jpg
