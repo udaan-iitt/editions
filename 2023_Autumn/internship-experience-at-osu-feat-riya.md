@@ -1,22 +1,23 @@
 ---
 title: Internship Experience at OSU feat RIYA
 category: Experiences
-date: 2023-10-14T05:07:04.461Z
+date: 2023-10-14T10:42:38.985Z
 desc: Yet another RIYA scholar from IIT Tirupati. Join Viaks as he shares with
   us his wonderful learning experience in this prestigious Internship program.
 thumbnail: images/ohio.jpg
 authors: Sai Vikas
 starred: false
-abio: Sai Vikas:Sai is a final year Mechanical Engineering Undergraduate at IIT Tirupati,
-  who loves to talk to people and have fun with friends. He definitely does not
-  like reading books, novels, fiction or anything that requires rigorous word
-  play (sadly, he has no such good habits😜). He likes to read case studies on
-  business and geo politics. He likes to keep things simple and easy (he admits
-  he is very lazy and always tries to find shortcuts). He used to play a lot of
-  sports, but he had to stop them to be responsible for atleast one phase of his
-  life (he says he plays well, though but we are not sure if we should believe
-  him 😂). He hopes you enjoy his blog and don’t judge him too harshly for any
-  pecadilloes in his writing because he is not used to writing any blogs.
+abio: Sai Vikas:Sai is a final year Mechanical Engineering Undergraduate at IIT
+  Tirupati, who loves to talk to people and have fun with friends. He definitely
+  does not like reading books, novels, fiction or anything that requires
+  rigorous word play (sadly, he has no such good habits😜). He likes to read
+  case studies on business and geo politics. He likes to keep things simple and
+  easy (he admits he is very lazy and always tries to find shortcuts). He used
+  to play a lot of sports, but he had to stop them to be responsible for atleast
+  one phase of his life (he says he plays well, though but we are not sure if we
+  should believe him 😂). He hopes you enjoy his blog and don’t judge him too
+  harshly for any pecadilloes in his writing because he is not used to
+  writing any blogs.
 ---
 <!--StartFragment-->
 
