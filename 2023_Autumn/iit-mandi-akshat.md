@@ -7,12 +7,7 @@ desc: A quaint and fun description of IIT Mandi through the eyes of Akshat Seth,
 thumbnail: images/akshat.jpg
 authors: Akshat Seth
 starred: false
-abio: Akshat is a loquacious being to whom you could talk about any random crazy
-  stuff unless he's not diving into his musical ocean via a pair of earpods. You
-  can find him roaming around at any hour at the most unexpected places,
-  especially when it’s raining, wondering about the decision to pursue his
-  degree in Civil and Environmental Engineering. Eager to learn what life
-  offers, he hopes to complete his pre-final year swiftly.
+abio: none
 ---
 
 _Bro… The mess food is so good!_
