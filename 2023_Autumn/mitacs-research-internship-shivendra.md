@@ -9,7 +9,6 @@ authors: Shivendra Kumar Gupta
 starred: false
 abio: none
 ---
-
 <!--StartFragment-->
 
 The adventure began during the evening snack time at the mess in my second year of B.Tech. It was then that I crossed paths with Srikarah, a senior student. Curious about his plans, I inquired about his upcoming internship. He told me about the research internship opportunity in Canada offered by Mitacs, which immediately caught my attention. With Srikarah's guidance, I aimed for the exciting possibility of embarking on an international research internship in Canada.
@@ -32,11 +31,15 @@ During this time, I tried my hand at cooking for the first time, and the results
 
 Our guide proved to be incredibly supportive. Moreover, we had diverse plans for weekends, including visits to attractions like Niagara Falls, the Royal Ontario Museum, Casa Loma, CN Tower, a Cruise excursion, Grand Bend Beach, the Aquarium, and Toronto Zoo.
 
+![](images/unnamed-1-.jpg)
+
 Additionally, our professor orchestrated potluck gatherings in local parks, where each participant contributed different dishes, fostering a sense of communal sharing and unity. These occasions often involved friendly soccer and badminton matches that brought us all closer together.
 
 And so, this journey of mine to Canada was a mix of hard work, exciting discoveries, and making new friends. It showed me that with determination, dreams do come true, even if it means stepping out of your comfort zone.
 
 As for my project work, I was chosen to participate in a research project on “Stormwater infrastructure design in light of climate change in southern Ontario”. The research took place at Western University in Ontario, Canada, under the guidance of Professor Dr. Mohammad Reza Najafi. The study involved predicting future water runoff while accounting for the influence of climate change by creating a hydrological model, as well as developing strategies for managing stormwater to lessen its climate change implications.
+
+![](images/unnamed.jpg)
 
 The research aims were met through weekly meetings where we received comments from Professor Najafi and other Ph.D. scholars and postdoc students. We also discussed the same during weekly potluck gatherings hosted by students of the Hydro Climax team.
 
