@@ -6,7 +6,7 @@ desc: An in-depth account of the internship experiences at BluJ Aerospace, a
   dynamic startup in Hyderabad that is working on cutting-edge VTOL
   technologies.
 thumbnail: images/image_editor-1-.png
-authors: Swathi, Kanishk, Srihitha, Sai Charan, Dhanesh
+authors: Swathi, Kanishk Kumar, Srihitha, Sai Charan, Dhanesh
 starred: false
 abio: none
 ---
