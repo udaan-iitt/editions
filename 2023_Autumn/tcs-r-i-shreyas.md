@@ -1,8 +1,8 @@
 ---
 title: Internship Experience at TCS R&I
 category: Experiences
-date: 2023-10-12T18:15:01.044Z
-desc: >+
+date: 2023-10-14T10:41:03.461Z
+desc: >
   Join Shreyas on his fascinating research journey as he explores
   physics-informed neural networks and models fluid flow during his time at IITM
   Research Park.

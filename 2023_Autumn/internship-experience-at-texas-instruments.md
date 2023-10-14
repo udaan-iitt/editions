@@ -1,18 +1,18 @@
 ---
-title: Internship Experience at Texas Instruments
+title: Internship Experience at Texas Instruments feat WISH
 category: Experiences
-date: 2023-10-12T18:12:09.338Z
+date: 2023-10-14T10:45:50.007Z
 desc: "Join Samhitha as she talks about getting into and learning from a very
   meaningful and hands-on experience at Texas Instruments as a Digital Design
   intern. "
 thumbnail: images/texas.jpeg
-authors: "Samhitha"
+authors: Samhitha
 starred: false
-abio: Samhitha:Samhitha is a final year Electrical student interested in watching every
-  sport but not playing. She is a positive spirited ambivert who can crack jokes
-  on anyone and anytime. She is that kind of a person who has a different take
-  on life which gets reflected in her taste on movies and series. Apart from
-  studying, her hobbies include roasting her friends.
+abio: Samhitha:Samhitha is a final year Electrical student interested in
+  watching every sport but not playing. She is a positive spirited ambivert who
+  can crack jokes on anyone and anytime. She is that kind of a person who has a
+  different take on life which gets reflected in her taste on movies and series.
+  Apart from studying, her hobbies include roasting her friends.
 ---
 During the summer of 2023, I had the opportunity to complete an internship at Texas Instruments, Bangalore. I worked as a Digital Design Intern for a duration of two months. My internship was in the Physical Design team, which focuses on tasks such as Placement and Routing. This involves taking the RTL (Register Transfer Level) designs from the design team and transforming them into GDS (Graphic Data Stream) format, which can then be sent to the foundry for chip fabrication.
 

@@ -1,16 +1,15 @@
 ---
 title: Internship Experience at BLUJ Aero
 category: Experiences
-date: 2023-10-12T18:06:10.131Z
+date: 2023-10-14T10:47:13.224Z
 desc: An in-depth account of the internship experiences at BluJ Aerospace, a
   dynamic startup in Hyderabad that is working on cutting-edge VTOL
   technologies.
 thumbnail: images/image_editor-1-.png
-authors: Swathi, Kanishk, Srihitha, Sai Charan, Dhanesh
+authors: Swathi, Kanishk Kumar, Srihitha, Sai Charan, Dhanesh
 starred: false
 abio: none
 ---
-
 <!--StartFragment-->
 
 Hello folks! In this article, we would like to answer the whats and hows about our internship at BluJ. Please bear with us as this is going to be a longggg article. We had to compile all our experiences. But trust us; It will be worth the time.
@@ -18,7 +17,7 @@ Hello folks! In this article, we would like to answer the whats and hows about o
 Before we begin, what exactlty is BluJ Aerospace?
 BluJ Aerospace is a dynamic startup in the aerospace industry based in the vibrant city of Hyderabad. It was formed with the vision of making aviation simpler & sustainable. The company aims to achieve cost-efficiency and sustainability through vertical integration of all the key technologies involved. They are working on cutting-edge VTOL technologies with an aim to cut down travel time significantly. The company is spearheaded by visionary leaders, the CEO, and the CTO, who are not only accomplished professionals but also exceptionally friendly and approachable. BluJ's core team has deep domain expertise, having previously built aircraft, rockets, wind turbines, and advanced propulsion systems. This welcoming environment set the stage for an enriching internship experience.
 
----
+- - -
 
 ### Application Process
 
@@ -30,15 +29,15 @@ Sai Charan had a different approach altogether. Let's listen …oopsie :)…. re
 
 Dr. Subba Reddy, a member of BluJ's design team and a source of inspiration for many, came forward with an unexpected opportunity. He extended internships not only to mechanical students but also to those from civil, chemical, and electrical departments. Having taken his "Composite Materials" course, I saw his dedication and decided to take a chance. The decision turned out to be transformative as I secured an off-campus internship with Bluj Aerospace after a fruitful interview."
 
----
+- - -
 
 ### Pre-Internship setup:
 
 One week prior to our reporting, an online meeting was held where both the founders and Subbareddy sir addressed us. Each of us was instructed to install some software that we would be using over the course of time. For most of us, it was more or less our first time in Hyderabad. We were looking for some affordable and clean PGs on any and every website available online. The founders of the company came to our rescue at this crucial moment. They took care of all the logistics, which included accommodation and transport from the PG to the company. With that being done, all we had to do was pack our bags and reach Hyderabad. Utham Kumar, one of the founders of BluJ, paid a visit to our PG. He gave us a small pep talk over a cup of tea. All these gestures by the founders eased our entry into the workspace. Slowly, the anxiety turned into excitement.
 
----
+- - -
 
-### PROJECTS WORKED ON (TECHY TECH PART)
+### Projects Worked On
 
 **SWATHI**: "I worked under the guidance of Utham. My work was to perform stress analysis on the control model of the aircraft prototype and to determine the structural stability of the model. In layman's terminology, I had to check for the failure of the connections and decide on cross-sections of various parts used in the model. For this, we performed 1D and 2D Finite Element Analysis on the model and derived the conclusions from the results obtained.
 
@@ -60,7 +59,7 @@ Simulating a battery pack for an aerospace project involves considering a pletho
 
 The configuration of a battery pack is not a one-size-fits-all endeavour. The number of cells in series is determined by the required pack voltage, while the number of cells in parallel is dictated by the pack capacity. This level of customisation ensures that the battery pack aligns perfectly with the mission's unique demands, optimising its performance and safety.
 
-The project was a thrilling blend of theory and practice, offering insights into the complexities of _electrical systems in aerospace technologies."_
+The project was a thrilling blend of theory and practice, offering insights into the complexities of *electrical systems in aerospace technologies."*
 
 **SAI CHARAN**: "My journey was one of learning, adaptability, and embracing opportunities. My primary task revolved around the design of the eVTOL's frame, a critical component in ensuring structural integrity and safety using ABAQUS software. The initial phase of this endeavour took around two weeks to complete. However, being part of a startup meant that changes and refinements were part of the process, leading to several delays. This experience was an eye-opener, revealing the dynamic and agile nature of startup operations.
 
@@ -76,9 +75,9 @@ Each day brought new insights, technical challenges, and the satisfaction of con
 
 The evident fact from all this is that whatever tasks we were asked to perform, small or big, everything contributed to the final output. To be simple, not even a single task that we performed as a part of our internship was a waste of time or energy.
 
----
+- - -
 
-### WORK ATMOSPHERE AND HYD EXPERIENCE
+### Work Atmosphere and the Hyderabad Experience
 
 **SWATHI**: "The work atmosphere of the company was pretty jolly. Though it was a bit difficult in the initial days, given the workplace and climatic conditions, the founders arranged all the necessary amenities for us. The team grew during our internship period. Every person in the team was very experienced and had a lot to share. From the founders to the HR, everyone was very friendly. This friendly atmosphere felt very relaxing. There were times when we played badminton, had team meetings under the trees around the company, and had cool desserts together post-work."
 
@@ -90,17 +89,17 @@ Reflecting on my time at BluJ Aerospace, I couldn't help but appreciate the warm
 
 **SAI CHARAN**: "My internship in Hyderabad, the city of Pearl, offered insights beyond my expectations. The environment, the people, and the experiences all painted a unique picture. The TCS employees living in the same locality became friends, and through them, I glimpsed the world of IT professionals. I realised that while the struggles might differ, everyone is fighting their battles, striving to make the best of their circumstances."
 
----
+- - -
 
-### THE QUESTION
+### 'THE' Question
 
-The question that most of us interns encountered post-internship was, "_How was it working under Subbareddy sir?_". Though most of us had little to no work under him, his insights during the presentation that we gave at the company post-internship were very insightful. His commitment to shaping the future of the company was unwavering. Both the founders and Subbareddy sir shared a great comradery, which used to brighten the workspace. Their jokes to reduce the work stress and make everyone feel involved were very witty and highly intellectual a few times.
+The question that most of us interns encountered post-internship was, "*How was it working under Subbareddy sir?*". Though most of us had little to no work under him, his insights during the presentation that we gave at the company post-internship were very insightful. His commitment to shaping the future of the company was unwavering. Both the founders and Subbareddy sir shared a great comradery, which used to brighten the workspace. Their jokes to reduce the work stress and make everyone feel involved were very witty and highly intellectual a few times.
 
 Here is what Sai Charan has to answer this question, as he was the one who worked under him directly.
 
 "Working under the guidance of Dr. Subba Reddy was an inspiring and transformative experience. His unwavering commitment to excellence pushed me to exceed my own limits. What truly stood out was my unceasing interest in the work; I was so engrossed in it that I willingly extended my learning hours, often heading to the office, even on weekends. Dr Subba Reddy, not only my guide but also the Placement Officer at IIT Tirupati, provided invaluable insights into my career prospects. His guidance on ABAQUS, emphasising the need to acquire higher-end coding skills and take advanced FEM courses, opened new doors of opportunity. He encouraged me to present my work effectively, fostering my communication and presentation skills. I made daily presentations using PowerPoint slides, ensuring that I could articulate my progress clearly. What made this experience even more enriching was Dr Subba Reddy's presence at IIT Tirupati during that period. Our frequent and lengthy online discussions allowed me to fine-tune my work continuously. Sometimes, I would have a morning meeting, make substantial progress during the day, and present my findings again in the afternoon. This dynamic interaction and feedback loop ensured that the work progressed at an astonishing pace, a testament to the power of effective guidance and collaboration. Under his mentorship, I felt a sense of purpose, knowing that the work I was engaged in was innovative and had real-world relevance. On a personal level, he played the role of a counsellor, caring about my work-life balance. Additionally, he broadened my skill set by introducing me to Hypermesh, another powerful finite element analysis tool. Dr. Subba Reddy's mentorship transcended the professional realm, leaving a lasting impact on both my career and personal growth."
 
----
+- - -
 
 ### Closing remarks:
 

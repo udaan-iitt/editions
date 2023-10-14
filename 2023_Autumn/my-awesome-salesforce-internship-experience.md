@@ -1,7 +1,7 @@
 ---
 title: "My Awesome Internship Experience @ Salesforce "
 category: Experiences
-date: 2023-10-12T18:14:07.488Z
+date: 2023-10-14T10:47:37.235Z
 desc: Embark on a transformative journey with Salesforce as a Software
   Engineering Intern alongside Sachin in Hyderabad. This surely is a dynamic,
   fun, and impactful internship experience!

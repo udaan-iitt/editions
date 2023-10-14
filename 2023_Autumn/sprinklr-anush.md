@@ -1,7 +1,7 @@
 ---
 title: Internship Experience at Sprinklr
 category: Experiences
-date: 2023-10-14T05:07:26.282Z
+date: 2023-10-14T10:43:05.858Z
 desc: Join Anush as he narrates his journey of diverse interests, challenges,
   and success.
 thumbnail: images/sprinklr.jpg
@@ -9,7 +9,6 @@ authors: Anush Mangal
 starred: false
 abio: none
 ---
-
 <!--StartFragment-->
 
 “After due evaluation of their performance in respective projects, we are delighted to share the results and extend a Pre-Placement offer to the following student(s) from your campus…”
@@ -34,6 +33,8 @@ What interests exactly? Many, that I built over the years.
 
 At one point, I was passionate about software development, particularly during my time at the RISHA lab led by Dr. Sridhar Chimalakonda. I crafted a tool and authored a paper on it, alongside creating a Chrome Extension as part of the lab. Subsequently, I ventured into Cyber Security and Ethical Hacking and subscribed to TryHackMe, where I actively learned a lot of things about computers and participated in CTFs. My intrigue extended to networks, an essential facet of Cyber Security, leading me to extensively study it. While studying about hardware related attacks, my fascination then shifted to Computer Organization and Architecture when I joined Dr. Raghavendra Kanakagiri's Parallel Computing Lab for some time. I immersed myself in latest cache and memory-related research during the summer of 2022, and read a bunch of papers. As these aspects were intertwined with the OS, I delved into OS functions and assembly language code. Even Quantum Computing seized my curiosity briefly, inspiring a week of dedicated study. As you can see, the interests varied and I made sure that all of them were reflected on my resume. Maybe this gave me an upper hand.
 
+![](images/anush_1.png)
+
 The interview rounds for me were quite different. While others were being asked about difficult DSA related problems, I was being asked about caches and networks, primarily because I had mentioned them in my answer to ‘Tell me about yourself.’ The interviewer and I bonded over the fact that we both had watched YouTube videos of ‘Onur Mutlu’, the God of Computer Architecture. I was confident and precise when I spoke. It is very important that you clearly articulate your thoughts, no matter how nervous you are!  The HR round was short and quick. By the end of the day, I had secured an internship at Sprinklr.
 
 In February 2023 along with the internship letter, I was provided with a long list of pre-reads. I was a bit nervous about the competition out there. But everything turned out just fine.
@@ -48,8 +49,17 @@ During the fifth week I was asked to study MongoDB. Later on, I was asked to swi
 
 We used to have weekly floor fun events at Sprinklr. These activities included singing competitions, dumb charades, hula hoop fun, Chinese whispers, popping balloons, and more. One particularly memorable event was the 'Mango Eating Competition’.
 
-The time flew swiftly. Over those eight weeks, I experienced a wide range of emotions—stress from work, happiness from solving problems, excitement from events, and much more. We submitted our laptops the next day, and the internship finally ended. To celebrate our last day, my friend Yashwardhan and myself went to an escape room. It was fun.
+The time flew swiftly. Over those eight weeks, I experienced a wide range of emotions—stress from work, happiness from solving problems, excitement from events, and much more. \
+\
+<!--StartFragment-->
 
-The result came in one week, which marked the end of my successful internship experience at Sprinklr.
+I would like to highlight another important point that I will remember forever. I had visited the office on 12th May 2022, ten days before the internship started, as I was looking for PGs or apartments to live. I just met Pranjal Sharma, my internship scout and exchanged greetings. The reason I highlight this is because she remembered it till the end of the internship, and gave me an award just for that! She said that it was because of my excitement to work, that I came to office much before the internship, and met her. According to her, that showed my dedication to work, and must be awarded. I was just speechless.
+
+![](images/anush_2.png)
+
+\
+We submitted our laptops the next day, and the internship finally ended. To celebrate our last day, my friend Yashwardhan and myself went to an escape room. It was fun. We had even managed to win a gold medal. Yay us!!
+
+That was my last day of internship, and last day in Gurugram. 
 
 <!--EndFragment-->

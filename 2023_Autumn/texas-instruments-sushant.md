@@ -1,7 +1,7 @@
 ---
 title: Internship Experience at Texas Instruments
 category: Experiences
-date: 2023-10-12T18:15:13.128Z
+date: 2023-10-14T10:43:33.718Z
 desc: A journey from initial uncertainty to valuable industry insights at Texas
   Instruments.
 thumbnail: images/sushant.jpg
