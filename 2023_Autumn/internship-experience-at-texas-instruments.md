@@ -6,9 +6,9 @@ desc: "Join Samhitha as she talks about getting into and learning from a very
   meaningful and hands-on experience at Texas Instruments as a Digital Design
   intern. "
 thumbnail: images/texas.jpeg
-authors: "Samhitha "
+authors: "Samhitha"
 starred: false
-abio: Samhitha is a final year Electrical student interested in watching every
+abio: Samhitha:Samhitha is a final year Electrical student interested in watching every
   sport but not playing. She is a positive spirited ambivert who can crack jokes
   on anyone and anytime. She is that kind of a person who has a different take
   on life which gets reflected in her taste on movies and series. Apart from

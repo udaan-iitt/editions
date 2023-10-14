@@ -7,7 +7,7 @@ desc: Yet another RIYA scholar from IIT Tirupati. Join Viaks as he shares with
 thumbnail: images/ohio.jpg
 authors: Sai Vikas
 starred: false
-abio: Sai is a final year Mechanical Engineering Undergraduate at IIT Tirupati,
+abio: Sai Vikas:Sai is a final year Mechanical Engineering Undergraduate at IIT Tirupati,
   who loves to talk to people and have fun with friends. He definitely does not
   like reading books, novels, fiction or anything that requires rigorous word
   play (sadly, he has no such good habits😜). He likes to read case studies on

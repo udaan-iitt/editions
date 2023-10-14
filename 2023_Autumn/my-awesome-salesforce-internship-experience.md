@@ -6,15 +6,9 @@ desc: Embark on a transformative journey with Salesforce as a Software
   Engineering Intern alongside Sachin in Hyderabad. This surely is a dynamic,
   fun, and impactful internship experience!
 thumbnail: images/sachin.jpg
-authors: Sachin
+authors: Sachin Sahu
 starred: false
-abio: Sachin:Sachin is a tech enthusiast and a final-year Computer Science and
-  Engineering student at IIT Tirupati. He also leads the tech team at Udaan. In
-  this article, he recounts his delightful summer in the tech-centric city of
-  Hyderabad, sharing his newfound love for it.  He is passionate about coding,
-  hackathons, and problem-solving. While he might not be the most talkative
-  person, he's a loyal friend who always makes sure everyone he talks to
-  feels respected :)
+abio: none
 ---
 
 Salesforce visited our campus as part of its Futureforce intern hiring program. I applied for the position of Software Engineering Intern and was lucky enough to get the offer. The interview process was very smooth and all the interviewers were very kind.
