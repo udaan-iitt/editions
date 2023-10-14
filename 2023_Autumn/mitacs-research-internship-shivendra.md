@@ -1,7 +1,7 @@
 ---
 title: Mitacs Globalink Research Internship
 category: Experiences
-date: 2023-10-12T18:13:45.125Z
+date: 2023-10-14T10:46:46.314Z
 desc: "From India to Canada: Join Shivendra as he shares with us his experience
   in the MITACS GRI Program."
 thumbnail: images/mitacs.png
