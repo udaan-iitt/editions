@@ -868,7 +868,7 @@ export const author_info = [
 		tagLine2: '',
 		role: '',
 		year: '',
-		desc1: '',
+		desc1: 'Gayathri is a lively and joyful girl who finds immense delight in exploring the world of Korean dramas as a dedicated aficionado. Alongside her passion for Kdramas, she is an ardent fan of BTS and enjoys immersing herself in their music, as well as exploring other genres. With a vibrant and adventurous spirit, Gayathri loves spending quality time with her friends, cherishing the laughter and camaraderie they share. Always seeking new experiences, she eagerly embraces opportunities to go out and create unforgettable memories.',
 		desc2: '',
 		link: '',
 	},
