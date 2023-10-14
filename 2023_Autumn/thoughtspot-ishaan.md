@@ -1,7 +1,7 @@
 ---
 title: Internship Experience at ThoughtSpot
 category: Experiences
-date: 2023-10-12T18:15:24.940Z
+date: 2023-10-14T05:07:38.282Z
 desc: Code, Collaborate, and Advance – A Journey from Intern to MTS with a
   MacBook Pro!
 thumbnail: images/ishaan.jpg
