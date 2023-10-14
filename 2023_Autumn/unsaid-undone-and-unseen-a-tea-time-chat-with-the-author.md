@@ -10,7 +10,6 @@ authors: Sneha M S, Krithi Shailya
 starred: false
 abio: none
 ---
-
 <!--StartFragment-->
 
 In her debut novel, "[I Was, I Am](https://www.wattpad.com/story/49405751-i-was-i-am)," she introduces us to a group of childhood friends whose lives take unexpected turns, and it's a journey filled with "messy goodbyes" and "unfinished confrontations." But amidst the chaos, there's an undying passion for interior design that keeps our protagonist, Aditi, going. This story will take you on a ride filled with "drama," "unexpectedly blooming office romance," and the thrilling exploration of forgiveness and change.
@@ -27,7 +26,7 @@ After this quick and not-so-subtle nudge from our end to check out all her works
 
 So, grab a cup of tea, settle in, and get ready to connect with the brilliant mind behind these captivating stories. As we chat with the author herself, you'll gain a deeper appreciation for the art of storytelling and the delightful world she has crafted within the pages of her books.
 
-![](images/pexels-richa-sharma-4217463.jpg)
+![](images/teatime.png)
 
 Every person has that one special motivator, that guiding star who nudges them to step into uncharted territory. For Ankita, that person is none other than her beloved sister. It's the sisterly bond, the unwavering support, and the constant encouragement that propelled Ankita to embark on her literary journey.
 
@@ -57,6 +56,8 @@ Take, for instance, Vedant Shah from "Back in Time." At the time Ankita crafted 
 Similarly, characters like Dev were shaped by Ankita's own experiences. When she was adjusting to a new school and wished for someone to be kind and supportive, Dev came to life as the friend she desired, providing not only emotional support but also practical help to ease her transition. These characters did for her protagonists what she wished someone had done for her in real life.
 
 A side note from the author herself, “You should not wait for anyone to come and do that for you.”
+
+![](images/teatime2.png)
 
 Let's delve into another aspect of Ankita's storytelling, a theme that resonates deeply with Vedant's character and his journey in "Back in Time." This theme revolves around the so-called middle-class privilege, a concept Vedant grapples with as he charts his unique path.
 
