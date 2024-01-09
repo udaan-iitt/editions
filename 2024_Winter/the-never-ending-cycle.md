@@ -6,6 +6,7 @@ desc: "Ending with the age old truth about the eternality of nature, the poem
   makes us appreciate the parallels created between the corresponding life
   cycles. As the winning entry at the Intra IIT culturals, hop aboard as it
   takes you through the intertwined journey of man and the seasons of nature. "
+thumbnail: images/01-thumbnail.jpg
 authors: Aditya Patil
 starred: false
 ---
@@ -33,7 +34,7 @@ May be sweet or sour to taste, <br>
 Life as a man, his biggest fear, <br>
 One wrong decision can take it all to waste. <br>
 
-
+![](images/01-image.jpg)
 
 <!--EndFragment-->
 
@@ -55,7 +56,6 @@ The bears now in a deep slumber,<br>
 A great life he lived, but die he shall,<br>
 With a smile as cool as a cucumber.<br>
 
-
 <p style="text-align: center;align:center;">This is a cycle, a process, a loop,<br>
 Life on the Earth shall never end,<br>
 A new child will start its coop,<br>
@@ -64,9 +64,3 @@ The cycle of life thus keeps going,<br>
 Hand in hand with mother nature,<br>
 May it be a plant or a human being,<br>
 The rules don’t change for any creature.<br>
-
-
-
-
-
-
