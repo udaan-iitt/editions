@@ -40,8 +40,6 @@ Still, you can’t blame a ~~girl~~ fortress for trying. The initial attempts we
 
 The main problem with trying to out-stiffen cannons is racking stress (the walls twisting against each other), and the problem gets worse as you thicken the wall.
 
-
-
 An engineer called Vauban adopted a new approach: keep the cannons from hitting the walls and keep the soldiers from scaling them. Don’t try to stiffen the wall against cannons; just avoid the balls by raising the walls on a slope, adding external walls… Whatever it takes to keep the cannons away from the walls. Infantry is less dangerous than even a BB gun, after all.
 
 <br>
@@ -52,23 +50,15 @@ Or is it? Let’s have a look at what’s been happening with those small arms o
 
 Where we last left off,  pretty much described our guns. Short-range weapons shooting pebbles at plate armour don’t tend to make much of an impact.
 
-
-
 All the same, against equally well-equipped infantry, guns do better than arrows. The hand cannon eventually evolved into the first gun with a trigger, the matchlock. The key difference is the ignition mechanism: all our previous guns have been lit with live fire (the type that you can ride to heaven with a barrel of gunpowder), whereas the matchlock used a slow-burning fuse that had no open fire but was prone to going out. The later matchlocks had a distinctive s-shaped lever (called the serpentine) used to touch the match to the firing pan. (For those unaware, a matchlock has powder in a firing pan to convey the flame from the match to the actual chamber.)
-
-
 
 A heavier version of the arquebus branched out and became the musket, the first armour-piercing gun. The flintlock musket, named for its new firing mechanism – sparks struck on flint – had no live fire or clumsy match.
 
-
 As usual, the response to better armaments was thicker defences. Cuirassiers (named for their cuirass) wore thick armour to withstand the impact of at least one shot. Over time, the armours ended up being unfeasibly heavy and simply ended up not worn.
-
 
 For all its advantages, the musket had some serious disadvantages: it was heavy and hard to load, requiring you to reach into the muzzle, tear a part of the packet containing bullet and powder, spill the powder into the barrel and then ram it in. The Revolt of 1857 occurred in part due to needing to bite the packet open to tear it.
 
-
 The problem was solved in part by breechloading weapons, which allowed one to load the gun without ramming the bullet in.  Breechloaders were just as heavy, however, and had an additional problem of back-blast – the gun blowing up in your face even when you successfully fire.
-
 
 To find the next piece of the puzzle, we need to look at bullets.
 
@@ -78,11 +68,7 @@ To find the next piece of the puzzle, we need to look at bullets.
 
 It was a well-known principle since feathered arrows that spinning makes a projectile more stable. Many approaches had been adopted to allow the bullet to spin, most involving a rifling of the lands on a gun (for the less terminally-definition-oriented, making a groove in the barrel of a rifle) and possibly a matching protrusion on the bullet to spin it as it exits the bore.
 
-
-
 The problem with such approaches is the difficulty in actually loading the bullet: if the groove is tight enough to spin the bullet, then it is hard to fit the bullet into the rifle.
-
-
 
 A French inventor, Claude-Étienne Minié, achieved worldwide fame by resolving the paradox with the Minié ball, a cylindro-conoidal bullet (think mix of cone and cylinder) with a cavity at the back. The bullet could be made smaller and expand due to the pressure of firing until it engaged the rifling on the bore. (Again, this means fitting the bullet into the groove.) This invention was so popular that Minié balls were the most common bullet in the American Civil War and put the rifle solidly on the market.
 
@@ -92,9 +78,7 @@ A French inventor, Claude-Étienne Minié, achieved worldwide fame by resolving 
 
 To avoid going out with a bang and a splash, it was now necessary to get rid of sparks and firing pans. By this time, chemists had found more excitingly unstable compounds than gunpowder. Of importance here is Mercuric fulminate (Hg(CNO)2), an unstable compound that explodes when struck. By placing a cap of this behind the gunpowder, you could fire a weapon without ever using a spark outside the barrel. This had the added advantage of being quicker to fire due to no firing pan. From the percussion cap (what we have just discussed), it was just a skip and a hop to the cartridge, where the powder was safely enclosed away from pesky rain.
 
-
 However, the powder in these guns remained notoriously smoky. Snipers could not fire without being revealed. Commanders could not issue orders once firing started. And on top of all this, they were quite heavy, fouled the barrel and were hygroscopic, which made it even worse to handle. For all this, gunpowder was also a poor explosive.
-
 
 As always, the chemists have found new ways of blowing themselves and everyone else up, this time with nitroglycerine. As the name alone evokes, a long, long series of factory and field explosions led to various derivatives of nitrocellulose, starting with guncotton and reaching Poudre B, creating the first practical smokeless powder at 1/3rd the weight of black powder. Further attempts have largely balanced the ratios of nitroglycerin, nitrocellulose and stabilisers to keep it from exploding outside the barrel.
 
@@ -104,15 +88,11 @@ As always, the chemists have found new ways of blowing themselves and everyone e
 
 The usual method of fire, when it came to guns had been to use volley fire, where one troop splits into a kneeling and standing line, and one shoots as the other reloads. This approach, however, just wasn’t good enough at killing soldiers (this was an article about guns; what did you think the military was interested in?) This defect needed to be remedied.
 
-
 The mitrailleuse was a gun that spat out 25 rifle bullets one after the other, called a volley gun. However, it was limited by the operator's speed to crank the firing mechanism. The Gatling gun, built by Dr. Gatling, ended up the more popular and better-developed precursor to the modern machine gun. While it also suffered from the hand-cranking defect, unlike the mitrailleuse, it had no problem of overheating as each barrel had been given time to cool.
-
 
 Lead is a metal with a low melting point. Previously, this made lead a good choice for bullets: easily manufactured and to exact specification. But with more and more powerful rifles, lead gets likelier to jam in the rifle on its own. Eduard Rubin, a Swiss army engineer, discovered that ‘jacketing’ – covering – a lead bullet in copper made it able to tolerate more heat and friction.
 
-
 The first truly automatic weapon was the Maxim gun. Using the recoil from each bullet to load the next and water cooled to prevent overheating, it was the final word in murder offense. While the Spartans failed to stop Xerxes, the British army faced off a charge of 6000 riflemen and spearmen with a mere 750 troops using Maxim guns. The gun was so successful that it saw action (with some modification) even through WW2.
-
 
 And with that, we reach the business end of the machine gun as promised.
 
@@ -122,8 +102,6 @@ And with that, we reach the business end of the machine gun as promised.
 
 Wikipedia’s pages on [Fulminates](https://en.wikipedia.org/wiki/Fulminate), etc
 
-
-Encyclopaedia Britannia
-
+Encyclopaedia Britannica
 
 Special mention for Saphroneth’s [Saruman of Many Devices](https://tvtropes.org/pmwiki/pmwiki.php/Fanfic/SarumanOfManyDevices), which inspired me to make this article.
