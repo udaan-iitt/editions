@@ -86,13 +86,13 @@ As always, the chemists have found new ways of blowing themselves and everyone e
 
 ## The right end of the gun
 
-The usual method of fire, when it came to guns had been to use volley fire, where one troop splits into a kneeling and standing line, and one shoots as the other reloads. This approach, however, just wasn’t good enough at killing soldiers (this was an article about guns; what did you think the military was interested in?) This defect needed to be remedied.
+The usual method of fire, when it came to guns, had been to use volley fire, where one troop splits into a kneeling and standing line, and one shoots as the other reloads. This approach, however, just wasn’t good enough at killing soldiers (this was an article about guns; what did you think the military was interested in?) This defect needed to be remedied.
 
 The mitrailleuse was a gun that spat out 25 rifle bullets one after the other, called a volley gun. However, it was limited by the operator's speed to crank the firing mechanism. The Gatling gun, built by Dr. Gatling, ended up the more popular and better-developed precursor to the modern machine gun. While it also suffered from the hand-cranking defect, unlike the mitrailleuse, it had no problem of overheating as each barrel had been given time to cool.
 
 Lead is a metal with a low melting point. Previously, this made lead a good choice for bullets: easily manufactured and to exact specification. But with more and more powerful rifles, lead gets likelier to jam in the rifle on its own. Eduard Rubin, a Swiss army engineer, discovered that ‘jacketing’ – covering – a lead bullet in copper made it able to tolerate more heat and friction.
 
-The first truly automatic weapon was the Maxim gun. Using the recoil from each bullet to load the next and water cooled to prevent overheating, it was the final word in murder offense. While the Spartans failed to stop Xerxes, the British army faced off a charge of 6000 riflemen and spearmen with a mere 750 troops using Maxim guns. The gun was so successful that it saw action (with some modification) even through WW2.
+The first *truly* automatic weapon was the Maxim gun. Using the recoil from each bullet to load the next and water cooled to prevent overheating, it was the final word in ~~murder~~ offense. While the Spartans failed to stop Xerxes, the British army faced off a charge of 6000 riflemen and spearmen with a mere 750 troops using Maxim guns. The gun was so successful that it saw action (with some modification) even through WW2.
 
 And with that, we reach the business end of the machine gun as promised.
 
