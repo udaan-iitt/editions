@@ -5,6 +5,7 @@ date: 2024-01-11T13:03:13.680Z
 desc: Grab a cup of tea, settle down in your comfiest of chairs. It's time to
   flip through the pages that often go unread—the raw, authentic stories that
   make us all beautifully human.
+thumbnail: images/helping-thumbnail.jpg
 authors: Krithi Shailya, Arvind Srinivasan, Akhil Krishnan
 starred: false
 ---
@@ -24,6 +25,8 @@ During the preparation for UPSC, after four failed attempts, I was completely un
 
 Then there is society. I will be honest; I come from a conservative, patriarchal family where comments like *“This is not a girl’s ball game”* were not uncommon. I had strong grit initially, but with time and the failed attempts, the words started getting to me. I started believing it might probably be true. I perhaps can’t do it because I am a girl. Riding a vehicle - a scooter and a car - was also something I was told girls can’t do. But I had learned them much faster than anyone had expected, and I especially loved riding my scooter. But as my mental health started deteriorating, I stopped loving these. As time passed, I started asserting that this was not something girls could do, so I shouldn't do it. I was like a ship, sailing with all her might, but one small hole let all the negative thoughts in, making the sailing unsteady.
 
+![](images/stressed-out.jpg)
+
 This was one such thing that made me realise something was seriously wrong and that I needed to take care of myself. During this time, one companion was my collection of self-help books that walked me through this journey and helped me take a reality check of what was happening to me. I started reading these books and watching some videos, which gave me hope. Hope that was very much required. Another thing I tried was to actively follow a healthy diet. I believe that incorporating a little nutritious food (almonds, sprouts) greatly helped enhance my mental well-being. I saw some changes - felt more relaxed and less stressed.  Physical and mental well-being are perhaps interconnected; recent studies do point out the same. If I study well, I get energy was my go-to motto before, which is wrong. Ambitious and studious people generally forget about their physical well-being. I reiterate it’s as important, in fact, more important than your studies.
 
 Through this journey, I eventually realised every negative thought would not end up in reality. There should be a balance between an individual's mental and physical energies. Emotional intelligence and life skills play a critical role in the productivity of an individual. Self-awareness is also one key parameter most people neglect. Fortunately, I became aware that something was amiss and started working on it, and this helped me defeat all these odds and turn them into my strength. I protected myself from entering into mental health deterioration. Looking back, I am proud of the way I handled myself through this whole journey. I believe this helped me spring back stronger than ever before.
@@ -32,7 +35,8 @@ I would, however, like to mention that this is my personal experience, and fortu
 
 > If Ratna's journey taught us about facing fears, Firefly's story is like a friendly chat about the intricacies of relationships. Imagine catching up with a pal over coffee as Firefly shares insights into the ups and downs of friendships, workplace clashes, and the transformative power of forgiveness.
 
-************************* 
+**\*** 
+
 ### Firefly
 
 So, the story goes back to the first year of my B.Tech life. I was a very reserved person, scared to interact with a person even though I very much wanted to find people who shared my interests. My fear of bad outcomes and different people held me back and kept me from trying to make friends with people. This attitude of mine did me no good and led to me feeling isolated and uncomfortable in college. As a result of this, college was not interesting. Though I felt a great need to have a few friends who were like me, I wasn't prepared to come out of my shell.
@@ -40,6 +44,8 @@ So, the story goes back to the first year of my B.Tech life. I was a very reserv
 In my second year, I finally ended up being comfortable enough to make a friend.  Although we shared interests in building planes, conducting events, and so on, she was a very busy person, and this did not end up not a love story.  I barely spent any time with her, unlike what you would expect from a friendship. But eventually, I became not only her friend but also started to be friends with her male friends, all of whom shared a class with me. One day, she happened to share her life story with us, which was very hard to listen to. She wasn't given proper mental care at the time it was needed, and it eventually, unknowingly, affected the way she grew. I was able to understand her situation, and I felt okay with how she was.
 
 Sometimes, however, her actions weren't reasonable, and it affected our friendship. I was forgiving and kept moving forward. The good side was that she was really good in her activities, and we both got involved in responsibilities in a few technical groups. We both really did a good job in our own parts, but sometimes we had clashes. Little did I realise how forgiving and tolerant I am.
+
+
 
 One fine day, we had an argument. I was expecting a peaceful decision to be taken. It didn't go well. She was very harsh to me, I cannot express in words how difficult it was for me at that time, it was very bad. I never expected a friend would be like this to me. I was traumatized after this incident. Sadly this happened during the pandemic when we had relaxations.
 
@@ -53,7 +59,8 @@ Good things take time; I'll be happy to say that every year, I'm better than who
 
 > With a chat that felt like a comforting hug—one that says, "We've all been there, and it's going to be okay." let’s now move on to Amrit with an experience that takes us through the unseen outcome of an incident and how he finds glimmers of hope to help navigate through the darkest moments. 
 
-*******************************************
+- - -
+
 ### Amrit
 
 I was prescribed bed rest for a month due to an injury. The entire month, I was pretty much isolated from everyone and fixed in one spot. To add to it, my room was not the most habitable one, to say the least. The only time I left the bed was to use the washroom about thrice daily. It felt like everyone was moving ahead and away, and since I had a lot of free time, I started overthinking as easily as I breathed. After the bed rest was over, the effects hadn't gone away. Now, I had become used to the loneliness and started to find ways to push people away. This further turned into self-harm and starving myself, sometimes not eating three days in a row. Pretty much anything that gave me satisfaction and pleasure was scrapped away by myself and killed the need to seek any joy or solace. A couple of other things happened which made it easier for me to think that no one wanted me. 
@@ -62,9 +69,10 @@ I was prescribed bed rest for a month due to an injury. The entire month, I was 
 
        Honestly, you don't realise the mistakes you make during this phase; your sense of wrong and right becomes unfaithful. And many of them are often irreversible, making you regret what you did. Forgiving oneself and moving on is the only way to heal from it. The regret doesn't go away; you just tend to forget it as time passes.
 
->With the strong resilience and the power of time reflected through Amrit’s story, let’s move on to Cupcakes, an inquiry into hope amidst life’s trials. 
+> With the strong resilience and the power of time reflected through Amrit’s story, let’s move on to Cupcakes, an inquiry into hope amidst life’s trials. 
 
-*********************************
+- - -
+
 ### Cupcakes 
 
 What motivates people to move on and keep going? What is that one thing that people cling to to keep their life on the move? Where does that hope come from? What is the assurance that things may turn out okay?
