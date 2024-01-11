@@ -35,8 +35,6 @@ I would, however, like to mention that this is my personal experience, and fortu
 
 > If Ratna's journey taught us about facing fears, Firefly's story is like a friendly chat about the intricacies of relationships. Imagine catching up with a pal over coffee as Firefly shares insights into the ups and downs of friendships, workplace clashes, and the transformative power of forgiveness.
 
-**\*** 
-
 ### Firefly
 
 So, the story goes back to the first year of my B.Tech life. I was a very reserved person, scared to interact with a person even though I very much wanted to find people who shared my interests. My fear of bad outcomes and different people held me back and kept me from trying to make friends with people. This attitude of mine did me no good and led to me feeling isolated and uncomfortable in college. As a result of this, college was not interesting. Though I felt a great need to have a few friends who were like me, I wasn't prepared to come out of my shell.
@@ -124,6 +122,8 @@ At the end of the day, all I’m left with is a grim question.
 “Is choosing one's battles what we call hope? And if so, is letting things just happen without choosing a sign of a man who has lost hope?”
 
 > This one, I’d like to say a few words about. There’s always something that has to be done and somebody that has to do it. And there’s always so many fingers pointing at what is not done, and so little that actually step up and do it. We all have our own battles in life, and somebody who chooses to take up other battles on top of this deserves significant recognition. It is so very important to be kind and respectful of anybody trying to work for a common cause. It is so very important to recognize that they’re one among us, and they’ve simply chosen to take responsibility for all the fingers we point.  Even asking, “How’s this going?” rather than “Why are you not doing this?” is a significant step towards boosting their morale and helping anyone understand the actual work that goes into establishing something. There’s so much they do, so many meals they skip, and so many sleepless nights that lead to a beautiful cute little stage for us to celebrate in. Sure, it might all have its ups and downs, but they definitely deserve a good amount of credit for all the work that goes into it. 
+
+**************************
 
 Oof, that was definitely a wild ride. And there you have it—a friendly exchange of stories, reflections, and shared moments. Maybe you’ve related to some of these experiences, and maybe this little piece has helped you have some hope based on how they’ve navigated through them. With all this, I hope we’ve served as a space for all the narrators who’ve taken up this platform to share their experiences. As we encounter others trying to overcome their own battles, it is important to extend the same kindness and compassion and give your little bit of support to them.  
 
