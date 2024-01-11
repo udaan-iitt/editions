@@ -45,7 +45,7 @@ In my second year, I finally ended up being comfortable enough to make a friend.
 
 Sometimes, however, her actions weren't reasonable, and it affected our friendship. I was forgiving and kept moving forward. The good side was that she was really good in her activities, and we both got involved in responsibilities in a few technical groups. We both really did a good job in our own parts, but sometimes we had clashes. Little did I realise how forgiving and tolerant I am.
 
-
+![](images/argument-firefly.jpg)
 
 One fine day, we had an argument. I was expecting a peaceful decision to be taken. It didn't go well. She was very harsh to me, I cannot express in words how difficult it was for me at that time, it was very bad. I never expected a friend would be like this to me. I was traumatized after this incident. Sadly this happened during the pandemic when we had relaxations.
 
@@ -66,6 +66,8 @@ Good things take time; I'll be happy to say that every year, I'm better than who
 I was prescribed bed rest for a month due to an injury. The entire month, I was pretty much isolated from everyone and fixed in one spot. To add to it, my room was not the most habitable one, to say the least. The only time I left the bed was to use the washroom about thrice daily. It felt like everyone was moving ahead and away, and since I had a lot of free time, I started overthinking as easily as I breathed. After the bed rest was over, the effects hadn't gone away. Now, I had become used to the loneliness and started to find ways to push people away. This further turned into self-harm and starving myself, sometimes not eating three days in a row. Pretty much anything that gave me satisfaction and pleasure was scrapped away by myself and killed the need to seek any joy or solace. A couple of other things happened which made it easier for me to think that no one wanted me. 
 
        Now I was clearly in pain, but I didn't want it to go away. I hated the pain but still stuck to it, believing that nothing could be done and that I deserved it. Thankfully, I had one friend who still stuck with me even after I was having difficulty talking to them. He helped me out quite a lot. Also, re-engaging in my hobbies, travelling, and revisiting my childhood helped me escape this. 
+
+![](images/amrit.jpg)
 
        Honestly, you don't realise the mistakes you make during this phase; your sense of wrong and right becomes unfaithful. And many of them are often irreversible, making you regret what you did. Forgiving oneself and moving on is the only way to heal from it. The regret doesn't go away; you just tend to forget it as time passes.
 
@@ -112,6 +114,8 @@ Oh boy…
 What is hope? Where do people find this hope? Do I even have hope anymore?
 
 At the end of the day, all I’m left with is a grim question.
+
+![](images/cupcakes.jpg)
 
 “Would things have been different had I had more hope?...
 
