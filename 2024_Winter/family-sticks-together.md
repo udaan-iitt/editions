@@ -11,6 +11,7 @@ desc: Despite identical appearances, personalities showing a stark contrast
   the gap between reality and delusion through tools like trepidation and
   isolation by portraying the sequence of events as a battle between oneself and
   one's doppelgänger demons.
+thumbnail: images/01-thumbnail-english.jpg
 authors: Sneha Battula
 starred: false
 ---
@@ -33,6 +34,8 @@ Ron was shown a sketch of a profile that closely- no, precisely- resembled that 
 “Yes, that- wait, officer, what is this for? Please- I’ve been on my couch for eternity.”
 
 “Do you identify?” The officer asked more sternly.
+
+![](images/01-under-arrest.jpg)
 
 “Yes, Sir,” Ron replied, not wanting to dig himself into a deeper grave. He allowed himself to be fed towards the police car and climbed in, his now cuffed hands clinking against each other. Behind him, his beer can lay on the carpet, spilling its contents all over the faux, for it watched as its owner left with no look backwards.
 
@@ -88,6 +91,8 @@ Drums. Into his ears. No- his heart. Pounding in his ears.
 She was- well, she was him.
 
 He let out a high-pitched scream and yanked his arms away from her. Her features that resembled him so accurately were nothing short of cloning.
+
+![](images/01-inject.jpg)
 
 “HELP, HELP-”
 
