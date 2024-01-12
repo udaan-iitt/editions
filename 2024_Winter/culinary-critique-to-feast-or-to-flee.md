@@ -6,10 +6,10 @@ desc: Should you savour the tempting delights at Akulas Arena, from masala dosas
   to biryanis? Or should you risk missing out on this culinary exploration?
   Udaan's review unveils the hits and misses, leaving you to decide your next
   campus dining destination.
-thumbnail: images/helping-thumbnail.jpg
-abio: none
+thumbnail: ""
 authors: Ram Mohith, Ritvik Ravi, Vasantati Chitraksh
 starred: false
+abio: none
 ---
 <!--StartFragment-->
 
@@ -42,6 +42,8 @@ We don't want to keep you hanging like waiting for your token number at the food
 ### Masala Dosa
 
 The masala dosa served by AA is considered one of the most affordable items on the menu as it offers high quality and quantity for the price of peanuts. The dosa-chutney combo is always GoATed, and this one has lived up to that mark (or has it?). The potatoes they put in there feel just right… right, like a lump of coal. When asked, a student said the Masala Dosa’s flavour reminded him of home (trying to get into the Udaan page with sentiments, of course :) ).
+
+![](images/dosa.jpg)
 
 - - -
 
