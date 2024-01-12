@@ -9,9 +9,8 @@ desc: "Ending with the age old truth about the eternality of nature, the poem
 thumbnail: images/01-thumbnail.jpg
 authors: Aditya Patil
 starred: false
-abio: ""
+abio: none
 alt: ""
-
 ---
 <!--StartFragment-->
 
