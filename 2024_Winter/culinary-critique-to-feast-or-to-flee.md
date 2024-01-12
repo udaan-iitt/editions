@@ -6,7 +6,7 @@ desc: Should you savour the tempting delights at Akulas Arena, from masala dosas
   to biryanis? Or should you risk missing out on this culinary exploration?
   Udaan's review unveils the hits and misses, leaving you to decide your next
   campus dining destination.
-thumbnail: ""
+thumbnail: images/food.jpg
 authors: Ram Mohith, Ritvik Ravi, Vasantati Chitraksh
 starred: false
 abio: none
@@ -142,6 +142,8 @@ Lo and behold, the Pizza a beloved Italian dish consisting of a thin, round crus
 ### Pani Puri
 
 Well! Do we even have to describe this item? Who can’t get the image of Golgappa on hearing its name? Yum. Opinions, however, diverge when it comes to this beloved Indian snack. Detractors argue that the use of cold water in preparing the pani disrupts the experience, while enthusiasts praise its delightful taste, especially the well-balanced sweet pani. The generous provision of both the spicy and sweet-tangy versions, enough to fill each puri to the brim, earns commendation. A potential enhancement could be the addition of chickpeas to the stuffing. All in all, this seems like a nice option to try with your friends.
+
+![](images/phuchka.jpg)
 
 - - -
 
