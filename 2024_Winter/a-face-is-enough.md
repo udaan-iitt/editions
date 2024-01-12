@@ -10,6 +10,7 @@ desc: Unfolding the themes of competition, betrayal and false accusations
   by subtly blending the flavours of human behaviour with a gripping murder
   narrative.
 thumbnail: images/02-thumbnail-english.jpg
+abio: none
 authors: Navaneeth Sivadas
 starred: false
 ---

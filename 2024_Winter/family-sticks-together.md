@@ -12,6 +12,7 @@ desc: Despite identical appearances, personalities showing a stark contrast
   isolation by portraying the sequence of events as a battle between oneself and
   one's doppelgänger demons.
 thumbnail: images/01-thumbnail-english.jpg
+abio: none
 authors: Sneha Battula
 starred: false
 ---

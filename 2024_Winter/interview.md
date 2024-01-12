@@ -7,6 +7,8 @@ desc: >
   guided by the eloquent insights of Dr Pramod Nayar. This isn't just an
   exploration of academic realms; it's a conversation that unravels the
   intricate interplay between technology and the humanities at IIT Tirupati.
+thumbnail: images/helping-thumbnail.jpg
+abio: none
 authors: Sneha M S
 starred: true
 ---

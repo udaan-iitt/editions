@@ -7,6 +7,7 @@ desc: Explore life's quest for happiness amidst the maze of desires. Amid
   that in love and peace, life's true essence is found.
 thumbnail: images/dor-thumbnail.jpg
 authors: Pranav Sutar
+abio: none
 starred: false
 ---
 <p style="text-align: center;align:center;">Life is a journey that we try to explore<br>

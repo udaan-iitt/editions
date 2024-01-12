@@ -9,6 +9,7 @@ desc: Wishing to change your past actions is a relatable thought, which this
 thumbnail: images/03-thumbnail.jpg
 authors: Krithi Shailya
 starred: false
+abio: none
 ---
 <!--StartFragment-->
 

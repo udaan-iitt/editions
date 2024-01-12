@@ -6,6 +6,8 @@ desc: "Dive into the tech board meets: Are we innovating or drowning in
   technicality chaos? Uncover the behind-the-scenes drama, from contention
   battles to penalty madness – it's nothing short of a  courtroom drama
   unfolding."
+thumbnail: images/helping-thumbnail.jpg
+abio: none
 authors: Sneha M S
 starred: false
 ---

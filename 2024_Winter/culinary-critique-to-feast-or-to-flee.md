@@ -6,6 +6,8 @@ desc: Should you savour the tempting delights at Akulas Arena, from masala dosas
   to biryanis? Or should you risk missing out on this culinary exploration?
   Udaan's review unveils the hits and misses, leaving you to decide your next
   campus dining destination.
+thumbnail: images/helping-thumbnail.jpg
+abio: none
 authors: Ram Mohith, Ritvik Ravi, Vasantati Chitraksh
 starred: false
 ---
