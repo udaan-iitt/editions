@@ -8,9 +8,8 @@ desc: Urging with a â€˜take a breath, rest for a while, and keep moving forwardâ
 thumbnail: images/02-thumbnail.jpeg
 authors: Anvay Joshi
 starred: false
-abio: ""
+abio: none
 alt: ""
-
 ---
 <!--StartFragment-->
 
