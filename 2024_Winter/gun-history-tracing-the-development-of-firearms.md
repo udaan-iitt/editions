@@ -5,10 +5,10 @@ date: 2024-01-11T14:50:57.736Z
 desc: A staple of action films, video games, and war documentaries, the humble
   gun has acquired a steady place in the minds of the general public. Hop on, as
   we go down through its fascinating evolution.
-thumbnail: images/helping-thumbnail.jpg
+thumbnail: images/gun-thumbnail.jpg
 authors: Arvind Srinivason, Ansh Anand, Mathew KJ
-abio: none
 starred: false
+abio: none
 ---
 # Introduction
 
@@ -39,6 +39,8 @@ In 1453, the Byzantine Empire was shot at point-blank range by the new and impro
 In the face of these new developments, Niccolo Machiavelli (yes, that Machiavelli) wrote, “There is no wall, whatever its thickness, that artillery will not destroy in only a few days."
 
 Still, you can’t blame a ~~girl~~ fortress for trying. The initial attempts were simply at making walls thicker. After all, it worked against catapults and trebuchets, so why not cannon? Sadly, this effort was ill-conceived.
+
+![](images/cannons.jpg)
 
 The main problem with trying to out-stiffen cannons is racking stress (the walls twisting against each other), and the problem gets worse as you thicken the wall.
 
@@ -89,6 +91,8 @@ As always, the chemists have found new ways of blowing themselves and everyone e
 ## The right end of the gun
 
 The usual method of fire, when it came to guns, had been to use volley fire, where one troop splits into a kneeling and standing line, and one shoots as the other reloads. This approach, however, just wasn’t good enough at killing soldiers (this was an article about guns; what did you think the military was interested in?) This defect needed to be remedied.
+
+![](images/gun.jpg)
 
 The mitrailleuse was a gun that spat out 25 rifle bullets one after the other, called a volley gun. However, it was limited by the operator's speed to crank the firing mechanism. The Gatling gun, built by Dr. Gatling, ended up the more popular and better-developed precursor to the modern machine gun. While it also suffered from the hand-cranking defect, unlike the mitrailleuse, it had no problem of overheating as each barrel had been given time to cool.
 
