@@ -5,10 +5,10 @@ date: 2024-01-11T17:42:44.437Z
 desc: Explore condensed insights from three months of distinguished lectures at
   IIT Tirupati, ranging from environmental histories to philosophical
   reflections and cutting-edge scientific revelations.
-thumbnail: images/helping-thumbnail.jpg
+thumbnail: images/campus-main-pic-thumbnai.jpg
 authors: Aiswarya Pradeep, Krithi Shailya, Akhil Krishnan, Sneha M S
-abio: none
 starred: false
+abio: none
 ---
 <!--StartFragment-->
 
