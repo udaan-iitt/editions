@@ -7,6 +7,7 @@ desc: While playing video games, you must have had those moments where you
   better. Well, this is exactly what open-source games offer and much more. Join
   us as we explore the depths (or expanse) of one such simulation game and delve
   into the lore, the gameplay, and the code within.
+thumbnail: images/victoria-console-thumbnail.jpg
 authors: Mathew KJ
 starred: false
 abio: none
@@ -17,10 +18,11 @@ abio: none
 
 It all began when I felt a cold coming on and knew that the chances of doing anything productive on the weekend were close to nil. Wanting a distraction from the misery that awaited, I considered trying out some game development; I had written Asteroids in Python earlier and wanted to see if I could implement missiles with an inertial navigation system. 
 
-Halfway through solving the relevant kinematic equations, a thought struck me - I'm not the first person to have made such a game. Wouldn't my time be better spent playing a complete game and making contributions to it instead? And so I found [Naev](https://naev.org/), a clone of [Escape Velocity](https://en.wikipedia.org/wiki/Escape_Velocity_(video_game)). Since Naev[1] was open-source, I knew that I would stand to learn a thing or two by studying the codebase. 
+Halfway through solving the relevant kinematic equations, a thought struck me - I'm not the first person to have made such a game. Wouldn't my time be better spent playing a complete game and making contributions to it instead? And so I found [Naev](https://naev.org/), a clone of [Escape Velocity](https://en.wikipedia.org/wiki/Escape_Velocity_(video_game)). Since Naev\[1] was open-source, I knew that I would stand to learn a thing or two by studying the codebase. 
+
+![](images/naev.jpg)
 
 The developers had made the installation procedure quite easy for Linux, with a self-contained AppImage that let me jump straight into the game without compiling the whole thing from the source. After creating a profile, I began my journey into the Sea of Darkness.
-
 
 ## Gameplay:
 
@@ -40,10 +42,11 @@ As the cargo missions grew tiresome, I tried out some sight-seeing missions unde
 The express cargo missions tended to pay more, but failing to make the delivery on time resulted in no payment at all. As someone who did not explore much of Imperial space, finding a route to the planet I needed to make the delivery to was often too difficult to complete quickly, resulting in a lot of missed deliveries. The person who asked me to deliver the cargo did not give me a map to my destination, instead letting me find my way there myself.
 
 As time went by, I managed to save enough to buy a new ship. My first instinct was to buy an interceptor class ship (the cheapest combat type) and have fun hunting down pirates. However, I had four important observations:
-1) An interceptor, being larger than a pirate Hyena, would often be outrun
-2) Pirates can fly interceptors too, and they are not easy to scare off
-3) Hunting random pirates, while fun, could not be turned into an income stream
-4) Buying an interceptor required me to get a license that allowed me to buy combat vessels. Such licenses actually cost money since a functional society cannot let military hardware be purchased willy-nilly without at least some background check.
+
+1. An interceptor, being larger than a pirate Hyena, would often be outrun
+2. Pirates can fly interceptors too, and they are not easy to scare off
+3. Hunting random pirates, while fun, could not be turned into an income stream
+4. Buying an interceptor required me to get a license that allowed me to buy combat vessels. Such licenses actually cost money since a functional society cannot let military hardware be purchased willy-nilly without at least some background check.
 
 On the other hand, my exploration of the stars had left me with a decent working knowledge of most systems in Imperial space, which made express shipping a viable activity. The problem of piracy could be solved by simply outrunning them, so I bought the fastest ship available - the Schroedinger. Designed to be a reconnaissance ship, it could move faster than most pirate ships (except those pesky souped-up hyenas the pirates flew). 
 
@@ -83,7 +86,7 @@ Even routine operations like patrols of systems are assigned to miscellaneous wa
 
 Often, upon entering a Dvaered system, a mercenary hailed me and told me that a showdown was happening between two warlords in this system and that I was free to attack either side. If the side I threw my lot in with ended up winning, I'd be paid; else I'd be hunted down. I was neither in any position to play kingmaker nor particularly interested in finding myself in the ranks of suicidally insane soon-to-be space-ronin, so I jumped out as soon as possible. 
 
-Sometimes, when I felt particularly adventurous or bored, I'd drift at the midpoint between the two approaching fleets and watch the battle play out in front of me. When defeat was all but assured for one side, I'd jump in and get a couple of shots in to claim a bounty. Dvaered culture being what it was, the remnants of the defeated fleet often made heroic[2] last stands instead of attempting to run or swear fealty to a new liege lord.
+Sometimes, when I felt particularly adventurous or bored, I'd drift at the midpoint between the two approaching fleets and watch the battle play out in front of me. When defeat was all but assured for one side, I'd jump in and get a couple of shots in to claim a bounty. Dvaered culture being what it was, the remnants of the defeated fleet often made heroic\[2] last stands instead of attempting to run or swear fealty to a new liege lord.
 
 Sometimes, if one hung around the systems adjacent to the DHC long enough, one would hear public broadcasts like "Other warlords not letting you enjoy bloodshed? Join Lord Easytrigger's battalion today!" or "Let it be known that Lord Battleaddict is a Dunderhead. - Lady Killington". 
 
@@ -114,6 +117,10 @@ The Za'lek ethos is antithetical to order; this is reflected in everything from 
 The Za'lek drones outclassed my Fidelity hangars, so I spent some time in Za'lek space making money and building a reputation to purchase their heavy drones and bombers. Upon seeing that I wasn't going to be able to convince them to let me buy one of their capital ships, I decided to travel to the last of the Great Houses - the Soromid.
 
 The Soromid gained their independence during a great plague when the Empire abandoned their homeworld as a lost cause and bombed all spaceports from orbit to prevent the various plagues on it from spreading. Though left for dead, the Soromid managed not only to survive but thrive, via genetic engineering. This makes the average Soromid tribesperson look slightly off (eg. having the wrong number of eyes or limbs) since bioaugmentation is as firmly embedded in Soromid culture as LaTeX is in Za'lek culture.
+
+![](images/naev-gameplay-1.png)
+
+
 The Soromid bioships, produced by embedding ship components in an organic matrix, are some of the best in the galaxy. Each ship comes equipped with stinger organs for weapons, an organic computation unit, and a bioengineered hull.
 
 I like to think that I arrived in Soromid space in style, flying a capital ship of a Great House at another end of known space. Maybe the Soromid who saw me thought I was a Sirii envoy there on important business. Nothing could be further from the truth; all I wanted to do was to move up Soromid ranks by killing local pirates and eventually be given permission to buy their capital ship, the Arx. Having acquired Za'lek bombers (which disabled ships before destroying them), I was able to take on bounty missions where the authorities wanted the target alive, which made me more than enough money to buy an Arx. 
@@ -126,7 +133,6 @@ It was here that I acquired the pirate Kestrel, the only ship more notorious tha
 
 My journey was over. I'd done it all. I explored distant worlds, fought deadly foes, mined rare minerals, flew powerful ships and met interesting people. Wanting a poetic end to my celestial Odessey, I travelled back to the start point, landed and disembarked.
 
-
 As you step out of your ship, the sunlight suddenly flickers. The local star in the sky turns blue, then a deep purple, and then goes dark. The whole planet plunges into darkness.
     Then a voice speaks, louder than an earthquake. It seems to echo inside your bones and from the very centre of the galaxy. "Oh crap..." it says.
     Another voice laughs musically, as if the world itself were singing. "bobbens, did you just destroy the universe, again?"
@@ -134,16 +140,13 @@ As you step out of your ship, the sunlight suddenly flickers. The local star in 
     A window opens in the darkness, infinitely far away and infinitely large. A face peeps down at you from the height of eternity.
     "Everything all right in there?"
 
-
 Huh. This was new. I responded in the affirmative; everything was all right.
-
 
 "Good. Sorry for the inconvenience. Please don't worry, I'll have reality reloaded again in just a sec."
     The creator turns to go, then pauses.
     "By the way, we're working hard on improving life, the universe, and all that, but we're a bit short-handed. If you like this existence but think the details could be improved, the universe creation team could use your help. We'd be especially happy to see you if you have any special skill in drawing planets, designing ships, scripting the underlying laws of nature, or composing the music of the spheres. For information on how to contribute, just point your web-of-reality browser to naev.org."
     The watchmaker lifts his eyes up beyond your frame of reference and smiles.
     "OK then. Pushed. And we're back in 3... 2... 1..."
-
 
 ## Contributions
 
@@ -153,19 +156,21 @@ Exploring the codebase required me to start by downloading it. I have been playi
 
 After cloning the repo, I began by installing the required dependencies in the background while looking at the code. The codebase consisted mostly of C (for the game engine) and Lua (for missions); I was familiar with the former and had no idea about the latter. A cursory glance into the src folder showed a bunch of files with familiar names, like ship.c and pilot.c. The functions contained in them were well-documented and legible.
 
+![](images/naev-code.jpg)
+
 After all the dependencies were installed, the compilation failed. To be honest, I never expected it to compile correctly the first time; I'd have been very surprised if it did. Such is simply the nature of software - something always goes wrong. When reading the documentation failed to shed any new light on the error I was facing, I decided that I ought to try asking in some forum.
 
 My first instinct was to check the [contact page](https://naev.org/contact/) of the Naev website, which took me to their discord server. I described the problem I faced, apologized in advance if the root cause of the issue was my own stupidity, and waited.
 
 My worries about eliciting comments like "lurk moar", "read the wiki" or "What do you take us for, free tech support?" were proven unfounded when one of the developers pointed out the issue - one of the dependencies I had did not meet the minimum requirements.
 
-So far, I have been using the package manager apt to handle all my installations. The library in question, SDL[3], did not have its latest release available to apt, so I had to go to their homepage, download a compressed version of the latest version of the library and do the whole `./configure && make && make install` routine that I'd been trying to avoid.
+So far, I have been using the package manager apt to handle all my installations. The library in question, SDL\[3], did not have its latest release available to apt, so I had to go to their homepage, download a compressed version of the latest version of the library and do the whole `./configure && make && make install` routine that I'd been trying to avoid.
 
-After sorting out the issue with the dependencies, the compilation proceeded smoothly. I had a fully operational instance of Naev, this time built from source. The build process itself was managed by [meson](https://mesonbuild.com/)[4], so I had to type only three commands to finish the whole thing. Nonetheless, I decided to put those three commands into a shell file, to reduce my work even further. Such is the nature of a software engineer - one would spend 10 minutes to automate a task taking 1 minute to do manually.
+After sorting out the issue with the dependencies, the compilation proceeded smoothly. I had a fully operational instance of Naev, this time built from source. The build process itself was managed by [meson](https://mesonbuild.com/)\[4], so I had to type only three commands to finish the whole thing. Nonetheless, I decided to put those three commands into a shell file, to reduce my work even further. Such is the nature of a software engineer - one would spend 10 minutes to automate a task taking 1 minute to do manually.
 
 While playing the game, I had many ideas for improving the gameplay, and now I could actually try implementing a few features. This is one of the reasons FOSS games are superior to their non-FOSS counterparts - extending the game (or "modding") is easy by design. Since I was working with an unfamiliar codebase, I decided to start off with something simple - whenever a Sirii pilgrim changed their destination location from Mutris, the corresponding mission marker on the map remained on Mutris (despite the player's inability to actually land there).
 
-Since the problem was one related to a mission, I knew that the relevant code would be in Lua. One problem - I knew absolutely nothing of Lua[5].
+Since the problem was one related to a mission, I knew that the relevant code would be in Lua. One problem - I knew absolutely nothing of Lua\[5].
 
 In a post-GPT world, learning Lua syntax was unnecessary. The language was such that anyone with a passing familiarity with procedural programming could understand what was being written, and anyone who wanted to write Lua code could just describe what was needed and let chatGPT worry about getting the syntax exactly right.
 
@@ -173,14 +178,11 @@ My first job was to pinpoint where exactly the code I was looking for was writte
 
 What I did know was that the dialog boxes that popped up when ferrying Sirii often had the words "disappointed" or "unworthy", and locating the string with the dialog would lead me to the file I needed. VSCodium (my go-to editor) was capable of performing regex searches across every file in the codebase, so I composed a suitable regular expression:
 
-
 `set.*foot.*(Mutris|holy.*ground)`
-
 
 This took me straight to a file named `srs_ferry.lua`, and, after reading the whole thing, noticed the problem - the mission marker was not moved when the destination was reassigned. All I needed to do was to save the mission marker and then use the movement API to change the location of the marker. Studying other missions with dynamic mission markers provided me with a useful blueprint for how to proceed.
 
-
-After fixing the issue, I rebuilt from the source and tested out my fix. By now, I had learnt that pressing F2 opened up the Lua console in Naev, so I could just use the API[6] to teleport my ship into Sirii space and summon pilgrims out of the ether. After verifying that the mission marker moved as expected, I decided to let the developers know on Discord.
+After fixing the issue, I rebuilt from the source and tested out my fix. By now, I had learnt that pressing F2 opened up the Lua console in Naev, so I could just use the API\[6] to teleport my ship into Sirii space and summon pilgrims out of the ether. After verifying that the mission marker moved as expected, I decided to let the developers know on Discord.
 
 The developers suggested that I open a pull request on GitHub, so I did just that. GitHub helpfully showed everyone the nature of my changes - I had modified one line and added another. Given the small magnitude of the changes made, there wasn't much scrutiny before the PR was accepted. I had gone from playing Naev to helping develop it.
 
@@ -190,17 +192,16 @@ Even more curious are the gamers - those who recognize that mere computer progra
 
 In some ways, the codebase of Naev reflected the in-game universe itself - a vast entity created by the collaboration of many people united by a common purpose, waiting to be explored and expanded. In the duality between these two seas of darkness, I saw something beautiful.
 
-
 Footnotes:
 
-[1] Naev, it is claimed by some, stands for "not another EV"
+\[1] Naev, it is claimed by some, stands for "not another EV"
 
-[2] at least, heroic by Dvaered standards, which differ considerably from those of the rest of the galaxy
+\[2] at least, heroic by Dvaered standards, which differ considerably from those of the rest of the galaxy
 
-[4] an open-source tool designed to automate the process of compilation
+\[4] an open-source tool designed to automate the process of compilation
 
-[3] A library to allow low-level access to hardware, often used in game development
+\[3] A library to allow low-level access to hardware, often used in game development
 
-[5] From glancing at the Wikipedia article for Lua, I understood that it owed its creation to the Brazilian government's trade barriers which, by making foreign software unaffordable, induced the creation of a homegrown programming language ("Lua" meaning moon in Portuguese).
+\[5] From glancing at the Wikipedia article for Lua, I understood that it owed its creation to the Brazilian government's trade barriers which, by making foreign software unaffordable, induced the creation of a homegrown programming language ("Lua" meaning moon in Portuguese).
 
-[6] The Lua API lets one do many things, including but not limited to: paying oneself any amount of money one wishes, buying any weapon or ship, changing one's standing with any faction or going anywhere instantaneously
+\[6] The Lua API lets one do many things, including but not limited to: paying oneself any amount of money one wishes, buying any weapon or ship, changing one's standing with any faction or going anywhere instantaneously
