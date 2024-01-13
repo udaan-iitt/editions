@@ -6,10 +6,10 @@ desc: "Dive into the tech board meets: Are we innovating or drowning in
   technicality chaos? Uncover the behind-the-scenes drama, from contention
   battles to penalty madness – it's nothing short of a  courtroom drama
   unfolding."
-thumbnail: images/helping-thumbnail.jpg
-abio: none
+thumbnail: images/thumbnail-inter-tech.jpg
 authors: Sneha M S
 starred: false
+abio: none
 ---
 <!--StartFragment-->
 
@@ -22,6 +22,8 @@ The rules, originally conceived to bring order to the chaos, have now taken a de
 And then there are those who've mastered the art of contention documents – meticulously crafted accusations presented in LaTeX, as if we've stumbled into the middle of a tech-themed courtroom drama. It's like they have a designated "accusation architect" within their team, armed with a flair for drama and an uncanny ability to turn unintentional mistakes into headline-worthy scandals.
 
 The shift from celebrating technical solutions to engaging in technicalities is as baffling as trying to explain quantum mechanics to an amoeba. We've moved from "may the best solution win" to "may the best legal team win." Who needs innovation when you can outmanoeuvre the competition with a well-placed semicolon?
+
+![](images/code-image.jpg)
 
 In this bewildering carnival of technicality, it's high time for a reality check on the rules governing our beloved tech meets. The penalty system, once designed to keep the playing field fair, now feels like a convoluted obstacle course where avoiding penalties is a feat in itself. Are we in a tech meet or competing in a penalised edition of the Olympics?
 
