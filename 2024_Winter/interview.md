@@ -7,10 +7,10 @@ desc: >
   guided by the eloquent insights of Dr Pramod Nayar. This isn't just an
   exploration of academic realms; it's a conversation that unravels the
   intricate interplay between technology and the humanities at IIT Tirupati.
-thumbnail: images/helping-thumbnail.jpg
-abio: none
+thumbnail: images/pramod-thumbnail.jpg
 authors: Sneha M S
 starred: true
+abio: none
 ---
 <!--StartFragment-->
 
@@ -41,6 +41,8 @@ Against this backdrop, we now turn our attention to Dr Nayar's multifaceted rese
 Dr Nayar explains, "*Our UNESCO Chair's focus revolves around 'vulnerable lives and the vulnerable planet,' which initially led me to explore human rights and literature.*" This exploration extends to diverse areas, including the study of graphic novels and extreme cultures.
 
 His current research unfolds in the historical realm of British India (1770 to 1905), examining famines, floods, and earthquakes not just as natural disasters but as triggers for profound human consequences. Dr Nayar is also interested in contemporary literature's reflections on technology's impact, particularly posthumanism's exploration of genetic engineering, cloning, and bio-enhancement. Drawing examples from novels like Never Let Me Go, he highlighted these technologies' ethical and moral dimensions, pondering the consequences of what he terms "*runaway technologies.*"
+
+![](images/pramod-nair.jpg)
 
 In his investigations of the future, Dr Nayar spoke of scenarios where the state and corporations merge to control technology, leaving individuals marginalised. He raises critical questions about the ethical implications of treating robots as servants, drawing parallels with historical discussions and robot servitude. Through his work, he seeks to unravel the complexities of these issues and propose potential solutions for navigating the challenges presented by evolving technologies and societal structures.
 
