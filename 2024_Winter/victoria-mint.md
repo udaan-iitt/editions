@@ -1,5 +1,5 @@
 ---
-title: Victoria Mint
+title: Exploring the Sea of Darkness
 category: Op-Ed
 date: 2024-01-12T16:41:43.357Z
 desc: While playing video games, you must have had those moments where you
@@ -8,7 +8,7 @@ desc: While playing video games, you must have had those moments where you
   us as we explore the depths (or expanse) of one such simulation game and delve
   into the lore, the gameplay, and the code within.
 thumbnail: images/victoria-console-thumbnail.jpg
-authors: Mathew KJ
+authors: Victoria Mint
 starred: false
 abio: none
 ---
