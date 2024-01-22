@@ -6,6 +6,7 @@ desc: "Embark on a Wattpad adventure with TripuWrites, where Purvanchalee
   culture meets captivating storytelling. From character-driven plots to a
   fusion of tradition and modernity, join the chat for an exploration into the
   vibrant world of contemporary Indian tales. "
+thumbnail: images/aaron-burden-4ewwsxadhe4-unsplash.jpg
 authors: Chaitali Karekar, Sneha M S
 starred: false
 abio: none
