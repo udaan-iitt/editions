@@ -18,7 +18,7 @@ From an elixir of life to the breech of a machine gun, gunpowder has come far fr
 
 ### Eternal life aka gunpowder
 
-It was known in China in the first millennium AD that a mixture of certain chemicals (saltpetre aka KNO~3~, sulfur and at times other substances) burned very, VERY well. A large number of alchemists were of the opinion that this concoction was definitely the 100% new solution for the problem of gold, eternal life and perhaps all the world’s problems (which it certainly is in Stalin’s view).
+It was known in China in the first millennium AD that a mixture of certain chemicals (saltpetre aka KNO\~3\~, sulfur and at times other substances) burned very, VERY well. A large number of alchemists were of the opinion that this concoction was definitely the 100% new solution for the problem of gold, eternal life and perhaps all the world’s problems (which it certainly is in Stalin’s view).
 
 The ratio of the two ingredients was very different from black powder (the standard smoky gunpowder), having far less saltpetre (which is an oxidant, making the powder explode). Early powders didn't have enough saltpetre to produce the explosion that characterises gunpowder. Instead, the powders ended up on fire arrows. These ‘arrows’ moved from being launched from bows to being fired from rocket launchers made of bamboo or paper, exciting choices for a firearm barrel. 
 
@@ -68,7 +68,7 @@ To find the next piece of the puzzle, we need to look at bullets.
 
 - - -
 
-### Don't shoot till you see the whites of your eyes
+### Don't shoot till you see the whites of their eyes
 
 It was a well-known principle since feathered arrows that spinning makes a projectile more stable. Many approaches had been adopted to allow the bullet to spin, most involving a rifling of the lands on a gun (for the less terminally-definition-oriented, making a groove in the barrel of a rifle) and possibly a matching protrusion on the bullet to spin it as it exits the bore.
 
@@ -80,7 +80,7 @@ A French inventor, Claude-Étienne Minié, achieved worldwide fame by resolving 
 
 ### Poof!
 
-To avoid going out with a bang and a splash, it was now necessary to get rid of sparks and firing pans. By this time, chemists had found more excitingly unstable compounds than gunpowder. Of importance here is Mercuric fulminate (Hg(CNO)~2~), an unstable compound that explodes when struck. By placing a cap of this behind the gunpowder, you could fire a weapon without ever using a spark outside the barrel. This had the added advantage of being quicker to fire due to no firing pan. From the percussion cap (what we have just discussed), it was just a skip and a hop to the cartridge, where the powder was safely enclosed away from pesky rain.
+To avoid going out with a bang and a splash, it was now necessary to get rid of sparks and firing pans. By this time, chemists had found more excitingly unstable compounds than gunpowder. Of importance here is Mercuric fulminate (Hg(CNO)\~2\~), an unstable compound that explodes when struck. By placing a cap of this behind the gunpowder, you could fire a weapon without ever using a spark outside the barrel. This had the added advantage of being quicker to fire due to no firing pan. From the percussion cap (what we have just discussed), it was just a skip and a hop to the cartridge, where the powder was safely enclosed away from pesky rain.
 
 However, the powder in these guns remained notoriously smoky. Snipers could not fire without being revealed. Commanders could not issue orders once firing started. And on top of all this, they were quite heavy, fouled the barrel and were hygroscopic, which made it even worse to handle. For all this, gunpowder was also a poor explosive.
 
@@ -88,7 +88,7 @@ As always, the chemists have found new ways of blowing themselves and everyone e
 
 - - -
 
-### The right end of the gun
+### The right end of a gun
 
 The usual method of fire, when it came to guns, had been to use volley fire, where one troop splits into a kneeling and standing line, and one shoots as the other reloads. This approach, however, just wasn’t good enough at killing soldiers (this was an article about guns; what did you think the military was interested in?) This defect needed to be remedied.
 
@@ -106,6 +106,8 @@ And with that, we reach the business end of the machine gun as promised.
 
 ### References
 
-* Wikipedia’s pages on [Fulminates](https://en.wikipedia.org/wiki/Fulminate), etc
-* Encyclopaedia Britannica
-* Special mention for Saphroneth’s [Saruman of Many Devices](https://tvtropes.org/pmwiki/pmwiki.php/Fanfic/SarumanOfManyDevices), which inspired me to make this article.
+* Wikipedia’s articles on [Fulminates](https://en.wikipedia.org/wiki/Fulminate), [Maxim Gun](https://en.wikipedia.org/wiki/Maxim_gun), [First Matabele War](https://en.wikipedia.org/wiki/First_Matabele_War), [Mitrailleuse](https://en.wikipedia.org/wiki/Mitrailleuse), [Matchlock](https://en.wikipedia.org/wiki/Matchlock), [Minie ball](https://en.wikipedia.org/wiki/Mini%C3%A9_ball), [Arquebus](https://en.wikipedia.org/wiki/Arquebus), [Flintlock](https://en.wikipedia.org/wiki/Flintlock), [Poudre B](https://en.wikipedia.org/wiki/Poudre_B), [Touch hole](https://en.wikipedia.org/wiki/Touch_hole#).
+* Encyclopedia Britannica’s articles on [Guns](https://www.britannica.com/technology/gun-weapon), [Cannons](https://www.britannica.com/technology/cannon-weapon), [Muskets](https://www.britannica.com/technology/musket), [Artillery](https://www.britannica.com/technology/artillery).
+* **Special mention for Saphroneth’s [Saruman of Many Devices](https://tvtropes.org/pmwiki/pmwiki.php/Fanfic/SarumanOfManyDevices), which inspired me to make this article.**
+
+<!--EndFragment-->
