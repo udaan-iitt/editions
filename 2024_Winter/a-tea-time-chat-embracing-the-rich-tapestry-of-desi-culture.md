@@ -12,7 +12,7 @@ abio: none
 ---
 <!--StartFragment-->
 
-There were many Aditis in my class. And my friends call me Tripathi.
+> There were many Aditis in my class. And my friends call me Tripathi.
 
 If you frequently scour Wattpad for desi stories, desperately searching for a literary break from the usual world, [TripuWrites](https://www.wattpad.com/user/TripuWrites) is a must-know - a chic handle with fictional stories setup in a desi urban or rural landscapes. A quick glance at the page immediately gives you ‘the authentic’ desi vibes, which is not that common on this platform. The reading list she curates is nothing short of exquisite, and once you start delving into her books, it's quite challenging to hit pause. After you've devoured all her works, don't forget to explore her reading list; it's equally rewarding.
 
@@ -145,7 +145,5 @@ Aditi does want to get published but doesn’t want to make any of her current W
 > “I do want to get published traditionally, but there are no plans as of yet. I'm just in the zone of writing right now. Even if Bhabra does get published, it'll be quite a different and bulkier version of Bhabra.  (NEWS FLASH BHABRA FANS!!!) Because I'm working on a rewrite and adding a lot of Nakul’s chapters from his perspective as he was a kid.”
 
 That brings us to the end of the interview and a good reading list to binge over. 
-
-
 
 <!--EndFragment-->
