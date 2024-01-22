@@ -108,6 +108,6 @@ And with that, we reach the business end of the machine gun as promised.
 
 * Wikipedia’s articles on [Fulminates](https://en.wikipedia.org/wiki/Fulminate), [Maxim Gun](https://en.wikipedia.org/wiki/Maxim_gun), [First Matabele War](https://en.wikipedia.org/wiki/First_Matabele_War), [Mitrailleuse](https://en.wikipedia.org/wiki/Mitrailleuse), [Matchlock](https://en.wikipedia.org/wiki/Matchlock), [Minie ball](https://en.wikipedia.org/wiki/Mini%C3%A9_ball), [Arquebus](https://en.wikipedia.org/wiki/Arquebus), [Flintlock](https://en.wikipedia.org/wiki/Flintlock), [Poudre B](https://en.wikipedia.org/wiki/Poudre_B), [Touch hole](https://en.wikipedia.org/wiki/Touch_hole#).
 * Encyclopedia Britannica’s articles on [Guns](https://www.britannica.com/technology/gun-weapon), [Cannons](https://www.britannica.com/technology/cannon-weapon), [Muskets](https://www.britannica.com/technology/musket), [Artillery](https://www.britannica.com/technology/artillery).
-* **Special mention for Saphroneth’s [Saruman of Many Devices](https://tvtropes.org/pmwiki/pmwiki.php/Fanfic/SarumanOfManyDevices), which inspired me to make this article.**
+* Special mention for Saphroneth’s [Saruman of Many Devices](https://tvtropes.org/pmwiki/pmwiki.php/Fanfic/SarumanOfManyDevices), which inspired me to make this article.
 
 <!--EndFragment-->
