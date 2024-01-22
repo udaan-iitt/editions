@@ -6,7 +6,7 @@ desc: Dive into the inaugural Alumni Meet at IIT Tirupati, a vibrant blend of
   academic legacy, nostalgic reunions, and promising connections. An
   unforgettable day weaving past, present, and future, celebrating the essence
   of IIT Tirupati's thriving community.
-authors: Chandini
+authors: Chandini, Gopi Krishna
 starred: false
 ---
 <!--StartFragment-->
