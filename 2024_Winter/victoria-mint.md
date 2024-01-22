@@ -1,7 +1,7 @@
 ---
 title: Exploring the Sea of Darkness
 category: Op-Ed
-date: 2024-01-12T16:41:43.357Z
+date: 2024-01-11T16:41:43.357Z
 desc: While playing video games, you must have had those moments where you
   wished that you could make just a few more tweaks to make your experience even
   better. Well, this is exactly what open-source games offer and much more. Join
@@ -12,9 +12,7 @@ authors: Victoria Mint
 starred: false
 abio: none
 ---
-# Exploring the Sea of Darkness
-
-## Intro:
+### Intro:
 
 It all began when I felt a cold coming on and knew that the chances of doing anything productive on the weekend were close to nil. Wanting a distraction from the misery that awaited, I considered trying out some game development; I had written Asteroids in Python earlier and wanted to see if I could implement missiles with an inertial navigation system. 
 
@@ -24,7 +22,9 @@ Halfway through solving the relevant kinematic equations, a thought struck me - 
 
 The developers had made the installation procedure quite easy for Linux, with a self-contained AppImage that let me jump straight into the game without compiling the whole thing from the source. After creating a profile, I began my journey into the Sea of Darkness.
 
-## Gameplay:
+- - -
+
+### Gameplay:
 
 I started out as all players do, with the generic starter ship on a planet deep inside Imperial space. The initial rules were quite clear:
 If you attacked a merchant ship, they would send out a cry for help, which would be picked up by an Imperial ship which would eliminate you (if the merchant ship had not done so already). 
@@ -96,7 +96,7 @@ A brief aside about Dvaered strategy - the Dvaered fervently believe in the maxi
 
 Upon venturing close to the nebula at the centre of the galaxy, one encounters the Frontier Liberation Front (or FLF). The Frontier is a region of space that remained independent from the Empire before the fracturing, and their government seems to offer tacit support to the FLF to wage asymmetric war against the Dvaered (who have designs on the frontier and would have conquered it a long time back had the squabbling warlords making up their military actually had the discipline to train their guns on a common target rather than each other). 
 
-Any hope of politely minding one's business while the FLF and the Dvaered duke it out was dashed, as I was forced to pick a side pretty soon. Naturally, I chose the Dvaered, since it was clear to me which way the galactic winds were blowing. Thankfully, my refusal to fall in with the FLF did not jeopardize my status with the Frontier governments that backed them, so I was allowed free passage through their space.
+Any hope of politely minding one's business while the FLF and the Dvaered duke it out was dashed, as I was forced to pick a side pretty soon. Naturally, I chose the Dvaered since it was clear to me which way the galactic winds were blowing. Thankfully, my refusal to fall in with the FLF did not jeopardize my status with the Frontier governments that backed them, so I was allowed free passage through their space.
 
 Beyond the Frontier lies House Sirius, which was established by an individual named Sirichana, who led people to safety during the Faction Wars before the establishment of the Empire. By the time the Empire had stabilized itself, the followers of Sirichana controlled enough planets that the Emperor did not want to start a war to bring them back into the fold. Thus, a compromise was made - Sirichana would be recognized as the leader of House Sirius.
 
@@ -108,9 +108,9 @@ As I explored Sirii space, I often came across pilgrims who wished to be ferried
 
 Another point of contention was that my reputation with the Sirii was not high enough for me to be allowed to set foot on Mutris, so the pilgrims would often settle for transport to a neighbouring system if my price was negotiable. Suffice it to say, I was not involved in many pilgrimages (which was fine by me, since the Pacifier was not designed to act as a ferry)
 
-Soon enough, my reputation with the Sirii reached a level where I was trusted by them to buy any ship of Sirii design. Naturally, my first Sirii ship was the Divinity, which was a carrier-class ship designed to serve as a drone-platform. To go with it, I also installed several Fidelity drone docks, which now allowed me to traverse unopposed through all of Sirii space. The local pirates were no match for me, and hunting them had lost charm since my drones destroyed them offscreen.
+Soon enough, my reputation with the Sirii reached a level where I was trusted by them to buy any ship of Sirii design. Naturally, my first Sirii ship was the Divinity, which was a carrier-class ship designed to serve as a drone platform. To go with it, I also installed several Fidelity drone docks, which now allowed me to traverse unopposed through all of Sirii space. The local pirates were no match for me, and hunting them had lost charm since my drones destroyed them offscreen.
 
-Traveling back the way I came, I stumbled upon another Great House - the Za'lek. Originally established as an Imperial research division, the concentration of scientists and academic types resulted in the formation of a new technocratic culture on the planets they colonized. Eventually, the Za'lek were granted the title of a Great House after it became clear to the Emperor that the brain drain happening from Imperial planets to Za'lek space was all but irreversible, and that any military solutions were off the table since the Za'lek had developed vastly superior technology by that point.
+Travelling back the way I came, I stumbled upon another Great House - the Za'lek. Originally established as an Imperial research division, the concentration of scientists and academic types resulted in the formation of a new technocratic culture on the planets they colonized. Eventually, the Za'lek were granted the title of a Great House after it became clear to the Emperor that the brain drain happening from Imperial planets to Za'lek space was all but irreversible, and that any military solutions were off the table since the Za'lek had developed vastly superior technology by that point.
 
 The Za'lek ethos is antithetical to order; this is reflected in everything from their academia-inspired government structure to their apathy towards pirates operating freely on their border with the Dvaered, from their drones which sometimes go haywire and attack nearby vessels to the very designs of their ships, which tend to be comically asymmetric. The Za'lek have idolized the pursuit of science and treat it in much the same way that the Sirii treat their religion or the Dvaered treat their railguns.
 
@@ -119,7 +119,6 @@ The Za'lek drones outclassed my Fidelity hangars, so I spent some time in Za'lek
 The Soromid gained their independence during a great plague when the Empire abandoned their homeworld as a lost cause and bombed all spaceports from orbit to prevent the various plagues on it from spreading. Though left for dead, the Soromid managed not only to survive but thrive, via genetic engineering. This makes the average Soromid tribesperson look slightly off (eg. having the wrong number of eyes or limbs) since bioaugmentation is as firmly embedded in Soromid culture as LaTeX is in Za'lek culture.
 
 ![](images/naev-gameplay-1.png)
-
 
 The Soromid bioships, produced by embedding ship components in an organic matrix, are some of the best in the galaxy. Each ship comes equipped with stinger organs for weapons, an organic computation unit, and a bioengineered hull.
 
@@ -134,21 +133,34 @@ It was here that I acquired the pirate Kestrel, the only ship more notorious tha
 My journey was over. I'd done it all. I explored distant worlds, fought deadly foes, mined rare minerals, flew powerful ships and met interesting people. Wanting a poetic end to my celestial Odessey, I travelled back to the start point, landed and disembarked.
 
 As you step out of your ship, the sunlight suddenly flickers. The local star in the sky turns blue, then a deep purple, and then goes dark. The whole planet plunges into darkness.
-    Then a voice speaks, louder than an earthquake. It seems to echo inside your bones and from the very centre of the galaxy. "Oh crap..." it says.
-    Another voice laughs musically, as if the world itself were singing. "bobbens, did you just destroy the universe, again?"
-    "Mmmm, hold on," the first voice rumbles. "...SIGSEGV... libc start main+0xe5... ah ha!  There's the problem."  You feel something fundamental in the fabric of reality change. The sensation is like sneezing and hiccuping at the same time. "There, that should fix it."
-    A window opens in the darkness, infinitely far away and infinitely large. A face peeps down at you from the height of eternity.
-    "Everything all right in there?"
+
+```
+Then a voice speaks, louder than an earthquake. It seems to echo inside your bones and from the very centre of the galaxy. "Oh crap..." it says.
+                             
+Another voice laughs musically, as if the world itself were singing. "bobbens, did you just destroy the universe, again?"
+                            
+"Mmmm, hold on," the first voice rumbles. "...SIGSEGV... libc start main+0xe5... ah ha!  There's the problem."  You feel something fundamental in the fabric of reality change. The sensation is like sneezing and hiccuping at the same time. "There, that should fix it."
+                               
+A window opens in the darkness, infinitely far away and infinitely large. A face peeps down at you from the height of eternity.                
+                             
+"Everything all right in there?"
+                            
+```
 
 Huh. This was new. I responded in the affirmative; everything was all right.
 
 "Good. Sorry for the inconvenience. Please don't worry, I'll have reality reloaded again in just a sec."
-    The creator turns to go, then pauses.
-    "By the way, we're working hard on improving life, the universe, and all that, but we're a bit short-handed. If you like this existence but think the details could be improved, the universe creation team could use your help. We'd be especially happy to see you if you have any special skill in drawing planets, designing ships, scripting the underlying laws of nature, or composing the music of the spheres. For information on how to contribute, just point your web-of-reality browser to naev.org."
-    The watchmaker lifts his eyes up beyond your frame of reference and smiles.
-    "OK then. Pushed. And we're back in 3... 2... 1..."
 
-## Contributions
+```
+The creator turns to go, then pauses.
+                                 
+"By the way, we're working hard on improving life, the universe, and all that, but we're a bit short-handed. If you like this existence but think the details could be improved, the universe creation team could use your help. We'd be especially happy to see you if you have any special skill in drawing planets, designing ships, scripting the underlying laws of nature, or composing the music of the spheres. For information on how to contribute, just point your web-of-reality browser to naev.org."
+                 
+The watchmaker lifts his eyes up beyond your frame of reference and smiles.
+"OK then. Pushed. And we're back in 3... 2... 1..."                               
+```
+
+### Contributions
 
 Seeing that message reminded me why I was here to begin with. I may have finished exploring the game, but the source code still awaits. I was quite excited to look behind the curtain and understand what made Naev tick.
 
@@ -192,16 +204,13 @@ Even more curious are the gamers - those who recognize that mere computer progra
 
 In some ways, the codebase of Naev reflected the in-game universe itself - a vast entity created by the collaboration of many people united by a common purpose, waiting to be explored and expanded. In the duality between these two seas of darkness, I saw something beautiful.
 
-Footnotes:
+- - -
 
-\[1] Naev, it is claimed by some, stands for "not another EV"
+**Footnotes:**
 
-\[2] at least, heroic by Dvaered standards, which differ considerably from those of the rest of the galaxy
-
-\[4] an open-source tool designed to automate the process of compilation
-
-\[3] A library to allow low-level access to hardware, often used in game development
-
-\[5] From glancing at the Wikipedia article for Lua, I understood that it owed its creation to the Brazilian government's trade barriers which, by making foreign software unaffordable, induced the creation of a homegrown programming language ("Lua" meaning moon in Portuguese).
-
-\[6] The Lua API lets one do many things, including but not limited to: paying oneself any amount of money one wishes, buying any weapon or ship, changing one's standing with any faction or going anywhere instantaneously
+* \[1] Naev, it is claimed by some, stands for "not another EV"
+* \[2] at least, heroic by Dvaered standards, which differ considerably from those of the rest of the galaxy
+* \[4] an open-source tool designed to automate the process of compilation
+* \[3] A library to allow low-level access to hardware, often used in game development
+* \[5] From glancing at the Wikipedia article for Lua, I understood that it owed its creation to the Brazilian government's trade barriers which, by making foreign software unaffordable, induced the creation of a homegrown programming language ("Lua" meaning moon in Portuguese).
+* \[6] The Lua API lets one do many things, including but not limited to: paying oneself any amount of money one wishes, buying any weapon or ship, changing one's standing with any faction or going anywhere instantaneously
