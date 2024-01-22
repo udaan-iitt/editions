@@ -6,9 +6,9 @@ desc: Grab a cup of tea, settle down in your comfiest of chairs. It's time to
   flip through the pages that often go unread—the raw, authentic stories that
   make us all beautifully human.
 thumbnail: images/helping-thumbnail.jpg
-abio: none
 authors: Krithi Shailya, Arvind Srinivasan, Akhil Krishnan
-starred: false
+starred: true
+abio: none
 ---
 <!--StartFragment-->
 
