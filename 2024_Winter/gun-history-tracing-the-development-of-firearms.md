@@ -10,15 +10,15 @@ authors: Arvind Srinivasan, Mathew KJ
 starred: false
 abio: none
 ---
-# Introduction
+### Introduction
 
 From an elixir of life to the breech of a machine gun, gunpowder has come far from its humble origins. This article attempts to summarise (as it happens, one millennium cannot be anything but summarised in a single article) the development of gunpowder and of course, guns. Since events that long ago are hard to trace with extreme accuracy, there are often multiple plausible hypotheses. Here, we will present the most likely one.
 
-<br>
+- - -
 
-## Eternal life aka gunpowder
+### Eternal life aka gunpowder
 
-It was known in China in the first millennium AD that a mixture of certain chemicals (saltpetre aka KNO3, sulfur and at times other substances) burned very, VERY well. A large number of alchemists were of the opinion that this concoction was definitely the 100% new solution for the problem of gold, eternal life and perhaps all the world’s problems (which it certainly is in Stalin’s view).
+It was known in China in the first millennium AD that a mixture of certain chemicals (saltpetre aka KNO~3~, sulfur and at times other substances) burned very, VERY well. A large number of alchemists were of the opinion that this concoction was definitely the 100% new solution for the problem of gold, eternal life and perhaps all the world’s problems (which it certainly is in Stalin’s view).
 
 The ratio of the two ingredients was very different from black powder (the standard smoky gunpowder), having far less saltpetre (which is an oxidant, making the powder explode). Early powders didn't have enough saltpetre to produce the explosion that characterises gunpowder. Instead, the powders ended up on fire arrows. These ‘arrows’ moved from being launched from bows to being fired from rocket launchers made of bamboo or paper, exciting choices for a firearm barrel. 
 
@@ -28,9 +28,9 @@ Eventually, someone wanted a gun you could use more than once and so, the barrel
 
 This insight made people put stones or iron balls of the same diameter (calibre) as the barrel as projectiles in guns instead of just picking up whatever was lying around.
 
-<br>
+- - -
 
-## Attack of the Cannons
+### Attack of the Cannons
 
 On the coattails of Genghis Khan’s Mongol Empire, rode the new weapon, reaching first the Arab Empire, then reaching further north and west.
 
@@ -46,9 +46,9 @@ The main problem with trying to out-stiffen cannons is racking stress (the walls
 
 An engineer called Vauban adopted a new approach: keep the cannons from hitting the walls and keep the soldiers from scaling them. Don’t try to stiffen the wall against cannons; just avoid the balls by raising the walls on a slope, adding external walls… Whatever it takes to keep the cannons away from the walls. Infantry is less dangerous than even a BB gun, after all.
 
-<br>
+- - -
 
-## Guns. Lots of guns
+### Guns. Lots of guns
 
 Or is it? Let’s have a look at what’s been happening with those small arms of ours.
 
@@ -66,9 +66,9 @@ The problem was solved in part by breechloading weapons, which allowed one to lo
 
 To find the next piece of the puzzle, we need to look at bullets.
 
-<br>
+- - -
 
-## Don't shoot till you see the whites of your eyes
+### Don't shoot till you see the whites of your eyes
 
 It was a well-known principle since feathered arrows that spinning makes a projectile more stable. Many approaches had been adopted to allow the bullet to spin, most involving a rifling of the lands on a gun (for the less terminally-definition-oriented, making a groove in the barrel of a rifle) and possibly a matching protrusion on the bullet to spin it as it exits the bore.
 
@@ -76,19 +76,19 @@ The problem with such approaches is the difficulty in actually loading the bulle
 
 A French inventor, Claude-Étienne Minié, achieved worldwide fame by resolving the paradox with the Minié ball, a cylindro-conoidal bullet (think mix of cone and cylinder) with a cavity at the back. The bullet could be made smaller and expand due to the pressure of firing until it engaged the rifling on the bore. (Again, this means fitting the bullet into the groove.) This invention was so popular that Minié balls were the most common bullet in the American Civil War and put the rifle solidly on the market.
 
-<br>
+- - -
 
-## Poof!
+### Poof!
 
-To avoid going out with a bang and a splash, it was now necessary to get rid of sparks and firing pans. By this time, chemists had found more excitingly unstable compounds than gunpowder. Of importance here is Mercuric fulminate (Hg(CNO)2), an unstable compound that explodes when struck. By placing a cap of this behind the gunpowder, you could fire a weapon without ever using a spark outside the barrel. This had the added advantage of being quicker to fire due to no firing pan. From the percussion cap (what we have just discussed), it was just a skip and a hop to the cartridge, where the powder was safely enclosed away from pesky rain.
+To avoid going out with a bang and a splash, it was now necessary to get rid of sparks and firing pans. By this time, chemists had found more excitingly unstable compounds than gunpowder. Of importance here is Mercuric fulminate (Hg(CNO)~2~), an unstable compound that explodes when struck. By placing a cap of this behind the gunpowder, you could fire a weapon without ever using a spark outside the barrel. This had the added advantage of being quicker to fire due to no firing pan. From the percussion cap (what we have just discussed), it was just a skip and a hop to the cartridge, where the powder was safely enclosed away from pesky rain.
 
 However, the powder in these guns remained notoriously smoky. Snipers could not fire without being revealed. Commanders could not issue orders once firing started. And on top of all this, they were quite heavy, fouled the barrel and were hygroscopic, which made it even worse to handle. For all this, gunpowder was also a poor explosive.
 
 As always, the chemists have found new ways of blowing themselves and everyone else up, this time with nitroglycerine. As the name alone evokes, a long, long series of factory and field explosions led to various derivatives of nitrocellulose, starting with guncotton and reaching Poudre B, creating the first practical smokeless powder at 1/3rd the weight of black powder. Further attempts have largely balanced the ratios of nitroglycerin, nitrocellulose and stabilisers to keep it from exploding outside the barrel.
 
-<br>
+- - -
 
-## The right end of the gun
+### The right end of the gun
 
 The usual method of fire, when it came to guns, had been to use volley fire, where one troop splits into a kneeling and standing line, and one shoots as the other reloads. This approach, however, just wasn’t good enough at killing soldiers (this was an article about guns; what did you think the military was interested in?) This defect needed to be remedied.
 
@@ -102,12 +102,10 @@ The first *truly* automatic weapon was the Maxim gun. Using the recoil from each
 
 And with that, we reach the business end of the machine gun as promised.
 
-<br>
+- - -
 
-# References
+### References
 
-Wikipedia’s pages on [Fulminates](https://en.wikipedia.org/wiki/Fulminate), etc
-
-Encyclopaedia Britannica
-
-Special mention for Saphroneth’s [Saruman of Many Devices](https://tvtropes.org/pmwiki/pmwiki.php/Fanfic/SarumanOfManyDevices), which inspired me to make this article.
+* Wikipedia’s pages on [Fulminates](https://en.wikipedia.org/wiki/Fulminate), etc
+* Encyclopaedia Britannica
+* Special mention for Saphroneth’s [Saruman of Many Devices](https://tvtropes.org/pmwiki/pmwiki.php/Fanfic/SarumanOfManyDevices), which inspired me to make this article.
