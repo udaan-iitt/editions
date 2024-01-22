@@ -1,7 +1,7 @@
 ---
 title: "Alumni Reunion: Nostalgia and New Beginnings at IIT Tirupati"
 category: Campus News
-date: 2024-01-11T03:13:19.730Z
+date: 2024-01-12T06:13:00.000Z
 desc: Dive into the inaugural Alumni Meet at IIT Tirupati, a vibrant blend of
   academic legacy, nostalgic reunions, and promising connections. An
   unforgettable day weaving past, present, and future, celebrating the essence
