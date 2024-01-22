@@ -1,7 +1,7 @@
 ---
 title: "Inter IIT Tech Meet - A Technicality Carnival "
 category: Op-Ed
-date: 2024-01-11T15:30:20.411Z
+date: 2024-01-12T15:30:20.411Z
 desc: "Dive into the tech board meets: Are we innovating or drowning in
   technicality chaos? Uncover the behind-the-scenes drama, from contention
   battles to penalty madness – it's nothing short of a  courtroom drama
