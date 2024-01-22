@@ -6,7 +6,7 @@ desc: A staple of action films, video games, and war documentaries, the humble
   gun has acquired a steady place in the minds of the general public. Hop on, as
   we go down through its fascinating evolution.
 thumbnail: images/gun-thumbnail.jpg
-authors: Arvind Srinivasan, Ansh Anand, Mathew KJ
+authors: Arvind Srinivasan, Mathew KJ
 starred: false
 abio: none
 ---
