@@ -1,7 +1,7 @@
 ---
 title: "Culinary Critique: To Feast or to Flee? "
 category: Review
-date: 2024-01-11T14:51:13.839Z
+date: 2024-01-12T14:51:13.839Z
 desc: Should you savour the tempting delights at Akulas Arena, from masala dosas
   to biryanis? Or should you risk missing out on this culinary exploration?
   Udaan's review unveils the hits and misses, leaving you to decide your next
