@@ -1,14 +1,14 @@
 ---
 title: "A Tea Time Chat: Embracing the Rich Tapestry of Desi Culture"
 category: Review
-date: 2024-01-22T02:36:08.444Z
+date: 2024-01-13T02:36:08.444Z
 desc: "Embark on a Wattpad adventure with TripuWrites, where Purvanchalee
   culture meets captivating storytelling. From character-driven plots to a
   fusion of tradition and modernity, join the chat for an exploration into the
   vibrant world of contemporary Indian tales. "
 authors: Chaitali Karekar, Sneha M S
 starred: false
-abio: None
+abio: none
 ---
 <!--StartFragment-->
 
