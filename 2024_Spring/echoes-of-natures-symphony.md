@@ -10,7 +10,7 @@ authors: M Akash
 starred: false
 abio: none
 ---
-<p>The Very Morning,<br>
+<p style="text-align: center;align:center;">The Very Morning,<br>
 The birds chirping in the eaves,<br>
 Is the loveliest cadence to bring out our essence<br>
 The orange-colored circle that shows up from hills,<br>
