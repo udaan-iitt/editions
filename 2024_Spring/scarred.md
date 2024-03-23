@@ -2,7 +2,11 @@
 title: Scarred
 category: Story
 date: 2024-03-23T15:50:28.501Z
-desc: TBA
+desc: Step into the hushed anticipation of a hospital corridor, where time ticks
+  by with each heartbeat, and a thousand untold stories whisper in the air.
+  Beyond the closed door of the doctor's room lies a singular narrative waiting
+  to unfold—a tale of compassion, resilience, and the intricate dance between
+  life and loss that unfolds within the walls of healing.
 thumbnail: images/ch.jpg
 authors: Neerav Sreekumar
 starred: false
