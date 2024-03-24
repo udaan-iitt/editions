@@ -3,7 +3,7 @@ title: Matinee show Meeting - GBM 2024
 category: Campus News
 date: 2024-03-24T07:21:29.846Z
 desc: "Tldr: 6/10. No choice other than to try again."
-thumbnail: images/ch.jpg
+thumbnail: images/pexels-cytonn-photography-955389.jpg
 authors: R Shreenivason, Neerav Sreekumar
 starred: false
 abio: none
