@@ -5,7 +5,7 @@ date: 2024-03-23T04:50:09.011Z
 desc: A reflective poem that captures the ever-changing essence of a campus
   environment through the lens of nature's elements - from the tranquil mornings
   filled with chirping birds to the tempestuous weather and serene nights ......
-thumbnail: images/ch.jpg
+thumbnail: images/pexels-bill-white-165537.jpg
 authors: M Akash
 starred: false
 abio: none
