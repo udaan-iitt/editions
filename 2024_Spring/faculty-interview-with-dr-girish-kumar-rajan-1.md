@@ -1,5 +1,5 @@
 ---
-title: Faculty Interview with Dr. Girish Kumar Rajan
+title: Faculty Interview with Dr Girish Kumar Rajan
 category: Campus News
 date: 2024-03-24T14:09:24.608Z
 desc: Students can't help but rave about his awesome lectures, detailed
