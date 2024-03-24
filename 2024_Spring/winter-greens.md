@@ -4,7 +4,7 @@ category: Poetry
 date: 2024-03-23T04:55:31.875Z
 desc: Tenderly reminiscing the warmth of familial bonds amidst wintry embraces,
   this poem evokes nostalgia and cherished memories.
-thumbnail: images/ch.jpg
+thumbnail: images/winter_greens.jpg
 authors: Aadhya Agrawal
 starred: false
 abio: none
