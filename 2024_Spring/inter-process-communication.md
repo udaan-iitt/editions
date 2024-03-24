@@ -5,7 +5,7 @@ date: 2024-03-23T07:50:58.701Z
 desc: In a surreal conversation, philosophical quandaries, ethical dilemmas, and
   a touch of dark humour collide in a thought-provoking exploration of
   self-preservation, morality, and the nature of existence.
-thumbnail: images/ch.jpg
+thumbnail: images/pexels-pixabay-270557.jpg
 authors: Cosmic Cutie
 starred: false
 abio: none
