@@ -37,8 +37,8 @@ Sadhana Chatushtay
 The term may be understood as “The discretion between the utile and the futile.” 
 It says that sparking awareness about what is productive and what is not must be continuously glowing. This awareness should consistently serve as a perpetual litmus test, influencing our decisions and actions, even at a psychological depth.
 
-Along the same lines, Krishna says in Bhagavad Gita - \
-प्रवृत्तिंच निवृत्तिं च कार्याकार्ये भयाभये |\
+Along the same lines, Krishna says in Bhagavad Gita -                      
+प्रवृत्तिंच निवृत्तिं च कार्याकार्ये भयाभये |                                    
 बन्धं मोक्षं च या वेत्तिबुद्धि: सा पार्थ सात्त्विकी || 30||                              
 
 The signs of good intelligence are understanding what is proper action and improper action, duty and non-duty, what is to be feared and what is not to be feared and finally what is binding and what is liberating.
@@ -118,7 +118,8 @@ It is a settled focus and concentration on the path by not getting scattered int
 
 - - -
 
-**4.मुमुक्षुत्व: Mumukshutva - “The intense desire of attaining freedom”**\
+**4.मुमुक्षुत्व: Mumukshutva - “The intense desire of attaining freedom”**          
+                         
 When heading towards the goal of enlightenment, one must have only one strong desire, which is to be free from the limitations and bondages of the free world. In the same manner, any person on the path of chasing his goals must have an intense desire to attain them, to overcome all the shortcomings that he faces.                                    
 
 - - -
