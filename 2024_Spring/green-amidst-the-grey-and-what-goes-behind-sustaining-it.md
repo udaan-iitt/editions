@@ -5,7 +5,7 @@ date: 2024-03-24T06:57:26.009Z
 desc: "In the midst of lectures, assignments, and extracurriculars, there's a
   not-so-less-discussed aspect of college life: the mess. Join us as we analyse
   the current scenario at IITT."
-thumbnail: images/ch.jpg
+thumbnail: images/mess1.jpeg
 authors: Anvay Joshi, Ritvik Ravi
 starred: false
 abio: none
