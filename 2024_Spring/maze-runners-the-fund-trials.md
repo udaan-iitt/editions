@@ -4,7 +4,7 @@ category: Campus News
 date: 2024-03-24T09:22:53.302Z
 desc: Do you wanna be a student club coordinator? Then this is a must-read, my
   friend.
-thumbnail: images/ch.jpg
+thumbnail: images/pexels-fauxels-3184292.jpg
 authors: Sneha M S, Akhil Krishnan
 starred: false
 abio: none
