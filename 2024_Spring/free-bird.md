@@ -5,7 +5,7 @@ date: 2024-03-23T05:01:54.369Z
 desc: This poem, written during the pandemic, expresses how many people felt
   trapped and wanted to be free, contrasting their wish to go out and explore
   with the fact that they had to stay indoors.
-thumbnail: images/ch.jpg
+thumbnail: images/free_bird.jpg
 authors: Sneha M S
 starred: false
 abio: none
