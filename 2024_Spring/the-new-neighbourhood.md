@@ -23,7 +23,7 @@ Moving into a new workplace is one of the most stressful things that can happen 
 
 It was Tuesday. I had just moved into my new house in this town, and my manager was gracious enough to scream at me for being late on my first day. I had to hurry.
 
-<p style="text-align: center;align:center;">\\[-_-]</p>
+<p style="text-align: center;align:center;">[-_-]</p>
 
 I moved in, but I could not catch a second of free time to settle in. For about five days, I had been waking up, running to the office, crawling back to this hole I call home, and collapsing on my bed. One of my co-workers asked me what colour my bathroom tiles were. God knows! I never had enough time to notice them!
 
@@ -45,7 +45,7 @@ She took me to her family sitting at the stairs of the temple to introduce us. T
 
 I spent about an hour sitting there and chatting with them as if we were old friends meeting after a long time. With each passing moment, the weight of my job-related frustrations seemed to slither away, disappearing like a snake retreating into the shadows. They were friendly enough to ask how my work was and if I felt comfortable at the new place. They even welcomed me to their house if I ever felt lonely. In the end, I was surprised to learn that Amritha was 27. She was a year older than me! I thought she was a college student! Just as I thought she couldn’t get any cooler, she told me that she had a twin sister who lived in Bombay and was learning music.
 
-<p style="text-align: center;align:center;">\[-_-]</p>
+<p style="text-align: center;align:center;">[-_-]</p>
 
 I used to visit their house regularly until December of 2020. They treated me like their son and often called me over for lunch or casual chats. Every now and then, when I cooked something myself, I took it to them, eagerly looking forward to their feedback. Uncle Uttam and Aunt Priya used to examine my food with sincerity, but my focus was invariably drawn to Amrita. Even when within the house, she often stayed in her room alone. It was during one such visit that I came to know that she had an Instagram handle with a good following. She posted unique content about devotional practices and combining modern fashion with traditional fashion. It was fascinating. So, I followed her account. Through one of her old posts, I found out that the hair bun she often wears is actually a replica of Lord Shiva’s hair bun. She called it an energy magnet that can bring peace to her mind. If only I had hair long enough to wear a hairbun!
 
@@ -55,7 +55,7 @@ I felt I drifted away from them, and for the first time, I observed a shift in t
 
 As the curfew was slightly relaxed in January, I decided to visit Tirupati and get the blessings of Balaji. Mindful of the auspiciousness of Fridays, I patiently awaited the opportune moment, and fortunately enough, I found an express straight to Tirupati. I decided to stay there for two days and return by Sunday night.  I packed my belongings and made my way out of my home. It was then I noticed Amritha passing by my gate. I greeted her, and her angelic smile didn't fail to stir my heart yet again. "You haven't posted anything recently?" I asked, unable to contain my curiosity. With a playful giggle, she assured me, "I will soon."  We chatted for a few minutes, and I told her that I was going to Tirupati. She wished me a safe journey and told me that her sister Diksha was returning from Bombay. She expressed how excited she was to introduce us both. Intrigued by the idea of meeting the twins, I set out.
 
-<p style="text-align: center;align:center;">\[-_-]</p>
+<p style="text-align: center;align:center;">[-_-]</p>
 
 Tirupati is indeed a peaceful city! The temple, isolated from the city, located on the hills, gave me a lot of peace. On my return journey, I was extremely grateful to my mother, who recommended that I go there. I made a mental note to bring her along on my next pilgrimage. I wanted to share this peaceful experience with her. As my train reached the terminal, I got down and started walking out of the gate. But suddenly, I noticed Amritha there.
 
@@ -107,7 +107,7 @@ I returned home but could hear some crying from the neighbouring house. It must 
 
 Curled up in a ball of dread, I spent the day gripped by a sense of unease that refused to go away. I could not get myself to eat or even to drink some water. I wanted some silence. I wanted peace. The only place where I found real peace in that neighbourhood was the temple. But after the events that had unfolded, I could not go there either. My head felt like it was about to explode. I wondered if I would ever be able to forget all of it. Would I ever be able to live peacefully in that neighbourhood? I tried to calm down. As I struggled to calm my racing thoughts, I realised that when the police were taking Aunt Priya into their jeep, she was wearing the same hair bun Amritha had described in her post. I gave up trying to comprehend the situation. But one question kept resonating in my ears. What does their faith mean?
 
-<p style="text-align: center;align:center;">\[._.]</p>
+<p style="text-align: center;align:center;">[._.]</p>
 
 > Note: This story is not entirely original; it draws inspiration from a real incident, with certain names changed and additional elements added.
 
