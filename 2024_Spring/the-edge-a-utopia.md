@@ -5,7 +5,7 @@ date: 2024-03-23T05:23:36.650Z
 desc: This poem delves into the concept of identity and the captivating appeal
   of escaping into virtual realms through gaming, where the lines between
   realities become increasingly blurred.
-thumbnail: images/ch.jpg
+thumbnail: images/the_edge.jpg
 authors: Aditya Patil
 starred: false
 abio: none
