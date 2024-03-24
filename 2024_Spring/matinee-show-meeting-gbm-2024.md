@@ -1,5 +1,5 @@
 ---
-title: Matinee show Meeting-GBM 2024
+title: Matinee show Meeting - GBM 2024
 category: Campus News
 date: 2024-03-24T07:21:29.846Z
 desc: "Tldr: 6/10. No choice other than to try again."
