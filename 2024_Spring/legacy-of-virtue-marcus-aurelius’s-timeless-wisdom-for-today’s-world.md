@@ -5,7 +5,7 @@ date: 2024-03-24T07:16:44.403Z
 desc: Discover the captivating journey of Marcus Aurelius, from wielding
   absolute power to embracing profound humility, all through the lens of Stoic
   philosophy and timeless wisdom
-thumbnail: images/ch.jpg
+thumbnail: images/portrait-of-marcus-aurelius.jpg
 authors: Dharmesh S
 starred: false
 abio: none
@@ -26,8 +26,6 @@ He wrote notes to himself, something akin to present-day journaling, which is no
 >
 > (Extract from Meditations 5.1, Gregory Hays translation)
 
-
-
 Is the aforementioned problem relatable? How is it possible that Marcus Aurelius, a figure worshipped like a god by the Romans, commanding the largest army in the world, and possessing boundless wealth and power, struggled with a common human experience like getting out of bed? This paradox underscores the fundamental truth that humans share everyday struggles and vulnerabilities regardless of their status or achievements. Humans are humans. 
 
 The one main recurring theme in this book is the sense of mortality. The concept is called Memento Mori, meaning Remember you must Die. In ancient times, when a Roman emperor marched through the streets of Rome in triumph, a slave was appointed to walk behind him and very often whisper in his ear, Memento Homo, meaning Remember you are only a Man. It feels absurd, doesn’t it? When the whole kingdom celebrates you when you are at such great height, reminding yourself about Death? This practice is done so that they don’t feel too highly about themselves after success. An ancient Ego-check process, we could say. 
@@ -37,36 +35,28 @@ The one main recurring theme in this book is the sense of mortality. The concept
 > Remember how long you’ve been putting this off, how many extensions the gods gave you, and you didn’t use them. At some point you have to recognize what world it is that you belong to; what power rules it and from what source you spring; that there is a limit to the time assigned you, and if you don’t use it to free yourself it will be gone and will never return.
 >
 > (Extract from Meditations 2.4, Gregory Hays translation)
-
-
-
+>
 > You could leave life right now. Let that determine what you do and say and think.
 >
 > (Extract from Meditations 2.11, Gregory Hays translation)
-
-
-
+>
 > To be like the rock that the waves keep crashing over. It stands unmoved and the raging of the sea falls still around it.
 >
 > (Extract from Meditations 4.49, Gregory Hays translation)
-
-
-
+>
 > When you wake up in the morning, tell yourself: The people I deal with today will be meddling, ungrateful, arrogant, dishonest, jealous, and surly. They are like this because they can’t tell good from evil. But I have seen the beauty of good, and the ugliness of evil, and have recognized that the wrongdoer has a nature related to my own—not of the same blood or birth, but the same mind, and possessing a share of the divine. And so none of them can hurt me. No one can implicate me in ugliness. Nor can I feel angry at my relative, or hate him. We were born to work together like feet, hands, and eyes, like the two rows of teeth, upper and lower. To obstruct each other is unnatural. To feel anger at someone, to turn your back on him: these are obstructions.
 >
 > (Extract from Meditations 2.1, Gregory Hays translation)
-
-
-
+>
 >  Think of yourself as dead. You have lived your life. Now take what’s left and live it properly.
 >
 > (Extract from Meditations 7.56, Gregory Hays translation)
 
-
-
 In 180 AD, Marcus Aurelius fell gravely ill, acutely aware that his time on this earth was drawing to a close. Sensing the urgency of the situation, he entrusted his five most trusted friends with the solemn task of planning for the future of the empire. However, grief-stricken by the impending loss of their beloved emperor, these advisors found themselves unable to fully focus on the weighty responsibilities entrusted to them. And so, on March 17th, 180 AD, Marcus Aurelius passed away, leaving behind a profound legacy that continues to echo through the annals of history.
 
 But what legacy did Marcus Aurelius leave behind? Why should we remember him? He pondered the significance of fame, questioning why it mattered when, ultimately, everyone would confront the inevitability of death. He urged embracing the present moment and discovering joy in life's simple pleasures. This was Marcus Aurelius and the enduring essence he left behind.
+
+![](images/pexels-jimmy-teoh-951531.jpg)
 
 In recognition of his extraordinary contributions to the realm, Marcus was posthumously honoured with the creation of a magnificent bronze statue. This statue depicted him atop a majestic horse, immortalising a moment of triumph on the battlefield as he addressed his soldiers with unwavering resolve and steadfast leadership.
 
