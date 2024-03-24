@@ -5,7 +5,7 @@ date: 2024-03-23T05:14:15.408Z
 desc: This introspective poem delves into the complexities of the human mind,
   reflecting on the challenges of maintaining mental well-being amidst life's
   ups and downs.
-thumbnail: images/ch.jpg
+thumbnail: images/misery.jpg
 authors: Anvay Joshi
 starred: false
 abio: none
