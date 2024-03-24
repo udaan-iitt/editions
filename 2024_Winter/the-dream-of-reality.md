@@ -37,11 +37,6 @@ Rivers rise to touch his feet, a sacred ground.</p>
 
 ![](images/dor-pic.jpg)
 
-<p style="text-align: center;align:center;">He brings me calmness and sense of reason, <br>
-A world where love and peace are in season,<br> 
-He helps me to see what is truly worthwhile, <br>
-The secret is in being with him, and his smile.</p>
-
 <p style="text-align: center;align:center;">In his peacefulness, I find life's sweet essence,<br>
 A world where love and peace find presence,<br>
 In simplicity, we uncover what's meant to be,<br>
