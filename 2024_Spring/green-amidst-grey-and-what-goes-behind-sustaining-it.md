@@ -5,7 +5,7 @@ date: 2024-03-24T17:44:40.237Z
 desc: Is sustaining a green campus as easy as it sounds? From holding on to
   modernity to reclaiming lost flora, peek in to know more about the green on
   campus and what goes behind sustaining it.
-thumbnail: images/ch.jpg
+thumbnail: images/pexels-soo-ann-woon-3265437.jpg
 authors: Chaitali Karekar, Dharmesh S
 starred: false
 abio: none
@@ -35,6 +35,8 @@ Wedelia, belonging to the creepers family, have been strategically planted along
 An interesting project that is scheduled to come up in the next few years is the establishment of theme-based gardens. In response to the growing popularity of aromatherapy in medicinal applications, plans are in motion to create a garden featuring aromatic flowers, providing visitors with a serene environment to relieve stress through leisurely strolls. A herbal garden with medicinal plants local to Tirupati is also being planned. These gardens are planned on a dedicated land area just next to the lakes. 
 
 Efforts are being made to incorporate sustainability and promote locally available natural resources. Using local stones and completely avoiding inorganic pesticides are some other examples of this. The horticulture department has been repurposing bio-waste into natural fertiliser and employing cut grass as mulch to retain soil, prevent weeds and eventually transform it into valuable manure. Such efforts have found noteworthy appreciation among the local and national community as well. People from IISER Tirupati, National Sanskrit University Tirupati, and other local campuses have come to see the work being done here. It is important to note that during the campus’s dedication to the nation, these sustainable efforts were spotlighted too. 
+
+![](images/pexels-dominika-roseclay-977913.jpg)
 
 What goes unnoticed most of the time are the hands and the brains that go behind planning and maintaining vegetation on campus. You must have seen the horticulture staff working throughout the scorching afternoons to bring about a patch of green and colour amidst the grey concrete. The effort involved is praiseworthy. The horticulture department currently consists of 25 individuals who work in various shifts to undertake a multitude of tasks. Common tasks include watering, weeding, pruning, planting saplings etc. The horticulture officer, Mr. Subba Reddy, who provided valuable information for this article, explains the collective effort involved in planning out the green cover on campus. It is surely not as simple as picking out your favourite flower. The geography, water resources, soil type, and surroundings play a pivotal role in deciding which plant and in what form will be selected for plantation. Mr. Subba Reddy has been taking care of all the planning and execution in the Horticulture department. He gives a very simple explanation of ‘why a particular plant is planted somewhere?’.  The logic goes this way: Different coloured flowers, their smells and appearances have a remarkable positive effect on one’s mood, which is why flowers are a natural choice near hostels. Shade-giving trees near roads and parking spaces, bushes and colourful flowers near entrances and roundabout circles are tried-and-tested choices that the department has been implementing. Most of the plant saplings are procured from Kadiyam Nursery, and native plants are from forest department nurseries. He adds that though it will take some time for these saplings to take root and be big enough to give shade,  it will be a pretty and a pretty sustainable campus, nevertheless. 
 
