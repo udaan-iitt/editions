@@ -5,7 +5,7 @@ date: 2022-06-04T14:41:03.373Z
 desc: This article is a whimsical tale of how a love for reading blossomed,
   unexpected book choices, and the delightful chaos of navigating through
   literary adventures.
-thumbnail: images/raed.avif
+thumbnail: images/read.webp
 authors: Anonymous
 starred: false
 abio: None
