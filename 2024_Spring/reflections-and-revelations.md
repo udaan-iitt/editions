@@ -91,6 +91,10 @@ Graduating is a once-in-lifetime experience, and we have asked some graduates to
 >
 > “It was great. I really enjoyed all the events, and it felt like a happy reunion with all my batchmates. Thanks to all the volunteers who worked hard to make sure we had a great and wonderful convocation.”
 >
+> "I had a great experience. The best part and the major part of the reason (apart from the degree) that I went to the convocation was to meet all my friends. It has been really long since we have seen each other and to be honest, it is very hard to be in constant touch with each and every one of our batch. It was really great catching up on the moments and memories we had. 
+>
+> Additionally, I got to see the new campus, which is too big now. It has changed a lot, it was kind of emotional as well, seeing those hostels where we had a lot of happy memories, and now we are kind of guests in those places."
+>
 > “Too hot”\
 > *`<We resonate with you, my friend.>`*
 
@@ -119,6 +123,7 @@ The graduates have pointed out a variety of issues which we have consolidated an
 * The dates could have been announced well in advance! The convocation date should be released along with the academic calendar, keeping in mind that most students move to different parts of the world and have work/academic commitments after graduating. It will never be possible to make it convenient for everyone, but trying to make it convenient for most students to attend seems sensible. 
 * Reconsideration of not announcing the names of absent students or giving their degrees to representatives in a separate ceremony. This approach felt exclusionary, diminishing the achievements of those unable to attend, mainly because of the delay and short notice on which the event was held. Acknowledging every graduate's effort and success, whether present or not, would have enhanced the celebratory essence of the event, honouring the collective accomplishments of all graduates more effectively.
 * Many students in both batches couldn't attend the convocation for various reasons. These students eagerly watched the live stream of the convocation in hopes of hearing their names during the degree awarding ceremony. But their names were not announced. The reason given was that there was a 3-hour time constraint for completing the convocation due to the chief guest's schedule. However, the chief guest didn't show up. There was no reason not to announce the names of those who weren't present there. They should have announced these names.
+* The students were called on the stage to collect the degree very quickly. The names of 2-3 students were announced at the same time when the first one was collecting his/her degree. I know there were a lot of students, but from the students' perspective, it was bad that they didn't get enough time to enjoy that moment. When it is seen on YouTube, it seems that the student is going on the wrong name call. 
 * It would have been much better if the institute had organised the convocation on a weekend.
 * The decision to hold the convocation dinner on a different day missed an opportunity for a meaningful reunion with faculty and peers.
 * The convocation dinner - now in terms of taste and quality
@@ -155,7 +160,8 @@ As graduates traverse the threshold of academia into the realms of the unknown, 
 * “Refreshing and enthusiastic”
 * “Grateful and proud"
 
-****************************
+- - -
+
 In conclusion, convocation and graduating encapsulate an entirely wholesome experience, marking the culmination of years of hard work, growth, and shared memories. We are grateful to have witnessed and documented the 4th and 5th joint convocation, which has served as a milestone for two batches of students. These convocations have not only celebrated academic achievements but have also provided a platform for forging cheerful and unforgettable memories. As we reflect on this journey, we acknowledge the evolution of the campus, from its initial amateur phase to the thriving institution it stands as today. Here's to the graduates, whose dedication and perseverance have shaped this remarkable chapter in the institute's history.
 
 In addition, we extend our heartfelt gratitude to all our graduands who contributed to documenting this milestone event. You'll always have a place at Udaan. Whether you're embarking on new endeavours or returning to reminisce on cherished memories, know that your contributions and presence are valued and always welcome. Signing off...
