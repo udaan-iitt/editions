@@ -1,5 +1,5 @@
 ---
-title: "Reflections and Revelations "
+title: Reflections and Revelations - 4th and 5th Joint Convocation
 category: Campus News
 date: 2024-03-24T16:52:22.102Z
 desc: Dive into the multifaceted experience of the 4th and 5th joint convocation
