@@ -4,7 +4,7 @@ category: Poetry
 date: 2024-03-23T05:18:42.478Z
 desc: This poem portrays a vivid journey of discovery and passion through the
   world of gears, circuits, and innovation.
-thumbnail: images/ch.jpg
+thumbnail: images/analog_heart_digital_dreams.jpg
 authors: Bhuvan D
 starred: false
 abio: none
