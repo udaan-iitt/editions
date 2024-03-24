@@ -7,7 +7,7 @@ desc: Step into the hushed anticipation of a hospital corridor, where time ticks
   Beyond the closed door of the doctor's room lies a singular narrative waiting
   to unfold—a tale of compassion, resilience, and the intricate dance between
   life and loss that unfolds within the walls of healing.
-thumbnail: images/ch.jpg
+thumbnail: images/pexels-matthias-zomer-339620.jpg
 authors: Neerav Sreekumar
 starred: false
 abio: none
@@ -326,9 +326,9 @@ I put my arm on his shoulder. The ball was in my court - it remained my duty to 
 
 Haven’t you heard the famous Malayalam song that goes by,
 
-` ‘Kadalinnagaadhamaam neelimayil,`
+`‘Kadalinnagaadhamaam neelimayil,`
 
-`Kathir chinnum muthu pole, `
+`Kathir chinnum muthu pole,`
 
 `Pavizham pole….’`
 
@@ -348,13 +348,15 @@ The captain of the Cochin naval and air-force port happened to be a dear friend 
 
 As we arrived, the captain warmly greeted us and led us to the base, where a line of ten jets stood in impeccable order. Suddenly, one of the jets roared to life, ascending into the sky and gracefully cutting through the clouds. 
 
+![](images/pexels-cristian-benavides-2665152.jpg)
+
 At that moment, a chuckle escaped Julie's lips, her hands trembling as she pointed to the sky. Nivin looked at her with pride, and it dawned on me - flying was the one passion that never faded for her.
 
 I had been right all along. The flame of her love for flying still burned brightly, a candlelight in her heart. 
 
 She gasped in surprise, and her lips widened, her eyes focusing on the jets carefully. I observed as her little finger intertwined with Nivin's, the sunset providing a cinematic climax backdrop.
 
-*********************************
+- - -
 
 Did I ever mention that Alzheimer’s patients are devoid of emotions and are soulless? I apologise; I take my words back.
 
