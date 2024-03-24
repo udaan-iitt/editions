@@ -5,7 +5,7 @@ date: 2024-03-23T04:38:44.220Z
 desc: This uplifting poem encourages you to keep going, no matter how tough life
   gets. It is a reminder that even in hard times, there is strength within you
   to overcome and find your way forward.
-thumbnail: images/ch.jpg
+thumbnail: images/aage_badhna_hai.jpg
 authors: Vipin Kumar Sharma
 starred: false
 abio: none
