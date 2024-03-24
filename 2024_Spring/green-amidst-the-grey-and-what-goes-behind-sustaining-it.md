@@ -1,45 +1,74 @@
 ---
-title: "Green amidst the Grey : And what goes behind sustaining it"
+title: "Digesting Dissatisfaction: A Critical Look at Our College Mess"
 category: Campus News
-date: 2024-03-24T06:55:51.083Z
-desc: Is sustaining a green campus as easy as it sounds? From holding on to
-  modernity to reclaiming lost flora, peek in to know more about the green on
-  campus and what goes behind sustaining it.
+date: 2024-03-24T06:57:26.009Z
+desc: "In the midst of lectures, assignments, and extracurriculars, there's a
+  not-so-less-discussed aspect of college life: the mess. Join us as we analyse
+  the current scenario at IITT."
 thumbnail: images/ch.jpg
-authors: Chaitali Karekar, Dharmesh S
+authors: Anvay Joshi, Ritvik Ravi
 starred: false
 abio: none
 ---
 <!--StartFragment-->
 
-On a windy midnight as you walk down the stairway joining the outer ring road to the mess, you can distinctively recognise the subtle, soft fragrance of Cestrum Nocturnum (Night Jasmine). When the wind decides to take a turn, the fragrance pauses a bit. Just a little. And then again, the queen of the night manages to charm you into a calm, solemn mood.
+Let’s delve into a conversation between Arya, a wide-eyed fresher, and Arnab, a seasoned senior, before we navigate through the intricacies of our campus mess. 
 
-A couple of hours later, when walking back in the scorching heat after a tiring day of classes, the air changes as you approach the dense shade of the Azadirachta Indica (Neem) that sits at the far end of the cricket ground. The bright colors of the bougainvillea that litter every nook and corner do make you pause and appreciate the art that nature brings in its many forms. It is at this moment that you truly appreciate the selfless shade and timeless beauty of the green around you.
+> *Arnab: When do your classes start?*
+>
+> *Arya: Oh, at 8 in the morning, I suppose*
+>
+> *Arnab: (Chuckles)In the morning, of course. Where, then?*
+>
+> *Arya: We have to go to the LHC complex to attend our programming class, then classes go up till, like, noon, and then we have to come back and-*
+>
+> *Arnab: Okay, okay.* 
+>
+> *Arya: Bhaiyya so-*
+>
+> *Arnab: Yes?*
+>
+> *Arya: Suppose I go a little late for the 8 o’clock class, and I go to have breakfast at, say 7:30, because I was exhausted the previous day; then will long queues wait for food? I mean, some of the messes I know simply can’t handle a large volume of people. They just serve slowly, run out of food, and then make the queue longer. Is our mess like that?*
+>
+> *Arnab: (Shocked) Really?*
+>
+> *Arya: Haan bhaiyya why?*
+>
+> *Arnab: (Smiles) You’ve got nothing to worry about.*
+>
+> *Arya: Is that sarcasm?*
+>
+> *Arnab: Nahi yaar, our mess serves food on time. Even during rush hours, we have two queues that are quickly satisfied by the swift way our caterers provide the food- and food shortage, in the middle of it all? No way- our caterers always have the right quantity of food for the students. They don’t waste it or make a student hungry by consistently preparing the right amount.* 
 
-IIT Tirupati is blessed with a beautiful campus. Whether it be the unabashed green after the winter rains, the bright flowers in spring or just the smell of earth after a light shower, the green surrounding compliments the modern architecture; you cannot deny it.
+Now, we ask the reader to check on the validity of this conversation. Is this something that correlates to the current condition of our mess, or are Arnab's responses something that seems so ideal that the things Arya is worrying about are true? We at Udaan, of course, leave the responses to our more than capable audience. 
 
-So, do we really have a ‘sustainable campus’? The one where you do tech whilst amidst nature? Seems we are already there. It is quite evident in the 15 awards IIT Tirupati has won in the sustainable practices category. Whether it be polished concrete floors, superior finishing techniques in construction, use of natural stones and a multitude of self-sustaining practices, the list is endless.
+With that in mind,  let's delve into the intricacies of our campus mess facilities.
 
-There are several factors that go behind being sustainable; a major among them is the green around you. But the question remains, what exactly goes on behind maintaining this? Especially during the scorching winters, peek-a-boo monsoons and cyclonic winter rains? The editors at Udaan talked with Mr. Subba Reddy, the horticulture officer at IIT Tirupati to know more about the ground reality. Here’s what we gathered.
+The campus features two messes on the South and North campuses, respectively. The North campus hosts a relatively newer mess facility where primary cooking takes place, while food is transported (so swiftly that it gets cold sometimes) to the South Campus mess for serving. The South campus accommodates first-year boys of the B.Tech program and all female students, while the North campus serves as the dining hub for all the other students. Both the messes running simultaneously cater to almost 1250 students daily. Strategically located approximately 1.8 km apart, both messes are conveniently accessible, with the South mess positioned near the sports complex and the North mess a mere five-minute walk from academic and departmental blocks. The messes are well-ventilated and have HVLS fans, so they stay relatively cool even during scorching heat.
 
-For starters, let’s talk a bit about the vegetation. To give some more geographical context, the campus sits beside the Seschachalam and Nallamala forests, a dry deciduous type of vegetation. The plants and trees seen here are not that tall, and they are more shrubs than actual trees. The scorching summers, water scarcity in the Rayalaseema region, and lesser soils are factors that affect vegetation and impose constraints on the efforts of the horticulture team at IIT Tirupati.
+Despite the various efforts to streamline service, several areas warrant improvement. These may seem trivial initially, but they impact the dining experience of many students. 
 
-Despite the conditions around, the region is home to several unique varieties of flora and fauna that had to make way for the buildings. Reclaiming this lost flora and fauna is one of the main objectives of the sustained efforts to re-green the campus.
+Firstly, ensuring swift service while catering to many students sometimes compromises hygiene standards; the plates might need to be adequately washed (a rare but inevitable issue), the spoons or glasses might be stained, and so on. However, measures are in place to ensure that these situations are avoided. Are these measures sufficient, or do they merely serve as a facade to placate student concerns? Something to truly ponder upon.
 
-One of the distinctive wildlife species found here is the climbing frog and the Chowsingha. Other wildlife species include deer, rabbits, peacocks and a huge variety of butterflies. Interestingly, several medicinal plants call our campus home as well. Among the notable flora species is the Terminalia Chebula (near the Director’s Residence). It is a key component of Triphala Churna, known for its medicinal properties against colds and coughs and is utilized in Kalamkari arts for dye extraction.
+Another notable concern revolves around the fixed menu structure implemented by the mess, wherein each day of the week adheres to a predetermined set of dishes. More often than not, a particular day or two has a menu that appeals to the taste buds of a tiny fraction of the students, leaving a vast majority of the students dissatisfied. Repeatedly dealing with unappealing food can be annoying. However, the mess attempts to give students greater flexibility by offering daily curry, dal, and rice options. This gives the students the freedom to choose their food per their preferences. Moreover, curd and pickle are a default everyday option, so if something goes wrong, students can always help themselves with fresh curd (something else to ponder upon) or tongue-tickling pickle :) 
 
-Commonly seen on campus are shrubs that are worth mentioning as multi-purpose plants. Many of the shrubs seen here are medicinal in nature and have significant value among locals. They act as a deterrent to weeds, and their vibrant colors play a crucial role in attracting butterflies and adding aesthetic value to the campus. Moreover, shrubs need far less maintenance and function as a food supply for the local fauna.
+To understand the nuances of student dining experiences, let’s take a quick stat break that sheds light on the favourite days to eat at the mess.
 
-Wedelia, belonging to the creepers family, have been strategically planted along the slopes next to the Academic Building Complexes to prevent soil erosion. Diverse species such as Fountain Grass, Jamun trees, Mango trees, Bougainvillea, and Wild Dates burlapped on the pond island are just a few instances of the diverse flora our campus currently houses. With 44 species of shrubs and ground covers, 32 species of trees, and numerous flowers and grasses, the campus serves as a thriving habitat for flora and fauna.
+![](https://lh7-us.googleusercontent.com/h1e_QEAg0MIfqEVkAq9PYpvNftCTwMgKPnSDVGJo54vqNSvhNHvG6Yj7JJtHlm0KCBlCYSvSzGe_olYk7M5mCNOwIUZBGRirtcXCCj1VD5g8uKQ1AM34IQ34cp5_CxmbaPe3tKs1qEPhR0S6HTJ3RWo)
 
-An interesting project that is scheduled to come up in the next few years is the establishment of theme-based gardens. In response to the growing popularity of aromatherapy in medicinal applications, plans are in motion to create a garden featuring aromatic flowers, providing visitors with a serene environment to relieve stress through leisurely strolls. A herbal garden with medicinal plants local to Tirupati is also being planned. These gardens are planned on a dedicated land area just next to the lakes. 
+According to the survey results, Saturdays and Sundays emerge as the clear favourites among students. , We attribute this to the ice cream on Sundays (which the caterer, these days, seems to regard giving one as a generous offering) alongside the appeal of enjoying fried potatoes for lunch and poori for dinner. 
 
-Efforts are being made to incorporate sustainability and promote locally available natural resources. Using local stones and completely avoiding inorganic pesticides are some other examples of this. The horticulture department has been repurposing bio-waste into natural fertilizer and employing cut grass as mulch to retain soil, prevent weeds and eventually transform it into valuable manure. Such efforts have found noteworthy appreciation among the local and national community as well. People from IISER Tirupati, National Sanskrit University Tirupati, and other local campuses have come to see the work being done here. It is important to note that during the campus’s dedication to the nation, these sustainable efforts were spotlighted too. 
+Interestingly, the data reveals a striking trend: not a single respondent voted for Wednesday as their favourite day to eat at the mess. Why? Another thing to ponder upon.\
+\
+As mentioned, the food preparation occurs in the North mess and is transported to the South mess for serving. However, this distance sometimes creates a problem as the demand-supply process has a slight latency. At times, a particular dish might suddenly run out, causing a pause in the queue for about ten minutes due to potential oversight in communication between the messes (It turns out the conversation between Arya and Arnab was a fever dream). Even though the concerned people try their best to mitigate the issue, some communication gaps are inevitable. Hence, the overall punctuality of the mess is impacted. The opening and closing times of the South mess may be affected because the food might be en route from the North mess or due to a slight delay in the process. This can disrupt the students' academic schedules since they must rush to classes and labs on any typical weekday.\
+\
+Every problem has a solution, and the issues encountered in the mess are no exception. Delays can be reduced by appointing a dedicated person to monitor the remaining quantity of food and coordinate with North Mess promptly. Moreover, some attention can be given to the whole plate cleaning/rinsing process. However, along with rinsing the utensils thoroughly, they have to look at the bugs (even frogs sometimes) that choose to rest on the plates, ready to be taken for eating. Imagine tiny bugs falling from the ceiling, landing directly on your food just as you're about to take a bite of your chapati. How can you expect your appetite to remain unaffected at such times?
 
-What goes unnoticed most of the time are the hands and the brains that go behind planning and maintaining vegetation on campus. You must have seen the horticulture staff working throughout the scorching afternoons to bring about a patch of green and color amidst the gray concrete. The effort involved is praiseworthy. The horticulture department currently consists of 25 individuals who work in various shifts to undertake a multitude of tasks. Common tasks include watering, weeding, pruning, planting saplings etc. The horticulture officer, Mr. Subba Reddy, who provided valuable information for this article, explains the collective effort involved in planning out the green cover on campus. It is surely not as simple as picking out your favorite flower. The geography, water resources, soil type, and surroundings play a pivotal role in deciding which plant and in what form will be selected for plantation. Mr. Subba Reddy has been taking care of all the planning and execution in the Horticulture department. He gives a very simple explanation of ‘why a particular plant is planted somewhere?’.  The logic goes this way: Different coloured flowers, their smells and appearances have a remarkable positive effect on one’s mood, which is why flowers are a natural choice near hostels. Shade-giving trees near roads and parking spaces, bushes and colorful flowers near entrances and roundabout circles are tried-and-tested choices that the department has been implementing. Most of the plant saplings are procured from Kadiyam Nursery, and native plants are from forest department nurseries. He adds that though it will take some time for these saplings to take root and be big enough to give shade,  it will be a pretty and a pretty sustainable campus, nevertheless. 
+\
+We suggest increasing the spoons and plates as the cutlery runs out quickly, leaving more than half of the students without a spoon or glass. Regarding taste, timely surveys can be taken to gauge the ever-changing student preferences, and then necessary steps can be taken to avoid the issues they face. This can increase the appeal of the food and the whole mess system among the student body.\
+\
+In summary, the mess is integral to a residential institution and should always be considered. We frequent the mess almost thrice a day, Using it not just for sustenance but also as a place to relax, recharge, and socialise with friends. It provides a respite from the hectic pace of college life, offering a chance to rejuvenate. It’s supposed to give us such a pleasant environment, making it our responsibility to identify and address any issues within it actively. Mere complaints or anonymous confessions on social media platforms (honourable shout out to the keyboard warriors) won't suffice; action speaks louder. 
 
-On the student front, the Horticulture department also plans activities, sometimes in collaboration with the NSS. Currently, we have a vegetable garden in front of the Sahana Hostel in the South Campus. Future activities currently look feasible, but they would require students’ involvement, time, and a wee bit of patience.
-
-Flowers, plants and trees are man’s nearest and closest links with nature. It is certainly reassuring that the Institute has made solid efforts to concretise these bonds.
+As the saying goes, "We eat to live, and we live to eat," so why not ensure that our dining experience is as enjoyable as possible? ;)
 
 <!--EndFragment-->
