@@ -56,7 +56,7 @@ In 180 AD, Marcus Aurelius fell gravely ill, acutely aware that his time on this
 
 But what legacy did Marcus Aurelius leave behind? Why should we remember him? He pondered the significance of fame, questioning why it mattered when, ultimately, everyone would confront the inevitability of death. He urged embracing the present moment and discovering joy in life's simple pleasures. This was Marcus Aurelius and the enduring essence he left behind.
 
-![](images/pexels-jimmy-teoh-951531.jpg)
+![](images/a51083056886_0bea7be210_k.jpg)
 
 In recognition of his extraordinary contributions to the realm, Marcus was posthumously honoured with the creation of a magnificent bronze statue. This statue depicted him atop a majestic horse, immortalising a moment of triumph on the battlefield as he addressed his soldiers with unwavering resolve and steadfast leadership.
 

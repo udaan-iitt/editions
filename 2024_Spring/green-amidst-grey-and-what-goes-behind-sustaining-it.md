@@ -14,7 +14,7 @@ abio: none
 
 On a windy midnight as you walk down the stairway joining the outer ring road to the mess, you can distinctively recognise the subtle, soft fragrance of Cestrum Nocturnum (Night Jasmine). When the wind decides to take a turn, the fragrance pauses a bit. Just a little. And then again, the queen of the night manages to charm you into a calm, solemn mood.
 
-A couple of hours later, when walking back in the scorching heat after a tiring day of classes, the air changes as you approach the dense shade of the Azadirachta Indica (Neem) that sits at the far end of the cricket ground. The bright colours of the bougainvillaea that litter every nook and corner do make you pause and appreciate the art that nature brings in its many forms. It is at this moment that you truly appreciate the selfless shade and timeless beauty of the green around you.
+A couple of hours later, when walking back in the scorching heat after a tiring day of classes, the air changes as you approach the dense shade of the Azadirachta Indica (Neem) that sits at the far end of the cricket ground. The bright colours of the bougainvillea that litter every nook and corner do make you pause and appreciate the art that nature brings in its many forms. It is at this moment that you truly appreciate the selfless shade and timeless beauty of the green around you.
 
 IIT Tirupati is blessed with a beautiful campus. Whether it be the unabashed green after the winter rains, the bright flowers in spring or just the smell of earth after a light shower, the green surrounding compliments the modern architecture; you cannot deny it.
 
