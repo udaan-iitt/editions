@@ -8,7 +8,8 @@ desc: A reflective poem that captures the ever-changing essence of a campus
 thumbnail: images/pexels-bill-white-165537.jpg
 authors: M Akash
 starred: false
-abio: none
+abio: 'M Akash: Beginner, 2nd year Computer Science Student at IIT Tirupati, I have just tried to express the campus beauty in my own way which I hope looks fine.'
+
 ---
 <p style="text-align: center;align:center;">The Very Morning,<br>
 The birds chirping in the eaves,<br>

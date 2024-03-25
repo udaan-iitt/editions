@@ -7,7 +7,7 @@ desc: Tenderly reminiscing the warmth of familial bonds amidst wintry embraces,
 thumbnail: images/winter_greens.jpg
 authors: Aadhya Agrawal
 starred: false
-abio: none
+abio: "Aadhya Agrawal: Aadhya is a first year Electrical Engineering undergraduate at IIT Tirupati. Apart from being a full time introvert and questioning life  choices she enjoys cooking, painting, basketball and badminton along with playing the piano. Through this poem she expresses her gratitude towards her parents for being the constants in her life."
 ---
 <p style="text-align: center;align:center;">With the dawn of wintery chills<br>
 Emerges the repertoire of memories<br>

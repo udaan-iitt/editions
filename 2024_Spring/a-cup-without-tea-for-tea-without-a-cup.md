@@ -7,8 +7,7 @@ desc: Embark on a journey through the caffeinated chaos of Tea Plantation, where
 thumbnail: images/pexels-pixabay-235925.jpg
 authors: Otto von Bratwurst
 starred: false
-abio: "Otto von Bratwurst is a pioneering scholar in the emerging
-  interdisciplinary field of culinary geopolitics. He is well-known for
+abio: "Otto von Bratwurst: Otto von Bratwurst is a pioneering scholar in the emerging interdisciplinary field of culinary geopolitics. He is well-known for
   inventing the process used to grind many different types of meat into a
   homogenous sausage, which he used to unify many independent states (like
   Brezelnburg, Pumpernickelia, Schnitzel-land and parts of the Krautso-Hungry

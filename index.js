@@ -145,9 +145,9 @@ export const newsletter = [
 	},
 	{
 		key: 'shreenivason',
-		email: 'nill',
-		title: 'Shreenivason',
-		link: 'https://www.linkedin.com/',
+		email: 'ee21b042@iittp.ac.in',
+		title: 'R Shreenivason',
+		link: 'https://www.linkedin.com/in/shreenivason-r-3033aa271/',
 		role: 'Editor',
 	},
 	{
@@ -155,13 +155,6 @@ export const newsletter = [
 		email: 'me23b044@iittp.ac.in',
 		title: 'Ritvik Ravi',
 		link: 'https://www.linkedin.com/in/ritvik-ravi/',
-		role: 'Sub-Editor',
-	},
-	{
-		key: 'chitraksh',
-		email: 'cs23b054@iittp.ac.in',
-		title: 'Vasantati Chitraksh',
-		link: 'https://www.linkedin.com/in/chitraksh-vasantati/',
 		role: 'Sub-Editor',
 	},
 	{
@@ -184,13 +177,6 @@ export const newsletter = [
 		title: 'Dharmesh S',
 		link: 'https://www.linkedin.com/in/dharmesh-s/',
 		role: 'Sub-Editor',
-	},
-	{
-		key: 'shreenivason',
-		email: 'ee21b042@iittp.ac.in',
-		title: 'R Shreenivason',
-		link: 'https://www.linkedin.com/in/shreenivason-r-3033aa271/',
-		role: 'Editor',
 	},
 
 ];
@@ -1147,7 +1133,7 @@ export const author_info = [
 	},
 	{
 		key: 'aadhya',
-		title: 'Aadhya Agarwal',
+		title: 'Aadhya Agrawal',
 		tagLine1: '',
 		tagLine2: '',
 		role: '',
