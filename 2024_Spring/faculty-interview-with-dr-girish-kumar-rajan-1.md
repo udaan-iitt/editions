@@ -6,7 +6,7 @@ desc: Students can't help but rave about his awesome lectures, detailed
   derivations, challenging exams, and occasional one-hour overshoots. Join us as
   we sit down with Dr Girish Kumar Rajan for this edition in our faculty
   interview series!
-thumbnail: images/ch.jpg
+thumbnail: images/girish.jpg
 authors: Akhil Krishnan, Sneha M S, Sneha Battula
 starred: false
 abio: none

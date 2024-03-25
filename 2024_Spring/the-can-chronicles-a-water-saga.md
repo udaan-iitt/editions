@@ -5,7 +5,7 @@ date: 2024-03-24T07:12:48.408Z
 desc: Heads up! Are you hydrated enough? Well, the north campus wasn't. Either
   way, grab a pack of soda and chill out this summer afternoon as we go down the
   whole timeline of the infamous water crisis.
-thumbnail: images/ch.jpg
+thumbnail: images/pexels-nithin-pa-2583028.jpg
 authors: Bineet Barman
 starred: false
 abio: none

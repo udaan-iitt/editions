@@ -8,7 +8,7 @@ desc: In the path of student life, where parental guidance may be absent, we
   capabilities. In the following piece, we delve into the teachings of "Vivek
   Chudamani" (‘The Crest Jewel of Discretion’) by Sri Adi Shankaracharya and
   examine how its principles can be applied to the student experience.
-thumbnail: images/ch.jpg
+thumbnail: images/pexels-prasanth-inturi-1051838.jpg
 authors: Pranav Sutar, Ishaan Kulkarni
 starred: false
 abio: none
