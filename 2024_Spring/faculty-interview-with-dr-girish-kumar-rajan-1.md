@@ -53,10 +53,9 @@ However, after going abroad for his Masters and PhD, he had to cut back on some 
 
 > “I have tried my hand at several adventurous activities, including kayaking, rafting, snowboarding, skiing, caving, rock climbing, and ice skating. These activities, which were frequently organised by the university’s outing club, proved irresistible and turned out to be great stress busters. Come to think of it, words such as stress, strain, pressure, and tension are not uncommon in an engineering college. What is surprising, though, is that these are increasingly being used in a nontechnical context. Outdoor activities are very effective in combating stress, so I recommend that students cut down on screen time and use it for such activities instead.”
 
-<div style="display: flex;">
-    <img src="images/dsc_5744.jpg" alt="Image 1" style="width: 50%;">
-    <img src="images/img_2387.jpg" alt="Image 2" style="width: 50%;">
-</div>
+|  |  |
+|:-:|:-:|
+|<img src="images/dsc_5744.jpg" alt="Image 1" width="100%" >|<img src="images/img_2387.jpg" alt="Image 2" width="100%">
 
 He mentions how he found certain aspects of the teaching systems abroad particularly appealing.
 
