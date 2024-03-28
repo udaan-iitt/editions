@@ -14,7 +14,7 @@ desc: Last December, Team Udaan saw a very special guest join us for an
   field he teaches.
 thumbnail: images/tn.jpg
 authors: Akhil Krishnan, Sneha M S, Sneha Battula
-starred: false
+starred: true
 abio: none
 ---
 <!--StartFragment-->
