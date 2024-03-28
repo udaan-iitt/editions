@@ -1,7 +1,7 @@
 ---
 title: The New Neighbourhood
 category: Story
-date: 2024-03-23T17:29:53.977Z
+date: 2024-03-28T08:00:53.254Z
 desc: This story delves into the complexities of faith and its potential to lead
   us down to a path of destruction.
 thumbnail: images/new_neighbourhood.jpg
