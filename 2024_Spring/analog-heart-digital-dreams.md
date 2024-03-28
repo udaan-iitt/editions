@@ -1,7 +1,7 @@
 ---
 title: Analog Heart, Digital Dreams
 category: Poetry
-date: 2024-03-28T07:57:49.975Z
+date: 2024-03-28T07:58:58.447Z
 desc: This poem portrays a vivid journey of discovery and passion through the
   world of gears, circuits, and innovation.
 thumbnail: images/analog_heart_digital_dreams.jpg
