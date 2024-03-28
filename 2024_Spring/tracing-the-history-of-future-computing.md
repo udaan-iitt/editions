@@ -8,7 +8,9 @@ desc: Explore the evolution of computers, from mythical automata to AI
 thumbnail: images/history_of_computing.jpg
 authors: Al-Korizmik Proust Escher
 starred: false
-abio: none
+abio: Al-Korizmik Proust Escher, recognized by only a select few and encountered
+  by even fewer, harbours a fascination for the intricate art of storytelling,
+  having dabbled in its depths from time to time.
 ---
 The author apologizes before they begin for the inadequacy of so small a work to capture so vast and nuanced a domain. The author would also like to point out that the examples herein represent (context-free?) spoilers for the relevant stories.       
 
