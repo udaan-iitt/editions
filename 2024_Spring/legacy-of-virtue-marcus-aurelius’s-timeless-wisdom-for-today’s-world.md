@@ -1,7 +1,7 @@
 ---
 title: "Legacy of Virtue: Marcus Aurelius’s Timeless Wisdom for  Today’s World"
 category: Op-Ed
-date: 2024-03-24T07:16:44.403Z
+date: 2024-03-28T08:06:11.238Z
 desc: Discover the captivating journey of Marcus Aurelius, from wielding
   absolute power to embracing profound humility, all through the lens of Stoic
   philosophy and timeless wisdom
