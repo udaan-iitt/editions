@@ -8,7 +8,8 @@ desc: In a surreal conversation, philosophical quandaries, ethical dilemmas, and
 thumbnail: images/pexels-pixabay-270557.jpg
 authors: Cosmic Cutie
 starred: false
-abio: none
+abio: |
+  none
 ---
 You are seated here because you have a problem. Before you is a table, on that table is a gun. The gun solves your problem.
 
