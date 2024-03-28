@@ -1,7 +1,7 @@
 ---
 title: "The Students' Handbook of Spiritual Solutions: The Adi Shankaracharya Way"
 category: Op-Ed
-date: 2024-03-24T13:52:28.713Z
+date: 2024-03-28T08:00:23.962Z
 desc: In the path of student life, where parental guidance may be absent, we
   frequently struggle with discord between our logical thinking and sudden
   impulses. This conflict has the potential to obstruct our genuine
