@@ -7,7 +7,7 @@ desc: Dive into the multifaceted experience of the 4th and 5th joint convocation
   the meticulous planning, heartfelt reflections, and constructive feedback
   shaping the narrative of this significant milestone in the institute's
   academic journey.
-thumbnail: images/ch.jpg
+thumbnail: images/convo.jpeg
 authors: Ram Mohith
 starred: false
 abio: ""
