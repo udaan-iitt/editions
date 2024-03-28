@@ -1,7 +1,7 @@
 ---
 title: "The Can Chronicles: A Water Saga"
 category: Campus News
-date: 2024-03-24T07:12:48.408Z
+date: 2024-03-28T08:17:34.565Z
 desc: Heads up! Are you hydrated enough? Well, the north campus wasn't. Either
   way, grab a pack of soda and chill out this summer afternoon as we go down the
   whole timeline of the infamous water crisis.
