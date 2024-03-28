@@ -1,7 +1,7 @@
 ---
 title: Scarred
 category: Story
-date: 2024-03-23T15:50:28.501Z
+date: 2024-03-28T08:04:22.533Z
 desc: Step into the hushed anticipation of a hospital corridor, where time ticks
   by with each heartbeat, and a thousand untold stories whisper in the air.
   Beyond the closed door of the doctor's room lies a singular narrative waiting
