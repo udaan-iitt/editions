@@ -1,7 +1,7 @@
 ---
 title: "Digesting Dissatisfaction: A Critical Look at Our College Mess"
 category: Campus News
-date: 2024-03-24T06:57:26.009Z
+date: 2024-03-28T08:15:39.480Z
 desc: "In the midst of lectures, assignments, and extracurriculars, there's a
   not-so-less-discussed aspect of college life: the mess. Join us as we analyse
   the current scenario at IITT."
