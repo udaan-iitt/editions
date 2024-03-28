@@ -1,15 +1,16 @@
 ---
 title: Echoes of Nature's Symphony
 category: Poetry
-date: 2024-03-23T04:50:09.011Z
+date: 2024-03-28T07:59:15.841Z
 desc: A reflective poem that captures the ever-changing essence of a campus
   environment through the lens of nature's elements - from the tranquil mornings
   filled with chirping birds to the tempestuous weather and serene nights ......
 thumbnail: images/pexels-bill-white-165537.jpg
 authors: M Akash
 starred: false
-abio: 'M Akash: Beginner, 2nd year Computer Science Student at IIT Tirupati, I have just tried to express the campus beauty in my own way which I hope looks fine.'
-
+abio: "M Akash: Beginner, 2nd year Computer Science Student at IIT Tirupati, I
+  have just tried to express the campus beauty in my own way which I hope looks
+  fine."
 ---
 <p style="text-align: center;align:center;">The Very Morning,<br>
 The birds chirping in the eaves,<br>
