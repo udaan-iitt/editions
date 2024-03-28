@@ -1,7 +1,7 @@
 ---
 title: Tracing the History of Future Computing
 category: Op-Ed
-date: 2024-03-28T08:01:22.898Z
+date: 2024-03-28T08:05:25.477Z
 desc: Explore the evolution of computers, from mythical automata to AI
   dystopias, in this thought-provoking analysis that promises to ignite your
   imagination.
