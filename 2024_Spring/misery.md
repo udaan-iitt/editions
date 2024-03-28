@@ -1,7 +1,7 @@
 ---
 title: Misery
 category: Poetry
-date: 2024-03-23T05:14:15.408Z
+date: 2024-03-28T08:02:36.785Z
 desc: This introspective poem delves into the complexities of the human mind,
   reflecting on the challenges of maintaining mental well-being amidst life's
   ups and downs.
