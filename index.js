@@ -59,13 +59,6 @@ export const newsletter = [
 		role: 'Editor',
 	},
 	{
-		key: 'swathi',
-		email: 'ce20b010@iittp.ac.in',
-		title: 'Swathi',
-		link: 'https://www.linkedin.com/in/swathi-gummadi-67826a226/',
-		role: 'Editor',
-	},
-	{
 		key: 'saurabh',
 		email: 'cs20b038@iittp.ac.in',
 		title: 'Saurabh Kumar',
@@ -262,6 +255,17 @@ export const pastmembers = [
 		desc1: "Kranthi was an editor at Udaan (2022-23) while pursuing a bachelor's in Computer Science and Engineering at IIT-T. He likes playing with the latest tech in his code playgrounds and loves working with data and AI! You can find him reading non-fiction books and playing Catan with his friends when he's not working.",
 		link: 'https://www.linkedin.com/in/kranthisedamaki/',
 	},
+	{
+		key: 'swathi',
+		title: 'Swathi',
+		tagLine1: 'Editor',
+		role: 'Editor',
+		year: '2023-24',
+		email: 'ce20b010@iittp.ac.in',
+		desc1: "Swathi was an editor at Udaan (2023-24) while pursuing a bachelor's in Civil Engineering at IIT-T.",
+		link: 'https://www.linkedin.com/in/swathi-gummadi-67826a226/',
+	},
+
 ];
 
 export const author_info = [
