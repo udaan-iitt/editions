@@ -1,9 +1,17 @@
 ---
-title: "Maze Runners: The Fund Trials"
+title: Fighting God must be easier
 category: Campus News
 date: 2024-03-24T09:22:53.302Z
-desc: Do you wanna be a student club coordinator? Then this is a must-read, my
-  friend.
+desc: >
+  It’s a special skill, known to only a chosen few. Even fewer show proficiency.
+  Only a handful are masters. But there’s only one at the top. The one who makes
+  the rules.
+
+
+  Rules? Yes, as per the Golden Rule, “The One who has the Gold makes the Rules”. The rest of us who dabble at this coveted skill are at the mercy of this One. 
+
+
+  If you haven’t guessed already, the skill in question is procuring funds for your cause; be it to fight cancer, to make a very extra long particle accelerator, or like in our case, to get funds for your club to function superfluously. This story, however, is a cautionary tale of the misery that befalls life when “The One” does not have a trace of benevolence flowing through them. 
 thumbnail: images/pexels-fauxels-3184292.jpg
 authors: Sneha M S, Akhil Krishnan
 starred: false
