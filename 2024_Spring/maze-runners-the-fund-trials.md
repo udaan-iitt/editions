@@ -1,7 +1,7 @@
 ---
 title: Fighting God must be easier
 category: Campus News
-date: 2024-03-24T09:22:53.302Z
+date: 2024-03-28T08:17:15.522Z
 desc: >
   It’s a special skill, known to only a chosen few. Even fewer show proficiency.
   Only a handful are masters. But there’s only one at the top. The one who makes
