@@ -1,7 +1,7 @@
 ---
 title: Reflections and Revelations - 4th and 5th Joint Convocation
 category: Campus News
-date: 2024-03-24T16:52:22.102Z
+date: 2024-03-28T08:14:00.000Z
 desc: Dive into the multifaceted experience of the 4th and 5th joint convocation
   held on February 22nd, 2024, as recounted by attendees and graduates. Explore
   the meticulous planning, heartfelt reflections, and constructive feedback
