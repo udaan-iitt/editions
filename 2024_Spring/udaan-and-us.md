@@ -4,7 +4,7 @@ category: Experiences
 date: 2024-03-30T17:44:56.953Z
 desc: Join us as we navigate through the anecdotes and musings of three seagulls
   who made Udaan their cherished home.
-thumbnail: images/9043670.jpg
+thumbnail: images/man-5475371_1920.jpg
 authors: Sathyanarayann, Krithi Shailya, Sneha M S
 starred: false
 abio: None
