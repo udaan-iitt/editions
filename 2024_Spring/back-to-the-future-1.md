@@ -370,9 +370,8 @@ Get a girl to walk and talk.
 
 >*Oh no, remember, this is the guy who liked the white flowers!*           
 
->***Sorry, Krithi but I really must interject here. Ma dude, your statement more less feels like you'll be better off getting a dog; You should get a dog; If you treat it well, it won't bite you if you take it walk and talk. Kinda makes sense why might not have a girlfriend.*** 
->
-.*That was well, I think you can guess. Moving forward*
+>***Sorry, Krithi but I really must interject here. Ma dude, your statement more less feels like you'll be better off getting a dog; You should get a dog; If you treat it well, it won't bite you if you take it for a walk and talk. Kinda makes sense why might not have a girlfriend.*** 
+
 
 1. Go on a cool trip with friends. 
 2. Have a bonfire and an all-nighter fun session. 
