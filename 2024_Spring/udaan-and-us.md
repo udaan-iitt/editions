@@ -11,13 +11,13 @@ abio: None
 ---
 <!--StartFragment-->
 
-Four seagulls stumbled upon a somewhat hidden, less-known island. Here, the laws of time seemed to have taken an extended vacation. Lured in by the promises of fun discussions, writing and editing articles, roasting people and, ofcourse, the ice creams, they never realised it was time to bid the place goodbye. Join us as we delve into the chronicles of these three seagulls <the fourth one was too lazy to write.>
+Four seagulls stumbled upon a somewhat hidden, less-known island. Here, the laws of time seemed to have taken an extended vacation. Lured in by the promises of fun discussions, writing and editing articles, roasting people and, ofcourse, the ice creams, they never realised it was time to bid the place goodbye. Join us as we delve into the chronicles of these three seagulls (the fourth one was too lazy to write.)
 
 **Sathya :** 
 
 To me, Udaan is a safe space; it's a comfort place. Not just the magazine but the team too. Udaan is like where the cool kids hangout. From my very first year, when i first heard about udaan, i just kew i wanted to be a part of it and it has been one of the best decisions of my life. Udaan is a space where you can freely talk about anything, and have productive and proactive discussions on various topics in the most positive nurturing way ever. No matter what clubs i may have been a part of, team udaan never ceases to amaze me. With the most fun meetings ever, and the most exciting work ever, and of course the best treats and celebrations, udaan is where you let your creativity take shape. I especially love how udaan has always found a way to make the craziest of ideas work, and nurture talents on the way. Since its conception, udaan has come a long way, and i am proud of what udaan has become and is constantly becoming. As a beacon of growth and innovation, Udaan is more than just a magazine or the team, it is the most homely part of college life to me. 
 
-********************************************************
+- - -
 
 **Krithi:**
 
@@ -27,7 +27,7 @@ With such a wonderful team of people who can pull in last-minute work, stay up l
 
 Lastly, for the readers and all those who’ve asked me, “Do people even read Udaan?” You’re the people. We write for you, we write about you, and we write to represent you. I know many of you are not used to reading heavily worded articles, but you can simply tell us what you’re looking for. I’m sure the team will love to include stuff that you want to read. Give us your feedback instead of treating it like another email that goes unread. It is a student newsletter, after all. We’ve received some very positive feedback from people who are usually interested in reading, but the goal is to reach a larger audience, it is to push the Harry Potter movie watchers to read at least one book. The goal is to make reading a friendly and approachable experience for people who are not exposed to it, and only you can help us with that. Okay, I’ll stop my Ted Talk now, Have fun guys, Signing out. xD
 
-*******************************************
+- - -
 
 **Sneha:**
 
