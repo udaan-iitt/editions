@@ -211,27 +211,42 @@ My First Ideathon event, Inter IIT, Eyantra discussions, and many more memorable
 >*There was also this tiny scholars' room of sorts with a nice fan and AC. I remember the PFC peeps getting exclusive access to it during \*ahem\* Tirutsava. During the scorching months of March and April, a quick one-minute peek into this room was enough to cool you down enough to face the sun god’s wrath again.* 
 
 </details>
+
+
 - - -
+
+
 
 <details>
 <summary><b>12: Flowers?</b></summary>
+
+
 
 Transit Lab 2 has a white flower tree, which only has fragrant flowers on campus; whenever I go to the south mess or to meet someone("_"), I pick 4-5 flowers. They don't last long but still, give fragrance till the last breath, and they don't know that they are only such flowers like I take that lesson that - good to share even if you don't get any returns but for sure you won't regret when you hold back. I don't want this spot to be anonymous, so name it(Kushi ka Kushbu) or make more such places.
 
 \- *The anonymous romantic*
 
 </details>
+
+
 - - -
+
+
 
 <details>
 <summary><b>13: More Stairs</b></summary>
+
 
 One of my most cherished campus spots is the staircase nestled between Hostel Block E and the Guest House. It served as my go-to study haven during the times when F Block was devoid of Wi-Fi connectivity. What made this spot truly remarkable was its ability to transport me back to the comforts of home. Surrounded by lush greenery, the presence of plants and dogs made me feel like I was at home.
 
 \- *Sneha*
 
 </details>
+
+
 - - -
+
+
 
 <details>
 <summary><b>14: The road behind the rest house and hostels</b></summary>
@@ -245,10 +260,12 @@ My absolute favorite has to be the chill spot behind Hostel B. That's where we u
 \- *Doraemon*
 
 </details>
+
 - - -
 
 <details>
 <summary><b>15: Scrapyard</b></summary>
+
 
 Literally the hidden gem of the college. At any given moment, you could go there and find the wildest, craziest imaginable things. The memories of conducting an entire fest out of waste from the scrapyard will always standout and is one I will be telling generations of IITians xD
 
@@ -257,10 +274,12 @@ Literally the hidden gem of the college. At any given moment, you could go there
 >*One thing that has remained constant throughout BTech is Satya and his ever-loving attraction to the most random trash on the street.* 
 
 </details>
+
 - - -
 
 <details>
 <summary><b>16: The Neem Tree</b></summary>
+
 
 >*Ah, the infamous spot, view, check, breeze check, clear night sky check, what else could you ask for?*
 
@@ -271,20 +290,24 @@ Had the most fun conversations and spent the best time with my friends that I ma
 >*Of course, it’s the perfect place for friends; who said anything about couples?*
 
 </details>
+
 - - -
 
 <details>
 <summary><b>17: TC7, Indoor Complex</b></summary>
+
 
 >*Captain’s back cuz I have my favorite spots, too! One of my first memories of campus was in TC7 when I walked in to find some of my favorite seniors jamming to some of my favorite music. Since then, I grew to love this place, hate this place, then love it again. I remember taking up the Sargam Coordinator role, constantly tracking equipment, running back and forth, and slowly hating the sound of the drums (Ahem, sorry, Habibi), the noise, the lack of peace, the walk from my room all the way to indoor and whatnot. Then I learned to slow down, make it my home, and get comfortable. I remember spending nights there with my favorite people, just trying to support each other, have fun, and get shit done. It’s, of course, not the place but the people, but that room will always hold a special place in my heart.* 
 
 >\- Krithi
 
 </details>
+
 - - -
 
 <details>
 <summary><b>18: Lake</b></summary>
+
 
 >\*\*Ahem\*\*
 
@@ -295,20 +318,24 @@ My favorite spot is the bench near the lake to the left of the Admin Block, wher
 >*I definitely thought it was about the calmness only.* 
 
 </details>
+
 - - -
 
 <details>
 <summary><b>19: DB2 Classrooms</b></summary>
+
 
 A quiet classroom in AB1 overlooking the LHC is the best. You can spread out all your stuff and get things done, especially between classes. 
 
 \- *dotdot&dot*
 
 </details>
+
 - - -
 
 <details>
 <summary><b>20: DB2 Cafeteria</b></summary>
+
 
 >*Now, this is definitely one of our latest favorites! What better cure for a long day of classes than a hot samosa?*
 
@@ -319,16 +346,19 @@ This is where I spent a lot of time chatting with my friends. A lot of random to
 >*He’s not kidding guys; this dude spends 90% of his time in the cafe. This has been personally verified and documented. If you go to the cafe, chances are you find Arun talking to somebody with some butter biscuits in hand)*
 
 </details>
+
 - - -
 
 <details>
 <summary><b>21: Common Rooms</b></summary>
+
 
 The common room in our G block was one of my favorite spots. All the time I spent gaming with my bros and getting into sleep while talking with one another... These single rooms cannot replace that vibe✨
 
 \- *GameCocaine*
 
 </details>
+
 - - -
 
 <details>
@@ -342,11 +372,14 @@ The most fun experience associated with the tank was on my birthday this year. M
 
 >*PS. Remember the dude with the biscuits in the cafeteria talking to “someone”? that someone is most likely our water tank dude here, okay thanks bye*
 
->*Oof, that was like a mini-campus tour, definitely a blast from the past, though.*
+
 
 </details>
 
-- - -
+---
+
+
+>Oof, that was like a mini-campus tour, definitely a blast from the past, though.
 
 <a id="the-bucket-list"></a>
 ### The Bucket List
@@ -356,6 +389,8 @@ The most fun experience associated with the tank was on my birthday this year. M
 **Living the same dream**
 
 ![](https://lh7-us.googleusercontent.com/vlnE20qEDjM-nu2GDlu8Io5jil8Hvh9oodDwlDBJ3ynM2_adCFICxWg0reEQc3MRbKSf5JLvaswKfF9NsDPZPoarQIZ0W5HXd2S52XuK7trYUXmXi4xtl5ZwpO8dl4qVs9QBUeXkTsbwsxDMo0EfiAQ)
+
+
 
 Formed a secret society that explored hidden tunnels and rooftops after hours. Our motto: “Where the moonlight leads, we follow.”
 
