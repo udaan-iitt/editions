@@ -20,28 +20,7 @@ For all the passengers, there are six emergency exits in this aircraft, none of 
 
 * [Why go back to the future?](#why-go-back-to-the-future)
 * [The Map](#the-map)
-    * [1: Front gate name wall thingy](#front-gate-name-wall-thingy)
-    * [2: The waterfall behind CRC](#the-waterfall-behind-crc)
-    * [3: Balcony outside TC-22](#balcony-outside-tc-22)
-    * [4: Bus Stand Outside Old Library](#bus-stand-outside-old-library)
-    * [5: Old CC Lab](#old-cc-lab)
-    * [6: Lab 1](#lab-1)
-    * [7: Outer Ring Road](#outer-ring-road)
-    * [8: OAT Stairs](#oat-stairs)
-    * [9: The mess](#the-mess)
-    * [10: Lab 2 front](#1lab-2-front)
-    * [11: Old Idea Square Room](#old-idea-square-room)
-    * [12: Flowers?](#flowers)
-    * [13: More Stairs](#more-stairs)
-    * [14: The road behind the rest house and hostels](#the-road-behind-the-rest-house-and-hostels)
-    * [15: Scrapyard](#scrapyard)
-    * [16: The Neem Tree](#the-neem-tree)
-    * [17: TC7, Indoor Complex](#tc7-indoor-complex)
-    * [18: Lake](#lake)
-    * [19: DB2 Classrooms](#db2-classrooms)
-    * [20: DB2 Cafeteria](#db2-cafeteria)
-    * [21: Common Rooms](#common-rooms)
-    * [22: Water Tank](#water-tank)
+* [The Bucket List](#the-bucket-list)
 * [The Second Chance](#the-second-chance)
 
 *********************************
@@ -65,26 +44,35 @@ Okay, enough said, folks; I’ll talk to you again before we reach our destinati
 
 ![](https://lh7-us.googleusercontent.com/ygp--HJndXu7lFIDpX6U9AMgamwV1qHn63H-v8lZlayWvU-F5i68vnyGhxbiRSNTjCR-PWKYJQ8-gPFdihUh0MfoPg9QMdfgA5UP55pChKgwVXFyD2M3kfIQ2UWLhGh0_rn8Cg5L-lJDKW3jjPFFhd8)
 
-<a id="front-gate-name-wall-thingy"></a>
-**1: Front gate name wall thingy:**
+<details>
+<summary><b>1: Front gate name wall thingy:</b>
+</summary>
 
-The perfect spot for that 2 am breeze and deep philosophical thoughts. When you lie down on the wall and look up at the sky, the rest of the campus just fades away, and it's just you and the stars and your thoughts ✨.\
+The perfect spot for that 2 am breeze and deep philosophical thoughts. When you lie down on the wall and look up at the sky, the rest of the campus just fades away, and it's just you and the stars and your thoughts ✨.
 
 \- *Sathyanarayann*
+</details>
+
 
 - - -
-<a id="the-waterfall-behind-crc"></a>
-**2: The waterfall behind CRC:**
+<details>
+<summary><b>2: The waterfall behind CRC:</b>
+</summary>
 
- I sleep there occasionally. And some of my favorite memories with my best friend were made there.
+I sleep there occasionally. And some of my favorite memories with my best friend were made there.
 
 \- *Shamil Niyas*
 
 >*To all the freshies who have no idea what this is about, there is this place in front of CRC where, with good rainfall, a cute little waterfall used to flow to the bottom. I don’t think there’s enough water these days to be seen but it was a “WOW” moment for most of us who had just settled in a new campus amidst the pandemic.* 
+</details>
+
 
 - - -
+<details>
 <a id="balcony-outside-tc-22"></a>
-**3: Balcony outside TC-22:**  
+
+<summary><b>3: Balcony outside TC-22:</b>
+</summary>
 
 It is the spot for post-a.m. shenanigans and truth-or-dare sessions. When you're there on top of the whole campus, the truth has a habit of slipping right out. Perfect spot to just hang out and look at the glittering lights of the campus and even to watch the sunrise if you stay up long enough.
 
@@ -93,6 +81,11 @@ It is the spot for post-a.m. shenanigans and truth-or-dare sessions. When you're
 This place is actually a bit peaceful. Sometimes listening to some songs, gazing through the factories and the distant lights, feeling that calm breeze alone, and thinking about absolutely nothing really gives a lot of peace.
 
 \- *Arunkumar*
+
+</details>
+
+
+
 
 - - -
 <a id="bus-stand-outside-old-library"></a>
@@ -300,7 +293,7 @@ The most fun experience associated with the tank was on my birthday this year. M
 
 - - -
 
-<a id="The Bucket List"></a>
+<a id="the-bucket-list"></a>
 ### The Bucket List
 >We then asked all these people their bucket list what they were able to fulfill in the four years of BTech, and what were the unticked boxes. Let’s take a look at some stats now. Sorry for the responses I’ve not represented here this is just for an all in one bucket list, and some honourable mentions of course.* 
 
