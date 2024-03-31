@@ -54,7 +54,6 @@ And our dear readers, every click, every read, every share brings us joy. We wri
 
 Before I end, I want to quote everyone’s favourite wise old green dude: "Do or do not. There is no try." Well, we may have tried a lot, but hey, look where we are now! So, here's to many more adventures, mishaps and ofcourse more growth. May the procrastination be with us, always.
 
-\
-Seagulls Out!! Adios!
+Adios! Seagulls Out!! 
 
 <!--EndFragment-->
