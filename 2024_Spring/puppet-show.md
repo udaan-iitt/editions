@@ -2,7 +2,11 @@
 title: The Puppet Show
 category: Experiences
 date: 2024-03-01T14:09:24.608Z
-desc: Embark on a whimsical journey through the enchanted halls of IIT Tirupati as we concoct a spellbinding tribute, brewing up the untold tales of the student body of 2023-24. Prepare to raise your cauldrons in celebration of their magical achievements, stir your empathy for their potion-making mishaps, and offer a potion of gratitude for their unwavering dedication.
+desc: Embark on a whimsical journey through the enchanted halls of IIT Tirupati
+  as we concoct a spellbinding tribute, brewing up the untold tales of the
+  student body of 2023-24. Prepare to raise your cauldrons in celebration of
+  their magical achievements, stir your empathy for their potion-making mishaps,
+  and offer a potion of gratitude for their unwavering dedication.
 thumbnail: images/teamwork.jpg
 authors: Sneha Battula, Bineet Barman, Akhil Krishnan, Neerav Sreekumar
 starred: true
@@ -50,7 +54,7 @@ And to our outgoing representatives, we offer our sincerest gratitude for their 
 >\- *Raparthi Sai Harshith*                
 >
 > Don’t take anything too seriously. Just say “chalta hai” and move on.                                 
->\- *Tushar U *                 
+>\- *Tushar U*                 
 >
 > You can fail upwards in real life and not only in the movies.                                    
 >\- *Sirish Sekhar*                                   
