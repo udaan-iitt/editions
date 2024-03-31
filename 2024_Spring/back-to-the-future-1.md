@@ -45,7 +45,7 @@ Okay, enough said, folks; I’ll talk to you again before we reach our destinati
 ![](https://lh7-us.googleusercontent.com/ygp--HJndXu7lFIDpX6U9AMgamwV1qHn63H-v8lZlayWvU-F5i68vnyGhxbiRSNTjCR-PWKYJQ8-gPFdihUh0MfoPg9QMdfgA5UP55pChKgwVXFyD2M3kfIQ2UWLhGh0_rn8Cg5L-lJDKW3jjPFFhd8)
 
 <details>
-<summary><b>1: Front gate name wall thingy:</b>
+<summary><b>1: Front gate name wall thingy</b>
 </summary>
 
 The perfect spot for that 2 am breeze and deep philosophical thoughts. When you lie down on the wall and look up at the sky, the rest of the campus just fades away, and it's just you and the stars and your thoughts ✨.
@@ -56,7 +56,7 @@ The perfect spot for that 2 am breeze and deep philosophical thoughts. When you 
 
 - - -
 <details>
-<summary><b>2: The waterfall behind CRC:</b>
+<summary><b>2: The waterfall behind CRC</b>
 </summary>
 
 I sleep there occasionally. And some of my favorite memories with my best friend were made there.
@@ -71,7 +71,7 @@ I sleep there occasionally. And some of my favorite memories with my best friend
 <details>
 <a id="balcony-outside-tc-22"></a>
 
-<summary><b>3: Balcony outside TC-22:</b>
+<summary><b>3: Balcony outside TC-22</b>
 </summary>
 
 It is the spot for post-a.m. shenanigans and truth-or-dare sessions. When you're there on top of the whole campus, the truth has a habit of slipping right out. Perfect spot to just hang out and look at the glittering lights of the campus and even to watch the sunrise if you stay up long enough.
@@ -88,14 +88,19 @@ This place is actually a bit peaceful. Sometimes listening to some songs, gazing
 
 
 - - -
-<a id="bus-stand-outside-old-library"></a>
-**4: Bus Stand Outside Old Library:**
+<details>
+<summary><b>4: Bus Stand Outside Old Library</b>
+</summary>
 
 One of my favorites is the bus stop outside the old library, after dinner, we all gather, gossiping about each other. We are friends of different branches, so we usually talk about every professor and then make fun of the one friend who is committed. It was fun, though, when we stayed in the old campus. 
 
+</details>
+
+
 - - -
-<a id="old-cc-lab"></a>
-**5: Old CC Lab**
+<details>
+<summary><b>5: Old CC Lab</b>
+</summary>
 
 The old CC lab, with its air-conditioned room and no restraint on the lab timings, was one of my favorite spots. P.S.: I believe restraints on lab timings were imposed, but it was never strictly followed, and I am grateful for that. 
 
@@ -103,24 +108,38 @@ The old CC lab, with its air-conditioned room and no restraint on the lab timing
 
 >*Ah, another thing that the freshies will never be able to experience. For some context, until the previous year, the room opposite the health center office had multiple systems with such good air conditioning and used to be open till 2 AM, thanks to student volunteers. For most of the transit students, this was the perfect study spot, a blessing in disguise until, of course, one day, we woke up, and everything was in DB2 (or AB1, gosh, this is harder than keeping up with the latest GenZ slang).*
 
+</details>
+
+
 - - -
-<a id="lab-1"></a>
-**6: Lab 1** 
+<details>
+<summary><b>6: Lab 1</b>
+</summary>
 
 One interesting story is associated with the seating space outside Lab 1. One of my friends and I decided to meet up over there to discuss my SoP for my bid to be the Internship Coordinator. We ended up talking, talking and talking. By the time we ended, the Mess had started cooking breakfast, lol. We realized it was probably too late and should head back to our rooms.
 
 \- *Ishaan Kulkarni*
 
-- - -
-<a id="outer-ring-road"></a>
+</details>
 
-**7: Outer Ring Road**
+
+
+
+- - -
+<details>
+<summary><b>7: Outer Ring Road</b>
+</summary>
 
 One of my favourite campus spots, particularly during the quietude of midnight, is the ring road encircling the south campus. As the bustling activity of the day subsides and the campus drifts into slumber, this stretch of road transforms into something magical. The pitch-black skies above, unobscured by artificial light, offer a breathtaking canvas for stargazers like myself. With the hills behind the campus fading into obscurity, it's a scene straight out of a dream. It's a sanctuary where I can lose myself in the beauty of the night sky.
 
+
+</details>
+
 - - -
-<a id="oat-stairs"></a>
-**8: OAT Stairs**
+
+<details>
+<summary><b>8: OAT Stairs</b>
+</summary>
 
 OAT stairs in the early morning when no one's there. Sorry extrovert peeps, I love solace. Especially in the 5th semester, when Malhar hostel students had to go to the south campus mess three times a day, and the earliest tempo was at 7 in the morning. The 10-15 minutes before the mess was open and the 10-15 minutes after the breakfast till the next bus to classes at 8 am were golden. There wasn't a sweet sun in the skies; there was a mirror, reflecting the current situation, at times my sheer frustration, but sometimes the beam of optimism that this will gradually get better (although a new type of problem keeps me frustrated now lol, but structurally Malhar hostel has definitely improved). I dearly loved that.
 
@@ -132,12 +151,18 @@ OAT, especially during Tirutsava and other college fests, a memory 
 
 \- *Ganesh*
 
+
+</details>
+
 - - -
-<a id="the-mess"></a>
+
+
+
+<details>
+
+<summary><b>9: The mess</b></summary>
 
 
-
-**9: The mess**
 
 >*Who in the world has the mess in their list of favorite spots…* 
 
@@ -147,17 +172,30 @@ One story is about the mess where I had my first non-academic all-nighter when c
 
 >*Never mind, I take it back, that sounds fun.* 
 
+</details>
+
+
 - - -
-<a id="lab-2-front"></a>
-**10: Lab 2 front:**
+
+
+<details>
+<summary><b>10: Lab 2 front:</b></summary>
+
+
 
 The IT spot of the campus in our second and third years, there was ALWAYS something going on here, and it never ceased to be an unforgettable experience. 
 
 \- *Sathyanarayann*
 
+</details>
+
+
 - - -
-<a id="old-idea-square-room"></a>
-**11: Old Idea Square Room:**
+
+<details>
+<summary><b>11: Old Idea Square Room:</b></summary>
+
+
 
 >*Finally, somebody’s talking about this!*
 
@@ -165,32 +203,38 @@ Ahhh, the memories in that place... That room was THE room for the college 😂.
 
 \- *Sathyanarayann*
 
+
 My First Ideathon event, Inter IIT, Eyantra discussions, and many more memorable events happened there. During my tenure as one of the heads of Idea-Square, we had a lot of discussions on what the room should look like, trying to move things here and there. With the team, we had discussions regarding budget planning, workshops, and coordinating with all for workshops. I remember having long talks with the club advisor about workshops, drafting posters, and figuring out how to get more participants for events. 
 
 \- *Arunkumar*
 
 >*There was also this tiny scholars' room of sorts with a nice fan and AC. I remember the PFC peeps getting exclusive access to it during \*ahem\* Tirutsava. During the scorching months of March and April, a quick one-minute peek into this room was enough to cool you down enough to face the sun god’s wrath again.* 
 
+</details>
 - - -
-<a id="flowers"></a>
-**12: Flowers?**
+
+<details>
+<summary><b>12: Flowers?</b></summary>
 
 Transit Lab 2 has a white flower tree, which only has fragrant flowers on campus; whenever I go to the south mess or to meet someone("_"), I pick 4-5 flowers. They don't last long but still, give fragrance till the last breath, and they don't know that they are only such flowers like I take that lesson that - good to share even if you don't get any returns but for sure you won't regret when you hold back. I don't want this spot to be anonymous, so name it(Kushi ka Kushbu) or make more such places.
 
 \- *The anonymous romantic*
 
+</details>
 - - -
-<a id="more-stairs"></a>
 
-**13: More Stairs**
+<details>
+<summary><b>13: More Stairs</b></summary>
 
 One of my most cherished campus spots is the staircase nestled between Hostel Block E and the Guest House. It served as my go-to study haven during the times when F Block was devoid of Wi-Fi connectivity. What made this spot truly remarkable was its ability to transport me back to the comforts of home. Surrounded by lush greenery, the presence of plants and dogs made me feel like I was at home.
 
 \- *Sneha*
 
+</details>
 - - -
-<a id="the-road-behind-the-rest-house-and-hostels"></a>
-**14: The road behind the rest house and hostels**
+
+<details>
+<summary><b>14: The road behind the rest house and hostels</b></summary>
 
 In the second and third years, most of my favorite spots were in the south campus, like the wall behind the rest house, where we celebrated birthdays and beat each other black and blue while smearing cake on the birthday boy. The idea^2, where I could study in peace and get used to offline exams again. The mess where I did most of my cooking in college. Or the gallery besides TC22, where I loved spending time alone.
 
@@ -200,9 +244,11 @@ My absolute favorite has to be the chill spot behind Hostel B. That's where we u
 
 \- *Doraemon*
 
+</details>
 - - -
-<a id="scrapyard"></a>
-**15: Scrapyard** 
+
+<details>
+<summary><b>15: Scrapyard</b></summary>
 
 Literally the hidden gem of the college. At any given moment, you could go there and find the wildest, craziest imaginable things. The memories of conducting an entire fest out of waste from the scrapyard will always standout and is one I will be telling generations of IITians xD
 
@@ -210,10 +256,11 @@ Literally the hidden gem of the college. At any given moment, you could go there
 
 >*One thing that has remained constant throughout BTech is Satya and his ever-loving attraction to the most random trash on the street.* 
 
+</details>
 - - -
-<a id="the-neem-tree"></a>
 
-**16: The Neem Tree**
+<details>
+<summary><b>16: The Neem Tree</b></summary>
 
 >*Ah, the infamous spot, view, check, breeze check, clear night sky check, what else could you ask for?*
 
@@ -223,23 +270,21 @@ Had the most fun conversations and spent the best time with my friends that I ma
 
 >*Of course, it’s the perfect place for friends; who said anything about couples?*
 
+</details>
 - - -
-<a id="tc7-indoor-complex"></a>
-**17: TC7, Indoor Complex**
+
+<details>
+<summary><b>17: TC7, Indoor Complex</b></summary>
 
 >*Captain’s back cuz I have my favorite spots, too! One of my first memories of campus was in TC7 when I walked in to find some of my favorite seniors jamming to some of my favorite music. Since then, I grew to love this place, hate this place, then love it again. I remember taking up the Sargam Coordinator role, constantly tracking equipment, running back and forth, and slowly hating the sound of the drums (Ahem, sorry, Habibi), the noise, the lack of peace, the walk from my room all the way to indoor and whatnot. Then I learned to slow down, make it my home, and get comfortable. I remember spending nights there with my favorite people, just trying to support each other, have fun, and get shit done. It’s, of course, not the place but the people, but that room will always hold a special place in my heart.* 
 
 >\- Krithi
 
+</details>
 - - -
 
-![](https://lh7-us.googleusercontent.com/m5dL9QMIw8NTlx3NwHKDbHXhD5iShxi34lfJVF3tddjoCS2ZTZ1xKrgYiCMQWaEdpqaMxNXNgr01x-2tEtSmzqdGYYJXaSJaffiOqso2oLw39euZfhKX5fTaYV0Sxivjf5uj4TbBc1DTAAQ_uqkRCNQ)
-
-<a id="lake"></a>
-
-
-
-**18: Lake**
+<details>
+<summary><b>18: Lake</b></summary>
 
 >\*\*Ahem\*\*
 
@@ -249,17 +294,21 @@ My favorite spot is the bench near the lake to the left of the Admin Block, wher
 
 >*I definitely thought it was about the calmness only.* 
 
+</details>
 - - -
-<a id="db2-classrooms"></a>
-**19: DB2 Classrooms**
+
+<details>
+<summary><b>19: DB2 Classrooms</b></summary>
 
 A quiet classroom in AB1 overlooking the LHC is the best. You can spread out all your stuff and get things done, especially between classes. 
 
 \- *dotdot&dot*
 
+</details>
 - - -
-<a id="db2-cafeteria"></a>
-**20: DB2 Cafeteria**
+
+<details>
+<summary><b>20: DB2 Cafeteria</b></summary>
 
 >*Now, this is definitely one of our latest favorites! What better cure for a long day of classes than a hot samosa?*
 
@@ -269,17 +318,21 @@ This is where I spent a lot of time chatting with my friends. A lot of random to
 
 >*He’s not kidding guys; this dude spends 90% of his time in the cafe. This has been personally verified and documented. If you go to the cafe, chances are you find Arun talking to somebody with some butter biscuits in hand)*
 
+</details>
 - - -
-<a id="common-rooms"></a>
-**21: Common Rooms**
+
+<details>
+<summary><b>21: Common Rooms</b></summary>
 
 The common room in our G block was one of my favorite spots. All the time I spent gaming with my bros and getting into sleep while talking with one another... These single rooms cannot replace that vibe✨
 
 \- *GameCocaine*
 
+</details>
 - - -
-<a id="water-tank"></a>
-**22: Water Tank**
+
+<details>
+<summary><b>22: Water Tank</b></summary>
 
 The water tank behind the north mess is one of my favorite spots in the night on campus. The 10-minute trek to reach the tank is in itself a spooky, adventurous experience. A bunch of us used to turn on the flashlights and watch out for snakes, while the others were keen on noticing even the slightest of sounds from the bushes. Once we reach the top of the tank, the breathtaking view of the campus would make all the risks totally worth it. 
 
@@ -290,6 +343,8 @@ The most fun experience associated with the tank was on my birthday this year. M
 >*PS. Remember the dude with the biscuits in the cafeteria talking to “someone”? that someone is most likely our water tank dude here, okay thanks bye*
 
 >*Oof, that was like a mini-campus tour, definitely a blast from the past, though.*
+
+</details>
 
 - - -
 
@@ -370,8 +425,9 @@ Get a girl to walk and talk.
 
 >*Oh no, remember, this is the guy who liked the white flowers!*           
 
->***Sorry, Krithi but I really must interject here. Ma dude, your statement more less feels like you'll be better off getting a dog; You should get a dog; If you treat it well, it won't bite you if you take it for a walk and talk. Kinda makes sense why might not have a girlfriend.*** 
-
+>***Sorry, Krithi but I really must interject here. Ma dude, your statement more less feels like you'll be better off getting a dog; You should get a dog; If you treat it well, it won't bite you if you take it walk and talk. Kinda makes sense why might not have a girlfriend.*** 
+>
+.*That was well, I think you can guess. Moving forward*
 
 1. Go on a cool trip with friends. 
 2. Have a bonfire and an all-nighter fun session. 
