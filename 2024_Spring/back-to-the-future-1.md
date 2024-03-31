@@ -6,7 +6,7 @@ desc: Join the Graduating batch of 2020 on their nostalgic journey as they
   navigate through college life, filled with twists and turns, and a beautiful
   sprinkle of cherished memories.
 thumbnail: images/26010.jpg
-authors: Some 4th Years
+authors: Krithi Shailya and some? fourth years
 starred: true
 abio: ""
 ---
