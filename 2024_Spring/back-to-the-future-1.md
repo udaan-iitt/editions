@@ -22,6 +22,7 @@ For all the passengers, there are six emergency exits in this aircraft, none of 
 * [The Map](#the-map)
 * [The Bucket List](#the-bucket-list)
 * [The Second Chance](#the-second-chance)
+* [What next?](#concluding-remarks)
 
 *********************************
 <a id="why-go-back-to-the-future"></a>
@@ -612,6 +613,8 @@ Nothing much; I am happy with whatever I did…
 
 >*Lastly, we have our survivors of the repeated existential crisis! That’s all for the Ted Talk, do like share and subscribe!*
 
+<a id="concluding-remarks"></a>
+### What next?
 >Authors note now? Well, if you ask me, I would not have wasted my holidays binging random TV shows in guilt and rather have done something productive. Ah, but all’s well that ends, kinda, well. To all of you guys, college is fun, you can make it fun (after barely surviving) It’s fine if you don’t have an in-house Domino’s or a good restaurant in a 5km radius (It’s not really fine, but let’s pretend it is).
 
 >Just one thing, at the end of your four years, make sure you have something to look back to, something to take with you, and something to leave behind. For BTech students, you have 8 beautiful semesters with so many events and competitions, and college is like an empty page waiting for you to draw a self-portrait. It’s okay if you’re bad at drawing; you can just call it abstract art and make millions out of it.
