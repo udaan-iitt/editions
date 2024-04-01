@@ -5,7 +5,7 @@ date: 2024-03-28T08:16:22.646Z
 desc: Is sustaining a green campus as easy as it sounds? From holding on to
   modernity to reclaiming lost flora, peek in to know more about the green on
   campus and what goes behind sustaining it.
-thumbnail: images/horticulture.jpg
+thumbnail: images/whatsapp-image-2024-04-01-at-23.00.48_8e07080f.jpg
 authors: Chaitali Karekar, Dharmesh S
 starred: false
 abio: none
