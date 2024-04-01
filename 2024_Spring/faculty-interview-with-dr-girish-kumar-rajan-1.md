@@ -37,7 +37,7 @@ Girish Sir then went on to narrate his under-grad days and relive the memories o
 
 After his Undergraduate Degree, Girish Sir moved abroad to pursue his Masters and PhD Degrees. As he recounted his days at Penn State, he told us about his professors and the unexpected decision to do a Master’s Degree in Mathematics as well, explaining to us the fine differences between mathematicians and engineers.
 
-> “I once had the chance to witness a debate in which engineers and mathematicians participated, and I was astounded to see the fervour with which they exchanged arguments. At the end of the debate, I realised that one set was interested in real-world applications, did not mind approximations, but cared about dimensional consistency all the time, while the other was interested in exact solutions, their existence, uniqueness, proofs, theorems and so on. There is a very visible line between the two, and it’s up to us where we want to make our stand. I liked the interface between Applied Mathematics and Engineering, and I decided that is where I wanted to be. I wanted to have a good background in Mathematics and also an Applied Scientist who could extract the Physics out of raw Mathematics. 
+> “I once had the chance to witness a debate in which engineers and mathematicians participated, and I was astounded to see the fervour with which they exchanged arguments. At the end of the debate, I realised that one set was interested in real-world applications, did not mind approximations, but cared about dimensional consistency all the time, while the other was interested in exact solutions, their existence, uniqueness, proofs, theorems and so on. There is a very visible line between the two, and it’s up to us where we want to make our stand. I liked the interface between Applied Mathematics and Engineering, and I decided that is where I wanted to be. I wanted to have a good background in Mathematics and also be an Applied Scientist who could extract the Physics out of raw Mathematics. 
 >
 > So, my interest in Fluid Mechanics was driven, is being driven and will be driven by my flair for Mathematics. I cannot imagine being in a field without Mathematics; I would consider it to be a rather dry and boring field. I believe my students will know my penchant for equations in particular and  mathematical analyses in general: to push and push and essentially beat the system to death, squeezing out all the physics.”
 
@@ -53,9 +53,9 @@ However, after going abroad for his Masters and PhD, he had to cut back on some 
 
 > “I have tried my hand at several adventurous activities, including kayaking, rafting, snowboarding, skiing, caving, rock climbing, and ice skating. These activities, which were frequently organised by the university’s outing club, proved irresistible and turned out to be great stress busters. Come to think of it, words such as stress, strain, pressure, and tension are not uncommon in an engineering college. What is surprising, though, is that these are increasingly being used in a nontechnical context. Outdoor activities are very effective in combating stress, so I recommend that students cut down on screen time and use it for such activities instead.”
 
-|  |  |
-|:-:|:-:|
-|<img src="images/dsc_5744.jpg" alt="Image 1" width="100%" >|<img src="images/img_2387.jpg" alt="Image 2" width="100%">
+|                                                             |                                                            |
+| ----------------------------------------------------------- | ---------------------------------------------------------- |
+| <img src="images/dsc_5744.jpg" alt="Image 1" width="100%" > | <img src="images/img_2387.jpg" alt="Image 2" width="100%"> |
 
 He mentions how he found certain aspects of the teaching systems abroad particularly appealing.
 
