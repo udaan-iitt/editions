@@ -633,17 +633,6 @@ export const author_info = [
 		link: '',
 	},
 	{
-		key: 'CH21D005',
-		title: 'Vipin Kumar Sharma',
-		tagLine1: '',
-		tagLine2: '',
-		role: '',
-		year: '',
-		desc1: '',
-		desc2: '',
-		link: '',
-	},
-	{
 		key: 'EE20B016',
 		title: 'Iftekhar Ahmed',
 		tagLine1: '',
