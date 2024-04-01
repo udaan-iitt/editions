@@ -22,7 +22,7 @@ So, do we really have a ‘sustainable campus’? The one where you do tech whil
 
 ![](images/horticulture_1.png)
 
-There are several factors that go behind being sustainable; a major among them is the green around you. But the question remains, what exactly goes on behind maintaining this? Especially during the scorching winters, peek-a-boo monsoons and cyclonic winter rains? The editors at Udaan talked with Mr. Subba Reddy, the horticulture officer at IIT Tirupati to know more about the ground reality. Here’s what we gathered.
+There are several factors that go behind being sustainable; a major among them is the green around you. But the question remains, what exactly goes on behind maintaining this? Especially during the scorching summers, peek-a-boo monsoons and cyclonic winter rains? The editors at Udaan talked with Mr. Subba Reddy, the horticulture officer at IIT Tirupati to know more about the ground reality. Here’s what we gathered.
 
 For starters, let’s talk a bit about the vegetation. To give some more geographical context, the campus sits beside the Seschachalam and Nallamala forests, a dry deciduous type of vegetation. The plants and trees seen here are not that tall, and they are more shrubs than actual trees. The scorching summers, water scarcity in the Rayalaseema region, and lesser soils are factors that affect vegetation and impose constraints on the efforts of the horticulture team at IIT Tirupati.
 
