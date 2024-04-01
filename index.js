@@ -262,7 +262,7 @@ export const pastmembers = [
 		role: 'Editor',
 		year: '2023-24',
 		email: 'ce20b010@iittp.ac.in',
-		desc1: "Swathi was an editor at Udaan (2023-24) while pursuing a bachelor's in Civil Engineering at IIT-T.",
+		desc1: "Swati is a calm and composed individual who often seems like the balance and execution that Udaan needs with all the ideas that are thrown in. As a part of the editorial team, Swati has helped initiate several ideas, turn them into beautiful concepts, and of course, fearlessly approach anybody for more information!",
 		link: 'https://www.linkedin.com/in/swathi-gummadi-67826a226/',
 	},
 

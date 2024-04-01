@@ -66,11 +66,11 @@ And to our outgoing representatives, we offer our sincerest gratitude for their 
 
 </details>
 <details>
-<summary><b>Gopikrishna</b>
+<summary><b>Gopi Krishna</b>
 </summary>
 </br>
 
-*Academics Affairs Secretary*
+*Academic Affairs Secretary*
 
 ![](images/aas.png)
 
@@ -96,7 +96,7 @@ I need to learn how to present things, think from different perspectives and com
 
 - - -
 
-**Ever fancy yourself to another secretary?**
+**Ever fancy yourself being another secretary?**
 
 I would then want to become the Mess Affairs Secretary instead of an Academic Affairs Secretary. I want to become the Mess Affairs Secretary to work accordingly and decrease the food wastage. I want to work with the Mess people in maintaining the mess properly for hygiene, etc
 
@@ -106,7 +106,7 @@ I would then want to become the Mess Affairs Secretary instead of an Academic Af
 
 > Gopi Krishna gives equal attention to every request or query, no matter how trivial it may sound. Despite being involved in so many activities, he has always patiently listened and resolved several queries and requests. He is always reachable and quite approachable too. He is a fair leader and has, on several occasions, managed entire events single-handedly. He doesn't like conflict and finds it better to let things pass over rather than confront them. I feel he should take a stand no matter what other team members might feel.                
 >
-> Once during EPICS Mobile Science Lab - NSS activities, he helped me out with procuring stuff from an under-construction AB2 even though he could have easily asked someone else to do it. He is quite helpful and mostly knows whom to call to get stuff done. (If he doesn't, he makes an effort to fix it nonetheless).                              
+> Once during EPICS Mobile Science Lab - NSS activities, he helped me out with procuring stuff from AB2 even though he could have easily asked someone else to do it. He is quite helpful and mostly knows whom to call to get stuff done. (If he doesn't, he makes an effort to fix it nonetheless).                              
 >
 > I think he did a fairly good job in starting up the Excelsior club despite the lukewarm response. He has been quite visible and approachable on campus, which is a major plus point. The interesting part is that he sometimes shies away from taking credit and confronting nasty situations. I think he has somewhere made peace with the fact that no matter what you do, participation isn't going to be great. Despite that, he makes an effort to improve things.                               
 > \- *Chaitali Karekar*
@@ -131,8 +131,8 @@ I would then want to become the Mess Affairs Secretary instead of an Academic Af
 > Seeing the efforts, he made me realise how important it is to have a person like him in every group/gang who motivates and helps others in every aspect (although sometimes it's not good). He is a very good person who never thinks of doing bad to anyone and this pays off in the long run.                       
 >\- *Sivakoti Ram Mohith*
 >
-> He dares to stand up for things when they are wrong and to argue on the students' side with logical and valid reasons and takes up the responsibility even when no one is watching or questioning him. He is always trying to make something better.                          
->\-b*Penumarthi Ramya Krishna Chandini*
+> He dares to stand up for things when they are wrong and to argue on the students' side with logical and valid reasons and takes up the responsibility even when no one is watching or questioning him. He is always trying to make something better.                                                                 
+>\- *Penumarthi Ramya Krishna Chandini*
 
 - - -
 
@@ -212,7 +212,7 @@ I'm all about tech projects and events. So, no other gig beats being the Technic
 **Let’s take a look at what the student community has to say about them:**
 
 >Great (experience). There not many comical situations. We were mostly serious. Sometimes, we would ask him for a party for being the Technical Aff. Secretary and sometimes it was funny when we would roast Aman, Registrar, Manas or some advisors in the club meeting.                                         
->\- *Arpit *
+>\- *Arpit*
 >
 >To a generic person on campus, it might come across that Sumukh probably does nothing - but that's totally untrue. If you are able to see our technical clubs functioning, it's mainly because of his support - the seemingly invisible hand who is making things easier. Perhaps, he is one of the very few people in our batch who's been involved in the institute's technical circuit since the first year. Working with him has been a blast. He's the kind of dude who jumps on tasks as soon as they're thrown his way. No delays, no drama.                               
 >
@@ -236,19 +236,15 @@ I'm all about tech projects and events. So, no other gig beats being the Technic
 <details>
 <summary><b>Raees Pareshva</b>
 </summary>
-</br>
 
-*Mess Affairs Secretary*
-
-![](images/mas.png)
-<br>
-
+*Mess Affairs Secretary*                       
+                         
 **Let’s take a look at what the student community has to say about them:** 
 
 >Pareshva, in my opinion, did a decent job. I wouldn't say he did an awesome job, but at the same time, it would be very wrong to say that he didn't do anything. There were very few things that he had control over. From the students' perspective, he was perceived as very bad at his job, but being in the council, I won't agree with that completely because only we know the real reasons behind all these hardships. He is a bit lazy, and he could have been more mature in taking decisions, but it's kind of difficult to have that level of maturity without working in the council for a year, and he is still in his 3rd year of B.Tech.
 >
->Though there were instances where he could have acted much better, for example, being a little more responsible while writing emails, he also didn't receive the necessary guidance from the Asst. Warden and the mess wardens. There were no experienced people in the council other than 2-3 individuals. The council lacked experience and guidance. The failure of the council in making appropriate decisions was often perceived as the Mess Aff. Secretary's failure.                             
->\-*G Yaswanth Chowdary*
+>Though there were instances where he could have acted much better, for example, being a little more responsible while writing emails, he also didn't receive the necessary guidance from the Asst. Warden and the mess wardens. There were no experienced people in the council other than 2-3 individuals. The council lacked experience and guidance. The failure of the council in making appropriate decisions was often perceived as the Mess Aff. Secretary's failure.                                           
+>\- *G Yaswanth Chowdary*
 
 *********************************
 
@@ -258,7 +254,7 @@ I'm all about tech projects and events. So, no other gig beats being the Technic
 </summary>
 </br>
 
-*Mess Affairs Secretary*
+*Hostel Affairs Secretary*
 
 ![](images/has.png)
 <br>
@@ -289,15 +285,15 @@ I would prefer the Hostel secretary anytime. But if I remember correctly, I wish
 
 **Let’s take a look at what the student community has to say about them:**
 
->I had a good experience working with him. I guess he performed his best in doing his job.         
->\-*Dhanush P *          
+>I had a good experience working with him. I guess he performed his best in doing his job.                                                  
+>\- *Dhanush P*                 
 
 ************************************
 
 **After 4 weeks of constant pestering, we consider ourselves lucky to share with you the responses from their dearest homies, on what Mr. Coordinator taught them:**
 
->Getting overly active about solving an issue just makes it heavier for you. Just move slowly and plan to work for the long run.
->\-*Siva Sanjay*
+>Getting overly active about solving an issue just makes it heavier for you. Just move slowly and plan to work for the long run.                                         
+>\- *Siva Sanjay*
 
 *************************
 
@@ -348,13 +344,13 @@ Actually, I am happy to be LAS. But for this question, since it is the final yea
 
 **Let’s take a look at what the student community has to say about them:**
 
->He is a person with zero ego and comprises the full knowledge of dividing the work among the people to bring a better output. He gave me the freedom to work accordingly, and one thing I noticed is that he is very well-mannered and respectable to his fellows. The purchase of good books was a good accomplishment.                 
->\-*Ratna Sree*
+>He is a person with zero ego and comprises the full knowledge of dividing the work among the people to bring a better output. He gave me the freedom to work accordingly, and one thing I noticed is that he is very well-mannered and respectable to his fellows. The purchase of good books was a good accomplishment.                                      
+>\- *Ratna Sree*
 >
->As a member of the Literary Affairs Council, I have had the opportunity to contribute my perspectives and benefit from the wisdom of my colleagues. The club has organized numerous events, including those held on Freshers' Day, Valentine's Day, Inter-IIT, Hindi Pakhwada, and various other occasions. As a member of the design team, I was tasked with generating inventive concepts to enhance the creation of effective posters, thereby bolstering my design abilities. It is a pleasure to engage with this group, and I must acknowledge the collected demeanor of our secretary. Once he assumes a role, he fulfills his obligations and remains committed until the task is completed, reflecting a cooperative and team-focused approach. While the council members were engrossed in their obligations, he effectively managed the events, including the club events, showcasing his versatility.                               
+>As a member of the Literary Affairs Council, I have had the opportunity to contribute my perspectives and benefit from the wisdom of my colleagues. The club has organized numerous events, including those held on Freshers' Day, Valentine's Day, Inter-IIT, Hindi Pakhwada, and various other occasions. As a member of the design team, I was tasked with generating inventive concepts to enhance the creation of effective posters, thereby bolstering my design abilities. It is a pleasure to engage with this group, and I must acknowledge the collected demeanor of our secretary. Once he assumes a role, he fulfills his obligations and remains committed until the task is completed, reflecting a cooperative and team-focused approach. While the council members were engrossed in their obligations, he effectively managed the events, including the club events, showcasing his versatility.                                                   
 >
->The council has efficiently established a student library and procured necessary materials for the council that were previously lacking. Additionally, Vikash is diligent in overseeing event planning regardless of council member availability. Shortly, we will be unveiling the literary calendar. It would have been more beneficial if the secretary had also taken into consideration the team members' experience in addition to their interests when making selections.              
->\-*Sri Lakshmi*
+>The council has efficiently established a student library and procured necessary materials for the council that were previously lacking. Additionally, Vikash is diligent in overseeing event planning regardless of council member availability. Shortly, we will be unveiling the literary calendar. It would have been more beneficial if the secretary had also taken into consideration the team members' experience in addition to their interests when making selections.                                                      
+>\- *Sri Lakshmi*
 
 *****************************
 
@@ -492,7 +488,7 @@ I am passionate about technical matters, so I would have liked to pursue a role 
 **After 4 weeks of constant pestering, we consider ourselves lucky to share with you the responses from their dearest homies, on what Mr. Secretary taught them:**       
 
 >Not everything is to be taken seriously, Prioritise both work and non-work activities.                
->\- *Ishaan *
+>\- *Ishaan*
 
 ***********************************************
 
@@ -537,7 +533,7 @@ CDGC. It seems a pretty chill position with organising talks, sessions, etc.
 >
 >Interesting thing is that he is not like the complaining kind. What other people see, such as Chetan not responding or something of that sort, is due to the main problem that the placement officer doesn’t update anything and doesn't call back companies regarding status. It is us who push him for the updates. Chetan doesn't complain, saying that the PO is not responding. Yes, of course everyone sees the results and Chetan wasn't able to produce that result. Hence, everyone points out to Chetan that he doesn't work or something like that. But no one sees the other side of how we all work talking to companies, mailing them and all that stuff.
 >
->The area where he could have been better is that he could have openly said things to everyone instead of waiting for a good thing to happen. At least then people would understand the current situation.
+>The area where he could have been better is that he could have openly said things to everyone instead of waiting for a good thing to happen. At least then people would understand the current situation.                                                                
 >\- *Adarsh Bellamkonda*
 
 ************************************************
@@ -663,7 +659,7 @@ The first thing that they’ll need to do is to select a good team. With them on
 
 ******************************************
 
-**Ever fancy yourself to be another secretary?**
+**Ever fancy yourself to be another secretary?**                             
 No, I am not interested in any other secretary position.
 
 ********************************
@@ -730,23 +726,21 @@ Nah, I'd still choose Actomania.
 
 **Let’s take a look at what the student community has to say about them:**
 
->Kushal demonstrates several commendable qualities such as dedication, hard work, supportive and understanding nature and, of course, good acting skills. However, there are areas where his leadership could have been better. One aspect is his communication style and his approach to teamwork. For instance, if I had to point out something specifically,  he sometimes becomes a little frustrated and argumentative, which detracts from a positive team environment. By improving communication, fostering a positive team dynamic, and recognising the contributions of all team members, Kushal has the potential to become a more inspiring leader.   
+>Kushal demonstrates several commendable qualities such as dedication, hard work, supportive and understanding nature and, of course, good acting skills. However, there are areas where his leadership could have been better. One aspect is his communication style and his approach to teamwork. For instance, if I had to point out something specifically,  he sometimes becomes a little frustrated and argumentative, which detracts from a positive team environment. By improving communication, fostering a positive team dynamic, and recognising the contributions of all team members, Kushal has the potential to become a more inspiring leader.                            
+> \- *Yuv Raj*
 >
-> \-*Yuv Raj*
->
->It's been a pleasant time working with him. His ability to promote new ideas and give new opportunities to new talents deserves a round of applause. The best thing about him is that he’ll work in the background- like a silent killer. Kushal is the one who motivates us when we are not in the flow. Well, sometimes motivation can be in the form of a few harsh words, but I think it’s alright because managing a team of actors is not an easy task- you never know when they are acting and when not.   
->
-> \-*Yuvraj Mhatre*
+>It's been a pleasant time working with him. His ability to promote new ideas and give new opportunities to new talents deserves a round of applause. The best thing about him is that he’ll work in the background- like a silent killer. Kushal is the one who motivates us when we are not in the flow. Well, sometimes motivation can be in the form of a few harsh words, but I think it’s alright because managing a team of actors is not an easy task- you never know when they are acting and when not.               
+> \- *Yuvraj Mhatre*
 
 - - -   
 
 **After 4 weeks of constant pestering, we consider ourselves lucky to share with you the responses from their dearest homies, on what Mr. Coordinator taught them:**    
 
->I learnt a lot about many web series and movies from this movie maniac.
-> \-*Prince Kumar*
+>I learnt a lot about many web series and movies from this movie maniac.                                                          
+> \- *Prince Kumar*
 >
->Sometimes, it's okay to take a few steps back, go outside to eat, and get some 12 or so hours of sleep.
->*Utkarsh Dhar Dubey*
+>Sometimes, it's okay to take a few steps back, go outside to eat, and get some 12 or so hours of sleep.                                                 
+>\- *Utkarsh Dhar Dubey*
 >
 >"Love for Dramatics as an art" is something he taught me during his tenure.
 >*Vaibhav Mishra*
@@ -791,20 +785,18 @@ THE SCRIBBLES CLUB!!! I would hold tons of book-reading sessions!
 
 **Let’s take a look at what the student community has to say about him:**
 
->Collaborating with Vishnu Anna has been nothing short of a delightful experience! Vishnu is the epitome of serenity; he navigates through tasks with an air of tranquility that would put a Zen master to shame. Working with him is like taking a serene stroll through a garden of perfectly organized tasks, where chaos dares not rear its head. Vishnu effortlessly dispels any inkling of confusion, leaving no room for the pesky gremlins of uncertainty to sneak in. His approach is as cool as a cucumber in a freezer – not a bead of sweat in sight. I've often wondered if he has a secret stash of calmness tucked away somewhere; perhaps he's the keeper of the legendary Zen Garden of Productivity. However, in the spirit of full disclosure, there have been instances where Vishnu's calmness has left us questioning if he's secretly a robot programmed never to panic. I mean, a slight panic every now and then keeps things interesting, right? His commitment to responsibility is so stellar.   
->
-> \- *Akilesh*
+>Collaborating with Vishnu Anna has been nothing short of a delightful experience! Vishnu is the epitome of serenity; he navigates through tasks with an air of tranquility that would put a Zen master to shame. Working with him is like taking a serene stroll through a garden of perfectly organized tasks, where chaos dares not rear its head. Vishnu effortlessly dispels any inkling of confusion, leaving no room for the pesky gremlins of uncertainty to sneak in. His approach is as cool as a cucumber in a freezer – not a bead of sweat in sight. I've often wondered if he has a secret stash of calmness tucked away somewhere; perhaps he's the keeper of the legendary Zen Garden of Productivity. However, in the spirit of full disclosure, there have been instances where Vishnu's calmness has left us questioning if he's secretly a robot programmed never to panic. I mean, a slight panic every now and then keeps things interesting, right? His commitment to responsibility is so stellar.                                                 
+>\- *Akilesh*
 > 
->Working with him is like the most peaceful job – he doesn't use too much force to make people do the tasks, and his smile gives us enough motivation for it. He tries his best to plan everything in advance to minimize any last-minute hassles, though such changes are inevitable sometimes, and knows whom to assign the right task. He's a good persuader for roping in people for work, but he should have been strict sometimes, or else stuff won’t go as fast as it should go.   
->
-> \- *Siva Sanjay*
+>Working with him is like the most peaceful job – he doesn't use too much force to make people do the tasks, and his smile gives us enough motivation for it. He tries his best to plan everything in advance to minimize any last-minute hassles, though such changes are inevitable sometimes, and knows whom to assign the right task. He's a good persuader for roping in people for work, but he should have been strict sometimes, or else stuff won’t go as fast as it should go.                                     
+>\- *Siva Sanjay*
 
 - - - 
 
 **After 4 weeks of constant pestering, we consider ourselves lucky to share with you the responses from their dearest homies, on what Mr. Coordinator taught them:**
 
->They’ve taught me that my drawing doesn't always have to look good.
-> \- *Chandradithya*
+>They’ve taught me that my drawing doesn't always have to look good.                                                          
+>\- *Chandradithya*
 
 - - - 
 
@@ -846,24 +838,21 @@ Nope, none. Celeste, anytime, anyday!
 
 **Let’s take a look at what the student community has to say about him:**
 
->She is the best Celeste club head to date, in my opinion, because she has previous experience in the fashion field. Moreover,  she is so understanding and kind, but also strict about her duties at the same time.  Amulya planned and welcomed the ideas of club members, even mine - and motivated us to take over her post after she was respectfully out. She did an excellent job in assembling our ideas; she hustled by leading our team to fifth place in the Inter IIT 2022, and now leaping to 9th place in 2023. And not to mention, her model walk is out of the world- I heard it from the fashion girls and even saw it. Last but not least, don’t GIVE HER CAFFEINE EVER.   
+>She is the best Celeste club head to date, in my opinion, because she has previous experience in the fashion field. Moreover,  she is so understanding and kind, but also strict about her duties at the same time.  Amulya planned and welcomed the ideas of club members, even mine - and motivated us to take over her post after she was respectfully out. She did an excellent job in assembling our ideas; she hustled by leading our team to fifth place in the Inter IIT 2022, and now leaping to 9th place in 2023. And not to mention, her model walk is out of the world- I heard it from the fashion girls and even saw it. Last but not least, don’t GIVE HER CAFFEINE EVER.                                
+>\- *Yuvraj Gowtham*
 >
-> \-*Yuvraj Gowtham*
+>It was a mix of fun, craziness, stress, regrets, disappointments, brainstorming, accomplishments, learnings and many more. One thing that I've learnt is never to be afraid to present my idea, it might have the capability to make things a lot better. All we did this term was come up with an idea, get all excited, make a mistake out of our curiosity, and then pop up with more ideas to fix it up, which would sometimes even change the whole plan- this time, thinking it over, and making sure we do our best.                                                 
+>\- *Sunidhi*
 >
->It was a mix of fun, craziness, stress, regrets, disappointments, brainstorming, accomplishments, learnings and many more. One thing that I've learnt is never to be afraid to present my idea, it might have the capability to make things a lot better. All we did this term was come up with an idea, get all excited, make a mistake out of our curiosity, and then pop up with more ideas to fix it up, which would sometimes even change the whole plan- this time, thinking it over, and making sure we do our best.   
->
-> \-*Sunidhi*
->
->It definitely was a great time working with her; you never know what kind of work you will end up doing while you are working on her team- the ideas she proposes look ridiculous at first sight, but only when the work starts the clarity start hitting your mind, though sometimes they turn out to be lessons. We need to be active with her while doing stuff  *whispers*. Ah, yes, you wouldn’t wish to witness her other side. A lazy cat with sudden bursts of energy (thumbs up energy), and suddenly she starts running here and there to do work and annoy people.   
->
-> \-*Siva Sanjay*
+>It definitely was a great time working with her; you never know what kind of work you will end up doing while you are working on her team- the ideas she proposes look ridiculous at first sight, but only when the work starts the clarity start hitting your mind, though sometimes they turn out to be lessons. We need to be active with her while doing stuff  *whispers*. Ah, yes, you wouldn’t wish to witness her other side. A lazy cat with sudden bursts of energy (thumbs up energy), and suddenly she starts running here and there to do work and annoy people.                        
+> \- *Siva Sanjay*
 
 - - - 
 
 **After 4 weeks of constant pestering, we consider ourselves lucky to share with you the responses from their dearest homies, on what Ms. Coordinator taught them:**    
 
->To not overthink things before even starting the work. In other words, to have the confidence to believe that we will figure the way out ourselves if something goes wrong.   
-> \-*Sunidhi
+>To not overthink things before even starting the work. In other words, to have the confidence to believe that we will figure the way out ourselves if something goes wrong.                     
+>\- *Sunidhi
 
 - - - 
 
@@ -913,37 +902,33 @@ I think I could be the Artista Coordinator, as I do sketching, which I don’t k
 
 **Let’s take a look at what the student community has to say about them:**
 
->Working with Mohit Bhaiya has been a truly rewarding experience for me as a core member. He is the type of person who always emphasizes completing things on time. We often have multiple responsibilities besides just clicking and editing photos, which can sometimes result in delays in completing the work of the club, and this is something that he understandably finds displeasing. I first met him during a Lightroom session, and initially, I found it quite boring and came out of the session. Little did I know that I would end up working with him for the next year. I've learned many things from him, especially navigating through events while ignoring people who constantly ask for their photos to be taken and insist on receiving them promptly. His iconic dialogue during every core member meeting was, "Just exploring with the camera during event coverage doesn't accomplish anything.”       
+>Working with Mohit Bhaiya has been a truly rewarding experience for me as a core member. He is the type of person who always emphasizes completing things on time. We often have multiple responsibilities besides just clicking and editing photos, which can sometimes result in delays in completing the work of the club, and this is something that he understandably finds displeasing. I first met him during a Lightroom session, and initially, I found it quite boring and came out of the session. Little did I know that I would end up working with him for the next year. I've learned many things from him, especially navigating through events while ignoring people who constantly ask for their photos to be taken and insist on receiving them promptly. His iconic dialogue during every core member meeting was, "Just exploring with the camera during event coverage doesn't accomplish anything.”                                                 
+>\- *Satyam Singh*
 >
-> \-*Satyam Singh*
+>Mohit Kumar is exceptional in his role as Club head. He conducted core meetings on time & encouraged us to engage and try new things with the beloved ‘camera’. You just have to call or text him whenever you need a camera. Our club has only 3 cameras, but somehow, he provided us with them when in need. He has a creative approach in every shot and emphasises more on improving photography skills rather than editing. By the way, the one thing I wanna ask you: when are we getting our club merchandise? Ever since I joined the club, it has been delayed. I personally feel that the videography team did well this time in Inter-IIT, but we are lagging behind in the Graphic & Design part.                                   
+>\- *Rajan*
 >
->Mohit Kumar is exceptional in his role as Club head. He conducted core meetings on time & encouraged us to engage and try new things with the beloved ‘camera’. You just have to call or text him whenever you need a camera. Our club has only 3 cameras, but somehow, he provided us with them when in need. He has a creative approach in every shot and emphasises more on improving photography skills rather than editing. By the way, the one thing I wanna ask you: when are we getting our club merchandise? Ever since I joined the club, it has been delayed. I personally feel that the videography team did well this time in Inter-IIT, but we are lagging behind in the Graphic & Design part.        
+>It was fun working with them. Haha, you think so? He’s the coordinator, so of course, you can expect him to ask you to do a lot of work, but he’s good at what he does, not gonna lie. He did manage to keep track of every team in PFC, say videography, photography or the design team and managed to grab good positions in the Inter-IIT Culturals this year.                                   
+>\- *Binnu*
 >
-> \-*Rajan*
->
->It was fun working with them. Haha, you think so? He’s the coordinator, so of course, you can expect him to ask you to do a lot of work, but he’s good at what he does, not gonna lie. He did manage to keep track of every team in PFC, say videography, photography or the design team and managed to grab good positions in the Inter-IIT Culturals this year.       
->
-> \-*Binnu*
->
->Tiring but fun. Bro is an amazing photographer and knows how to divide work nicely. Sometimes, he's not very assertive but that is also reflective of his friendly demeanor. (I don't listen to him).       
->
-> \-*Keshav*
+>Tiring but fun. Bro is an amazing photographer and knows how to divide work nicely. Sometimes, he's not very assertive but that is also reflective of his friendly demeanor. (I don't listen to him).              
+>\- *Keshav*
 
 - - - 
 
 **After 4 weeks of constant pestering, we consider ourselves lucky to share with you the responses from their dearest homies, on what Mr. Coordinator taught them:**     
 
->How to give juniors work.
-> \-*Keshav*
+>How to give juniors work.                                              
+>\- *Keshav*
 >
->We have frequent productive discussions related to Photography where we learn new things together. That’s helpful because when an art form is your passion, you need like-minded people around you to expand your knowledge.   
-> \-*Anant*
+>We have frequent productive discussions related to Photography where we learn new things together. That’s helpful because when an art form is your passion, you need like-minded people around you to expand your knowledge.                                                                                           
+>\- *Anant*
 >
->Not a single damn thing.    
-> \-*Kushal*
+>Not a single damn thing.                                              
+>\- *Kushal*
 >
->I am sure I underestimated you as a leader when you started and imagined you lesser than what you have become today; not that you have filled my shoes as the club co-ordinator yet, but certainly I can pass out of college knowing the club is in good hands.    
-> \-*Prasanna*
+>I am sure I underestimated you as a leader when you started and imagined you lesser than what you have become today; not that you have filled my shoes as the club co-ordinator yet, but certainly I can pass out of college knowing the club is in good hands.                                                                               
+>\- *Prasanna*
 
 - - - 
 
@@ -963,41 +948,46 @@ I think I could be the Artista Coordinator, as I do sketching, which I don’t k
 
 My time as the head of Rasoi has been full of joy and unforgettable moments. I learned a lot about leading a team, managing tasks at the last minute, and improving my communication skills. I also met many new people and strengthened my bonds with them. One of the best parts was setting up food stalls, where everyone, including my friends, pitched in to help. I'm grateful to everyone who supported me along the way. A major highlight was participating in Inter IIT at Kharagpur, which was a memorable experience. Despite being a new club, we successfully organized many events, and I'm proud of how well we did. That's why I feel satisfied with my performance as the club coordinator.        
 
+- - -
+
 **Humour us with some of the mistakes you’ve made during it.**
 
 While making chocolate syrup, I accidentally poured hot syrup on my hand while tasting it during the Valentine's Day food stall. It was so hot that I couldn't help but shout out, causing everyone in the mess to turn and look at me. It was a bit embarrassing at the moment, but thankfully, it wasn't anything serious.          
+
+- - -
 
 **As tradition goes, one will soon take your place. What advice would you give them?**       
 
 To the future coordinator, here's a helpful tip: Make sure to select your core committee members carefully and distribute tasks evenly among them. Avoid overloading one person with too much work while giving another person less. Plan your events at least 10 days in advance to avoid last-minute chaos. If you're unsure about something, don't hesitate to seek advice from experienced individuals. It's also a good idea to communicate with chefs for valuable insights. Remember, Inter IIT is significant, so make sure to practice thoroughly for it.       
 
+- - -
+
 **Ever fancy yourself to spearhead another club?** 
 
 Actomania. I pretend to listen to the class while actually dozing off.
 
+- - -
+
 **Let’s take a look at what the student community has to say about them:**
 
->Akshara’s really chill and cool to work with.
+>Akshara’s really chill and cool to work with.                  
+> \- *Preetha Selvakumar*
 >
-> \-*Preetha Selvakumar*
+>My experience was really great working with them- we have conducted so many events and set up several stalls and everything turned out to be successful. There are no negative points I can think of.                                         
+> \- *Sai Nikshith*
 >
->My experience was really great working with them- we have conducted so many events and set up several stalls and everything turned out to be successful. There are no negative points I can think of.        
-> 
-> \-*Sai Nikshith*
->
->Akshara deserves sincere appreciation for her outstanding dedication to the cooking club. Her unwavering enthusiasm, hard work, and expert management of events have significantly enhanced the club's experience for all members. Through her inclusive approach, she ensures that everyone feels involved and valued. Akshara's role as an inspiring leader has contributed to making the cooking club a vibrant and enjoyable community. She was very quirky in planning different events, which helped the core members push their limits and expertise to learn new skills.      
->
-> \-*Ashutosh Pandey*
+>Akshara deserves sincere appreciation for her outstanding dedication to the cooking club. Her unwavering enthusiasm, hard work, and expert management of events have significantly enhanced the club's experience for all members. Through her inclusive approach, she ensures that everyone feels involved and valued. Akshara's role as an inspiring leader has contributed to making the cooking club a vibrant and enjoyable community. She was very quirky in planning different events, which helped the core members push their limits and expertise to learn new skills.                                       
+> \- *Ashutosh Pandey*
 
 - - - 
 
 **After 4 weeks of constant pestering, we consider ourselves lucky to share with you the responses from their dearest homies, on what Ms. Coordinator taught them:**    
 
->How to pretend to study at home and do nothing.
-> \-*Mahalakshmi*
+>How to pretend to study at home and do nothing.             
+> \- *Mahalakshmi*
 >
->She’s shown me how to vibe with whatever I do.
-> \-*Sunidhi*
+>She’s shown me how to vibe with whatever I do.                           
+> \- *Sunidhi*
 
 - - - 
 
@@ -1056,29 +1046,27 @@ I think if things were a little different, especially around the time Club Coord
 
 **Let’s take a look at what the student community has to say about them:**
 
->My experience working with him was nice. The club allowed me to perform in various events that improved my overall stage performance. The club head always tried to encourage us for various performances and helped us to practice by giving us the required permissions. It could have been better related to the permissions area for the Sargam club room and the key management. Additionally, the transportation system for the instruments for any performance requires serious attention.     
+>My experience working with him was nice. The club allowed me to perform in various events that improved my overall stage performance. The club head always tried to encourage us for various performances and helped us to practice by giving us the required permissions. It could have been better related to the permissions area for the Sargam club room and the key management. Additionally, the transportation system for the instruments for any performance requires serious attention.                                        
+> \- *Prakhar Gupta*
 >
-> \-*Prakhar Gupta*
->
->Working with him provides an interesting take on how informality paves a path to getting the job done. I have never had that in my life before. He is that person who you would feel very comfortable to work with. Well, he is like the mom in a house. He orders, we do it, and the job gets done; he orders, we don't, and still the job gets done. He never hesitates to spend his own money for the club's sake. The one thing I want him to change is the idea of "do it by yourself if no one else does it for you".      
->
-> \-*Mukilan*
+>Working with him provides an interesting take on how informality paves a path to getting the job done. I have never had that in my life before. He is that person who you would feel very comfortable to work with. Well, he is like the mom in a house. He orders, we do it, and the job gets done; he orders, we don't, and still the job gets done. He never hesitates to spend his own money for the club's sake. The one thing I want him to change is the idea of "do it by yourself if no one else does it for you".                             
+> \- *Mukilan*
 
 - - - 
 
 **After 4 weeks of constant pestering, we consider ourselves lucky to share with you the responses from their dearest homies, on what Mr. Coordinator taught them:**           
 
->Taught me how to get things done even when you have the most irresponsible teammates.   
-> \-*Abhinav*
+>Taught me how to get things done even when you have the most irresponsible teammates.                                       
+> \- *Abhinav*
 >
->Taught me how not to write an approval letter (it was a two way learning experience).       
-> \-*Charan*
+>Taught me how not to write an approval letter (it was a two way learning experience).                                        
+> \- *Charan*
 >
->Taught me how to be an asshole without regrets.         
-> \-*Keshav*
+>Taught me how to be an asshole without regrets.                                                   
+> \- *Keshav*
 >
->Taught me to be selfish in the most necessary ways. To pick myself over and over and be happy. Also, how to see the magic in small moments when I forget how to.         
-> \-*Sneha Battula*
+>Taught me to be selfish in the most necessary ways. To pick myself over and over and be happy. Also, how to see the magic in small moments when I forget how to.                                       
+> \- *Sneha Battula*
 
 - - - 
 
@@ -1104,30 +1092,33 @@ It was beyond awesome! I have a super supportive core team, super enthusiastic f
 
 I neglected my studies. I thought I could manage somehow, but I totally messed up. It's more like a regret for me than a mistake, and I know it’s not as funny :/       
 
+- - -
+
 **As tradition goes, one will soon take your place. What advice would you give them?**       
 
 I tried to do or solve everything by myself, due to which I struggled a lot. I suggest my successor not to do that – take the help of your team and don't make decisions on your own. Discuss with your team and decide.       
+
+- - -
 
 **Ever fancy yourself to spearhead another club?**
 
 Other than dance, I am interested in football and kabaddi. If there were clubs like a football club or a kabaddi club, I would have picked them.        
 
+- - -
+
 **Let’s take a look at what the student community has to say about them:**
 
 >It was a good experience working with him. He chooses humorous songs that are very different from others when having a serious discussion. He fought tooth and nail for our accommodation in the dance room and great job in managing all the stuff required for Inter IIT 6.0. I personally feel that he could have managed his studies better, along with the responsibilities he had.          
 >
-> \-*Chathurya*
->
->It’s really a lovely experience working with him. He is very dedicated to dance. He always tries to learn new styles. And always motivates us to work better. He did an excellent job during Inter-IIT Culturals 6.0. Even though he was new to it, just like any of us, he handled that phase very well.        
->
-> \-*Kowshiki*
+>It’s really a lovely experience working with him. He is very dedicated to dance. He always tries to learn new styles. And always motivates us to work better. He did an excellent job during Inter-IIT Culturals 6.0. Even though he was new to it, just like any of us, he handled that phase very well.                                              
+> \- *Kowshiki*
 
 - - - 
 
 **After 4 weeks of constant pestering, we consider ourselves lucky to share with you the responses from their dearest homies, on what Mr. Coordinator taught them:**
 
->Determination, patience and his sincerity towards work.              
-> \-*Baini Santhosh*
+>Determination, patience and his sincerity towards work.                                             
+> \- *Baini Santhosh*
 
 - - - 
 
@@ -1167,36 +1158,35 @@ It's a solo job, the core isn't particularly useful. Also, it's hard to get peop
 
 Quiz Club – it would've been more straightforward.
 
+- - -
+
 **Let’s take a look at what the student community has to say about them:**
 
->Under his leadership, our debates weren't just clashes of opinions, they were Shakespearean dramas unfolding on a stage of logic and rhetoric. He pushed us to dissect complex issues, think critically, and articulate our views with the eloquence of a seasoned politician (minus the questionable hair choices, hopefully). First things first, props to Arvind for keeping things spicy! He managed to turn our club meetings into must-see events, with topics ranging from the profound to the downright goofy. Whether we're dissecting the meaning of life or debating the superiority of cats over dogs, there's never a dull moment. But hey, nobody's perfect, right? While his passion for playing devil's advocate keeps things interesting, there have been moments where it's left us scratching our heads. I mean, questioning the existence of free will during a debate about whether pineapple belongs on pizza? Talk about a mind-bender!                  
+>Under his leadership, our debates weren't just clashes of opinions, they were Shakespearean dramas unfolding on a stage of logic and rhetoric. He pushed us to dissect complex issues, think critically, and articulate our views with the eloquence of a seasoned politician (minus the questionable hair choices, hopefully). First things first, props to Arvind for keeping things spicy! He managed to turn our club meetings into must-see events, with topics ranging from the profound to the downright goofy. Whether we're dissecting the meaning of life or debating the superiority of cats over dogs, there's never a dull moment. But hey, nobody's perfect, right? While his passion for playing devil's advocate keeps things interesting, there have been moments where it's left us scratching our heads. I mean, questioning the existence of free will during a debate about whether pineapple belongs on pizza? Talk about a mind-bender!                                                  
+> \- *Jacob Panicker*
 >
-> \-*Jacob Panicker*
+>There was work? I think he was pretty serious about the club's performance at Inter IIT and wanted new people to take part in the activities. He couldn't devote much time and energy into the thing because of other commitments.                                               
 >
->There was work? I think he was pretty serious about the club's performance at Inter IIT and wanted new people to take part in the activities. He couldn't devote much time and energy into the thing because of other commitments.               
+>Although it was only for one semester, I still had good time working with him. He handled his position well. It would have been better if he could have sent one debate team to Inter IIT.                        
+> \- *Vikash Kumar*
 >
->Although it was only for one semester, I still had good time working with him. He handled his position well. It would have been better if he could have sent one debate team to Inter IIT.
+>Arvind is undeniably a remarkable orator; He qualified for the final round of adjudication in an inter-collegiate Parliamentary Debate. That's no small feat!                                              
+>I'll admit I had my doubts when Arvind first stepped into his role. But you know what? The term was not that bad. Events were organised and debates were held. This was possible because he had a nice close-knit team that kinda took over the reins and conducted sessions when he wasn't able to do it; But the catch here was that our regular participants (core team) ended up predominantly as organizers, leaving us with a deficit in participation.                                                         
 >
-> \-*Vikash Kumar*
+>Towards the end, I found myself grappling with conflicting thoughts. I still do. Why did you take up the responsibility when you can't see it through its completion? On the other hand, it's good that you recognized you were not being able to do justice to the PoR and made room for someone who could. I really don't know where to go from there.                                                 
 >
->Arvind is undeniably a remarkable orator; He qualified for the final round of adjudication in an inter-collegiate Parliamentary Debate. That's no small feat!                             
-I'll admit I had my doubts when Arvind first stepped into his role. But you know what? The term was not that bad. Events were organised and debates were held. This was possible because he had a nice close-knit team that kinda took over the reins and conducted sessions when he wasn't able to do it; But the catch here was that our regular participants (core team) ended up predominantly as organizers, leaving us with a deficit in participation.                    
->
->Towards the end, I found myself grappling with conflicting thoughts. I still do. Why did you take up the responsibility when you can't see it through its completion? On the other hand, it's good that you recognized you were not being able to do justice to the PoR and made room for someone who could. I really don't know where to go from there.       
->
->As for his writing, Arvind is a skilled wordsmith in his own right. I've had the pleasure of working with him in Udaan, and let me tell you, his articles are top-notch. They're informative, engaging, and have that unmistakable "Arvind" flair. He's got a unique style that he fully embraces, and that's what makes his work stand out.        
->
-> \-*Sneha M S*
+>As for his writing, Arvind is a skilled wordsmith in his own right. I've had the pleasure of working with him in Udaan, and let me tell you, his articles are top-notch. They're informative, engaging, and have that unmistakable "Arvind" flair. He's got a unique style that he fully embraces, and that's what makes his work stand out.                              
+> \- *Sneha M S*
 
 - - - 
 
 **After 4 weeks of constant pestering, we consider ourselves lucky to share with you the responses from their dearest homies, on what Mr. Coordinator taught them:**                          
 
->How to not lose focus of your ultimate goal in pursuit of optimality.         
-> \-*Shreenivason*
+>How to not lose focus of your ultimate goal in pursuit of optimality.                           
+> \- *Shreenivason*
 >
->Being yourself is awesome.        
-> \-*Arup Biswas*
+>Being yourself is awesome.                                                   
+> \- *Arup Biswas*
 
 - - - 
 
@@ -1222,6 +1212,8 @@ I'll admit I had my doubts when Arvind first stepped into his role. But you know
 
 I did NOT do my paperwork in a quick, efficient, and foolproof manner. Consequently, it took me 2 months to get funds dispatched to the respective stakeholders. 2/10, do not recommend, especially in EE 5th semester.               
 
+- - -
+
 **As tradition goes, one will soon take your place. What advice would you give them?**                 
 
 I wish I had learned to take initiative in planning and executing various tasks, from sending a small message to organizing quiz events for FIESTA ‘23. I was fortunate enough to have a dedicated and competent team who were as integral to the functioning of this club as me. Another aspect I feel should be introduced is a long-term plan/roadmap, which I failed to make. 
@@ -1238,39 +1230,34 @@ Quiz Club, yet again. No doubt about that.
 
 **Let’s take a look at what the student community has to say about them:**
 
->My experience with him was amazing, he's an incredible leader, and it was a blast. Intra IIT, in particular, was awesome. I have nothing but positive things to tell about Shreenivason anna. He played his best with the cards dealt to him. Although there were some points, such as Inter IIT and Tirutsava which were out of his control, Intra IIT was handled pretty well. Some areas that could've been better executed were the weekly quiz practices, though. Overall, it was a good tenure.                 
+>My experience with him was amazing, he's an incredible leader, and it was a blast. Intra IIT, in particular, was awesome. I have nothing but positive things to tell about Shreenivason anna. He played his best with the cards dealt to him. Although there were some points, such as Inter IIT and Tirutsava which were out of his control, Intra IIT was handled pretty well. Some areas that could've been better executed were the weekly quiz practices, though. Overall, it was a good tenure.                                                  
+> \- *Krishna Sameer*
 >
-> \-*Krishna Sameer*
+>His reign as Quiz Club Head has been a memorable one. He challenged us, made us laugh, and proved that trivia can be more than just brain food – it can be a full-blown comedy course. His ability to weave fact with fiction, current events with pop culture, and obscure trivia with side-splitting humor had us all shouting, "Aha!" (or more often, "Huh?"), in equal measure. So thank you, from the bottom of our laughter-filled hearts, for the memories and the mental gymnastics. Now, if you'll excuse me, I have a sudden urge to Google "longest river in the world"... just to be sure. He's the Yoda of trivia, minus the green and the questionable grammar. He crafted questions that were like riddles dipped in sarcasm, served with a side of "wait, what?". We learned more obscure facts than a team of Wikipedia editors on a sugar rush. Who knew the mating call of a narwhal sounded like a dial-up modem? (Thanks for that mental image, by the way.) His events were like well-oiled trivia machines, except instead of spitting out gum, they spat out knowledge bombs and laughter fits. Every night was a party for the brain! His meticulous planning and engaging personality made each event a delight. You never knew what to expect, except that you'd leave feeling smarter and happier. And we all appreciate a good pun, but some of his were so groan-worthy that they could power a small village. Maybe invest in a thesaurus for synonym-sational punchlines instead? Just saying, our funny bones deserve better.                                                            
+> \- *Jacob Panicker*
 >
->His reign as Quiz Club Head has been a memorable one. He challenged us, made us laugh, and proved that trivia can be more than just brain food – it can be a full-blown comedy course. His ability to weave fact with fiction, current events with pop culture, and obscure trivia with side-splitting humor had us all shouting, "Aha!" (or more often, "Huh?"), in equal measure. So thank you, from the bottom of our laughter-filled hearts, for the memories and the mental gymnastics. Now, if you'll excuse me, I have a sudden urge to Google "longest river in the world"... just to be sure. He's the Yoda of trivia, minus the green and the questionable grammar. He crafted questions that were like riddles dipped in sarcasm, served with a side of "wait, what?". We learned more obscure facts than a team of Wikipedia editors on a sugar rush. Who knew the mating call of a narwhal sounded like a dial-up modem? (Thanks for that mental image, by the way.) His events were like well-oiled trivia machines, except instead of spitting out gum, they spat out knowledge bombs and laughter fits. Every night was a party for the brain! His meticulous planning and engaging personality made each event a delight. You never knew what to expect, except that you'd leave feeling smarter and happier. And we all appreciate a good pun, but some of his were so groan-worthy that they could power a small village. Maybe invest in a thesaurus for synonym-sational punchlines instead? Just saying, our funny bones deserve better.                               
+>He was quite punctual and dedicated in his work but as the college internship scenario hasn’t been good, it has affected the work he would have liked to show. But while being Quiz Club Coordinator, it doesn’t suit to attend tech meets and then ignore your responsibilities.                                         
+> \- *Vikash Kumar*
 >
-> \-*Jacob Panicker*
->
->He was quite punctual and dedicated in his work but as the college internship scenario hasn’t been good, it has affected the work he would have liked to show. But while being Quiz Club Coordinator, it doesn’t suit to attend tech meets and then ignore your responsibilities.               
->
-> \-*Vikash Kumar*
->
->It was good working with him. Hardworking and sincere, he has a serious personality, but also a fun side when there is a need for it. You could tell he really cared for the club and wanted the best for it.                   
->
-> \-*Akshay M*
+>It was good working with him. Hardworking and sincere, he has a serious personality, but also a fun side when there is a need for it. You could tell he really cared for the club and wanted the best for it.                                          
+> \- *Akshay M*
 >
 >Shreenivason leads the club in a very systematic way, with multiple fixed agendas before every meeting, ensuring to cover every point and/or update incomplete agendas from previous meetings. His meetings are perhaps more organised than the GBMs and BoS meetings in the college. While he appears strict on the surface, he is flexible on deadlines and gives almost everyone an equal chance to contribute and host quizzes. This approach is beneficial for grooming new members of the club and benefits the club as a whole. Additionally, he meticulously works towards creating quizzes on topics not typically covered in college quizzes, making them interesting for both the question setters and the targeted audience.
 >
 >I have witnessed his growth and evolution from a rookie club member to a hardworking core member and now a great coordinator, and it has been a pleasure. A quiz coordinator’s role primarily involves planning quizzes, hosting them as a quizmaster, and ensuring no malpractice occurs. When planning quizzes, Shreenivason adopts a relaxed approach, providing guidance and setting flexible deadlines. As a quizmaster, he exudes charisma. However, when invigilating during someone else's hosting, he becomes the strictest invigilator known to humankind. The sheer look of terror on his face sends chills down your spine, deterring any thought of Googling answers. This method has proven effective, as the Quiz Club has had several successful quizzes under his leadership.
 >
->One minor regret I have is that more events could have been conducted this year instead of meticulously planning every event and considering everyone's opinion. Simply going with the flow may have led to more events, but I have no complaints regarding the quality of quizzes conducted thus far. Rushing and overcrowding them into more events would have likely diminished their quality.
->
-> \-*Vignesh*
+>One minor regret I have is that more events could have been conducted this year instead of meticulously planning every event and considering everyone's opinion. Simply going with the flow may have led to more events, but I have no complaints regarding the quality of quizzes conducted thus far. Rushing and overcrowding them into more events would have likely diminished their quality.                
+> \- *Vignesh*
 
 - - - 
 
 **After 4 weeks of constant pestering, we consider ourselves lucky to share with you the responses from their dearest homies, on what Mr. Coordinator taught them:**                 
 
->What I learnt was communication and teamwork matter, and also, “Too many cooks spoil the broth.”                  
-> \-*Jacob Panicker*
+>What I learnt was communication and teamwork matter, and also, “Too many cooks spoil the broth.”                                    
+> \- *Jacob Panicker*
 >
->Not taking authority figures for granted.    
-> \-*Shreevatsa*
+>Not taking authority figures for granted.                              
+> \- *Shreevatsa*
 
 - - - 
 
@@ -1294,7 +1281,7 @@ I raked in good participation, handling the club as the second head. Some initia
 
 **Humour us with some of the mistakes you’ve made during it.**
 
-As a writer, I once forgot that every word is essential, and some things are even beyond words (probably better not to explain further, you know). Also, white text on a blue background sucks. I don't know why I did that on nearly every rulebook in the first half, but the more you know, the better.                       
+As a writer, I once forgot that every word is essential, and some things are even beyond words (probably better not to explain further, you know). Also, white text on a blue background sucks. I don't know why I did that on nearly every rulebook in the first half, but the more you know, the better.                        
 
 - - - 
 
@@ -1312,25 +1299,22 @@ I would like to be the coordinator of the chess club, Chaturanga. I've been acti
 
 **Let’s take a look at what the student community has to say about them:**
 
->Working with him is a great experience. He’s very supportive as a club coordinator.              
->
+>Working with him is a great experience. He’s very supportive as a club coordinator.                                       
 > \- *Varun Khillare*
 >
->It was good to work with him. “Are ho jayega,” he says whenever I ask him to do something. He was good at making things happen properly. In one sentence, he’s a perfectionist. Yeah, it would have been great if he, or other coordinators also, had searched for more inter-college events.                        
->
+>It was good to work with him. “Are ho jayega,” he says whenever I ask him to do something. He was good at making things happen properly. In one sentence, he’s a perfectionist. Yeah, it would have been great if he, or other coordinators also, had searched for more inter-college events.                                                     
 > \-*Vikash Kumar*
 >
 >I wasn't part of the core team of Scribbles for the current term, but I had the opportunity to interact with Sunandan both during the interview process for club head selections and the core team selection. He possesses an excellent vision for the club and approaches things with meticulous planning and clarity. Sunandan understands the requirements of the club well and plans and executes accordingly. He is highly knowledgeable and talented, not only in writing but also in other aspects. Sunandan is my batchmate, and having known him since our second year in the same branch, I can attest that he gives off the vibe of a top performer in academics (which he actually is) and is an avid enthusiast in literary arts, particularly writing.
 >
->Regarding his term, Sunandan has performed admirably, garnering significant participation and attention from various on-campus events and inter-IIT competitions. The writing community in our college is still in its early stages and has a long way to go. Sunandan has contributed to sustaining the culture and laying the groundwork for a robust club. One area for improvement could be conducting regular events and fostering collaborations with other clubs.                                          
->
+>Regarding his term, Sunandan has performed admirably, garnering significant participation and attention from various on-campus events and inter-IIT competitions. The writing community in our college is still in its early stages and has a long way to go. Sunandan has contributed to sustaining the culture and laying the groundwork for a robust club. One area for improvement could be conducting regular events and fostering collaborations with other clubs.                                                                       
 > \-*Ram Mohith*
 
 - - - 
 
 **After 4 weeks of constant pestering, we consider ourselves lucky to share with you the responses from their dearest homies, on what Mr. Coordinator taught them:**                           
 
->Sunandan showed me how to be focused.                   
+>Sunandan showed me how to be focused.                                                
 > \-*Vikash Kumar*
 
 - - - 
@@ -1373,41 +1357,36 @@ Techmaniacs because I have knowledge of IoT and stuff, and Gagan Vedhi because I
 
 **Let’s take a look at what the student community has to say about them:**
 
->I had a great experience as a core member of Digital Wizards, and it's all because of the great efforts put in by all the members of the team and the excellent guidance by the coordinators. He always encouraged discussions and improvements, which is a good quality. I believe he is a great coordinator and served his best in terms of both technical aspects as well as management.               
+>I had a great experience as a core member of Digital Wizards, and it's all because of the great efforts put in by all the members of the team and the excellent guidance by the coordinators. He always encouraged discussions and improvements, which is a good quality. I believe he is a great coordinator and served his best in terms of both technical aspects as well as management.                                          
+> \- *Jaimin V*
 >
-> \-*Jaimin V*
+>A splendid experience, indeed. I was able to make improvements in the current coding culture of our college under his guidance. Witnessing Arpit Bhaiya effortlessly juggle numerous facets of the club simultaneously, from overseeing various domains to meticulously managing budgets, has been truly inspiring. The seamless coordination of such an important club to achieve success is a testament to the exceptional leadership skills he possesses. Here's to hoping for continued excellence under his guidance.                                                     
+> \- *Sayan Kundu*
 >
->A splendid experience, indeed. I was able to make improvements in the current coding culture of our college under his guidance. Witnessing Arpit Bhaiya effortlessly juggle numerous facets of the club simultaneously, from overseeing various domains to meticulously managing budgets, has been truly inspiring. The seamless coordination of such an important club to achieve success is a testament to the exceptional leadership skills he possesses. Here's to hoping for continued excellence under his guidance.                          
+>Pretty good, no cap. I learnt that he can lead well because he can make my lazy self do some good work without making me despise him, LMAO.                                            
+> \- *Niraj Kumar*
 >
-> \-*Sayan Kundu*
+>In one word, simply fantastic- both in technical areas and in coordination.                             
+> \- *Umakant Sahu*
 >
->Pretty good, no cap. I learnt that he can lead well because he can make my lazy self do some good work without making me despise him, LMAO.                 
->
-> \-*Niraj Kumar*
->
->In one word, simply fantastic- both in technical areas and in coordination.      
->
-> \-*Umakant Sahu*
->
->He did a great job as the DW head. He had a plan on the events to be conducted throughout the year and this year we saw better participation in the workshops and events organised by Digital Wizards. Also, the GDSC team formed this year, along with DW led by him, were able to organise events in collaboration with Google. Overall great job and no complaints from my side.                            
->
-> \-*Sumukh Porwal*
+>He did a great job as the DW head. He had a plan on the events to be conducted throughout the year and this year we saw better participation in the workshops and events organised by Digital Wizards. Also, the GDSC team formed this year, along with DW led by him, were able to organise events in collaboration with Google. Overall great job and no complaints from my side.                                                     
+> \- *Sumukh Porwal*
 
 - - - 
 
-**After 4 weeks of constant pestering, we consider ourselves lucky to share with you the responses from their dearest homies, on what Mr. Coordinator taught them:
+**After 4 weeks of constant pestering, we consider ourselves lucky to share with you the responses from their dearest homies, on what Mr. Coordinator taught them:**
 
->To always work hard and dedicate everything, regardless of the result. Brother likes to send referrals of random apps to people so that he can earn money. He likes to try out new jokes on me and hear my reviews about them (he desperately wants to become a stand-up comedian I guess).                              
-> \-*Shafi*
+>To always work hard and dedicate everything, regardless of the result. Brother likes to send referrals of random apps to people so that he can earn money. He likes to try out new jokes on me and hear my reviews about them (he desperately wants to become a stand-up comedian I guess).                                             
+> \- *Shafi*
 >
->Jugaad, roasting, and saying something technically wrong with full confidence. Despite his laziness, his occasional body odour, and his fondness for lame jokes, he manages to be anything but boring. Even if he pulls off some tricks during exams, being angry with him is a challenge only true friends would understand. It's the kind of charm you grasp only by being part of his circle.                                          
-> \-*Manurbhav*
+>Jugaad, roasting, and saying something technically wrong with full confidence. Despite his laziness, his occasional body odour, and his fondness for lame jokes, he manages to be anything but boring. Even if he pulls off some tricks during exams, being angry with him is a challenge only true friends would understand. It's the kind of charm you grasp only by being part of his circle.                                                                   
+> \- *Manurbhav*
 >
->Consistency is key.                     
-> \-*Chetan Yadav*
+>Consistency is key.                                         
+> \- *Chetan Yadav*
 >
->How to talk to get people to work for something.                        
-> \-*Abhinav*
+>How to talk to get people to work for something.                                               
+> \- *Abhinav*
 
 - - - 
 
@@ -1457,34 +1436,30 @@ I can't really think of any because my sole interest is in astronomy.
 
 **Let’s take a look at what the student community has to say about them:**    
 
->Working with him was such an enriching experience. His mentorship has always provided me valuable insights, fostering a deeper understanding of Celestia and space and it enhanced my passion for astronomy further. His performance is really good as he has excelled in promoting a collaborative and learning environment. His passion for astronomy has made the club a vibrant hub of celestial exploration and enthusiastic learning.                               
->
-> \-*Aniket Johri*
+>Working with him was such an enriching experience. His mentorship has always provided me valuable insights, fostering a deeper understanding of Celestia and space and it enhanced my passion for astronomy further. His performance is really good as he has excelled in promoting a collaborative and learning environment. His passion for astronomy has made the club a vibrant hub of celestial exploration and enthusiastic learning.                                                         
+> \- *Aniket Johri*
 >
 >Working with Manas Bhaiya was truly an enriching experience. The star gazing sessions he organized were not only fascinating but also showcased his dedication to promoting Astro culture. Despite the current lack of enthusiastic Astro lovers in our college, he tirelessly worked towards creating a positive change, and I am hopeful that his efforts will bear fruit in the coming years. Being a part of the organizing team for the Astro Fest, Athereum in collaboration with IISER under his guidance was a valuable learning experience. It gave me insights into event management, teamwork, and various other aspects.Adding on, his leadership style encouraged a collaborative and inclusive environment, making the entire process enjoyable and educational.                                         
 >
->I am grateful for the opportunity to work alongside him, and I believe that the skills and knowledge gained during this period will serve me well in my future endeavours. Here's to hoping that the Astro culture in our college flourishes under the influence of such dedicated individuals like him who tried his best to improve the Astro culture in our college.                          
->
-> \-*Satyam Singh*
+>I am grateful for the opportunity to work alongside him, and I believe that the skills and knowledge gained during this period will serve me well in my future endeavours. Here's to hoping that the Astro culture in our college flourishes under the influence of such dedicated individuals like him who tried his best to improve the Astro culture in our college.                                                          
+> \- *Satyam Singh*
 >
 >Hey Manas, kudos, man! Its quite delightful to see the level to which you have uplifted the club. In times when your batch was (is) suffering due to the scary internship recruitment scenario, you worked gracefully on your portfolio as well as taking the club to new heights. Significantly, the Astrofest was a stellar success. Despite challenging times, your dedication to enhancing the club’s profile has not gone unnoticed. I admire your efforts in making the website for the club. The events which the team wasn't able to conduct during the previous tenure, were successfully conducted in yours. You made the Astro Treasure Hunt possible! Astrophotography workshop, and yes, I wouldn't forget the AstroJAM! It was pretty funny and enjoyable at the same time. I hope this collaborative fest between IISER and IIT keeps growing every year, and I will really, really miss it the next year. Do keep me updated about it, I will be eager to know about it. Thanks for purchasing the new equipment for the telescope, please try to get a new telescope as well. Few faculty members are always there to back you. There are many things I want to say, yet I would like to pause and congratulate you and your proactive team! The strong bonds you’ve established with your subordinates are truly impressive. I am surprised by your leadership skills that drive the members to work hard with their hearts and make the unexpected possible.                   
 >
 >I remember your sentence - "Bhaiyya aap logon ko daatate nahi the, mein daatata hu to meri sab sunte hain." Very true, "Mujhe tumhe bhi daatana chahiye tha… LOL". You are lucky to get such a team; the team is lucky is have you, and I am lucky to see the club flourishing in your tenure! The Star Pattern Recognition Project is going well, and even the Freshers are putting up their sincere efforts and developing their skills. I am happy from the bottom of my soul that Gagan Vedhi is adding value to the technical genius of the students.                                            
 >
->The things which could be better, well- I am still waiting for Documentary Quiz. Also, verify the mistakes in the mail before sending. I wish to see a telescope on our campus via which we can see nebulas and other cosmic objects. And yes, I want AstroJAM once again! But I am pretty happy with your performance and thankful for all you did. Keep this up in all stances in your future. I wish you the best, my champ!                       
+>The things which could be better, well- I am still waiting for Documentary Quiz. Also, verify the mistakes in the mail before sending. I wish to see a telescope on our campus via which we can see nebulas and other cosmic objects. And yes, I want AstroJAM once again! But I am pretty happy with your performance and thankful for all you did. Keep this up in all stances in your future. I wish you the best, my champ!                                                                                              
+> \- *Pranav Sutar*
 >
-> \-*Pranav Sutar*
->
-> It was great. The astronomy club continued to organise the AstroFest, collaborating with IISER Tirupati. This year, we saw more students participating than the last year, thanks to the better promotion by the club. The club also started a long-term Rocket Modelling project, which was due for a long time in the club. One point I’d wish to raise is that I wish there were more workshops and events in physics and on the ML side of astronomy.             
->
-> \-*Sumukh Porwal*
+> It was great. The astronomy club continued to organise the AstroFest, collaborating with IISER Tirupati. This year, we saw more students participating than the last year, thanks to the better promotion by the club. The club also started a long-term Rocket Modelling project, which was due for a long time in the club. One point I’d wish to raise is that I wish there were more workshops and events in physics and on the ML side of astronomy.                                                            
+> \- *Sumukh Porwal*
 
 - - - 
 
 **After 4 weeks of constant pestering, we consider ourselves lucky to share with you the responses from their dearest homies, on what Mr. Coordinator taught them:**                  
 
->Try everything and simply keep trying. The branch doesn't matter. Studying on the last day can still let you win. It doesn't matter if someone in your team is working or not, you gotta finish what you started.                     
-> \-*Arpit Gupta*
+>Try everything and simply keep trying. The branch doesn't matter. Studying on the last day can still let you win. It doesn't matter if someone in your team is working or not, you gotta finish what you started.                                                      
+> \- *Arpit Gupta*
 
 - - - 
 
@@ -1527,13 +1502,11 @@ Hala Navgati ...y nada más!
 
 **Let’s take a look at what the student community has to say about them:** 
 
->He is a workaholic and tries to bond the team together. He could work a bit on his technical knowledge, but overall, it was a good experience reviving a dead club and making some hands-on progress. It is very difficult to manage a club that had done no work prior to us and do something that we could show for. Aman played a key role in getting funds approved for us when other clubs weren’t able to. Also being able to even start such a big project is a feat in itself for which his efforts should be appreciated.                         
+>He is a workaholic and tries to bond the team together. He could work a bit on his technical knowledge, but overall, it was a good experience reviving a dead club and making some hands-on progress. It is very difficult to manage a club that had done no work prior to us and do something that we could show for. Aman played a key role in getting funds approved for us when other clubs weren’t able to. Also being able to even start such a big project is a feat in itself for which his efforts should be appreciated.                                             
+> \- *Raunak*
 >
-> \-*Raunak*
->
->He is hardworking and honest. Aman tries his best to keep us fuelled up. But I personally felt that he was a little bit indecisive. At times, people don't take him seriously, which pisses him off. Summing up, he managed to get this club to a stage that the previous club heads couldn't and that's commendable.             
->
-> \-*Ayush*
+>He is hardworking and honest. Aman tries his best to keep us fuelled up. But I personally felt that he was a little bit indecisive. At times, people don't take him seriously, which pisses him off. Summing up, he managed to get this club to a stage that the previous club heads couldn't and that's commendable.                                                     
+> \- *Ayush*
 >
 >Fun. Working with him is fun. Despite my lack of time to work in the club, he maintained my input to be crucial in key moments. And in those key moments, we had fun. With plenty of "Oh crap ***smacks head***", "Uh oh, I don't think that's right", "Oh, we probably shouldn't have done that", "Nooo, how will that even work?", his tenure is definitely one full of stupid fun. As for building a car, well, it's taken mankind 116 years from the first mass-produced automobile to today. The chances of us doing it within a year are pretty damn slim.                                   
 >
@@ -1541,27 +1514,24 @@ Hala Navgati ...y nada más!
 >
 >The path to building a car, even if it isn't very fast, isn't easy. Sometimes it's important to realize that screaming, "I've told you guys to get to Point 2 for the past two months, why haven't you done it?" while having no concrete idea on which path to take is a futile exercise.                      
 >
->That little blemish apart, his strongest achievement is definitely the team. It doesn't feel like a club, or a group or any of those standard things. It feels like a garage. And what happens in a garage? Well, you get screamed at for losing the 16mm spanner and you are thrown under the car to work on a leaking oil pipe, but it's your garage. You know you belong there and you know it won't let you down. That's where the team is today. The team may not be Adrian Neweys and Toto Wolfs, but they sure are people who'll stick together and get stuff done.                                   
+>That little blemish apart, his strongest achievement is definitely the team. It doesn't feel like a club, or a group or any of those standard things. It feels like a garage. And what happens in a garage? Well, you get screamed at for losing the 16mm spanner and you are thrown under the car to work on a leaking oil pipe, but it's your garage. You know you belong there and you know it won't let you down. That's where the team is today. The team may not be Adrian Neweys and Toto Wolfs, but they sure are people who'll stick together and get stuff done.                                                                  
+> \- *Akhil*
 >
-> \-*Akhil*
+>Talking about Aman, well, he is one of the most determined club heads I have ever seen. He genuinely wants to do something new for this college, and being a part of his team aligns with the same dream I have. Working with him has been an incredible journey. The Navgati team calls him ‘Mukhiya’ (Chief), as he is usually just giving orders. The team loves him a lot. However, he fails at assigning work to the team adroitly, decreasing the team's efficiency.                                                    
+> \- *Shubham Ahirwar*
 >
->Talking about Aman, well, he is one of the most determined club heads I have ever seen. He genuinely wants to do something new for this college, and being a part of his team aligns with the same dream I have. Working with him has been an incredible journey. The Navgati team calls him ‘Mukhiya’ (Chief), as he is usually just giving orders. The team loves him a lot. However, he fails at assigning work to the team adroitly, decreasing the team's efficiency.                  
->
-> \-*Shubham Ahirwar*
->
->I have seen three automobile club coordinators during my time in college here, and I guess Aman is the one who had a sound-knit plan. I have seen him and his team working hard on the project. He could have planned everything a bit earlier, as his plan was completed after student budget approval. I couldn't give him the budget required, and now we had to arrange the budget from all the leftover parts from the technical budget.                                  
->
-> \-*Sumukh Porwal*
+>I have seen three automobile club coordinators during my time in college here, and I guess Aman is the one who had a sound-knit plan. I have seen him and his team working hard on the project. He could have planned everything a bit earlier, as his plan was completed after student budget approval. I couldn't give him the budget required, and now we had to arrange the budget from all the leftover parts from the technical budget.                                                                                 
+> \- *Sumukh Porwal*
 
 - - - 
 
 **After 4 weeks of constant pestering, we consider ourselves lucky to share with you the responses from their dearest homies on what Mr. Coordinator taught them:**                                         
 
->Will to commit to something no matter what the situation/circumstance is.                  
-> \-*Manas*
+>Will to commit to something no matter what the situation/circumstance is.                                              
+> \- *Manas*
 >
->Cleanliness. Bro mopped the whole 5-roommate room during Diwali. Cobwebs were also cleaned that day.                       
-> \-*Bineet*
+>Cleanliness. Bro mopped the whole 5-roommate room during Diwali. Cobwebs were also cleaned that day.                                                                
+> \- *Bineet*
 
 - - - 
 
@@ -1610,27 +1580,23 @@ If I could rewind time, I'd still choose to be the club coordinator of Techmania
 **Let’s take a look at what the student community has to say about them:**
 
 >The year was fantastic as the club allowed me to take/host the workshops and be a team lead for two projects. Additionally, I was entrusted with the responsibility of conducting interviews, which contributed immensely to my personal and professional growth. The club head is very supportive, and he always tries to give us extra knowledge, for instance, which project we should aim for so that it becomes beneficial to get internships and crack interviews. He could have done better in leadership as he was not able to gather up all the participants of projects and make them work.                        
->
 > \- *Prakhar Gupta*
 >
->For someone who comes across as a wide-eyed dreamer, you cannot find a person who is more grounded in reality than Chirag is. He has led a commendable term as the Techmaniacs coordinator and a pretty successful contingent for the Tech Meet 12.0.  What sets him apart, in my eyes, is his unwavering commitment to ethical principles; he maintains clear boundaries that he refuses to cross. It was delightful working with him. I am genuinely excited to witness Chirag's future endeavours, as they are unlikely to be anything less than significant. Alongside his small team of friends, he has singularly shouldered the responsibility of nurturing the technical culture within our institute. This achievement is nothing short of monumental. My only hope is that a new group of individuals will step forward, ready to uphold and advance this torch of excellence.                                    
+>For someone who comes across as a wide-eyed dreamer, you cannot find a person who is more grounded in reality than Chirag is. He has led a commendable term as the Techmaniacs coordinator and a pretty successful contingent for the Tech Meet 12.0.  What sets him apart, in my eyes, is his unwavering commitment to ethical principles; he maintains clear boundaries that he refuses to cross. It was delightful working with him. I am genuinely excited to witness Chirag's future endeavours, as they are unlikely to be anything less than significant. Alongside his small team of friends, he has singularly shouldered the responsibility of nurturing the technical culture within our institute. This achievement is nothing short of monumental. My only hope is that a new group of individuals will step forward, ready to uphold and advance this torch of excellence.                                                                    
+> \- *Sneha M S*
 >
-> \-*Sneha M S*
+>He is very knowledgeable and good at guiding. Also bro, please find a way to get budgets passed.                               
+> \- *Divyam Tiwari*
 >
->He is very knowledgeable and good at guiding. Also bro, please find a way to get budgets passed.           
->
-> \-*Divyam Tiwari*
->
->This year Chirag was able to collaborate with the California State University students club to work on the Autonomous AI-based Drone Project. I know that they couldn't start the planned projects because of a delay in budget approval, but he should have encouraged students in the club to start working on simulated projects, as this would have kept the club projects running. Other than this, I don't have any complaints with him as he was the one who was the acting TAS on my behalf, helped me with Inter IIT as the contingent leader and did a great job being the Robotics Club head.                     
->
-> \-*Sumukh Porwal*
+>This year Chirag was able to collaborate with the California State University students club to work on the Autonomous AI-based Drone Project. I know that they couldn't start the planned projects because of a delay in budget approval, but he should have encouraged students in the club to start working on simulated projects, as this would have kept the club projects running. Other than this, I don't have any complaints with him as he was the one who was the acting TAS on my behalf, helped me with Inter IIT as the contingent leader and did a great job being the Robotics Club head.                                     
+> \- *Sumukh Porwal*
 
 - - - 
 
 **After 4 weeks of constant pestering, we consider ourselves lucky to share with you the responses from their dearest homies, on what Mr. Coordinator taught them:**
 
->How to push harder, how to handle sleeplessness, and how to do it for the fun of it.           
-> \-*Arpit Gupta*
+>How to push harder, how to handle sleeplessness, and how to do it for the fun of it.                                             
+> \- *Arpit Gupta*
 
 - - - 
 
@@ -1672,16 +1638,15 @@ I’d choose to be the coordinator of the Fashion club, cause I like fashion and
 
 **Let’s take a look at what the student community has to say about them:**    
 
->I just want to say that it was really a pleasant experience to be a part of this club, which came with such a friendly coordinator and a fantastic group of people with whom we organised every activity, from indoor campus activities (Treasure hunt and Fresher's Event) to trekking sessions (Tada Falls, Talakona and Nelakona Falls). Despite the obstacles we've faced during our adventures, we've tackled them together with laughter and camaraderie.         
->
-> \-*Tanvi Gupta*
+>I just want to say that it was really a pleasant experience to be a part of this club, which came with such a friendly coordinator and a fantastic group of people with whom we organised every activity, from indoor campus activities (Treasure hunt and Fresher's Event) to trekking sessions (Tada Falls, Talakona and Nelakona Falls). Despite the obstacles we've faced during our adventures, we've tackled them together with laughter and camaraderie.                                                  
+> \- *Tanvi Gupta*
 
 - - - 
 
 **After 4 weeks of constant pestering, we consider ourselves lucky to share with you the responses from their dearest homies, on what Mr. Coordinator taught them:**                
 
->To stay cool is something that can surely be learnt from Udheesh.          
-> \-*Vibhav*
+>To stay cool is something that can surely be learnt from Udheesh.                           
+> \- *Vibhav*
 
 - - - 
 
@@ -1691,7 +1656,7 @@ I’d choose to be the coordinator of the Fashion club, cause I like fashion and
 </summary>
 </br>
 
-*Aranya*
+*Chaturanga*
 
 ![](images/chaturanga.png)
 
@@ -1761,28 +1726,24 @@ I like watching my characters come to life on the screen, so I want to be the co
 
 **Let’s take a look at what the student community has to say about them:** 
 
->It was a great experience with a lot of new things to learn. He managed everything perfectly, including meetings and events that followed. Regular meetings could have been conducted, and many more events could have been conducted. Still, the time constraint is responsible for all the shortcomings faced by our club. Teja, despite being low on time and resources did a fantastic job in regulating the club activities.             
+>It was a great experience with a lot of new things to learn. He managed everything perfectly, including meetings and events that followed. Regular meetings could have been conducted, and many more events could have been conducted. Still, the time constraint is responsible for all the shortcomings faced by our club. Teja, despite being low on time and resources did a fantastic job in regulating the club activities.                                   
+> \- *Saket Verma*
 >
-> \-*Saket Verma*
+>It has always been fun working with him. He is always open to suggestions, encourages all of us to come up with better ideas, and, on top of that, has a lot of ideas in mind. He has changed the way Chaturanga works; it’s not just a club that organises chess tournaments, instead, it has now become a more interactive place. We recently started a new type of arena, where we have a tournament on puzzles, not just those classical chess tournaments, and what’s better is how he announced it!  That was quite out of the box.                                            
+> \- *Raghav Khandelwal*
 >
->It has always been fun working with him. He is always open to suggestions, encourages all of us to come up with better ideas, and, on top of that, has a lot of ideas in mind. He has changed the way Chaturanga works; it’s not just a club that organises chess tournaments, instead, it has now become a more interactive place. We recently started a new type of arena, where we have a tournament on puzzles, not just those classical chess tournaments, and what’s better is how he announced it!  That was quite out of the box.             
+>I had an excellent experience. There were jolly moments organising events with him and contributing to competitions. The exchange every time Sanket (last year's coordinator) and him faced off, no words, just pure gold.                                     
+> \- *Sunandan Gad*
 >
-> \-*Raghav Khandelwal*
->
->I had an excellent experience. There were jolly moments organising events with him and contributing to competitions. The exchange every time Sanket (last year's coordinator) and him faced off, no words, just pure gold.                
->
-> \-*Sunandan Gad*
->
->It's good to work with him. He interacts with all core members friendly. He consistently wants to implement new ideas. As I know, he also writes stories (mostly romance), but I can't comment on them without reading them. One of the excellent tournaments we conducted was the Freshers Tournament '23. We didn't expect the large participation we saw, which felt good and propelled us to conduct a few more tournaments.                                
->
-> \-*Srishant*
+>It's good to work with him. He interacts with all core members friendly. He consistently wants to implement new ideas. As I know, he also writes stories (mostly romance), but I can't comment on them without reading them. One of the excellent tournaments we conducted was the Freshers Tournament '23. We didn't expect the large participation we saw, which felt good and propelled us to conduct a few more tournaments.                                                                       
+> \- *Srishant*
 
 - - - 
 
 **After 4 weeks of constant pestering, we consider ourselves lucky to share with you the responses from their dearest homies, on what Mr. Coordinator taught them:**
 
->Punctuality, order, and when to stop thinking and start enjoying.        
-> \-*Nandhavardhan*
+>Punctuality, order, and when to stop thinking and start enjoying.                            
+> \- *Nandhavardhan*
 
 - - - 
 
@@ -1826,32 +1787,27 @@ I would love to work in the Career Development Centre (CDC) if I could return in
 
 **Let’s take a look at what the student community has to say about them:** 
 
->It was a great experience to work with him. He is a really good and composed leader. The workload was divided equally without hassle thus achieving all work/projects before the deadline. The trip to IIT Madras was one of the best things done by this club.                               
+>It was a great experience to work with him. He is a really good and composed leader. The workload was divided equally without hassle thus achieving all work/projects before the deadline. The trip to IIT Madras was one of the best things done by this club.                                                 
+> \- *Ajinkya*
 >
-> \-*Ajinkya*
+>It was a very rewarding experience working with him. His passion for entrepreneurship and dedication to supporting members' ideas and initiatives have been truly inspiring. I feel that his point of view on life is totally different from others. Apart from being a team player, I wish to appreciate how actively he encouraged collaboration and provided opportunities for everyone to contribute their unique skills and perspectives. One of his distinctive attributes was his ability to help us tackle our doubts and problems without making us feel insecure about them. I'm incredibly grateful for the chance to learn and grow under his guidance. He not only offered us the opportunity to develop new skills and leverage our existing experience but also recognized our efforts with rewards, further fueling our motivation and pushing us to excel. His meticulous planning and organizational skills were instrumental in ensuring the smooth running of all club activities and events. In terms of accomplishments, he truly shone in his ability to secure high-profile speakers and organise engaging workshops that left us all buzzing with inspiration. He conducted so many sessions with big startup leaders which felt like a great motivational kick to our upcoming journeys. Moreover, he even took the core members to IIT Madras for a symposium which was a first-time experience for many. Fortunately, I am elated that my knowledge base has broadened, thanks to him. As for areas which could have been better - well, I think he could have shared his experience about the startup journey with us, or his knowledge as it would have helped get all the members on the same line of thought.                                                                   
+> \- *Saumya Sinha*
 >
->It was a very rewarding experience working with him. His passion for entrepreneurship and dedication to supporting members' ideas and initiatives have been truly inspiring. I feel that his point of view on life is totally different from others. Apart from being a team player, I wish to appreciate how actively he encouraged collaboration and provided opportunities for everyone to contribute their unique skills and perspectives. One of his distinctive attributes was his ability to help us tackle our doubts and problems without making us feel insecure about them. I'm incredibly grateful for the chance to learn and grow under his guidance. He not only offered us the opportunity to develop new skills and leverage our existing experience but also recognized our efforts with rewards, further fueling our motivation and pushing us to excel. His meticulous planning and organizational skills were instrumental in ensuring the smooth running of all club activities and events. In terms of accomplishments, he truly shone in his ability to secure high-profile speakers and organise engaging workshops that left us all buzzing with inspiration. He conducted so many sessions with big startup leaders which felt like a great motivational kick to our upcoming journeys. Moreover, he even took the core members to IIT Madras for a symposium which was a first-time experience for many. Fortunately, I am elated that my knowledge base has broadened, thanks to him. As for areas which could have been better - well, I think he could have shared his experience about the startup journey with us, or his knowledge as it would have helped get all the members on the same line of thought.                                                   
+>His dedication and commitment to the club's success are truly admirable. His ability to communicate effectively and inspire the team members with ease has greatly contributed to a positive club atmosphere. Vaibhav's enthusiasm for our club's mission is contagious, motivating others to actively participate and contribute. Vaibhav Mishra has demonstrated exceptional leadership skills in managing our club activities. His organizational skills have been instrumental in planning and executing successful club projects like the visit to the steel factory helped us gain some insights about industrial manufacturing, and the visit to IIT Madras to attend the 4th GDSC symposium. The way he collaborated with the E-Cell of IITM truly deserves a round of applause.                                                                  
+> \- *Divij Gupta*
 >
-> \-*Saumya Sinha*
+>It has been an honour to work alongside Vaibhav Bhaiya during the 2023-24 academic year. His leadership and dedication have significantly elevated the impact and effectiveness of our Entrepreneurship Cell. His supportive and lenient approach has created a welcoming atmosphere within the club, allowing team members to thrive while embracing their individuality. Bhaiya’s knack for creating a laid-back yet productive atmosphere was commendable. It felt less like a club and more like a startup sleepover - Suiiiiiii (Ronaldo fans, assemble!)                                                
+> \- *Subham Mohanty*
 >
->His dedication and commitment to the club's success are truly admirable. His ability to communicate effectively and inspire the team members with ease has greatly contributed to a positive club atmosphere. Vaibhav's enthusiasm for our club's mission is contagious, motivating others to actively participate and contribute. Vaibhav Mishra has demonstrated exceptional leadership skills in managing our club activities. His organizational skills have been instrumental in planning and executing successful club projects like the visit to the steel factory helped us gain some insights about industrial manufacturing, and the visit to IIT Madras to attend the 4th GDSC symposium. The way he collaborated with the E-Cell of IITM truly deserves a round of applause.                                     
->
-> \-*Divij Gupta*
->
->It has been an honour to work alongside Vaibhav Bhaiya during the 2023-24 academic year. His leadership and dedication have significantly elevated the impact and effectiveness of our Entrepreneurship Cell. His supportive and lenient approach has created a welcoming atmosphere within the club, allowing team members to thrive while embracing their individuality. Bhaiya’s knack for creating a laid-back yet productive atmosphere was commendable. It felt less like a club and more like a startup sleepover - Suiiiiiii (Ronaldo fans, assemble!)                             
->
-> \-*Subham Mohanty*
->
->Under his leadership, E-Cell was the most active club this year in terms of organising events, workshops, seminars, competitions and collaborations with other institutions. Also this year, E-Cell became a part of the Institute Innovation Council (IIC), which enabled more opportunities, and Vaibhav did a great job managing that too. I guess there is nothing he could have done better.                                    
->
+>Under his leadership, E-Cell was the most active club this year in terms of organising events, workshops, seminars, competitions and collaborations with other institutions. Also this year, E-Cell became a part of the Institute Innovation Council (IIC), which enabled more opportunities, and Vaibhav did a great job managing that too. I guess there is nothing he could have done better.                                                                
 > \-*Sumukh Porwal*
 
 - - - 
 
 **After 4 weeks of constant pestering, we consider ourselves lucky to share with you the responses from their dearest homies, on what Mr. Coordinator taught them:**                                   
 
->How to manage people and look for opportunities.
-> \-*Prince Kumar*
+>How to manage people and look for opportunities.                       
+> \- *Prince Kumar*
 
 - - - 
 
@@ -1887,7 +1843,7 @@ Having proficient public speaking skills would be advantageous in my role. Addit
 
 **Ever fancy yourself to spearhead another club?**
 
-Even if I got a chance to go back in backI would choose the same because it’s this or nothing.                                       
+Even if I got a chance to go back, I would choose the same because it’s this or nothing.                                       
 
 - - - 
 
@@ -1933,16 +1889,15 @@ I wouldn't want to take up the position of a club coordinator.
 
 **Let’s take a look at what the student community has to say about them:**
 
->Things were fine. This year’s Ideas² team did the least work compared to other technical clubs, and work was more demand-and-supply based; nothing was done except that, so that's why we didn't have any event from Ideas² side.                                        
->
-> \-*Sumukh Porwal*
+>Things were fine. This year’s Ideas² team did the least work compared to other technical clubs, and work was more demand-and-supply based; nothing was done except that, so that's why we didn't have any event from Ideas² side.                                                                                
+> \- *Sumukh Porwal*
 
 - - - 
 
 **After 4 weeks of constant pestering, we consider ourselves lucky to share with you the responses from their dearest homies, on what Mr. Coordinator taught them:**                      
 
->The art of talking to people.         
-> \-*Shreevatsa, about Poorna*
+>The art of talking to people.                                              
+> \- *Shreevatsa, about Poorna*
 
 - - - 
 
@@ -1985,17 +1940,14 @@ None. I'd be a better coordinator of The Statistics Club. To live and die in Sta
 
 **Let’s take a look at what the student community has to say about them:**                
 
->I'll start by clarifying that I mean everything I say from the bottom of my heart. Ganesh Anna is one of the kindest and most compassionate people I've ever met. Being someone who is extremely smart and talented, he uses his knowledge effectively to be a capable leader for our Statistics Club. Being someone whom I've trusted deeply and confided in several times, it breaks my heart to realise that he will not be with me at college in the passing years. I thank him for all the counsel and guidance he's given me throughout. The first things that come to my mind about Ganesh Anna- one, he's a Kanye fan! That made me incredibly surprised and happy while at it. And another thing- while we were in talks of organising an event for schoolchildren, he repeatedly insisted on some of us taking care of the students, and when asked why, he simply grinned nervously and said, “I really can't take care of children- I find them annoying at times,” which made me double down and laugh with him after he said that. I don't think Ganesh Anna had any area where he could've done 'better' - he did an excellent job in bringing people together and also successfully conducted the events that we had discussed to happen.                                  
+>I'll start by clarifying that I mean everything I say from the bottom of my heart. Ganesh Anna is one of the kindest and most compassionate people I've ever met. Being someone who is extremely smart and talented, he uses his knowledge effectively to be a capable leader for our Statistics Club. Being someone whom I've trusted deeply and confided in several times, it breaks my heart to realise that he will not be with me at college in the passing years. I thank him for all the counsel and guidance he's given me throughout. The first things that come to my mind about Ganesh Anna- one, he's a Kanye fan! That made me incredibly surprised and happy while at it. And another thing- while we were in talks of organising an event for schoolchildren, he repeatedly insisted on some of us taking care of the students, and when asked why, he simply grinned nervously and said, “I really can't take care of children- I find them annoying at times,” which made me double down and laugh with him after he said that. I don't think Ganesh Anna had any area where he could've done 'better' - he did an excellent job in bringing people together and also successfully conducted the events that we had discussed to happen.                                              
+> \- *Ritvik Ravi*
 >
-> \-*Ritvik Ravi*
+>It was a good experience being a part of the core committee. I, for one, was part of the logistics and management part of the team, and I learnt the inner workings/technicalities involved in receiving funds from the institute for events. Overall, Ganesha Anna was a great leader, very appreciative and encouraging for all the little contributions I had.                                                          
+> \- *Krishna Sameer*
 >
->It was a good experience being a part of the core committee. I, for one, was part of the logistics and management part of the team, and I learnt the inner workings/technicalities involved in receiving funds from the institute for events. Overall, Ganesha Anna was a great leader, very appreciative and encouraging for all the little contributions I had.                             
->
-> \-*Krishna Sameer*
->
->Ganesha was very passionate about statistics and gave me valuable advice about giving lectures and writing effective papers. He inspired me to apply to the core because of the sessions he conducted during 22-23. He made sure to credit the work of his club members appropriately and had a keen ear for feedback. He ensured that dissent was welcome and created an environment where good ideas thrived. Even when the core team fell short of standards, he encouraged us to improve. His core team was diverse, with a good mix of graduates and undergraduates. The club owes its existence and future success to him.                       
->
-> \-*Mathew K J*
+>Ganesha was very passionate about statistics and gave me valuable advice about giving lectures and writing effective papers. He inspired me to apply to the core because of the sessions he conducted during 22-23. He made sure to credit the work of his club members appropriately and had a keen ear for feedback. He ensured that dissent was welcome and created an environment where good ideas thrived. Even when the core team fell short of standards, he encouraged us to improve. His core team was diverse, with a good mix of graduates and undergraduates. The club owes its existence and future success to him.                                                  
+> \- *Mathew K J*
 
 - - - 
 
@@ -2044,33 +1996,29 @@ Rasoi for sure! Firstly, I would have named the club something else XD. I would 
 **Let’s take a look at what the student community has to say about them:**          
 
 >It was truly a great experience getting to work with him and the team. The progress I made this year could not have been possible without the support and guidance of Ishaan Bhaiya. Really grateful for the time they had given us to hone our skills. During our inaugural year, I regarded our super seniors with an almost divine reverence. They seemed to embody some celestial powers in CS domain, leaving us mere first years utterly bewildered by their proficiency, achieved in the span of two years. We stood in awe, eagerly absorbing every morsel of wisdom they imparted. However, as fate would have it, I got to participate in Inter-IIT events and collaborative projects, granting me a privileged glimpse into their world. It was a revelation to see that behind their mastery lay not gods, but fellow humans, deftly navigating the delicate balance between academic rigor and life. It was an epiphany that resonated deeply within me, a lesson I shall forever cherish and carry forward.                              
->
-> \-*Sayan*
+> \- *Sayan*
 >
 >He gave us the freedom to learn at our own pace. I have not interacted much with him. But I have got advice passed down from others which was originally given by him. He was an inspiration among the seniors.                                
->
-> \-*Ayush*
+> \- *Ayush*
 >
 >I had a great time working with him- not to mention having a very amiable personality makes him really approachable as a person, and he sets himself an example as a perfect mentor-senior. Be it the meetings or anything informal, his body language and experience are sufficient enough to convey that he is indeed a really good leader. The main intention behind forming the Sigma Squad club was not just to primarily improve the AI-ML culture of the club but also to produce more participants for the annual Inter-IIT Tech Meets to improve the institute's performance. Evaluating his performance as plainly good, is an understatement. Being the 1st year of the club with barely ten members, he has coordinated to do a great job, as almost all of the core members took part in the Tech-Meet this year at IIT Madras. Moreover, Ishaan and Deep successfully organized sessions on various topics conducted by the core members themselves, which is also a progressive sign. The coordinators also managed to get the members in touch with Prof. Kalidas to keep him in the loop about the club activities and projects, which I feel was crucial to the club's growth from the grassroot level. To sum it up, they gave the club the head start it needed and laid the crucial foundation for the concrete that the club will architect. The responsibility of watering the seeds sown by them now lies in our hands, and hopefully, this club will live up to its potential in the coming years.                                  
->
-> \-*Neerav*
+> \- *Neerav*
 >
 >Ishaan bhaiya is a great mentor. He himself has loads of knowledge, so it feels even more great when a beginner learns under his guidance. He has good communication skills and is great at managing things. I would give the credits of the success of the Google Cloud Skills Campaign to him and his splendid leadership qualities. Even during the Sigma Squad Meetings, he always gave valuable pieces of information on important topics related to AI and ML.                                       
->
-> \-*Aakarsh*
+> \- *Aakarsh*
 
 - - - 
 
 **After 4 weeks of constant pestering, we consider ourselves lucky to share with you the responses from their dearest homies, on what Mr. Coordinator taught them:**
 
 >Never mind what others think about you, but always try to be a better person than yourself.                   
-> \-*Nilanjan*
+> \- *Nilanjan*
 >
 >Academics is not everything. For a promising career, you need to go out of the way, all by yourself.  Don't care about small things and what the world thinks about you. Just be on your own way and "chill".                            
-> \-*Pranav Sutar*
+> \- *Pranav Sutar*
 >
 >Networking with people can get you to places you never imagined were possible.                                    
-> \-*Chaitali*
+> \- *Chaitali*
 
 - - -
 
@@ -2113,27 +2061,23 @@ No other. This club was the idea that stemmed from the fact we need to give love
 **Let’s take a look at what the student community has to say about them:**
 
 >It was a great learning experience under him. As exposure, I got an opportunity to manage activities and conduct workshops. The club in its first year provided the college with a great base for the Inter-IIT Tech Meet. It was learning with fun, no small talk, open to all. He indeed did an excellent job in giving opportunities. His efforts as the co-ordinator have been nothing less than outstanding.                                       
+> \- *Preet*
 >
-> \-*Preet*
->
->It was a great experience, and I believe that all of us got to learn a lot from him. I've always been intrigued by the remarkable composure and ease with which Deep Dada orchestrates the affairs of our club. Merely jotting down a few lines of machine learning code is enough to stress us out, yet Deep Dada appears unfazed, effortlessly elucidating the intricate pipeline of an RL project. The enigma surrounding his ability remains unsolved, leaving us hopeful that one day he'll tell us how he does that.                         
->
-> \-*Sayan*
+>It was a great experience, and I believe that all of us got to learn a lot from him. I've always been intrigued by the remarkable composure and ease with which Deep Dada orchestrates the affairs of our club. Merely jotting down a few lines of machine learning code is enough to stress us out, yet Deep Dada appears unfazed, effortlessly elucidating the intricate pipeline of an RL project. The enigma surrounding his ability remains unsolved, leaving us hopeful that one day he'll tell us how he does that.                        
+> \- *Sayan*
 >
 >He gave us the freedom to learn at our own pace. Though I haven’t had much interaction on a personal level with him, he is famous for his advice that he has passed on to the seniors, in front of whom he had a really respectable image, and now to the juniors.                                
->
-> \-*Ayush*
+> \- *Ayush*
 >
 >This being the pilot year for the club, they both did a great job planning the activities for students and making a plan for the coming years. Also, we did a decent job in inter IIT events related to AI/ML.                             
->
-> \-*Sumukh Porwal*
+> \- *Sumukh Porwal*
 
 - - - 
 
 **After 4 weeks of constant pestering, we consider ourselves lucky to share with you the responses from their dearest homies, on what Mr. Coordinator taught them:**              
 
 >He has passed his invaluable knowledge in the domain of ML to us and how to just tackle life in general.               
-> \-*Nilanjan*
+> \- *Nilanjan*
 >
 >1. You need not be rigid about stuff, and being flexible has its own perks.
 >2. Take the good from everyone and forget the bad.
@@ -2142,10 +2086,12 @@ No other. This club was the idea that stemmed from the fact we need to give love
 >5. Work hard, party harder!
 >6. Fish can never be replaced with anything!   
 >                   
-> \-*Ishaan*
+> \- *Ishaan*
 
 - - - 
-
+</details>
+                                                       
+--------------------------
 As we reflect on the experiences, challenges, and triumphs of our outgoing representatives, one thing becomes abundantly clear: leadership at IIT Tirupati is not just about holding a title or attending meetings – it's about embracing the opportunity to make a difference, however small, in the lives of our fellow students. Whether you're bidding farewell to your time in office or considering stepping into the fray for the first time, let the stories of those who have come before you serve as inspiration and guidance. As the curtain falls on this chapter of student governance, we look forward to the next generation of leaders rising to the occasion, ready to write their own tales of resilience, camaraderie, and, of course, a healthy dose of chaos. Until then, let's raise a glass to our outgoing representatives and the memories they've helped create. Here's to the past, the present, and the exciting adventures that lie ahead at IIT Tirupati.
 
 
