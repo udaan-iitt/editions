@@ -2091,7 +2091,7 @@ No other. This club was the idea that stemmed from the fact we need to give love
 - - - 
 </details>
                                                        
---------------------------
+- - -
 As we reflect on the experiences, challenges, and triumphs of our outgoing representatives, one thing becomes abundantly clear: leadership at IIT Tirupati is not just about holding a title or attending meetings – it's about embracing the opportunity to make a difference, however small, in the lives of our fellow students. Whether you're bidding farewell to your time in office or considering stepping into the fray for the first time, let the stories of those who have come before you serve as inspiration and guidance. As the curtain falls on this chapter of student governance, we look forward to the next generation of leaders rising to the occasion, ready to write their own tales of resilience, camaraderie, and, of course, a healthy dose of chaos. Until then, let's raise a glass to our outgoing representatives and the memories they've helped create. Here's to the past, the present, and the exciting adventures that lie ahead at IIT Tirupati.
 
 
