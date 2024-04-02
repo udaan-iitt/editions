@@ -8,7 +8,7 @@ desc: Embark on a whimsical journey through the enchanted halls of IIT Tirupati
   their magical achievements, stir your empathy for their potion-making mishaps,
   and offer a potion of gratitude for their unwavering dedication.
 thumbnail: images/teamwork.jpg
-authors: Sneha Battula, Bineet Barman, Akhil Krishnan, Neerav Sreekumar
+authors: Sneha Battula, Bineet Barman, Akhil Krishnan, Neerav Sreekumar, Tarun J Palani
 starred: true
 abio: none
 ---
@@ -78,9 +78,14 @@ And to our outgoing representatives, we offer our sincerest gratitude for their 
 
 **How would you describe your tenure looking back at it now?**
 
-I don't see much happening during my overall tenure. All the new initiatives still need to be approved in meetings. From supplementary examinations to maintaining 75% attendance, all of them must be adequately reviewed and approved by the faculties. Currently, I am trying for PAL, supplementary examinations, and 75% attendance, which will be discussed in the upcoming meetings. If not, then the forthcoming secretary should work on this. They agreed to a 6-month internship for 2022 batch students, and I still need to check whether they will implement it. Minors will also start in the upcoming academic year. We started a policy club this academic year, which should have been initiated in the previous academic year. Credit for finally getting it started goes to Dheeraj, Ratna Shree, and the MPP students. Faculty advisors need to assist the students correctly, and I submitted a clear report on this matter to the Dean, sir. Library timings got extended, and for that, I want to thank the Library Advisory Committee and the staff. There were many other things that happened in this academic year, and most of them were not because of me. I was not a good Academic Affairs Secretary. There are still many pending tasks that need to be completed as soon as possible.                 
+*As Academic Affairs Secretary:*                                               
+I don't see much happening during my overall tenure. All the new initiatives still need to be approved in meetings. From supplementary examinations to maintaining 75% attendance, all of them must be adequately reviewed and approved by the faculties. Currently, I am trying for PAL, supplementary examinations, and 75% attendance, which will be discussed in the upcoming meetings. If not, then the forthcoming secretary should work on this. They agreed to a 6-month internship for 2022 batch students, and I still need to check whether they will implement it. Minors will also start in the upcoming academic year. We started a policy club this academic year, which should have been initiated in the previous academic year. Credit for finally getting it started goes to Dheeraj, Ratna Shree, and the MPP students. Faculty advisors must assist the students correctly, and I submitted a clear report on this matter to the Dean. Library timings got extended, and for that, I want to thank the Library Advisory Committee and the staff. There were many other things that happened in this academic year, and most of them were not because of me. I was not a good Academic Affairs Secretary. There are still many pending tasks that need to be completed as soon as possible.                                          
+                                                                            
+During my tenure, the curriculum was changed, and the credit for that goes to the previous Academic Affairs Secretary (Dheeraj) because he had constantly asked the faculties about it.                                           
 
-During my tenure, the curriculum was changed, and the credit for that goes to the previous Academic Affairs Secretary (Dheeraj) because he had constantly asked the faculties about it.
+*As Excelsior Club Coordinator:*                      
+We helped the students in taking the CAT test series at low cost by talking with the company. One of the highlights was the session taken by Debeshee Das. The session was beneficial for students who want to pursue higher education abroad. One more session was by Prathyusha, where she spoke about CAT and preparation tips. I want to thank all the speakers who helped this club in conducting sessions. Many sessions are planned, and we are trying to schedule them in the upcoming weeks.                                    
+
 
 - - -
 
@@ -92,14 +97,21 @@ I sent a mail to the Academic Advisor - Courses regarding some issues. In the su
 
 **As tradition goes, one will soon take your place. What advice would you give them?**
 
-I need to learn how to present things, think from different perspectives and communicate with the faculties to get things done. If these qualities were there, the results would have been much faster. The academic staff and CRs can take care of the remaining work. One should know the art of making others agree by providing all the necessary information.
+*For the future Academic Affairs Secretary:*                    
+I need to learn how to present things, think from different perspectives and communicate with the faculties to get things done. If these qualities were there, the results would have been much faster. The academic staff and CRs can take care of the remaining work. One should know the art of making others agree by providing all the necessary information.                       
+                                     
+*For the future Excelsior Club Coordinator:*                                          
+There are so many things that need to be done under this club. So, the future club coordinator needs to spend time to make this happen. They need to have an idea about the club and what has to be done for the welfare of students. They must dedicate time and start working on all the competitive exams under this club. The one having a mentality of helping others will be the perfect one. They need to have an idea of all exams and what is happening. They must also have a proper connection with alumni and adequate communication skills.                                
+
 
 - - -
 
 **Ever fancy yourself being another secretary?**
 
-I would then want to become the Mess Affairs Secretary instead of an Academic Affairs Secretary. I want to become the Mess Affairs Secretary to work accordingly and decrease the food wastage. I want to work with the Mess people in maintaining the mess properly for hygiene, etc
-
+I would then want to become the Mess Affairs Secretary instead of an Academic Affairs Secretary. I want to become the Mess Affairs Secretary to work accordingly and decrease the food wastage. I want to work with the Mess people in maintaining the mess properly for hygiene, etc                                                 
+                     
+I’d like to become the chess club coordinator as well. I love chess so much, and I have ideas to increase the chess culture in our college. And I love spending my time on chess. Unfortunately, I couldn't become a chess club coordinator during the 4 years of my undergraduate studies.                                  
+              
 - - -
 
 **Let’s take a look at what the student community has to say about him:**
