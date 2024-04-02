@@ -5,11 +5,11 @@ date: 2024-03-24T14:09:24.608Z
 desc: Last December, Team Udaan saw a very special guest join us for an
   interview, and a long overdue one at that. Joining us was Dr. Girish Kumar
   Rajan, a specialist in Fluid Mechanics and Applied Mathematics, Assistant
-  Professor from the Department of Mechanical Engineering at IIT Tirupati. Known
-  for his top-tier lectures, involved derivations, exquisite examinations and
-  the occasional overshoots of the 1-hour mark, we at Team Udaan were convinced
-  his insight into life and academia was nothing short of pure wisdom. Walk with
-  us as we explore the inner chambers of the mind of a one-of-a-kind teacher and
+  Professor of Mechanical Engineering at IIT Tirupati. Known for his top-tier
+  lectures, involved derivations, exquisite examinations and the occasional
+  overshoots of the 1-hour mark, we at Team Udaan were convinced his insight
+  into life and academia was nothing short of pure wisdom. Walk with us as we
+  explore the inner chambers of the mind of a one-of-a-kind teacher and
   educator, one whose interest in teaching long precedes his interest in the
   field he teaches.
 thumbnail: images/tn.jpg
