@@ -1,7 +1,7 @@
 ---
 title: The Puppet Show
 category: Experiences
-date: 2024-03-01T14:09:24.608Z
+date: 2024-03-04T14:09:00.000Z
 desc: Embark on a whimsical journey through the enchanted halls of IIT Tirupati
   as we concoct a spellbinding tribute, brewing up the untold tales of the
   student body of 2023-24. Prepare to raise your cauldrons in celebration of
