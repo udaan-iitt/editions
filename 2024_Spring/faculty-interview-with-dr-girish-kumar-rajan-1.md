@@ -107,7 +107,7 @@ An interesting analogy made by Sir:
 
 In a world increasingly defined by instant gratification and the pervasive influence of smart devices, Girish sir underscores the significance of cultivating patience in the pursuit of knowledge.
 
-> “I also get asked about the importance of learning to be patient. I feel that it is becoming increasingly challenging to make students understand that they have to be patient and keep working till they obtain meaningful results. Not that we were really patient as students, but then, the degree of impatience that students of today exude is certainly a thing of concern. I don’t blame them altogether—certainly, the trend has a lot to do with smart devices.
+> “I also get asked about the importance of learning to be patient. I feel that it is becoming increasingly challenging to make students understand that they have to be patient and keep working till they obtain meaningful results. Not that we were really patient as students, but then, the degree of impatience that students of today exude is certainly a matter of concern. I don’t blame them altogether—certainly, the trend has a lot to do with smart devices.
 >
 > For instance, I keep reiterating during lectures that in many fluid mechanics problems, one has to grind through a lot of math to reach a stage where the physics can be teased out to understand what’s going on. In the end, it will certainly be worth the effort and you won’t feel the pain if you enjoy the journey, so don't despise the journey (math)! I keep talking about fluids and math because of obvious reasons, but I guess the points I am trying to make can certainly be generalised.”
 
