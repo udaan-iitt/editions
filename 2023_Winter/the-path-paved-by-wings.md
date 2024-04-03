@@ -9,7 +9,7 @@ desc: One of the country’s most inspiring legends, a solitary-path woman, the
   Indian Air Force, as she laughs with us and muses about her growth, weaving a
   story we simply had to share with you.
 thumbnail: images/padma_bandopadhyay.jpg
-authors: Chaitali
+authors: Chaitali Karekar
 starred: true
 abio: ""
 alt: wings

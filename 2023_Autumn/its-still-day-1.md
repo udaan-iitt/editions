@@ -2,8 +2,7 @@
 title: "Internship Experience at Amazon "
 category: Experiences
 date: 2023-10-14T10:42:52.700Z
-desc: It's Still Day 1. December 17, 2022. 21:46. The moment Yamini's life took
-  a turn for the good.
+desc: Read about Yamini's intership at amazon!
 thumbnail: images/yamini.jpg
 authors: Yamini Shree
 starred: false
