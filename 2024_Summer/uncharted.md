@@ -3,7 +3,7 @@ title: Uncharted
 category: Poetry
 date: 2024-07-03T08:15:09.293Z
 desc: Two friends in a spaceship want to escape the trap they are in. Can they do it?
-thumbnail: images/pexels-fabio-marciano-1332318-2565420.jpg
+thumbnail: images/pexels-fabio-marciano-1332318-2565420-1-.jpg
 authors: Aditya Patil
 starred: false
 abio: ""
