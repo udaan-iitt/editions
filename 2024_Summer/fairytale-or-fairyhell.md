@@ -4,7 +4,7 @@ category: Poetry
 date: 2024-07-03T08:48:38.125Z
 desc: Have you ever been awestruck by someone's mere presence? If not, then what
   would you do if you were in the poet's place?
-thumbnail: images/eye-6268226_1280.jpg
+thumbnail: images/eye-6268226_1280-1-.jpg
 authors: Tizen
 starred: false
 abio: ""
