@@ -46,9 +46,9 @@ If you have ever had any issues regarding your studies, or some unhappiness in y
 >  Yet, people needed to be more open to discussing all this with a professional. We found that there was just so much stigma around mental health. People were afraid that if others found out that they were seeking professional support, they would be labelled as ‘mad’ or ‘mental’ and that it would make them appear ‘weak’.
 >
 > There’s hardly any awareness about mental health in our country. People are unaware of what counselling is, let alone when they should seek it.
->
-> <br>
->
+
+<br>
+
 > **Challenges**: 
 >
 > Our technology-based counselling platform faced resistance when entering the mental health industry. Despite this, we persevered to establish a credible model.
@@ -76,9 +76,7 @@ If you have ever had any issues regarding your studies, or some unhappiness in y
 </b>
 
 > 1. **Educating Stakeholders**: Educating corporations and their employees on the importance of mental health was one of our biggest challenges and continues to be—in today’s day and age, with changing workplace dynamics, job requirements, etc. Workplace stress is at an all-time high, and counselling can play a huge role in helping employees deal with difficulties at the workplace. Wellness as a core strategy can also impact employee productivity, culture, and overall quality of life. This has improved over time, but we still believe we have a long way to go in spreading awareness about mental health in the workplace.
->
 > 2. **Adoption levels**: Adopting employee assistance and wellness programs can remain a checkbox if proper awareness is created among the employees and management. Our way to prevent this would involve the leadership and executives in the programs, who would lead by example. With their involvement, this was made a core initiative and adopted by the employees and managers.
->
 > 3. **Ensuring Quality with Scale**: We started our journey with a handful of clients and have worked with over 600+ clients in the last nine years. Ensuring that we retained the same level of quality with our counselling sessions, pieces of training, and programs was a challenge at first, but we solved it by ensuring regular check-ins and surveys with our clientele so that the quality is not lost at scale
 
 <br> <b>
