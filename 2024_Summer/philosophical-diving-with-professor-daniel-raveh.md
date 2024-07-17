@@ -159,6 +159,6 @@ He continued:
 
 He asked us if we knew Sanskrit, for which we shook our heads sideways. He ended the answer by saying, “There are so many things we can learn from Sanskrit. In Sanskrit, words are interconnected, so reading or listening involves breaking a sequence into words. Sometimes, you can break a sequence in different ways, allowing the language to carry more than one meaning simultaneously. Which is the right meaning? The beauty is that we don't have to determine; we can hold onto several options at the same time. **Adopting this insight into our lives could make the world a far better place**.”
 
-A special thanks goes to Sneha MS and Mathew for conducting the interview.
+(A special thanks goes to Sneha MS and Mathew for conducting the interview.)
 
 <!--EndFragment-->
