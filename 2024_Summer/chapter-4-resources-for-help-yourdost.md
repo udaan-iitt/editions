@@ -47,6 +47,8 @@ If you have ever had any issues regarding your studies, or some unhappiness in y
 >
 > There’s hardly any awareness about mental health in our country. People are unaware of what counselling is, let alone when they should seek it.
 >
+> <br>
+>
 > **Challenges**: 
 >
 > Our technology-based counselling platform faced resistance when entering the mental health industry. Despite this, we persevered to establish a credible model.
