@@ -25,19 +25,11 @@ Then he shared his journey with the Yoga Sutra:
 
 To find the answer to his question, he wrote to different scholars and people who had translated the text before him. Then, he discovered that most translations were from the first typed version of the yoga sutra from 1927. So, he started asking himself if he wanted to translate the manuscript. That’s when he realized that translating the manuscript would create the need to know several scripts like Malayalam, Bengali, etc. 
 
-
-
 He then proceeds to talk about the book, “When you read the yoga sutra, you know, it's a treatise about meditation, but Patanjali also writes about language, and about the notion of time and about language and the limits of language. There are so many, and of course, he writes about the ingredients of consciousness. Probably you know that it begins with this famous statement, ‘Yogas Chitta Vritti Nirodha,’ which means Yoga is the stoppage of consciousness activity. So, what is consciousness? What are the ingredients that consciousness is made of? What is the content of consciousness, so he maps the consciousness? This is what we now call the philosophy of mind, in order to enable the practitioner, the yogi, to switch off the same content, piece after piece. So, I think that the discovery of the text revealed many things that are ambiguous to me. So then you go to the commentators, and you see that the commentators use the text as a platform sometimes to express their own views. And then you can read their contemporary commentaries on the yoga sutra.”
-
-
 
 He proceeds by giving an example,” You can take someone like Swami Vivekananda, that when Patanjali writes Kaivalya and refers to something with the physical, so for Vivekananda, Kaivalya translates to independence in English, he thinks of political independence for India from the colonizing Britishers.” He then recommended that everyone at IIT read the texts. He noted that it’s easy to do because of the magic of Google. By simply searching for the Yoga Sutra, different versions can be found in Sanskrit, English, and many other languages, including Hindi. He believed that reading the text could be a highly rewarding experience.
 
-
-
-He then talks about a misconception,” Often, people relied on what others said, and sometimes negative remarks prevented them from opening the text, like with The Satanic Verses by Salman Rushdie. The Satanic Verses refers to three verses in the Quran, which were known as The Satanic Verses. This was not Rushdie's invention. It was known that the Prophet Muhammad narrated what Allah, God, was telling him, and then suddenly, about three verses, he said, ‘Oh, no, this was not told to me by Allah. This was told by Satan.’ So again, it's interesting if you think about it in a more personal way: you hear a voice in an inner voice; is it the voice of God? Is it the voice of Satan? This idea is connected to Jewish tradition, where Abraham hears a voice telling him to sacrifice his only son, Isaac. Was it truly God who told him to sacrifice Isaac, or was it perhaps an inner, frightening voice?”
-
-
+He then talks about a misconception,” Often, people relied on what others said, and sometimes negative remarks prevented them from opening the text, like with The Satanic Verses by Salman Rushdie. The Satanic Verses refers to three verses in the Quran, which were known as The Satanic Verses. This was not Rushdie's invention. It was known that the Prophet Muhammad narrated what Allah, God, was telling him, and then suddenly, about three verses, he said, ‘Oh, no, this was not told to me by Allah. This was said by Satan.’ So again, it's interesting if you think about it in a more personal way: you hear a voice in an inner voice; is it the voice of God? Is it the voice of Satan? This idea is connected to Jewish tradition, where Abraham hears a voice telling him to sacrifice his only son, Isaac. Was it truly God who told him to sacrifice Isaac, or was it perhaps an inner, frightening voice?”
 
 Following this, he delved into the works of Danish philosopher Søren Kierkegaard, particularly highlighting how Kierkegaard began his famous book Fear and Trembling with four different versions of the story of Abraham and Isaac, each exploring the narrative from different angles. He used this as an example to illustrate the importance of exploring multiple perspectives.
 
@@ -60,8 +52,6 @@ He replies, “I see. I think the problem isn't just the script. The script can 
 “I have a very strict French teacher, a young woman teaching in Jaipur. She’s probably younger than most of the students, but we respect her authority. She scolds us like children when we don’t do our homework, and we take it seriously. This dynamic helps us learn. Learning languages is crucial for dialogue. It’s not just about understanding different languages in the traditional sense but also recognizing that each person has their own way of using language. Within families or groups of friends, we often have an inner language with specific meanings. This also applies to computer engineering, with programming languages and the language of images. Translation, in a broader sense, is a really fascinating subject. It’s about bridging gaps and understanding the nuances of communication.”
 
 Moving on, we asked, “You mentioned in your talk about the Tower of Babel and how the people there used to speak in an Edenic language. In many ways, we see that the field of computer science is oriented toward finding something like a perfect language because there is this common joke: ‘You have 15 imperfect standards, so you invent a perfect standard. Now you have 16 imperfect standards.’ This sort of multiplication happens. However, we do have certain candidates for maybe an Edenic language, a sort of ‘write once, run anywhere’ type of language. Do you think that this pursuit of perfection is ultimately a good thing in the field? On the one hand, we have practical considerations, as programs need to run somewhere. On the other hand, defining the parameters of a language also constrains the way a person using it thinks. Should we be moving towards a more universal system with standards or embracing more diversity?”
-
-
 
 He answered, “This is a very complex question, so let's try to take a few steps at least to answer part of it. First of all, for me, the question isn't about seeking perfection or a perfect language. I don't believe there is such a thing as a perfect language. Instead, it's the question between unification and plurality. For some reason, unification or oneness is often valued, perhaps tracing back to Upanishadic metaphysics where, in the beginning, there was the one. But why should the one hold an advantage over plurality?”
 
@@ -97,15 +87,11 @@ He laughed and said, "Oh, again, you're asking me really difficult questions. Fi
 
 "My teacher, Daya Krishna, was trying to construct the notion of knowledge, which he referred to as knowledge without certainty. So what would be the pramana, the means of knowledge without certainty? Daya Krishna believed that dialogue could be a pramana. Classically speaking, dialogue is not considered a pramana, but someone like Daya Krishna was courageous enough to try and maybe to fail, but nevertheless, to try to change the tradition. And it's not easy to change a tradition, not only in India. I'm not only talking about India. Traditions are very strong. By the way, not only religious traditions—you're talking about Chomsky. Chomsky became a great guru. Not only Shankaracharya, Ramanujacharya, and I don't know, even Chomsky is a guru.”
 
-
-
 “Can you take issue with your guru? Can you disagree with your guru? If your guru is a philosopher of language like Noam Chomsky, it's not easy. It would be going against the stream. So, there are gurus even at the level of ideas, and definitely not only in India. Being able to free ourselves from traditions of thinking is a great challenge. I don't know if I managed to do it myself, but I tried, at least.”
 
 "In the end, Daya Krishna believed that the tool for breaking down traditions would be to ask questions. He was the master of raising questions. And it's interesting that we are not taught to ask questions. We are taught to believe that questions are only a tool to receive or to achieve answers, but someone like Daya Krishna believes that questions are more important than answers. Questions are eternal, and answers are always tentative."
 
 We then asked,” So, you mentioned in the Brihadaranyaka Upanishad that there are four different theories as to how the universe came to be. Ideally, as far as our understanding of the Upanishads goes, which is very, very surface level, the Upanishads are conversations among different people from various schools of thought, each trying to propound their theory on what happened. Highlighting this, what, in your entire research and academia to date, are the schools of thought you have come across? And what are the major distinctions between Indian philosophical schools?”
-
-
 
 He answered,” Again, I don't want to get into an introductory course on the Dasha systems, etc. I'll give you a really short answer. I think a very interesting aspect to think about is the interdisciplinary, inter-school thinkers in the history of Indian philosophy. Take, for example, someone like Vachaspati Mishra in the ninth century, who wrote commentaries on every text he came across. It's interesting because some people think he was an Advaitin, but he wrote commentaries on other texts as well.”
 
@@ -114,8 +100,6 @@ He answered,” Again, I don't want to get into an introductory course on the Da
 “So, Vachaspati Mishra is one example. If we move to the 16th century, we find figures like Appaya Dikshitar, and then we can think about Vijnanabhikshu. These people were not interested in being confined to a single Darshana. They were open-minded and engaged in dialogue within one and the same person. Their work is dialogic, and I think this is extremely interesting.”
 
 Moving on to the next question, we asked the core question we wanted to ask: “What drew you towards the field of Indian philosophy?”
-
-
 
 He answered,” Oh, I fell in love with someone. His name is Daya Krishna. I read a book by Daya Krishna in Tel Aviv, Israel, in the library of Tel Aviv University. The title of the book is Indian Philosophy: A Counter Perspective, and I was mesmerized by it—not just the content but the way it was written and the way the questions were raised. And because I'm very romantic, I went to Jaipur to look for him. I met him in Jaipur in 1999, and we started to converse with one another. Eventually, he became one of the supervisors of my PhD. So, I'm still stuck in India because of Daya Krishna's work. But Daya Krishna—he was... I mean, I cannot now give you a full introduction to Daya Krishna's philosophy, but he had several huge projects in his academic life. One of them was rereading classical Indian texts.”
 
@@ -129,8 +113,6 @@ When we were asking about “How Hebrew successfully transitioned from a purely 
 
 Moving on with the question, we asked,” Hebrew was perfectly slotted to be adopted as a lingua franca for refugees from many different linguistic groups in Asia. Looking at the successful revival of a nearly dead language like Hebrew, we're left wondering: can Sanskrit be revived in a similar way? Do you think it's a worthwhile endeavor?” He again exclaimed that it was a very complex question, which made us proud.
 
-
-
 He continued,” I don't know if you remember or have read Hind Swaraj by Gandhiji, the famous book he wrote originally in Gujarati in 1909 on a boat to England. Legend says he wrote and wrote because it was burning in him, and when his right hand tired, he switched the pen to his left hand and continued writing.”
 
 “In Hind Swaraj, he doesn't envision a return to Sanskrit. Instead, he imagines Hindus learning Urdu, Muslims learning Hindi, and everyone learning the languages of nearby regions like Marathi. He had this vision of a multilingual culture. This touches on the question of one versus many. Why do we need Sanskrit as a single common language? Why can't we embrace multiple mother tongues? This is half of my answer.”
@@ -139,12 +121,8 @@ He continued,” I don't know if you remember or have read Hind Swaraj by Gandhi
 
 “He was interviewed in JLF as he was a famous philosopher, poet, ecologist, painter, and fully cultivated person. He was a shy person, and the first question that was asked was,’ How can you find interest in Sanskrit, which is such a colonizing language of the higher castes?’ He was shocked and took a few minutes to recover. Finally, he said, ‘Languages are not colonizing or colonized. People are colonizing and colonized. Sanskrit is such a beautiful language. Luckily, I had time to devote to such a beautiful language.’”
 
-He asked us if we knew Sanskrit, for which we shook our head sideways. He ended the answer by saying, “There are so many things we can learn from Sanskrit. In Sanskrit, words are interconnected, so reading or listening involves breaking a sequence into words. Sometimes, you can break a sequence in different ways, allowing the language to carry more than one meaning simultaneously. Which is the right meaning? The beauty is that we don't have to determine; we can hold onto several options at the same time. Adopting this insight into our lives could make the world a far better place.”
-
-
+He asked us if we knew Sanskrit, for which we shook our heads sideways. He ended the answer by saying, “There are so many things we can learn from Sanskrit. In Sanskrit, words are interconnected, so reading or listening involves breaking a sequence into words. Sometimes, you can break a sequence in different ways, allowing the language to carry more than one meaning simultaneously. Which is the right meaning? The beauty is that we don't have to determine; we can hold onto several options at the same time. Adopting this insight into our lives could make the world a far better place.”
 
 A special thank you goes to Sneha MS and Mathew for conducting the interview.
-
-
 
 <!--EndFragment-->
