@@ -149,6 +149,10 @@ If you have ever had any issues regarding your studies, or some unhappiness in y
 
 > As we look towards the future, YourDOST is poised to navigate the dynamic landscape of Indian healthcare startups with a clear vision. Our primary goal is to extend our reach to all regions of India, ensuring that no individual is left without access to quality mental health support. We aim to cater to a diverse array of organisations, transcending traditional boundaries to include every sector that can benefit from our services.
 >
-> In the coming years, we envision YourDOST becoming synonymous with mental wellness in India. By embracing innovation, fostering inclusivity, and prioritising the needs of our community, we are committed to transforming the landscape of mental health care in India and setting a new standard for healthcare startups globally.
+> In the coming years, we envision YourDOST becoming synonymous with mental wellness in India. By embracing innovation, fostering inclusivity, and prioritising the needs of our community, we are committed to transforming the landscape of mental health care in India and setting a new standard for healthcare start-ups globally.
 
 <!--EndFragment-->
+
+<br>
+
+Team Udaan thanks YourDOST for their cooperation and we hope that they achieve their goal of providing quality and affordable mental healthcare to each and every corner of India!
