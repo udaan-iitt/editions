@@ -184,8 +184,6 @@ Summertime surprise! Legendary organic chemist, the founding director of both II
 >
 > So that’s what it’s like, but that is necessary for good mathematicians. So, understanding the culture, supporting them – that's what Pune became because I didn't fix a rule. And mathematicians, physicists, chemists – I learned about all the cultures and supported them how they must be supported.
 >
-> <br>
->
 > I learned quite a lot about building construction. I'm not an engineer - I know how to tender, deal with the architect, and deal with contractors.
 >
 > You must have seen IIT Tirupati, of course.
@@ -195,8 +193,6 @@ Summertime surprise! Legendary organic chemist, the founding director of both II
 > Involving faculty was the key. So, finally, it happened, and IISER Pune flagged off.
 >
 > Luckily, the faculty did very well in terms of research and teaching. I still remember our first and second batch of students who graduated. I remember all of them.
->
-> <br>
 >
 > They're doing very well everywhere. So, at that point, the important thing was not just IISER Pune. There were five other IISERs, with a one-year difference. Pune and Calcutta came.
 >
@@ -223,8 +219,6 @@ Summertime surprise! Legendary organic chemist, the founding director of both II
 > Now, the campus is complete, and things are moving. So, problems are different. The worst was the two-year COVID. It did a lot of irreparable damage. You know, see, faculty are joining. They want to start their research. I take PhD students, and COVID hits. Everybody had to go away. Nothing could be done. So, the faculty all trailed behind by about two to three years in the research. They could not establish a group. In Pune, there were no such problems. And, of course, I had a lot of experience in IISER Pune. One was that building trust is very important in the faculty and the non-teaching faculty, and I have clearly mentioned that the administration should never become powerful.
 >
 > They should assist the faculty. For me, faculty is a key element in any institution. They do research. They publish papers; they do teaching. The rest of it is the output of those things, right? So, that is the emphasis I gave. Create a good environment for them to work. They should not feel the pressure of bureaucracy. So, I was very clear with the bureaucratic people. You find rules, you know. I mean, they will not know the rules. They will make mistakes. But you should tell them how to do the same thing. But you should give them what they want. So, trust is built. And I was highly accessible. Only now, because I had an online meeting, did I close the door; otherwise, the door would always be open because I have been appointed to address the faculty problems and students' problems. In fact, I had said you do not have to make an appointment. Accessibility is important. If I do not know their problems, then how will I solve them? I cannot be living in my own world.
->
-> <br>
 >
 > You have to develop your own style of function. I am not saying that what I did was the most appropriate thing. That was my way of working. Probably, I succeeded. But, everybody cannot follow that. Your personality should match your style of function- my personality is very free; I trust people. If they say something, I do it. I trust them. I have always trusted people, which has helped me - people responded to that trust - getting extraordinary things done by ordinary people. That is what management leadership is.
 >
@@ -258,23 +252,17 @@ Summertime surprise! Legendary organic chemist, the founding director of both II
 
 > "Managing a research group working in different areas is a challenge. I had worked on organic chemistry during my PhD days. But when I joined CCMB Hyderabad, I became interested in DNA. There were no machines, and there was no way of making DNA. It was not accessible - but it was required. Short sequences, primers, and enzymes were required for genetic engineering. So, I was the only chemist when I joined CCMB Hyderabad, a cellular microbiology lab. I was doing something else in physical chemistry earlier but didn’t see it go much further.
 >
->
 > I realised that I am an organic chemist - so why don't I learn and make DNA for them? That was my idea. So, I returned to Cambridge for the 2nd time with my director’s support.  This time, I went to the molecular biology laboratory, where many Nobel Prize winners - like Watson - worked. There was a Mike Gate who had worked with Khorana, but he was new.
->
 >
 > So I went there for three months to learn how to make DNA fragments. I was given the problem of making 20 milligrams, which was difficult.
 >
 > People were making nanograms. Nanogram to milligram is a big scale-up. Today, people are making tons. At that time, the machine was not there. After three months, I returned to set up a lab for DNA synthesis - not natural DNA but modified DNA for probes and other purposes. However, I realised I wouldn’t get enough chemistry students at CCMB in my group, as their PhD program was focused on biology. I got a student in organic chemistry, and he did something. Meanwhile, I built a synthesizer and learnt about machine building for chemistry. After that, I came to NCL. In NCL, everything was available. The reagents were available, as were the chemistry students. So, I proceeded with my research on DNA. So, I started making modified DNA. Just to remind you, in India, we have the mindset that if any new area comes in, we must enter that area. Then, you become the literature. But after 5-6 years. You start working in by the time. Somebody else has contributed more, and generating new things is difficult.
 >
->
 > DNA was tough. Making RNA also. Making PNA was much easier. So, immediately, I got to the PNA area. Let us make some modifications. PNA is usually a linear molecule. I wanted to make it look like DNA. I had to make a five membered ring.  I could make a proline ring and make PNA out of that.
->
 >
 > For that. I wanted 4 amino proline - proline is unsubstituted but a substitution in the 4th position and amino. For the synthesis of PNA, I did literature and found that it can be made from 4 hydroxy proline to 4 amino proline, and 4 hydroxy proline is a component of the collagen. Proline, hydroxyproline, and glycine are 3 peptides repeated in collagen.
 >
->
 > That was one. The second thing was when I was at CCMB; there was a very well-known Prof. G.N. Ramachandran. Now, G.N. Ramachandran is one person from India who has become a textbook material. In any biochemistry textbook you take, there is something called the Ramachandran plot if you have studied protein physics. When I came to CCMB, he was the chairman of my selection committee. I was very inspired by him - a straightforward person.
->
 >
 > He is the one who gave the structure to collagen in 1954.
 > In 1950, Linus Pauling gave the alpha-helical structure - one of the greatest of the 20th century. That is the single helix. The double helix was solved by Watson and Crick and Rosalind Franklin. But for some reason, collagen nobody gets interested in.
@@ -282,18 +270,13 @@ Summertime surprise! Legendary organic chemist, the founding director of both II
 > DNA is very important, but collagen? Even dead bodies have collagen. But nobody is interested. Everyone then shifted to try to solve its structure, unsuccessfully. But G. N. Ramachandran, who worked at Madras University, published a paper in Nature. The first paper is a triple helix and not a double helix. Yes, triple helix collagen structure.
 > One distance he measured, around 0.2 angstroms, was less than the actual structure. They put one water molecule. It is like a hydrogen bonding or something. Watson and Crick, and Linus Pauling - particularly Watson and Crick - could not process that this man could do all this, and they later refuted his research by directly claiming that his measurements were totally wrong despite him giving the entire concept, which was cruel.
 >
->
 > This is how I delved deeper into collagen.
 >
->
 > So, what happens in the acidic state will be (that the) amine with net charge +1 will be cationic, and when it’s neutral, it’ll be 50-50. Alkaline pH - only NH2 is present. So, then, we need a lot of matrices. We published a few papers, and a few pages emerged as diversions. We recently wrote a paper about combining collagen triple helix with a PNA. So, that is the work which we have just, you know, sent the paper. So, it has a triple helix, a PNA strand, and PNA can bind to DNA. So, if I take one collagen triplex with three PNA strands and make put DNA, you know it binds and forms a duplex. DNA is then designed in such a way that another collagen can come. So, you can cross-link them through PNA DNA, right? That is the last of my collagen work we have done.
->
 >
 > That’s how that started. DNA nanotechnology started because, in the 2000s, nanotechnology came. We had one scientist in NCL, and we used to sit and talk, you know, simply, and he could make nanoparticles at that time. Making itself was a big thing - used to make gold nanoparticles, etc. He told me what I should do if I had this nanoparticle, what I should do, etc.
 >
 > So, you know, just by sitting at the coffee table, we said, can we add nanoparticles to DNA? Can we hook it up like that? We used to think, and we started working. We published about 12 papers on DNA nanoparticle interaction. One of the earliest things is how I came into nanoparticles. And of course, he left, and then I continued; then we made DNA nanoparticles to check their interactions because these things bind to the base. So, that is how DNA nanotechnology came. Today, we make sequences and then add silver and gold to create many more structures. That is the birth of DNA nanotechnology entirely. So, whenever it comes, you put one new student in and ask them to start working on that; that is how it happened. But it is good. I enjoyed, you know, these new ideas that came up."
-
-
 
 <br>
 
@@ -303,15 +286,11 @@ Summertime surprise! Legendary organic chemist, the founding director of both II
 
 </b> <!--EndFragment-->
 
-
-
 <!--StartFragment-->
 
 > "See, there are two ways. One is the DNA. If you design sequences, they can assume different shapes, and then they can, you know, encompass a drug as you know, for example, zeolites, cyclodextrin. There are a lot of drug delivery systems that bind them in a non-covenant way to make it, you know, that is there, but the real problem is the DNA itself does not go inside the cells very well. People are trying to find out how you can deliver the drug itself. You can trap the drug inside DNA. How do you deliver it inside because DNA has a lot of negative charges? Membranes have negative charges - it does not go inside."
 
 <!--EndFragment-->
-
-
 
 <br>
 
@@ -331,8 +310,6 @@ Summertime surprise! Legendary organic chemist, the founding director of both II
 
 <!--EndFragment-->
 
-
-
 <br>
 
 <!--StartFragment--> <b>
@@ -346,8 +323,6 @@ Summertime surprise! Legendary organic chemist, the founding director of both II
 > "Risk-taking is a part of the research, but what these things have done is, a long time back, literature was less. There were not so many papers coming, and the number of journals was less.
 >
 > So, if you are working in an area where you know who is good, who is doing what, etc, then you can evaluate research per se based on the science part, not too much in the journals. Nature is always good, and Science is prestigious too, but the best in organic chemistry work went to Tetrahedron, Tetrahedron letters. So, many of them, you had a community feeling. All the physical chemists will publish in their community journal. So, as the area started improving and interdisciplinarity came, people came up with new ideas to evaluate research - the number of citations, the H Index to assess the researcher, and the impact factor to assess the journal's quality.
->
->  
 >
 > So, the higher the impact factor, the better the journal; that became a golden rule, but some people went against the impact factor. For instance, the impact factor depends upon the area. If you are working in theoretical physics, not many journals are there, like mathematics, which affects citations, publications and the impact factor. So, the citation depends upon the number of people working in that area. Right when an area starts, it’ll have very few people. After that, more people work, and citations will increase; thus, citation is not a basic property. It is what you call a colligative property. It depends upon so many factors. 
 >
@@ -373,8 +348,6 @@ Summertime surprise! Legendary organic chemist, the founding director of both II
 
 <!--EndFragment-->
 
-
-
 <br>
 
 <!--StartFragment--> <b>
@@ -391,8 +364,6 @@ Summertime surprise! Legendary organic chemist, the founding director of both II
 
 <!--EndFragment-->
 
-
-
 <br>
 
 <!--StartFragment-->
@@ -400,8 +371,6 @@ Summertime surprise! Legendary organic chemist, the founding director of both II
 **That makes sense. With this, I came to the end of the questions, and I’m so grateful to you for giving me 2 hours of your time for this questionnaire with so many insightful answers. I hope to see you again sometime around campus soon, sir!**
 
 <!--EndFragment-->
-
-
 
 <br>
 
