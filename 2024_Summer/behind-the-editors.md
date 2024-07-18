@@ -18,7 +18,61 @@ Behold! - Here comes the new academic year, and the new cycle. As bittersweet as
 
 *<p align="right">- The recently turned 2<sup>nd</sup> years.</p>*
 
+
+
 *<br>*
+
+
+
+### Aadhya
+
+Hello, I am Aadhya, a self-proclaimed collection of paradoxes. Here is a tiny excerpt showcasing one of them (based on my experiences and the opinions of my two friends). How do the cold and rain make you feel? Sticky, annoying, gloomy, 'just get it over with' - oh, stop already? I'll take the bait here and say that they make me feel incredibly warm and happy.
+
+It has been extremely hot lately, and I long for the rain now. Physically, I am enduring 47-degree weather, but my thoughts dwell in memories of rain and overcast skies. I find great joy in these 'gloomy' days, relishing every drop of rain.
+
+For context, I was jumping mid-end sems in December because of the heavy showers and my perfectly curated sad lover playlist. This might sound sadistic, but I thoroughly enjoyed the cyclone. Let me explain: firstly, it was my first time experiencing cyclonic weather, and I wasn't in perilous proximity to it. So, it was basically 1.5 weeks of
+constant rain - and who could be disappointed with that (except my clothes because they stank)? Secondly, it was December, and it was somewhat cold - quite contrary to the usual Tirupati weather, so my Delhi heart was happy.
+
+I have often been questioned over my enthusiasm for the so-called depressing rainy season, but I find it deeply elating. The rhythmic patter of rain, the constant evening skies, the smell of wet mud, and the fresh breeze are unparalleled. Visualise the sudden eruption of green, clean dusky skies, drenched trees, deep grey concrete, colourful umbrellas, puddles, gliding motors, and the comfort of chai.
+
+You might argue about the lack of vitamin D my body receives, but even a pill could give me the required dosage. However, no drug could satiate the comfort that these visuals provide.
+
+Allow me to become slightly philosophical for a moment:
+
+> *“In a glistening world, with solitude booming, the child asks the rain about the consolation he receives from the sunless, shadowy skies.*
+>
+> *To this, the gentle rain replies: "It is because it all leads to where the light lies."”*
+
+To end, the rain for me brings the comfort of familiarity and constancy. It associates itself with each year of my life, and nostalgia, my friend, is warm. In the rain I find a little piece of home no matter where I am.
+
+Yes, there are modern issues: flooding in cities, potholes overflowing, the traffic and chaos, the insects, and the following humidity. But hey, I am going to use my writer's privileges here and choose blissful ignorance over these inconveniences.
+
+<br>
+
+
+
+### Adithya
+
+When I was first asked, “List out some topics which really interest you”, a couple of my replies were instant but my head felt a bit empty. In the seconds that followed, a train of various topics ran through my mind, ranging from my favourite fiction series to the sport I follow the most. Before we enter my mind, let’s get to know the person. This is Adithya (yes, there’s an ‘h’ in there), and one thing I can’t do is find a ‘single’ word to describe me - unless there is a term for a bibliophile, cricket super fan, tech enthusiast, someone who loves public speaking (the list goes on so we’ll stop for now), all rolled into one person. Inside my head, I’m Elon Musk 2.0. On the outside, everyone probably has different perspectives on me. So let us stick to three simple topics: Cricket, Harry Potter and me!
+
+What I still find amazing is that until 2017, I hated cricket and it wasn’t until 2018 when I realised that the sport I used to hate the most had managed to introduce me to a brand new world. I came to understand that there was so much more to cricket than just hitting a ball with a wooden stick. Bowling wasn’t running in, grunting and throwing a ball with all your might. Batting wasn’t blindly slogging at every ball. There existed terms such as ‘shot selection’, ‘seam’, ‘swing’, ‘matchups’, and even ‘mankading’ (my favourite controversy). Half of my Youtube recommendations were (and they still are) filled with videos on interviews, press conferences and even amazing playlists on cricket history. Whether it was the unstoppable Windies team of the 70s, the invincible Aussie bandwagon of the 2000s, India’s remarkable 1983 World Cup win, or the tragic 1999 Semi Final, our sport is full of amazing moments that are forever etched in history.
+
+Learning about the journeys of various cricketers can give a lot of insight into their mentality and provides a lot of teachings. Whether it’s Kohli’s mentality, Tendulkar’s dedication, Ponting’s competitiveness, or Dhoni’s calm attitude - one can find a bunch of life-influencing qualities hidden behind their performances.
+
+An aspect of the game that I’ve really come to enjoy is commentary, which I find to be really underrated. As a viewer, a game without commentary is like biryani without any spice (too bland and feels weird). It is the ability of a commentator to not just narrate what’s happening on the field, but also keep the audience engaged and hooked to the action. One man who has revolutionised this art would undoubtedly be Mr. Harsha Bhogle whose wit and eloquence have garnered many admirers, including me.
+
+Even today, I can’t imagine getting through lunch without visiting the Cricinfo website at least once. Catching the latest score, reading about stats and matchups has become a constant. And if there’s nothing going on, I manage to catch up on poignant articles about the various aspects of the game that so often go unnoticed by the average viewer. I guess the influence those write ups had on me have inspired me to join Udaan, searching for opportunities to write a bit more.
+
+Phew, let’s take a break from the real world for a while. The creativity of the human mind (and thank god for JK Rowling’s) has been a gift to mankind. I can’t think of a better example of this quality than Harry Potter. I spent many years hearing about the famous ‘name’ but continued to ignore the series until I ran out of stuff to read. I picked up book 1, then 2, and then 3. It was around book 2 where I fell in love with the series and finishing it became a kind of personal mission. It may be a series about wizards, but the magic was in the story. The characters, the quirky names, the way spells were named, the intriguing plot twists, the character arcs, all of it was so well-crafted. I guess the reason we are so enamoured with such stories is not just because of the characters themselves, but also because of the universe they exist in. I guess the most beautiful thing about sharing interests with many people is that you have a whole crowd to talk to. It’s about listening to the unique perspectives that people have to offer. It’s having those late night chats or discussions with your favourite people about the things that fascinate you. You discuss fan theories, plot holes, future events, possible changes which could’ve been made. Connecting with people online has never been easier.
+
+Honestly, being an introvert never means that you have nothing to say. Rather, it feels like your mind is an explosion of ideas and thoughts running past each other. But it’s talking about these random thoughts with those whom you connect with that feels like bliss. The thing I’ve always found weird is that I'm probably not the best person to keep a conversation going on for a really long time - but give me a stage and a mic and I’m a dictator giving energetic speeches about any topic under the Sun ;).  I’ve heard (so-called) rumours that the words 'introvert’ and ‘public speaking’ don’t go well together - but it’s always great to be an outlier. Hmmm... this is probably why I love cricket commentary as well. (Someone get me a mike, quick) Also, if you’ve been this patient to come this far, kudos to you mate and we can definitely catch up for a chat about anything ;). Till then, permit me to leave you with this:
+
+<br>
+<p align="right"><i>“Words build bridges into unexplored regions"<br>- A famous Austrian painter (iykyk)</i></p>
+
+<br>
+
+
 
 ### Pranathi
 
@@ -44,99 +98,7 @@ And... that’s it. Looking forward to make many more podcasts and interesting s
 
 <br>
 
-### Aadhya
 
-Hello, I am Aadhya, a self-proclaimed collection of paradoxes. Here is a tiny excerpt showcasing one of them (based on my experiences and the opinions of my two friends). How do the cold and rain make you feel? Sticky, annoying, gloomy, 'just get it over with' - oh, stop already? I'll take the bait here and say that they make me feel incredibly warm and happy.
-
-It has been extremely hot lately, and I long for the rain now. Physically, I am enduring 47-degree weather, but my thoughts dwell in memories of rain and overcast skies. I find great joy in these 'gloomy' days, relishing every drop of rain.
-
-For context, I was jumping mid-end sems in December because of the heavy showers and my perfectly curated sad lover playlist. This might sound sadistic, but I thoroughly enjoyed the cyclone. Let me explain: firstly, it was my first time experiencing cyclonic weather, and I wasn't in perilous proximity to it. So, it was basically 1.5 weeks of
-constant rain - and who could be disappointed with that (except my clothes because they stank)? Secondly, it was December, and it was somewhat cold - quite contrary to the usual Tirupati weather, so my Delhi heart was happy.
-
-I have often been questioned over my enthusiasm for the so-called depressing rainy season, but I find it deeply elating. The rhythmic patter of rain, the constant evening skies, the smell of wet mud, and the fresh breeze are unparalleled. Visualise the sudden eruption of green, clean dusky skies, drenched trees, deep grey concrete, colourful umbrellas, puddles, gliding motors, and the comfort of chai.
-
-You might argue about the lack of vitamin D my body receives, but even a pill could give me the required dosage. However, no drug could satiate the comfort that these visuals provide.
-
-Allow me to become slightly philosophical for a moment:
-
-> *“In a glistening world, with solitude booming, the child asks the rain about the consolation he receives from the sunless, shadowy skies.*
->
-> *To this, the gentle rain replies: "It is because it all leads to where the light lies."”*
-
-To end, the rain for me brings the comfort of familiarity and constancy. It associates itself with each year of my life, and nostalgia, my friend, is warm. In the rain I find a little piece of home no matter where I am.
-
-Yes, there are modern issues: flooding in cities, potholes overflowing, the traffic and chaos, the insects, and the following humidity. But hey, I am going to use my writer's privileges here and choose blissful ignorance over these inconveniences.
-
-### Adithya
-
-When I was first asked, “List out some topics which really interest you”, a couple of my replies
-were instant but my head felt a bit empty. In the seconds that followed, a train of various topics
-ran through my mind, ranging from my favourite fiction series to the sport I follow the most.
-Before we enter my mind, let’s get to know the person. This is Adithya (yes, there’s an ‘h’ in
-there), and one thing I can’t do is find a ‘single’ word to describe me - unless there is a term for a
-bibliophile, cricket super fan, tech enthusiast, someone who loves public speaking (the list goes
-on so we’ll stop for now), all rolled into one person. Inside my head, I’m Elon Musk 2.0. On the
-outside, everyone probably has different perspectives on me. So let us stick to three simple
-topics: Cricket, Harry Potter and me!
-
-What I still find amazing is that until 2017, I hated cricket and it wasn’t until 2018 when I realised
-that the sport I used to hate the most had managed to introduce me to a brand new world. I
-came to understand that there was so much more to cricket than just hitting a ball with a
-wooden stick. Bowling wasn’t running in, grunting and throwing a ball with all your might. Batting
-wasn’t blindly slogging at every ball. There existed terms such as ‘shot selection’, ‘seam’,
-‘swing’, ‘matchups’, and even ‘mankading’ (my favourite controversy). Half of my youtube
-recommendations were (they still are) filled with videos on interviews, press conferences and
-even amazing playlists on cricket history. Whether it was the unstoppable Windies team of the
-70s, the invincible Aussie bandwagon of the 2000s, India’s remarkable 1983 World Cup win, or
-the tragic 1999 Semi Final, our sport is full of amazing moments that are forever etched in
-history.
-
-Learning about the journeys of various cricketers can give a lot of insight into their mentality and
-provides a lot of teachings. Whether it’s Kohli’s mentality, Tendulkar’s dedication, Ponting’s
-competitiveness, Dhoni’s calm attitude, one can find a bunch of life-influencing qualities hidden
-behind their performances.
-
-An aspect of the game that I’ve really come to enjoy is commentary, which I find to be really
-underrated. As a viewer, a game without commentary is like biryani without any spice (too bland
-and feels weird). It is the ability of a commentator to not just narrate what’s happening on the
-field, but also keep the audience engaged and hooked to the action. One man who’s
-revolutionised this art has undoubtedly been Mr. Harsha Bhogle whose wit and eloquence have
-garnered many admirers, including me.
-
-Even today, I can’t imagine getting through lunch without visiting the Cricinfo website at least
-once. Catching the latest score, reading about stats and matchups has become a constant. And
-if there’s nothing going on, I manage to catch up on poignant articles about the various aspects
-of the game that so often go unnoticed by the average viewer. I guess the influence those write
-ups had on me have inspired me to join Udaan, searching for opportunities to write a bit more.
-Phew, let’s take a break from the real world for a while. The creativity of the human mind (and
-thank god for JK Rowling’s) has been a gift to mankind. I can’t think of a better example of this
-quality than Harry Potter. I spent many years hearing about the famous ‘name’ but continued to
-ignore the series untilI ran out of stuff to read. I picked up book 1, then 2, then 3. It was around
-book 2 where I fell in love with the series and finishing it became a kind of personal mission. It
-may be a series about wizards, but the magic was in the story. The characters, the quirky
-
-names, the way spells were named, the intriguing plot twists, the character arcs, all of it was so
-well-crafted. I guess the reason we are so enamoured with such stories is not just because of
-the characters themselves, but also because of the universe they exist in. I guess the most
-beautiful thing about sharing interests with many people is that you have a whole crowd to talk
-to. It’s about listening to the unique perspectives that people have to offer. It’s having those late
-night chats or discussions with your favourite people about the things that fascinate you. You
-discuss fan theories, plot holes, future events, possible changes which could’ve been made.
-Connecting with people online has never been easier.
-
-Honestly, being an introvert never means that you have nothing to say. Rather, it feels like your
-mind is an explosion of ideas and thoughts running past each other. But it’s talking about these
-random thoughts with those whom you connect with that feels like bliss. The thing I’ve always
-found weird is that I'm probably not the best person to keep a conversation going on for a really
-long time, but give me a stage and a mic and I’m a dictator giving energetic speeches about any
-topic under the Sun ;) I’ve heard (so-called) rumours the words ‘introvert’ and ‘public speaking’
-don’t go well together, but it’s always great to be an outlier. Hmmm..... this is probably why I
-love cricket commentary as well. (Someone get me a mike, quick) Also, if you’ve been this
-patient to come this far, kudos to you mate and we can definitely catch up for a chat about
-anything ;) Till then, permit me to leave you with this:
-
-<br>
-<p align="right"><i>“Words build bridges into unexplored regions"<br>- A famous Austrian painter (iykyk)</i></p>
 
 <br>
 
