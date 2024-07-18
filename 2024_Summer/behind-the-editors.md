@@ -275,7 +275,7 @@ I love cars quite a bit.
 
 *"I have no enemies"*
 
-<p align="right">- Thorfinn Karlesfni, Vinland Saga</p>
+<p align="right">- Thorfinn Karlsefni, Vinland Saga</p>
 
 <br>
 
