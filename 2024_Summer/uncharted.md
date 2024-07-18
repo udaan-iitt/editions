@@ -7,7 +7,12 @@ desc: Two friends in a spaceship want to escape the trap that they are in. Can
 thumbnail: images/pexels-fabio-marciano-1332318-2565420-1-.jpg
 authors: Aditya Patil
 starred: false
-abio: ""
+abio: Aditya, hailing from Maharashtra and pursuing civil engineering at IIT
+  Tirupati, is a vivid daydreamer and an all time night owl. Apart from binging
+  movies, he loves to play cricket, attend quizzes, (try to) solve cryptic
+  crosswords and hangout with friends. He also loves reading Myth fictions and
+  sci-fi novels. Poetry is his doorway to escape reality and jump into his own
+  little world, as perfect as his imagination.
 ---
 <p align="center">'Yes,' said Albert, faster we travelled<br>
 Further as we went, surprises unravelled<br>
