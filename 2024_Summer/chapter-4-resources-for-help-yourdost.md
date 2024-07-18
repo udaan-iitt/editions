@@ -17,7 +17,7 @@ If you have ever had any issues regarding your studies, or some unhappiness in y
 
 <br>
 
-**Background Questions**
+### **Background Questions**
 
 <b>
 
@@ -83,7 +83,7 @@ If you have ever had any issues regarding your studies, or some unhappiness in y
 
 <br>
 
-**How YourDOST works**
+### **How YourDOST works**
 
 <b>
 
@@ -133,7 +133,7 @@ If you have ever had any issues regarding your studies, or some unhappiness in y
 
 <br>
 
-**Miscellaneous**
+### **Miscellaneous**
 
 <b>
 
