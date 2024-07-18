@@ -22,27 +22,19 @@ Behold! - Here comes the new academic year, and the new cycle. As bittersweet as
 
 <br>
 
-
-
 ### Ritvik
 
 Greetings, fellow literary aficionados!
 
-
 Allow me to introduce myself: I’m Ritvik Ravi, the club’s resident dreamer, grammar vigilante, and self-appointed guardian of proper punctuation. Let me take you on a journey through my whimsical world, where literature makes up a big part, and deadlines are mere suggestions. I’d like to compare my life to a Dickens novel, except with fewer orphans and more existential crises about which book to read next.
-
 
 Literature has always played a huge role in my life growing up. My journey into the literary world began at a tender age when I discovered that books were the perfect escape from reality – not that reality was unpleasant, but books had dragons and time travel. While the other kids were playing video games, I was making up epic battles between Jason Grace, Aslan, and Harry Potter. I still firmly believe that my Hogwarts letter is still lost somewhere in the mail.
 
-
 My reading habits can be best explained as chaotic. I have a habit of reading up on all the books we buy in the summer within a week and left yearning for more. I wouldn’t brag much, but my bookshelf is a testament to my eclectic taste- ranging from the ‘I Funny’ series by James Patterson to the mythological tales of Rick Riordan, the fantasy world of J.R.R Tolkien, scientific books by Hawking and Michio Kaku to the yearly editions of the Manorama.
-
 
 While my love for the written word is strong, I also love playing and watching hand-based sports like tennis, badminton, or even cricket (I suck at football). My love for music is beyond the literary limitations of the word ‘love’. Listening to The Weeknd, Drake, Kanye, and Lana Del Ray is a huge part of my growing up. On a side note, if you can’t find anyone to debate on the rap beef that happened with Drake and Kendrick, I’ll be happy enough to indulge in an enlightening conversation.
 
-
 Finally, I love learning anything sci-tech. This might be the most generic statement ever (like, who hasn’t said that?), but I mean it in the truer sense. Talk to me anywhere from tissue culture to Artificial Intelligence and all the way to the Voyager series of probes- and I could go on rambling for at least half an hour while mostly maintaining factual accuracy.
-
 
 To conclude, joining Udaan was a no-brainer. Here, I’ve found kindred spirits who understand the love to write poems and articles about their passionate topics, and also the agony of finishing a beloved series. Plus, there’s always the hope that someone will finally explain to me what War and Peace is all about. I’m excited to embark on this literary adventure with all of you. Let’s read, write, and procrastinate together – and maybe, just maybe, we’ll create something worth putting down our mugs of coffee for.
 
@@ -50,8 +42,6 @@ Yours in bibliomania,<br>
 Ritvik Ravi
 
 <br>
-
-
 
 ### Aadhya
 
@@ -78,8 +68,6 @@ Yes, there are modern issues: flooding in cities, potholes overflowing, the traf
 
 <br>
 
-
-
 ### Adithya
 
 When I was first asked, “List out some topics which really interest you”, a couple of my replies were instant but my head felt a bit empty. In the seconds that followed, a train of various topics ran through my mind, ranging from my favourite fiction series to the sport I follow the most. Before we enter my mind, let’s get to know the person. This is Adithya (yes, there’s an ‘h’ in there), and one thing I can’t do is find a ‘single’ word to describe me - unless there is a term for a bibliophile, cricket super fan, tech enthusiast, someone who loves public speaking (the list goes on so we’ll stop for now), all rolled into one person. Inside my head, I’m Elon Musk 2.0. On the outside, everyone probably has different perspectives on me. So let us stick to three simple topics: Cricket, Harry Potter and me!
@@ -101,8 +89,6 @@ Honestly, being an introvert never means that you have nothing to say. Rather, i
 
 <br>
 
-
-
 ### Anvay
 
 <!--StartFragment-->
@@ -121,12 +107,9 @@ Poetry has always baffled me, and I had never imagined I would ever write anythi
 
 <br>
 
-
-
 ### Dharmesh
 
 Hmm… about my life, eh? I’m probably like that one dude who wants to do everything but does nothing (unless something is at stake). There are probably *some* random interesting stuffs (some might not be interesting to you) in my life. Let me take you through the latest one - Football.
-
 
 Before coming to this campus, I wasn’t much of a football fan. I just used to play football for some time during P.E. class. I mostly used to play volleyball and was selected in my school’s volleyball squad. When I went to volleyball selection here, I realized, like many people, I had lost touch with my skills due to COVID and JEE preparation. My friends used to play football regularly, and that’s when my football journey truly kicked off. While playing, I realized my instincts were good, and I predict well, so I started playing as a goalkeeper. All the non-football fans are probably like, “Oh, goalkeeper, very easy, right? That too, as you used to volleyball before, it will be very similar and you just have to catch the ball, right?” YEAH BRO! Really easy. (Cue in the *"smile in pain"* sticker.)
 
@@ -137,8 +120,6 @@ Even though I played football almost every day in the 1st sem, I didn’t really
  Even though we won the second match, we lost the third match. Even now, sometimes I think I should’ve saved the last goal in the third match. But the fact is, nothing can be done about it now. Just have to accept it, and practice so that it doesn’t repeat itself. After this, I started watching highlights of football matches. The 1st match that I fully watched was Madrid vs Bayern 1st leg. Brooooo, what was that Kroos pass? It was literally the best pass I’d ever seen. (I know I have very little ball knowledge; trying to learn, bro :)) (P.S. Even though I respect Reus, Madrid will win its 15th UCL title.)
 
 <br>
-
-
 
 ### Pranathi
 
@@ -166,15 +147,11 @@ And... that’s it. Looking forward to make many more podcasts and interesting s
 
 <br>
 
-
-
-# Medium Well?
+# Done Medium Well?
 
 *<p align="right">- The 'I am getting the hang of this' 3<sup>rd</sup> years.</p>*
 
 <br>
-
-
 
 ### Jonell
 
@@ -191,8 +168,6 @@ You go back to school the next day, daydreaming as you always do (the grown-ups 
 You are now left with terribly written paragraphs about the world you built because, despite your best efforts, your imagination is way wilder than what mere ink and paper will ever be able to capture. Now, you are scared that you will slowly forget your thoughts and lose the imaginary worlds that you love. So you begin to write down everything the moment the thought hits you because you cannot go through the loss of having a world crumble around you again. Your thoughts now start to take the forms of poems and letters (that you never send) and stories and conversations. The “wiser” you get and as your grey hairs grow in number, the inspiration from where your creativity stems, to you, seems to narrow down to your experiences. You no longer write about lands far, far away, but instead, focus on experiences that are near and dear to you. Is this happening because your imagination is limiting itself or because your experiences are expanding?
 
 <br>
-
-
 
 ### Akshay
 
@@ -211,8 +186,6 @@ I have also played *Dungeons and Dragons* with some guys once-a-week for the pas
 It is tough to find a good company with whom you enjoy your time from the bottom of your heart; it's a hit-and-trial method. It works sometimes, but it also doesn’t. I had to meet and be friends with so many people before I found the right set. So, if you ever feel down and think you will never find good friends, don’t give up and keep trying.
 
 <br>
-
-
 
 ### Neerav
 
@@ -253,15 +226,11 @@ So yep, this is why you should consider taking an interest in European football 
 
 <br>
 
-
-
 # Overcooked.
 
 *<p align="right">- The "What is life, if not a web of lies? Let's climb a mountain" 4<sup>th</sup> years.</p>*
 
 <br>
-
-
 
 ### Akhil
 
@@ -272,8 +241,6 @@ So yep, this is why you should consider taking an interest in European football 
 <p align="right">- Jeremy Clarkson, a man of frightening genius.</p>
 
 <br>
-
-
 
 It’s quite a passion, some would say. It’s quite an expensive one, others would remark. Few would even go so far as to say, “It is but a machine, what do you see in it?”
 
@@ -304,8 +271,6 @@ I love cars quite a bit.
 
 <br>
 
-
-
 ### Keshav
 
 *"I have no enemies"*
@@ -313,8 +278,6 @@ I love cars quite a bit.
 <p align="right">- Thorfinn Karlesfni, Vinland Saga</p>
 
 <br>
-
-
 
 <!--StartFragment-->
 
@@ -339,8 +302,6 @@ Also, I love cats! 
 <!--EndFragment-->
 
 <br>
-
-
 
 ### Sneha
 
@@ -370,8 +331,6 @@ And, last of all, my favourite** – Every time I come back home, I look into th
 
 <br>
 
-
-
 ### Bineet
 
 <!--StartFragment-->
@@ -393,8 +352,6 @@ I am glad to have discovered this instrument and hope there's much more for me i
 <br>
 
 <br>
-
-
 
 And there we go folks, a total of 13 (to hell with the unlucky number) introduction-type articles to help you get a glimpse into our writers' varied personalities.
 
