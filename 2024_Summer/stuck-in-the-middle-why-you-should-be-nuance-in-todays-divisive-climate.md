@@ -4,7 +4,7 @@ category: Op-Ed
 date: 2024-07-17T16:42:15.452Z
 desc: "Harmony is not what we expect when we come across a post on social media.
   Regardless of the subject matter, if it's a question that's answerable as a
-  yes or no, there are bound to be clashing factions - right at each other's
+  yes or no, there are bound to be clashing factions - right at each others'
   throats. Here's a balanced take on this issue that might help you to navigate
   through this tumultuous landscape. "
 thumbnail: images/pexels-pixabay-37323.jpg
