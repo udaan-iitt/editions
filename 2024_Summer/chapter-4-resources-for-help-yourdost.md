@@ -17,19 +17,21 @@ If you have ever had any issues regarding your studies, or some unhappiness in y
 
 <br>
 
+**Background Questions**
+
 <b>
 
 1. Would you be able to introduce YourDost and tell us more about the company as well as the online platform?
 
 </b>
 
-> YourDOST is a holistic wellness platform. We help organisations build an enriching work environment by fostering resilience & engagement in communities and by empowering individuals to become a better version of themselves.\
-> \
-> What started as a simple blog has now evolved into an emotional wellness platform with awareness modules, self-help tools, 1-on-1 counseling services et cetera.
+> YourDOST is a holistic wellness platform. We help organisations build an enriching work environment by fostering resilience & engagement in communities.
 >
-> When an organisation signs up with us, it gets access to 1000+ experts, 24x7 counselling support, self-tools, and resources. We also offer specialised programs for founders, expecting mothers, layoff support, etc. In the 9+ years since our inception, we have worked with 600+ organisations, impacting almost 30 lakh people. 
+> What started as a simple blog has evolved into an emotional wellness platform with awareness modules, self-help tools, and one-on-one counselling services that empower individuals to become better versions of themselves.
 >
-> Our clientele includes organisations such as CK Birla Group, UpGrad, IIT Madras, IIT Delhi, IIM Bangalore, Capillary, Amara Raja etc. 
+> When an organization signs up with us, it can access 1000+ experts, 24x7 counselling support, self-tools, and resources. We also offer specialised programs for founders, expecting mothers, layoff support, etc. In the 9+ years since our inception, we have worked with 600+ organizations, touched 30+ lakh people, and saved 10K+ lives. 
+>
+> Our clientele includes organisations such as CK Birla Group, UpGrad, Capillary, Amara Raja, and institutes such as IIT Madras, IIT Delhi, and IIM Bangalore. 
 
 <br>
 
@@ -39,13 +41,13 @@ If you have ever had any issues regarding your studies, or some unhappiness in y
 
 </b>
 
-> I graduated from IIT Guwahati with a specialisation in User Experience Design and then worked with companies such as Webfluenz, D.E. Shaw & Co., and O9 Solutions. 
+> I graduated from IIT Guwahati with a specialisation in User Experience Design and then worked with companies such as Webfluenz, D.E. Shaw & Co. and O9 Solutions. 
 >
-> The idea behind founding YourDOST stemmed from personal experiences and the tragic loss of a college friend due to mental health struggles. After graduating from college, my colleague and co-founder Puneet and I noticed how stressed people around us were. Job pressure, relationship issues, confidence issues, self-esteem issues, etc., affected almost everyone.
+> The idea behind founding YourDOST stemmed from personal experiences and the tragic loss of a college friend due to mental health struggles. After graduating from college, my co-founder Puneet and I noticed how stressed people were. Job pressure, relationship issues, confidence issues, self-esteem issues, etc., affected almost everyone.
 >
->  Yet, people needed to be more open to discussing all this with a professional. We found that there was just so much stigma around mental health. People were afraid that if others found out that they were seeking professional support, they would be labelled as ‘mad’ or ‘mental’ and that it would make them appear ‘weak’.
+> Yet, people needed to be more open to discussing all this with a professional. We found that there was too much stigma around mental health. People were afraid that if others found out that they were seeking professional support, they would succumb to the prevailing stereotypes around mental health and associate those who seek help with labels.
 >
-> There’s hardly any awareness about mental health in our country. People are unaware of what counselling is, let alone when they should seek it.
+> There was hardly any awareness about mental health in our country. People are unaware of what counselling is, let alone when they should seek it.
 
 <br>
 
@@ -63,9 +65,9 @@ If you have ever had any issues regarding your studies, or some unhappiness in y
 
 </b>
 
-> As an undergraduate student, an incident in the college hostel made me think seriously about doing something in the emotional wellness space. One of my friends was extremely worried about placements during the 2008 recession. She anticipated that she would not get placed and ultimately took her own life. This is where my passion began towards making mental health accessible. 
+> As an undergraduate student, an incident in the college hostel made me think seriously about doing something in the emotional wellness space. One of my friends was extremely worried about placements during the 2008 recession. She anticipated that she would not get placed and ultimately took her own life. This, made me think on how we can potentially tackle this problem, first by increasing awareness and then, using technology to solve this at scale. 
 >
-> Initially, we launched YourDOST as a blog, which then evolved into a portal where individuals can seek anonymously. After we observed the issues that trickled down from poor mental health to organisations, we aimed to resolve this. After multiple brainstorming sessions in December 2014, we launched YourDOST as an emotional wellness platform that connects users with professional psychologists, coaches, and self-help tools. 
+> Initially, we launched YourDOST as a blog, which then evolved into a portal where individuals can seek mental health help anonymously. After we observed the issues that trickled down from poor mental health to organisations, we aimed to resolve this. After multiple brainstorming sessions in December 2014, we launched YourDOST as an emotional wellness platform that connects users with professional psychologists, coaches, and self-help tools. 
 >
 > We work to create happier societies and build resilient communities. Our mission is to normalise mental health concerns and regularise mental health services. We aim to reach more people and advocate for better budget allocation and insurance coverage for mental health support.
 
@@ -76,16 +78,20 @@ If you have ever had any issues regarding your studies, or some unhappiness in y
 </b>
 
 > 1. **Educating Stakeholders**: Educating corporations and their employees on the importance of mental health was one of our biggest challenges and continues to be—in today’s day and age, with changing workplace dynamics, job requirements, etc. Workplace stress is at an all-time high, and counselling can play a huge role in helping employees deal with difficulties at the workplace. Wellness as a core strategy can also impact employee productivity, culture, and overall quality of life. This has improved over time, but we still believe we have a long way to go in spreading awareness about mental health in the workplace.
-> 2. **Adoption levels**: Adopting employee assistance and wellness programs can remain a checkbox if proper awareness is created among the employees and management. Our way to prevent this would involve the leadership and executives in the programs, who would lead by example. With their involvement, this was made a core initiative and adopted by the employees and managers.
-> 3. **Ensuring Quality with Scale**: We started our journey with a handful of clients and have worked with over 600+ clients in the last nine years. Ensuring that we retained the same level of quality with our counselling sessions, pieces of training, and programs was a challenge at first, but we solved it by ensuring regular check-ins and surveys with our clientele so that the quality is not lost at scale
+> 2. **Adoption levels**: Adopting employee assistance and wellness programs remains a checkbox if proper awareness is created among the employees and management. Our way to prevent this would involve the leadership and executives in the programs, who would lead by example.
+> 3. **Ensuring Quality with Scale**: We started our journey with a handful of clients and have worked with over 600+ clients in the last nine years. Ensuring that we retained the same level of quality with our counselling sessions, training, and programs was a challenge at first, but we solved it by ensuring regular check-ins and surveys with our clientele so that the quality is not lost at scale.
 
-<br> <b>
+<br>
 
-5. How YourDost works Given that mental health assistance or therapy is typically expensive, how does YourDost manages to provide these services at a much more affordable rate.
+**How YourDOST works**
+
+<b>
+
+5. Given that mental health assistance or therapy is typically expensive, how does YourDost manage to provide these services at a much more affordable rate.
 
 </b>
 
-> Quality professional mental health support can become quite expensive in India. A therapy session can cost Rs 800-2,500 per session, and it can take up to three months of weekly sessions for therapy to be effective. 
+> Quality professional mental health support can become quite expensive in India. A therapy session can cost anywhere between Rs 800-2,500 per session, and it can take up to three months of weekly sessions for therapy to be effective. 
 >
 > With this cost, many people may not be willing to invest this much in themselves, and even if they can afford it, they do not seek support until things become severe. 
 >
@@ -97,13 +103,13 @@ If you have ever had any issues regarding your studies, or some unhappiness in y
 
 </b>
 
-> At YourDOST, we work with organisations, colleges, corporates and schools and provide intervention on three levels.
+> At YourDOST, we work with organisations, colleges, corporates and schools and provide interventions at three levels.
 >
-> * At an Individual Level, through YourDOST’s website/app, individuals get 24x7 instant access to professional guidance from psychologists and coaches, assessment tools to help them understand themselves better, and self-help modules and training to develop skills to take care of themselves, face adversities with greater resilience, and also provide support to those around them.
+> * At an individual Level, through YourDOST’s website/app, individuals get 24x7 instant access to professional guidance from psychologists and coaches, assessment tools to help them understand themselves better, and self-help modules and training to develop skills to take care of themselves, face adversities with greater resilience, and also provide support to those around them.
 > * At the team level, there are interventions for managerial training, diagnostics, and communication.
-> * At the organisation level, we work with the leadership on strategy, diagnostics, and awareness.
+> * At the organisation level, we work with the leadership on emotional wellness strategies, and awareness.
 >
-> Our platform has a team of 1000+ experts who work on a shift basis, allowing us to provide 24/7 coverage to our clients. We also cater to 20+ Indian languages.
+> Our platform has a team of 1000+ experts who work on a shift basis, allowing us to provide 24/7 coverage to our clients. We also cater therapy sessions in almost 20+ Indian languages, keeping it accessible to the masses.
 
 <br> <b>
 
@@ -121,17 +127,15 @@ If you have ever had any issues regarding your studies, or some unhappiness in y
 
 </b>
 
-> At YourDOST, we have a team of 1000+ experts, including Psychologists, Career Coaches, and Life Coaches.
+> At YourDOST, we do not have psychiatrists who diagnose mental illnesses.
 >
-> Among our other offerings, we have a program for first-time managers, maternity support, retrenchment support, holistic wellness (physical and financial), career counselling, school mental health, etc.
->
-> With our platform, we also plan to expand collaborations with organisations and government projects, focusing on personalised care and addressing root causes rather than just stress management.
+> We are a team of 1000+ experts which includes psychologists, career coaches. Our platform allows you to connect with them and also access various self help tools all catered towards self care.
 
 <br>
 
 **Miscellaneous**
 
-**<b>**
+<b>
 
 9. In terms of impact, do you think therapy is as vital as self-growth or recreational activities like yoga, mindfulness and so on?
 
