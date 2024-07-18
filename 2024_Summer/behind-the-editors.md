@@ -251,18 +251,153 @@ So yep, this is why you should consider taking an interest in European football 
 
 <br>
 
+<br>
 
 
 
+# Overcooked.
 
-
+*<p align="right">- The "What is life, if not a web of lies? Let's climb a mountain" 4<sup>th</sup> years.</p>*
 
 <br>
 
 
 
+### Akhil
+
+<!--StartFragment-->
+
+*“It’s something that non-car people just don’t get. They see all cars as a tonne-and-a-half, two tonnes of metal, wires, glass and rubber. That’s all they see. People like you or I however, know that... we have an unshakable belief that cars are living entities. You can... develop a relationship with a car. That’s something non-car people just don’t get.”*
+
+<p align="right">- Jeremy Clarkson, a man of frightening genius.</p>
+
 <br>
 
-We hope that the graduating seniors had a wonderful time in being a part of this team. And we, truly wish them the very best for whatever they are doing, wherever they are going, and whenever they may be "being, thinking, existing".
+
+
+It’s quite a passion, some would say. It’s quite an expensive one, others would remark. Few would even go so far as to say, “It is but a machine, what do you see in it?”
+
+I’d call it…\
+…love.
+
+So allow me, to ramble on a bit, about the love for cars.
+
+Growing up, I got to see and experience many things, but I always felt like I was watching them from above. A superficial perspective ensured my little curious brain was never overwhelmed by the world out there. This wasn’t the case, however, for cars. I was thrown headfirst, into a massive ocean without a clue on how swimming works.
+
+Every bit of the experience tickled a strange excitement in me that nothing else could touch. The thrill of a gear shift. The feel of the leather upholstery. The comfort of a well-tuned suspension. The strength of the car when it accelerates. The roar of the engine. The majesty of the car’s stance. The beauty of a side-profile. The murmur of the exhaust. The whine of the turbo. The ka-klink of the paddles. The tactile sensation of the centre console and knobs. The feeling of safety in wearing a seatbelt. The feeling of being in total control, when you’re in the driver’s seat. 
+
+My love for cars was fuelled further by the entry of racing games into my life. *NFS Most Wanted* and *Underground 2* brought to me a basic understanding of how cars worked. *Forza Horizon* taught me how a high-speed car would behave to some extent. *Assetto Corsa* taught me that I still have a long way to go if I want to become a racing driver. All of them put together, instilled an explicable sensation in me that arose every time I heard an engine revving up. 
+
+To this day, the sound of *Apollo IE*’s V10 at 8,700RPM induces the same feeling in me that a smoker has after his first puff in a month. An addiction. An evil form of love. But love, nonetheless.
+
+They say love is supposed to help you grow and keep you happy. Well, cars do that and more. They keep me wanting to experience the heavenly “harmony of man and machine”. They keep me wanting to learn more and more about the world of cars. They make me want to care for something that others dismiss as mere inanimate objects. 
+
+That in itself, the ability to make someone want to care, is why you can develop a relationship with a car. 
+
+Some people just don’t get it. They make 10,000 cars, they make ‘em exactly the same way, but one or two of them turn out to be something special. They have flaws, they make mistakes, they can outperform themselves. All of this gives them a particularly human nature. 
+
+I think,\
+All said and done,\
+I love cars quite a bit.
+
+<!--EndFragment-->
+
+<br>
+
+
+
+### Keshav
+
+*"I have no enemies"*
+
+<p align="right">- Thorfinn Karlesfni, Vinland Saga</p>
+
+<br>
+
+
+
+<!--StartFragment-->
+
+Contrast is what the above line screams when it stands alongside my name, which loosely translates to Lord Krishna. Contrast is what I am. There's a blue here. One could see some vermillion and ochre, too. A closer look might reveal a bright crimson red. But is contrast supposed to be conflicting or unstable? Is it the natural law of Life that extremes wouldn't reside in the same den, sitting on the clay mound of the same wild soul? My mind and soul are but a juxtaposition of all these dazzling conflicting colours, splashing against each other, coding into each other's hues to create new ones, the drops of each blending and mixing to form the lighter and the darker shades, but all here together finding solace in the frenzy of difference and conflict. Ultimately, it is but a peaceful, pure blend of something indescribable. The colours were where all of it began when my soul began to mould itself into the craft as it now exists. 
+
+"I'm too much for my life to contain" is what I tell myself every waking moment, yet I grasp the edges of it and push them out as I outgrow myself every day. As I said, it began with colours. I was 8 when my tiny hands curled around a pencil and scratched it on a white paper to sketch something that could be called a portrait loosely. God gave us eyes to see and art to envision beyond what is seen. "Art does not reproduce what we see. It makes us see." By the time I was 12, I could see more than objects around me; I saw textures, lines, and colours. I could see the arched curve that the upper nose formed against the eyebrows, the tinge of green that appeared on the contour of pale skin, the shadows that threads of linen formed against the shining light and the visible surreal curves in transparent bulges. I knew by this time I loved art; I loved to draw figures and faces, strike my pencil, and rub the old colours onto the canvas to give them life or perhaps just experience a significant essence of being human. 
+
+But maybe my soul wasn't limited to this. When I was 7, I saw a Cricket team lift a World Cup for the second time after a hiatus of 28 years. "Just a sport" is what people would say, but the way it etched right into the centre of my heart made me fall in love with it, the mechanics of it, the beauty, the players, the moments and the idea that I could experience it too. A sport is so much more than a game with rules; it's a subject of celebration transcending cultures and religions. The shared emotions, collective brotherhood, the screams in unison, and honest teary-eyed smiles of such a large population, chanting the same names without hatred but with sheer exuberance and passion, is nothing but a spectacle of humanity, and I'm glad I'm here to witness it so closely. 
+
+Interstellar was released in 2014, and perhaps ever since, I've been amazed by science and astronomy. I got my first encyclopaedia and read about nebulas and how they form protostars and stars, which grow into giants until they collapse within themselves to form dwarfs and black holes. For one, I sure didn't understand Interstellar back then, but then I knew I wanted to learn so much more about the world around me, everything I could see and I couldn't; I wanted to understand all of it. The way a basketball curves during its freefall because of the Magnus effect, the way firing a stream of electrons through a set of transistors could make a computer, the way Hydrogen atoms would fuse so that the days would be brighter, and a million more marvels. I didn't stop at this, as I laid my eyes on the art of writing when I learnt about Shakespeare, Premchand, Kahlil, Faiz, Dickens, Austen, and Rabindranath. Then I realised how powerful words were, how they could grasp and embrace or push you to the edge with their fingertips until you'd smile, sob or perhaps be lost in an unreal world. Although I'd started writing on my own, I discovered Wordsworth, Dostoevsky, Plath, and Kafka and soon delved into the world of poetry, too. 
+
+While I was busy scouring for more in the world of words, I was then introduced to Socrates, Marx, Kant, Nietzsche, Vivekananda, Buddha and Confucius when I understood the curse of thought and intellect of humanity. Somehow, I found the same solace in philosophy as in poetry, as they were but mirrors shining at each other with lights of colours of different spectrums. And then I found Christopher Nolan, Hayao Miyazaki, Martin Scorsese and Satyajit Ray and realised how beautiful cinema could be. You have a series of running images with sound and music, and you could have one of the greatest art forms ever achieved by humanity. I began my journey with video editing, but soon, I started reading more about the true essence of cinema and what it takes to make art out of filmmaking. I learnt camera work, scripting, cinematography as well as acting, and somehow, I was now able to dissect every piece of cinema I saw and dream of reproducing it most elegantly if I'd ever get the chance to do so. However, as I immersed myself further into the world of cinema, I began to realise that the visuals create the canvas, but it's the music that breathes life into the art. The soundtracks and scores are what truly evoke emotions and elevate the storytelling, giving cinema its heartbeat. 
+
+I decided I needed to learn music and delve into its creation. Although I've been very amateur, the idea of breaking down a track into its constituent instruments and being able to play those exact notes to reconstruct the exact music somehow baffles me. I struck my fingers down the strings to strum guitar chords over and over until I could play them one after another in sync with the tempo of a hundred songs, to truly grasp the ideas of notes, scales, chords, time signatures and the difference between sharps and flats and a million more ways just so someone out there could produce something like Beethoven or Zimmer. 
+
+Somewhere in the middle of it all, I could truly behold the creation of beauty by humanity, the myriad art forms we developed to distinguish our souls from our mere bodies and realise the height of our existence. We have so much more than our prejudices, tenets, and established convictions to bind us together, to reach out for more and discover more within. I have no enemies, for I am someone who's compassionate about the hundred things that we could try to explore our essence of being human and find a thousand more anew. My heart is not a vessel for hatred, nor is it a home for contempt. I want to bring a hundred smiles into this world and help a thousand more. I bear this wild soul, a contrast that wants to reach out and fill more colours than ever in the small canvas of its own existence. Perhaps it is true that my life is too small to contain me, my emotions and my chaotic, ever-growing urge to learn and know and become more of a human. Perhaps this limit is what makes me more of a human. Nevertheless, I keep moving forward. 
+
+Also, I love cats! 
+
+<p align="right">- Keshav, a fellow human who finds stupid things funny</p>
+
+<!--EndFragment-->
+
+<br>
+
+
+
+### Sneha
+
+<!--StartFragment-->
+
+This doesn’t follow the route I meant to take for this article, but inspiration has struck and I suppose we grab it while we can. 
+
+We’ve made it to the fourth year. I’ve counted three scorching summers and three violent bouts of thunder and rain (oh, to perish by lightning amidst a purple sky), made new friends and regretfully watched as old ones slipped away, flipped a stone, redefined what several words like trust and love and anger mean to me, and most importantly, expanded and experimented with the breathing room in my ribcage. 
+
+I’ve texted the family group chat “I’m dropping out” three times, changed my mind within the next day, passed courses I simply could not give a rupee’s worth about, found those few subjects that did reawaken my spirits, ached for home, ached to come back to campus, written things about people I will probably graduate before showing to them, despised people with a passion I never knew I could summon but whom I ultimately empathised with alongside my hatred, held a million thank-yous on the tip of my tongue, admired a hundred people I may never speak to and have fallen in love with tens of souls here, all so deeply and ardently. 
+
+Do I feel any the wiser at this close-to-fermenting age of almost 21? One would argue I’m supposed to. I feel like a cucumber waking up to the glass walls of a pickle jar. I do love pickles.
+
+What have I learnt, then? How have I developed?
+
+**For starters, a big achievement** – I don’t carry as much luggage home as I used to. My eager first-year (and second-year) self, dripping with and tripping on excitement and wonder at the thought of travelling home by herself, who believed the strength of a mighty army would be summoned straight into her arms because she so willed it, tugged a suitcase, two backpacks and a duffel bag on her small person… for a mere week’s trip home. And yes, she believed it worthwhile… until she had to drag it all back. 
+
+**Secondly, things I’ve learned the hard way** – I now return my library books sooner (after raking in a Rs. 600 fine at once last year), I remember that I should just buy the Maggi instead of refusing because I’ll binge on it for no reason (when you and your roommates are hungry at 2am, begging for Maggi is a humbling experience), I must race to the shop and buy all the chocolate croissants on the day they’re stocked because everyone is an unhinged, greedy, shameless animal (yes, me too), I’ve learnt the best way to end a bad day is with an everything shower and no texts, that even if you verbally slap some people on the face they shall choose not to comprehend, and I’ve hosted the teary funeral of my attention span as I have not been able to fully complete reading anything I’ve picked up.
+
+**Third, a special mention** – at the core of every person (I imagine it to be a dense, glowing ball at their sternum) is their story. Synonyms you could use for it would be “a chapter book”, “a reflection of their intentions through water”, “the things their inner self yells behind iron bars”, and so on; I mean, you get the foundational idea, really. This ball, this quiet existence, shows itself through the eyes, through body language, slight jerks at the joints, minuscule sinking or rising of the chest, hesitation, anticipation, suppressed excitement, indecisive breathing – you can tell a person’s story, hopes, regrets, wishes, duties, and anxieties from their microscopic reactions, even in the most seemingly bland situation, and that is precisely what I find to be *the most beautiful phenomenon* to exist. An aurora borealis, indeed, a hanging garden.
+
+It narrates what has gone right in someone’s life as much as what hasn’t. How the presence of love has built them, and how the lack of it has stunted parts of them they’re not yet aware of or will never be; you can vividly envision the reasons they rage, refuse to rationalise or seal their lips while greedily absorbing everything else. You can see *why they are so flaw-fully who they are*. That there exists the possibility to experience second-hand the kaleidoscopic, ever-changing, ever-shivering hologram that is them, is marvellous – is enough.\
+**\
+And, last of all, my favourite** – Every time I come back home, I look into the mirror and see the last 4 months’ worth of lessons reflected in my pupils against the backdrop of my teenage bedroom, deepening and darkening the pool for waders and dolphins alike. I encourage the reader to try this for themselves, too, when they have a chance to offer a mirror their solitude and time. It can be a most confusing yet rich experience.
+
+<!--EndFragment-->
+
+<br>
+
+
+
+### Bineet
+
+<!--StartFragment-->
+
+It's a fine night with a drizzle outside. Chilling in the hostel room, you sit (bored) on your bed. You think about scrolling through Instagram, but realise that you have done too much of it already. You conclude that "Sleeping is an option" as you get lulled by the pitter-patter of the rain. But just as you are about to rest, you catch a glimpse of your guitar. And a few hours go by just like that, until you get too tired to hold it and just collapse on the mattress, way past your bedtime.
+
+I just love how there's so many things that you can play on the guitar. Rock, folk, country, pop - you name it. And that's just on the acoustic - when you factor in electric guitars, sky's the limit. But I can only say so much without descending into a mindless ramble. So, I'll limit myself to acoustic guitars, and playing fingerstyle on it.
+
+Take any song from your playlist. Though the "rules" of music need not apply everywhere (and they don't need to), generally speaking - It would have three key components: melody, harmony, and rhythm. I'll give a crash-course description of them all. Melody is the part of the song which is the most distinctive - think of the singer's part, or some intro being played by a violin, and so on. Harmony is the background upon which the melody lays - think of the guitar strumming, or the piano playing, and so on. You can think of harmony as something which decides the "mood" of the music. And lastly, rhythm. When you listen to a song while standing, and catch yourself swaying in some periodic fashion, that's rhythm - think of the drums blasting, or the bass thumping, and so on.
+
+So, where does the guitar come in? Well, its decent range along with compact design allows us to hit all the three components right on its head! For melody, you can delegate that to the higher pitched thinner strings (melody can be done on a bassline too but that's a topic for another day). For harmony, you can play the chords and the bass notes on the bottom strings. And lastly, you can add percussion by slapping the strings or the guitar body (yes, this is not a joke. Look up "percussive guitar"). Sidenote: there is rhythm in essentially anything you play (percussion is just a method to "emphasise" a certain rhythm).
+
+Okay, so that's the concept. But how do you "play" it? That's where fingerstyle comes in! It essentially means that instead of just holding a pick between your two fingers, and only using the pick to play the strings, you also use your remaining fingers - this allows you to play more notes at the same time and also improves manoeuvrability across the strings. A common way to do this is to just ditch the pick and use the thumb for bass and the rest of the fingers for chords and melody. Or, you can decide to keep the pick and just start using the middle and ring finger too (this is called "hybrid picking").
+
+And that's it. Using this method, you can spend countless days arranging songs for the guitar. Though I will also say that this is not an excuse to ditch a band (another great experience worth talking about). I have had my share of fun with Bollywood songs, movie themes and what not.
+
+I am glad to have discovered this instrument and hope there's much more for me in store. When you need to log out from everything else, just let your fingers glide across the strings - and suddenly, the world won't feel so weird anymore. (And, I really need to start making money - do you know there are so many different types of guitars with 8 strings or 10 strings or when there are no frets or when there are those special tuners and …).
+
+<br>
+
+<br>
+
+
+
+And there we go folks, a total of 13 (to hell with the unlucky number) introduction-type articles to help you get a glimpse into our writers' varied personalities.
+
+Along the same note, we hope that the graduating seniors had a wonderful time in being a part of this team, and we truly wish them the very best for whatever they are doing, wherever they are going, and whenever they may be "being, thinking, existing".
 
 <p align="center"><i>And so, here lies both the ending and the beginning of the Udaan journey...</i></p>
