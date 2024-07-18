@@ -87,7 +87,7 @@ Was Des hinting? Mixed signals? Oh, god knows. Malhar would try, though, despite
 
 Malhar begins plucking his guitar strings and begins humming,
 
-<br>
+<br><i>
 
 > Des, Des, a bit worn, that much is true\
 > But creaky floors hold memories, just me and you\
@@ -109,7 +109,7 @@ Malhar begins plucking his guitar strings and begins humming,
 > But des, my des, a love story in chipped paint\
 > Imperfect, yet you hold my heart, a place where dreams don’t faint
 
-<br>
+</i><br>
 
 <!--StartFragment-->
 
@@ -125,6 +125,6 @@ Malhar begins plucking his guitar strings and begins humming,
 
 <br>
 
-*Malhar claimed his first-ever Champions League trophy that night, and we bless everyone good night. After all, two strings are all it takes…*
+*<p align="center">Malhar claimed his first-ever Champions League trophy that night, and we bless everyone good night. After all, two strings are all it takes…</p>*
 
 <!--EndFragment-->
