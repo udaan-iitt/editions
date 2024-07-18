@@ -89,29 +89,25 @@ Malhar begins plucking his guitar strings and begins humming,
 
 <br>
 
-<p text-align="center">
-
-Des, Des, a bit worn, that much is true\
-But creaky floors hold memories, just me and you\
-Though chipped walls whisper tales, and leaky faucets may complain\
-This worn-out haven’s been my home, a familiar comforting space\
-\
-Sure, showers sputter, WiFi’s slow, some may complain\
-Sending an email and putting out confessions with much disdain\
-What they don’t know is it’s a reminder to disconnect\
-To find solace in conversations, a world outside the net
-
-They say you’re rough around the edges, a bit worn, that much is true\
-But within your imperfections, a certain magic seeps through\
-Leaky faucets might drain, bathrooms test our hygiene’s might\
-But in your faded charm, a special magic burns bright\
-\
-Des, you’re not a picture-perfect scene, a polished dorm’s display\
-Late night studies might go in the hungry way\
-But des, my des, a love story in chipped paint\
-Imperfect, yet you hold my heart, a place where dreams don’t faint
-
-</p>
+> Des, Des, a bit worn, that much is true\
+> But creaky floors hold memories, just me and you\
+> Though chipped walls whisper tales, and leaky faucets may complain\
+> This worn-out haven’s been my home, a familiar comforting space\
+> \
+> Sure, showers sputter, WiFi’s slow, some may complain\
+> Sending an email and putting out confessions with much disdain\
+> What they don’t know is it’s a reminder to disconnect\
+> To find solace in conversations, a world outside the net
+>
+> They say you’re rough around the edges, a bit worn, that much is true\
+> But within your imperfections, a certain magic seeps through\
+> Leaky faucets might drain, bathrooms test our hygiene’s might\
+> But in your faded charm, a special magic burns bright\
+> \
+> Des, you’re not a picture-perfect scene, a polished dorm’s display\
+> Late night studies might go in the hungry way\
+> But des, my des, a love story in chipped paint\
+> Imperfect, yet you hold my heart, a place where dreams don’t faint
 
 <br>
 
