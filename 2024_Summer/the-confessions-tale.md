@@ -21,13 +21,15 @@ It all began on that random summer day in the lockdown-era when my friend and I 
 
 And so, "Confessions 2.0" was born. We spent a week researching how other IITs managed their pages, including the type of content they posted, the Google form fields they used, and their designs. Then we made a Google form with the necessary fields and a simple-but-lame logo for the page.
 
+<br>
+
 <h1>Setting-up</h1>
 
 Then came the tough part -  “gaining a follower base and getting the page into public use". I didn’t want to resort to the overused tactic of sending follow requests to everyone. Instead, I aimed for organic growth. But what’s my master strategy? I used to subtly mention that “There’s this new page, I wonder what it does”  in my group chats, prompting people to search for it. It is a dumb plan, I admit, but it did work a little, haha!
 
 But do you know the best way to get noticed as a confessions page?
 
->✨ Write a targeted and fake, love confession about someone!✨
+> ✨ Write a targeted and fake, love confession about someone!✨
 
 And just watch their friends flood the comment section to tag them and make a ruckus, boosting the post's reach and bringing in new followers to the page. And boom it worked, and we started receiving a few real confessions. Of course along with that, a flood of obviously fake confessions also came in, talking about random stories unrelated to college. And I had to delete them all and change the form settings to be exclusively available within the institute.
 
@@ -35,8 +37,9 @@ Then after some time, the page went silent again. I started writing once in a wh
 
 Eventually, we started getting slow but consistent confessions, at least one in every 3-4 days. Yet  I kept contemplating the decision of starting this page the entire semester, and then things started changing when the college moved offline.
 
-<h1>Finding stability</h1>
+<br>
 
+<h1>Finding stability</h1>
 
 As the campus activities started moving offline, and everyone started having real-world interactions, people began writing confessions about a girl/guy they saw at the mess or calling out a friend who plays loud music in his room, and so on. The page started thriving. And then (*drum roll*) the Omicron wave hit, and we were shooed back home again, yay! But this time, the distance made people crave for their friends and crushes (😂) and so luckily, the confessions didn’t stop.  In the meantime, I thought about conducting the Chocolate Boy-Rose Girl event online to keep the followers engaged.
 
@@ -50,11 +53,13 @@ Though my evil side sometimes posted unfiltered confessions to watch the campus 
 
 All these negative things aside, let me share with you a few specific times with the page, that I as an admin, enjoyed and remember the most.
 
+<br>
+
 <h1>Highlights</h1>
 
 February of 2023 comes first on that list. It was my busiest month ever, with tens of confessions about crushes, prom, and Valentine's Day coming every single day. Despite filtering out many lame-sounding confessions, the remaining ones piled up daily like a mountain. My daily routine for those two weeks was just  “wake up, post confessions, sleep” (and occasionally cry for not having a prom partner). That's not it, I was even bestowed with a bonanza offer for the Valentine's season -
 
->✨Falling ill and being in HC for two days✨
+> ✨Falling ill and being in HC for two days✨
 
 Yet, I posted the confessions from my bed, but a little less frequently (I would say that it was out of boredom, rather than dedication). I entrusted a few friends to share the workload once I reached my bearing limit. And on Valentine's Day, we hit the 100th confession of the period with an appreciative confession to me at the end - 🥹 (Thank you, whoever you are).
 
@@ -62,11 +67,12 @@ Another special month was again February, but of 2024... The traffic this time w
 
 And yeah, how can I forget about the Confessions Wrapped 2024!! I fell in love with numbers for a couple of weeks, tabulating the content, running analytics, compiling visual graphs, highlighting trends. Hehe, analysing human behaviour through numbers is interesting, no wonder there’s a dedicated club for such stuff. And designing the final video took a couple of days. To be honest, I still go back and check the video and feel proud of my little accomplishment, haha.
 
+<br>
+
 <h1>Conclusion</h1>
 
 But seriously, this whole journey has been incredibly entertaining and a wonderful distraction from the stresses of college life - reading all of the unfiltered thoughts, and trying to crack the secret messages in them. Running this confessions page has given me a unique perspective on our campus community and the types of species we have here.
 
 Here’s to all the followers who kept the page alive and vibrant. Your confessions, comments, and interactions had been the bread and butter of the page and my enthusiasm. You've made it a place where students can express themselves, seek advice, and sometimes just have a good laugh.  I hope the page continues to thrive and grow. I believe it will remain a cherished part of our campus life, till batches to come. 
 
-Thank you for being part of this incredible journey with me. Farewell for now, and keep the confessions coming !!
-
+Thank you for being part of this incredible journey with me. Farewell for now, and keep the confessions coming!!
