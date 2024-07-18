@@ -118,6 +118,25 @@ And... that’s it. Looking forward to make many more podcasts and interesting s
 
 
 
+### Dharmesh
+
+Hmm… about my life, eh? I’m probably like that one dude who wants to do everything but does nothing (unless something is at stake). There are probably *some* random interesting stuffs (some might not be interesting to you) in my life. Let me take you through the latest one - Football.
+
+
+Before coming to this campus, I wasn’t much of a football fan. I just used to play football for some time during P.E. class. I mostly used to play volleyball and was selected in my school’s volleyball squad. When I went to volleyball selection here, I realized, like many people, I had lost touch with my skills due to COVID and JEE preparation. My friends used to play football regularly, and that’s when my football journey truly kicked off. While playing, I realized my instincts were good, and I predict well, so I started playing as a goalkeeper. All the non-football fans are probably like, “Oh, goalkeeper, very easy, right? That too, as you used to volleyball before, it will be very similar and you just have to catch the ball, right?” YEAH BRO! Really easy. (Cue in the *"smile in pain"* sticker.)
+
+This reminds me of Madrid vs Bayern 2nd leg. Neuer was an absolute GOAT (bro literally was the best goalkeeper I had seen) till the 87th minute, but he just made 1 mistake, and all the excellent saves were erased from the viewers’ minds. That’s a goalkeeper for you. Even as a Madrid fan, I felt pain just seeing that. I understand how he would’ve felt. Now that I have mentioned it, I know Bayern fans will accuse us of stealing. But, bro, it's not our fault. I accept what happened was unfair, but it was Refree’s fault, not ours. If the whistle hadn’t been blown, maybe Lunin would’ve saved, or perhaps it would’ve been a goal we never know. (Even if you went to finals, you have Harry Kane, so Dortmund will w…) I think I went a little overboard; let’s come back.
+
+Even though I played football almost every day in the 1st sem, I didn’t really start watching football. When I realized I was very weak in the Sports Quiz (wait, even the other ones… ermm let’s move on), I wanted to follow some sports; that’s when watching football started. So when Kridan was held the last sem, I got selected. I felt happy, excited, and nervous. The 1st match went pretty well until the opponent got a penalty. It was goalless until then, to be honest, and I was pretty nervous. It’s your first match, and there are barely 10-15 minutes left in the game; you definitely have to save it. The penalty taker shoots... Guess what? I saved, it bounced from my hand, and I punched it. It was and will be one of the best moments in my football journey. Even while writing this, I feel happy thinking about that time. It reminded me why I like being a goalie. The striker's face when you save the shot is worth a goalie's pain (It’s like as if I almost get a dopamine rush from that). But wait a minute, we still lost the match. The opponent scored a top-corner banger in the last 5 mins :(.
+
+ Even though we won the second match, we lost the third match. Even now, sometimes I think I should’ve saved the last goal in the third match. But the fact is, nothing can be done about it now. Just have to accept it, and practice so that it doesn’t repeat itself. After this, I started watching highlights of football matches. The 1st match that I fully watched was Madrid vs Bayern 1st leg. Brooooo, what was that Kroos pass? It was literally the best pass I’d ever seen. (I know I have very little ball knowledge; trying to learn, bro :)) (P.S. Even though I respect Reus, Madrid will win its 15th UCL title.)
+
+<br>
+
+
+
+
+
 <br>
 
 We hope that the graduating seniors had a wonderful time in being a part of this team. And, we truly wish them the very best for whatever they are doing, wherever they are going, and whenever they may be "being, thinking, existing".
