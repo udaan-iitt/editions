@@ -7,7 +7,12 @@ desc: The journey of the IITT Confession Diary Instagram page - from the day of
 thumbnail: images/confessions.jpg
 authors: Siva Sanjay
 starred: false
-abio: ""
+abio: Siva Sanjay, a 2024 graduate of Electrical engineering at IIT Tirupati, is
+  the secret-but-not-so-secret founder and admin of the IITT Confessions Diary
+  page on Instagram. He's a passionate 'Dora', often found exploring the
+  lesser-known spots around the campus. If he’s not out on one of his
+  explorations, chances are he’s in his dorm, engaged in some intriguing paper
+  craft or sorcery, and is always up for night walks and deep talks 😉.
 ---
 <h1>Introduction</h1>
 
