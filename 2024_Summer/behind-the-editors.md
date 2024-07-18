@@ -10,11 +10,11 @@ authors: Team Udaan
 starred: false
 abio: ""
 ---
-Behold! - Here comes the new academic year, and the new cycle. As bittersweet as it is to see our lovely senior-editors leave, there is no time for mourning - for the fresh batch of editors is already here! Let's begin:
+Behold! - Here comes the new academic year, and the new cycle. As bittersweet as it is to see our lovely senior-editors leave, there is no time for mourning - for the fresh batch of editors is already here! Let's begin!
 
 <br>
 
-<br>
+<hr>
 
 # Fresh out of the oven!
 
@@ -145,7 +145,7 @@ And... that’s it. Looking forward to make many more podcasts and interesting s
 
 <br>
 
-<br>
+<hr>
 
 # Done Medium Well?
 
@@ -224,7 +224,7 @@ So yep, this is why you should consider taking an interest in European football 
 
 <br>
 
-<br>
+<hr>
 
 # Overcooked.
 
@@ -351,7 +351,7 @@ I am glad to have discovered this instrument and hope there's much more for me i
 
 <br>
 
-<br>
+<hr>
 
 And there we go folks, a total of 13 (to hell with the unlucky number) introduction-type articles to help you get a glimpse into our writers' varied personalities.
 
