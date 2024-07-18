@@ -7,7 +7,7 @@ desc: We present you with an exciting and in-depth interview of Professor Daniel
   University. From his Sanskrit-to-Hebrew translations to his reason for his
   interest in Indian philosophy, keep reading to find out more!
 thumbnail: images/dr1.jpeg
-authors: Sneha M S, K J Matthew, Dharmesh S
+authors: Sneha M S, Mathew KJ, Dharmesh S
 starred: false
 abio: ""
 ---
