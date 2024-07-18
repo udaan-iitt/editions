@@ -18,8 +18,6 @@ Behold! - Here comes the new academic year, and the new cycle. As bittersweet as
 
 *<p align="right">- The recently turned 2<sup>nd</sup> years.</p>*
 
-
-
 *<br>*
 
 
@@ -69,6 +67,26 @@ Honestly, being an introvert never means that you have nothing to say. Rather, i
 
 <br>
 <p align="right"><i>“Words build bridges into unexplored regions"<br>- A famous Austrian painter (iykyk)</i></p>
+
+<br>
+
+
+
+### Anvay
+
+<!--StartFragment-->
+
+Hello world! Anvay this side! I love to do an assortment of things, but most importantly I love to talk about the things I love. So, here is a little something about me that you might enjoy reading, have fun ;).
+
+As a young child, I grew up very curious. Every day I kept asking questions: “*Why does the horse have four legs?*”, “*Can a hen fly like a crow does?*”, “*Where does the rainbow originate from*?”, “*How were colours discovered?*” and so on. As I grew older, I got the answers to a few questions, and became wise (or should I say negligent) enough to ignore the rest. I am a person who loves to sit and ponder to myself, I love to sail the river of thought. I have developed a lot of hobbies on the way, but something I never  mentioned before is my habit of getting lost in thought. I feel like the mind is the most beautiful thing in the whole universe, I love to get lost in the chain of thoughts, for my mind efficiently creates scenarios, made-up conversations and conjures people at my freewill. I love to sit and visit the little imaginary world of my own, taking refuge from reality for a while.
+
+Sometimes, I am so lost that reality feels like an illusion - this sometimes gets me frightened, I am weird that way. I think about literally anything, but the most interesting thought process I have is when I try to trace the origin of stuff, and actually come to a conclusion. By stuff here, I mean anything from the names of the shops on the road that have been running since the early 20th century to how a particular car has been designed or why a tree has grown the way it has grown. Mostly, I hit a dead end at some point of time - but sometimes, I am able to reason out why things are the way things are, and then I am met with utmost joy.
+
+Many people have told me that I am blanked out sometimes, but I like it that way :). What is sad is that I have a plethora of different hobbies - reading, poetry, listening to music, playing badminton and table tennis, watching stand-up comedy, and the list goes on… This leaves me with no or very less time to sit back and visit the world of my imagination. Though I will say that this strange habit of thinking and asking questions helps me to write poems effortlessly most of the time, something I consider as a gift from the universe.
+
+Poetry has always baffled me, and I had never imagined I would ever write anything near a poem myself. After all, poetry is all about letting your subconscious take over and fill your canvas in the most classic style of literature ever. Oh! And lastly, I love talking to people - listening to their opinions about something and then presenting mine to them leading to a healthy exchange is something I would never want to miss out on. So, if you ever feel like having a go to guy to have deep conversations with or even do a poetry collab, that would be me ;).
+
+<!--EndFragment-->
 
 <br>
 
