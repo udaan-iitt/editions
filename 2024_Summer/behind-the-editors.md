@@ -30,7 +30,6 @@ introverts). Naturally, I also used to host events in my school days. With this 
 
 Apart from magazine works, I am very much interested in social welfare activities. I also dance whenever possible, whether that be on the stage of a well organized event or on a random beat out there. While most people, these days, state their hobby as photography, I would state mine as "getting photographs clicked". But being a lethargic girl, my most favourite hobby would obviously be scrolling down my Instagram reels.
 
-
 Being an average south Indian regular intermediate student - I was only concentrating on the JEE
 for the two really... really long years. So tiring. But time has changed now. Getting into a world
 full of options and opportunities here is something different. To explore, is the only thing that
@@ -41,10 +40,7 @@ Sometimes it feels as if I am not fit for this perfectly mechanised world - it f
 
 Now, here I am, ignoring all those who said: "*She can't be there*" or "*She can't do that*" or "*She shouldn't...*" and so on. Coming out of those ideologies, showing that all those ‘*can’t and shouldn’t*’ are actually possible, and stepping into the new world - with all these things in my mind I entered this college and am now happy that I have found something in which I am really interested. For all those who think that a magazine is only about articles and literature, here I am, the one who doesn’t write much but is still a part of Udaan.
 
-
 And... that’s it. Looking forward to make many more podcasts and interesting stuff ahead - I hope the audience would bear up with me.
-
-
 
 <br>
 
@@ -52,33 +48,24 @@ And... that’s it. Looking forward to make many more podcasts and interesting s
 
 Hello, I am Aadhya, a self-proclaimed collection of paradoxes. Here is a tiny excerpt showcasing one of them (based on my experiences and the opinions of my two friends). How do the cold and rain make you feel? Sticky, annoying, gloomy, 'just get it over with' - oh, stop already? I'll take the bait here and say that they make me feel incredibly warm and happy.
 
-
 It has been extremely hot lately, and I long for the rain now. Physically, I am enduring 47-degree weather, but my thoughts dwell in memories of rain and overcast skies. I find great joy in these 'gloomy' days, relishing every drop of rain.
-
 
 For context, I was jumping mid-end sems in December because of the heavy showers and my perfectly curated sad lover playlist. This might sound sadistic, but I thoroughly enjoyed the cyclone. Let me explain: firstly, it was my first time experiencing cyclonic weather, and I wasn't in perilous proximity to it. So, it was basically 1.5 weeks of
 constant rain - and who could be disappointed with that (except my clothes because they stank)? Secondly, it was December, and it was somewhat cold - quite contrary to the usual Tirupati weather, so my Delhi heart was happy.
 
-
 I have often been questioned over my enthusiasm for the so-called depressing rainy season, but I find it deeply elating. The rhythmic patter of rain, the constant evening skies, the smell of wet mud, and the fresh breeze are unparalleled. Visualise the sudden eruption of green, clean dusky skies, drenched trees, deep grey concrete, colourful umbrellas, puddles, gliding motors, and the comfort of chai.
-
 
 You might argue about the lack of vitamin D my body receives, but even a pill could give me the required dosage. However, no drug could satiate the comfort that these visuals provide.
 
-
 Allow me to become slightly philosophical for a moment:
 
->
 > *“In a glistening world, with solitude booming, the child asks the rain about the consolation he receives from the sunless, shadowy skies.*
 >
 > *To this, the gentle rain replies: "It is because it all leads to where the light lies."”*
 
-
 To end, the rain for me brings the comfort of familiarity and constancy. It associates itself with each year of my life, and nostalgia, my friend, is warm. In the rain I find a little piece of home no matter where I am.
 
 Yes, there are modern issues: flooding in cities, potholes overflowing, the traffic and chaos, the insects, and the following humidity. But hey, I am going to use my writer's privileges here and choose blissful ignorance over these inconveniences.
-
-
 
 ### Adithya
 
@@ -86,12 +73,11 @@ When I was first asked, “List out some topics which really interest you”, a 
 were instant but my head felt a bit empty. In the seconds that followed, a train of various topics
 ran through my mind, ranging from my favourite fiction series to the sport I follow the most.
 Before we enter my mind, let’s get to know the person. This is Adithya (yes, there’s an ‘h’ in
-there), and one thing I can’t do is find a ‘single’ word to describe me, unless there is a term for a
+there), and one thing I can’t do is find a ‘single’ word to describe me - unless there is a term for a
 bibliophile, cricket super fan, tech enthusiast, someone who loves public speaking (the list goes
 on so we’ll stop for now), all rolled into one person. Inside my head, I’m Elon Musk 2.0. On the
 outside, everyone probably has different perspectives on me. So let us stick to three simple
 topics: Cricket, Harry Potter and me!
-
 
 What I still find amazing is that until 2017, I hated cricket and it wasn’t until 2018 when I realised
 that the sport I used to hate the most had managed to introduce me to a brand new world. I
@@ -105,12 +91,10 @@ even amazing playlists on cricket history. Whether it was the unstoppable Windie
 the tragic 1999 Semi Final, our sport is full of amazing moments that are forever etched in
 history.
 
-
 Learning about the journeys of various cricketers can give a lot of insight into their mentality and
 provides a lot of teachings. Whether it’s Kohli’s mentality, Tendulkar’s dedication, Ponting’s
 competitiveness, Dhoni’s calm attitude, one can find a bunch of life-influencing qualities hidden
 behind their performances.
-
 
 An aspect of the game that I’ve really come to enjoy is commentary, which I find to be really
 underrated. As a viewer, a game without commentary is like biryani without any spice (too bland
@@ -118,7 +102,6 @@ and feels weird). It is the ability of a commentator to not just narrate what’
 field, but also keep the audience engaged and hooked to the action. One man who’s
 revolutionised this art has undoubtedly been Mr. Harsha Bhogle whose wit and eloquence have
 garnered many admirers, including me.
-
 
 Even today, I can’t imagine getting through lunch without visiting the Cricinfo website at least
 once. Catching the latest score, reading about stats and matchups has become a constant. And
@@ -141,7 +124,6 @@ night chats or discussions with your favourite people about the things that fasc
 discuss fan theories, plot holes, future events, possible changes which could’ve been made.
 Connecting with people online has never been easier.
 
-
 Honestly, being an introvert never means that you have nothing to say. Rather, it feels like your
 mind is an explosion of ideas and thoughts running past each other. But it’s talking about these
 random thoughts with those whom you connect with that feels like bliss. The thing I’ve always
@@ -154,9 +136,7 @@ patient to come this far, kudos to you mate and we can definitely catch up for a
 anything ;) Till then, permit me to leave you with this:
 
 <br>
-<p align="right">“*Words build bridges into unexplored regions*"<br>- A famous Austrian painter (iykyk)</p>
-
-
+<p align="right"><i>“Words build bridges into unexplored regions"<br>- A famous Austrian painter (iykyk)</i></p>
 
 <br>
 
