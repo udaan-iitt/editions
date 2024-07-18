@@ -6,7 +6,7 @@ desc: Mr. R. Muralidharan, CTO at Tata Advanced Systems Ltd Mumbai, visited our
   campus to give a special lecture on "Engineering Strategic Systems for
   'Atmanirbharta'". Join us as we interview him further about the exciting
   projects and strategies that he has heralded.
-thumbnail: images/special-lecture-series_r-muralidharan.pdf.png
+thumbnail: images/special-lecture-series_r-muralidharan.pdf-1-.png
 authors: Chaitali Karekar, Sneha M S, Anvay Joshi
 starred: false
 abio: ""
