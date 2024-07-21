@@ -40,9 +40,15 @@ With a mission to promote AI & ML within the campus as the new club on the block
 Next up, Primi, in the form of the literary happenings around campus.
 
 The Literary Affairs Council has continued to remain the backbone of the various literary activities held year-round and has also managed to conduct a few institute-wide events! The council conducted five Hindi Pakhwada events in September. They also introduced new events like the Cryptic crossword for the Intra IIT and helped the Aranya Club make puzzles for their event - "Treasure Hunt." On the eve of Valentine's Day, they conducted a poetry event that was conducted innovatively through social media. The event had a prize pool of 5000 rupees and amassed more than 25 entries. Moreover, on the renowned World Poetry Day, the council conducted the Poetry Slam, which was an offline event with a prize pool of 2500 rupees. They also did their part by lending a hand in distributing the certificates and trophies for the Intra IIT winners on the Gymkhana Day.
+
+
 Moving on, the Debate and Oratory Club kicked off their academic year with a Standpoint Speaking Contest right before their Introduction session in the month of August. Furthermore, their weekly debate drew a significant crowd, enabling them to conduct the discussion in an exciting five versus five format. An excellent opportunity for students in the debating field was witnessed when the Debate and Oratory Club decided to take part in the IIT BBS Debate Contest, for which it sent two teams comprising three debaters and one adjudicator. Where one adjudicator managed to qualify for the break rounds, this club organized not one, not two, but four events for the Intra IIT that include Block and Tackle, Just a Minute, Shipwreck, and Spin a Yarn. Some events saw great participation, while some saw poor participation due to a variety of reasons. 
+
+
 This club also consolidated and trained a team of debaters to participate in the Inter IIT Cultural and Literary Meet held in IIT Kharagpur. Evidently, this club made sure to make its presence felt during the Intra IIT. 
 Furthermore, the Quiz Club did not fail to puzzle the students on a regular basis, too! With its consistent conduction of events all year round, it kept the quiz-loving students engaged almost every month! In August, they conducted their Monthly Quiz in two rounds, Prelims and Finals. September, unfortunately, saw no event from the Quiz Club, but October more than made up for that with four different events, namely - the Inra IIT MELA Quiz, India Quiz, General Quiz, and SciBizTech Quiz. Each of these events was meticulously conducted in two rounds, prelims and finals; this was surely an eventful month for the Quiz club. In November, the Sports Quiz was also conducted as a part of the Intra IIT events. As we entered 2024, the Quiz Club was back with a new and interesting set of events. In February, they conducted a quiz on Wars and Conflicts and their impacts on society. In March, an exclusive Women's Day quiz was held in collaboration with MEDHA, the Women's Club of IIT Tirupati. To call it a day ( or a year?! ), the quiz club ended their wonderful year in April with their last event, which was a general quiz for the graduating batch.
+
+
 Lastly, the Scribbles Club had a busy year, too, with a vast assortment of events and engaging activities. Their academics had a great start with an event on historical fiction, which received decent participation, considering the fact that it was conducted online. This was followed by the Intra-IIT English Poetry Slam and Creative Writing contests, which amassed a great number of participants and turned out to be really fun events. A new event, the Intra-IIT Cryptic Crossword, was also conducted in October, which clocked 42 participant teams and was a grand success. The Intra-IIT Hindi Creative Writing was also conducted to add a regional twist to these events. Furthermore, an Essay Writing competition was conducted on the occasion of Khadi Mahotsav, which is a campaign run by the Government of India to promote the idea of Atmanirbhar Bharat amongst students. Also, an Essay Writing competition was conducted online on the occasion of Women's Day, and winners were declared shortly after. Lastly, in the Inter-IIT, the club took part in an assortment of events like Poetry Slam, Poetry writing, Cryptic Crossword, etc., and managed to get in the top 15 out of the 46 participants in the Hindi Poetry writing. 
 This year, the literary team's primary focus was to indulge a great number of people in literary activities and help them to appreciate literature. This motive was successful to some extent, and it is hoped that this momentum will be carried and strengthened in the coming years.
 
@@ -74,8 +80,6 @@ Onam celebrations had to be as traditional as possible, marking the first festiv
 
 ![Director on Independence Day](images/independence-day.jpg "Independence Day Celebrations")
 
-
-
 And, the buck stops here. The last event on the nostalgia trip and the first event of the academic year was the Freshers’ Orientation programme, held on the 8th of August. The programme included a gathering to introduce the Student Clubs to the Freshers, finishing off the night with stage performances from Sargam and Xcite.
 	
 Keen ones among you readers would have realized our little trip missed out on quite a few key events of the Cultural Clubs. Contorni is unavailable for today’s meal, apologies. The Culturals Report is the only one the editors received. When Team Udaan reached out to ask for the Cultural Club Reports, we were told that none of the coordinators had submitted any (*Bombastic Side Eye*). Maybe they lost the piece of paper it was written on…or something (*Criminal Offensive Side Eye*).
@@ -87,6 +91,8 @@ Lastly, and comfortingly, dessert.
 The year had an energetic start with the  3K Cycling Event organized on 3 June 2023
 to celebrate World Cycle Day and encourage sustainability along with physical wellness in our transportation.
 The year also saw several running events taken initiative by the Fitness Club, each with the outlook of promoting physical fitness, camaraderie and community spirit. From the National Sports Day run (3Km) in august to the Unity Run in October held in honour of Sardar Vallabh Bhai Patel and finally the mega event of the 5K Campus Run in April 2024, brilliant zealousness was observed within the community.
+
+
 The 5K run was a simple winning event with over 400 participants from colleges over Tirupati taking part in it.
 
 Next was the annual  Yoga Day celebration on 21 June in the confines of our indoor sports complex. The event welcomed esteemed guests from the Isha Foundation and the session involved practising yoga along with an attempt to be mindful of ourselves and action.
@@ -105,7 +111,7 @@ highlighted our commitment to excellence in sports on a national platform.
 The Aranya Club organized two treks in this academic year. In October of 23’ a trek to Tada falls (Ubbalamadugu falls) was planned with over 250 students embarking on an exhilarating trek to Tada Falls, blending easy paths with rugged terrain. Despite a minor injury, spirits soared as music-filled bus rides set a lively tone. Reaching the majestic waterfall, they were awed by nature's beauty, emphasizing the need to cherish such wonders. 
 The second trek was organized in January for the first year students taking about 150 people for an adventurous expedition in Tirupati’s own wonder. 
 
- INTRA IIT SPORTS MEET- ‘KRIDAN’
+Intra IIT Sports meet - ‘KRIDAN’:
 Spanning from February 27th to April 24th, 2024, this event witnessed enthusiastic
 participation from students across various disciplines, showcasing their
 prowess in a plethora of sports ranging from Athletics to Chess.
@@ -129,8 +135,18 @@ By equipping individuals with the skills needed to defend themselves, we aim to 
 
 The Chaturanga Club, our very own chess club, had an exciting yet elaborate year hosting  a vibrant series of chess tournaments in 2023-2024, attracting enthusiastic players and creating memorable events.
 Kicking off with AICL 5.0 from July 20-23, 2023, on Lichess, this online 5+0 format event saw intense competition among IITs, NITs, and BITS, with our team contributing an average of 30 participants per match. August began with the lively AARAMBH ’23 tournament on August 11 at the Indoor Sports Complex. This 5+0 format, 6-round Swiss system event marked the debut for the B.Tech Batch 2023, drawing an impressive 60 students. Celebrating Independence Day on August 15, the FREEDOM - THE AZADI tournament featured a 5+0 King of the Hill Chess Variant and involved 44 spirited players.
+
+
 The Teachers Tournament on August 20, held at the Indoor Sports Complex in a 10+5 format over 5 rounds, provided a unique platform for 6 participants. On August 27, the Celebration of PRAGG event, an online 5+0 arena on Lichess, fostered friendly competition among 8 IITs, with 38 participants from our college joining 266 others. The Selection of Inter IIT players from August 31 to September 2 was a critical 10+0 round-robin event at the Indoor Sports Complex, attracting 40 contenders.
+
+
 The adrenaline-pumping Fast and Furious wins the race! On October 22 was an online 1+0 arena event on Lichess, involving 10 players. The Not-So-Casual Tournament on November 11, a 5+0 arena event on Lichess, saw 19 participants battling it out. On November 14, the Children's Day Tournament at TC17 featured a 5+0 6-round event with 18 young chess enthusiasts. The Surprise Variant Tournament on November 15, a 10+0 round-robin event at TC17, included 12 participants, with 6 children and 6 students showcasing their skills.
+
+
 In 2024, the Team Battle Tournament on January 14 was an exhilarating 5+0 arena event on Lichess, featuring 30 participants from our college among 101 players from 5 IITs. The Puzzle Tournament from February 16 to April 13 on WhatsApp was open to all, keeping the chess spirit alive. Celebrating Women's Day on March 8, the Women's Day Chess Tournament at AB2-CR002 was a 5+0 round-robin event with 13 women participating. The Chess Master's Premier League from March 24-29 on Chess.com featured a mix of 5+0 and 1+0 arena formats, with 25 participants from our college. On March 31, the Chaturanga CrazyHouse Arena, a 3+0 arena event on Lichess, saw 7 students in action.
+
+
 The series concluded with The Farewell Tournament on April 21, a 5+0 event at AB2-CR004, engaging 13 students and wrapping up a thrilling year of chess activities organized by the Chaturanga Club.
+
+
 With that, we conclude our 5-course meal. We hope you enjoyed your time with us. If you didn’t find any part of it exciting, don’t be afraid to walk into the unknown and break boundaries. Who knows, you may be the one to invent a new people’s favourite dish (ahem, club). We look forward to seeing you again, with even more exciting student activities and events in the years to come.
