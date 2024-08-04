@@ -13,7 +13,7 @@ abio: ""
 ---
 <!--StartFragment-->
 
-After the Mid-Sem break, we at team Udaan attended an exciting special talk, “No Place Like Home?: From Plato’s Cave to Rushdie’s Imaginary Homelands,” by Professor Daniel Raveh, Professor of Philosophy and Comparative Philosophy at Tel Aviv University. The talk aimed to rethink the concept of home as the contemporary avatar of the age-old question of self-identity.
+After the Mid-Sem break, we at team Udaan attended an exciting special talk, “No Place Like Home?: From Plato’s Cave to Rushdie’s Imaginary Homelands,” by Professor Daniel Raveh, Professor of Indian and Comparative Philosophy at Tel Aviv University. The talk aimed to rethink the concept of home as the contemporary avatar of the age-old question of self-identity.
 
 After the talk, we had the fantastic opportunity to interview Professor Daniel Raveh, who is the author of three books: *Exploring the Yogasūtra* (Continuum 2012), *Sūtras, Stories and Yoga Philosophy* (Routledge 2016), and *Daya Krishna and Twentieth-Century Indian Philosophy* (Bloomsbury 2020). He is co-editor of two collections of essays: *Contrary Thinking: Selected Essays of Daya Krishna* (OUP 2011) and *The Making of Contemporary Indian Philosophy: Krishnachandra Bhattacharyya* (Routledge 2023). His articles have appeared in numerous journals, including the *Journal of Indian Philosophy*, *Philosophy East and West*, *Sophia*, *Journal of Indian Council of Philosophical Research*, *Journal of World Philosophies*, *Culture and Dialogue*, *Prabuddha Bharata*, and the *International Journal of Hindu Studies*. Raveh translated the Yogasūtra into Hebrew (in *Philosophical Threads in Patañjali’s Yogasūtra*, Hakibbutz Hameuchad, 2010) and English (in *Exploring the Yogasūtra*, 2012).
 
