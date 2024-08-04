@@ -3,9 +3,9 @@ title: Philosophical diving with Professor Daniel Raveh
 category: Campus News
 date: 2024-07-17T18:16:59.764Z
 desc: We present you with an exciting and in-depth interview of Professor Daniel
-  Raveh - Professor of Philosophy and Comparative Philosophy at Tel Aviv
-  University. From his Sanskrit-to-Hebrew translations to his reason for his
-  interest in Indian philosophy, keep reading to find out more!
+  Raveh - Professor of Indian and Comparative Philosophy at Tel Aviv University.
+  From his Sanskrit-to-Hebrew translations to his reason for his interest in
+  Indian philosophy, keep reading to find out more!
 thumbnail: images/dr1.jpeg
 authors: Sneha M S, Mathew KJ, Dharmesh S
 starred: false
