@@ -77,7 +77,7 @@ export const newsletter = [
 		email: 'me21b012@iittp.ac.in',
 		title: 'Bineet Barman',
 		link: 'https://www.linkedin.com/in/bineet-barman-0a9563242',
-		role: 'Editor',
+		role: 'Chief',
 	},
 	{
 		key: 'mathew',
