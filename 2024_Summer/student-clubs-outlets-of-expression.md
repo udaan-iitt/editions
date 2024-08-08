@@ -1,5 +1,5 @@
 ---
-title: "Student Clubs : Outlets of Expression"
+title: "After class activities: Student-clubs and the year gone by"
 category: Campus News
 date: 2024-07-20T10:46:56.452Z
 desc: With the end of another eventful and jam-packed year for student
