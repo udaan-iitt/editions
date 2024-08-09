@@ -145,7 +145,6 @@ Having said this, the IISERs and the IITs, with the government supporting them, 
 
 > “The challenge in India I think is that private industry thinks that they should get something. They are used to getting ready-made technologies; they think IITs will give them ready-made technology but it's not like that.
 >
->
 > It is the industry that has to change its mindset. IITians do not want to spend a lot of time on how to manufacture a quantum computer, they can only give the concept. They'll give you the concepts. You have to equally contribute to it, engineer it and then manufacture it. Converting a proof of concept to a product is a role of the industry.”
 
 <hr>
@@ -160,6 +159,6 @@ Great words, right? After all, if we let the desire to learn fade away, then we 
 
 Moving on:
 
-> *“Electrical Electronics Computers fraternity has a worldwide body called IEEE, where we have a concept called LLL - Life Long Learning. So, every student, if you want to contribute to the long run (, has to learn). For example, let's take what I learned from 1977-79 in MTech in Computer Science and Computer Engineering. Okay? The basics are still there, but I have to study much more every day to retain my job. And, to lead my job, I need much more. So, lifelong learning is one thing. And, you will consider your degree as a license to learn more. Right? And, you know, there's a famous saying, "Even when you're a student, let your schooling not interfere with your education." What you learn in your classes is one thing, but what you want to get educated in is another thing.”*
+> *“Electrical, Electronics, and, Computers fraternity has a worldwide body called IEEE, where we have a concept called LLL - Life Long Learning. So, (for) every student, if you want to contribute in the long run, you have to learn. For example, let's take what I learned from 1977-79 in MTech in Computer Science and Computer Engineering. Okay? The basics are still there, but I have to study much more every day to retain my job. And, to lead my job, I need much more. So, lifelong learning is one thing. And, you will consider your degree as a license to learn more. Right? And, you know, there's a famous saying, "Even when you're a student, let your schooling not interfere with your education." What you learn in your classes is one thing, but what you want to get educated in is another thing.”*
 >
 > **“Thank you. Especially IIT Tirupati. I always say, we also have Lord Balaji conspiring for your success. Thank you for this opportunity.”**
