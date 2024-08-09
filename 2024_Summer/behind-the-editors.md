@@ -218,7 +218,7 @@ How can A predict B’s personality? Well, you can, based on the football team B
 
 So yep, this is why you should consider taking an interest in European football - not just improving your dating life, but also fostering life as a whole - teaching you about balance, miracles, planning, tactics, man management (I’ll take another essay to talk about this, but never mind), finance, respect, dealing with breakups, toxicity, and being more romantic - I’m none of the above. Still, you guys get the gist of it, I hope?
 
- **So it’s not ‘if you haven’t tried, you haven’t lived’; it is ‘if you haven’t loved, you haven’t lived’.**
+**So it’s not ‘if you haven’t tried, you haven’t lived’; it is ‘if you haven’t loved, you haven’t lived’.**
 
 <!--EndFragment-->
 
@@ -345,7 +345,7 @@ So, where does the guitar come in? Well, its decent range along with compact des
 
 Okay, so that's the concept. But how do you "play" it? That's where fingerstyle comes in! It essentially means that instead of just holding a pick between your two fingers, and only using the pick to play the strings, you also use your remaining fingers - this allows you to play more notes at the same time and also improves manoeuvrability across the strings. A common way to do this is to just ditch the pick and use the thumb for bass and the rest of the fingers for chords and melody. Or, you can decide to keep the pick and just start using the middle and ring finger too (this is called "hybrid picking").
 
-And that's it. Using this method, you can spend countless days arranging songs for the guitar. Though I will also say that this is not an excuse to ditch a band (another great experience worth talking about). I have had my share of fun with Bollywood songs, movie themes and what not.
+And that's it. Using this method, you can spend countless days arranging songs for the guitar. Regardless, I will also add that this is not an excuse to go solo and just ditch a band (another great experience worth talking about). In trying to implement some tricky parts or changing the whole mood of the piece, I have had my share of fun with Bollywood songs, movie themes and what not.
 
 I am glad to have discovered this instrument and hope there's much more for me in store. When you need to log out from everything else, just let your fingers glide across the strings - and suddenly, the world won't feel so weird anymore. (And, I really need to start making money - do you know there are so many different types of guitars with 8 strings or 10 strings or when there are no frets or when there are those special tuners and …).
 
