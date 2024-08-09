@@ -11,7 +11,7 @@ abio: Tizen - Tizen is an 'on the go' person and an MTech student at IIT
   Tirupati. Apart from academics, he designs posters and manages the social
   media handle of an institute club. He spends his leisure time playing
   Badminton, Cricket, and Online Chess. He loves to travel and try adventurous
-  things at times and recently fallen into book reading.
+  things at times and has recently fallen into book reading.
 ---
 <p align="center">Saw her holding the gathering,</br>
 With nurturing vocals and feet snapping to the music,</br>
