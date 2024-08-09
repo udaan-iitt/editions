@@ -34,7 +34,7 @@ The first question was about the work schedule he followed.
 
 > *“Firstly, I must mention again how much of a fan I am. Seeing your research contributions greatly inspires hundreds of students like myself who aspire to become scientists like you, sir. Every morning, I enter the ICMS building at around 9:15 am and see you are already in your cabin. I have seen many people just yearning to hit retirement age and enjoy life with no work and only pension money, but your case puzzles me. What motivates you to come daily to JNCASR, even at this age, having achieved everything there was to accomplish in your area except, maybe, the Nobel Prize? Don’t you ever feel like you are done, and maybe it’s time to have some rest? I need to know the secret to this everlasting energy that you have always had.”*
 >
-> "I encourage you to work hard to get profitable research; you must work almost 12 or 14 hours daily because it isn’t easy. If research is (your) passion, this is the way to go.”
+> “I encourage you to work hard to get profitable research; you must work almost 12 or 14 hours daily because it isn’t easy. If research is (your) passion, this is the way to go.”
 
 <br>
 
