@@ -35,19 +35,19 @@ Finally, he added that the technologies that will be developed will raise the qu
 
 Moving on, when requested to elaborate on some of the ground-breaking projects he has led as a critical figure in Tata Advanced Systems Limited, R. Muralidharan chose to start with the ATAGS - Advanced Towed Artillery Gun System. He said:
 
-> "We have a strong collaborative academia, and we work closely with DRDO, and we work with the defence services to understand their requirements and how to do things."
+> “We have a strong collaborative academia, and we work closely with DRDO, and we work with the defence services to understand their requirements and how to do things.”
 
 Talking about the ATAGS project, he said,
 
-> "Gun systems are normally very classic and old technology systems. Simple ones have a lot of safety issues because they can create safety hazards for the operating crew. In the case of ATAGS, we have tried to make it a really advanced technology-incorporated system. We call it a software-defined gun."
+> “Gun systems are normally very classic and old technology systems. Simple ones have a lot of safety issues because they can create safety hazards for the operating crew. In the case of ATAGS, we have tried to make it a really advanced technology-incorporated system. We call it a software-defined gun.”
 
 He explained that there are a lot of sensors in play here, so if something were to go wrong, they would be able to sense it ahead of time and stop the functioning of the gun. This minimises the hazards and risks that such a gun can pose to the crew members. He continued:
 
-> "Second, it's very accurate. Very consistently accurate. There's no collateral damage. Earlier, when you would fire something, you had to keep firing around it assuming that some would hit the target. Here, you can exactly hit the target. You will only hit the target and not anything else."
+> “Second, it's very accurate. Very consistently accurate. There's no collateral damage. Earlier, when you would fire something, you had to keep firing around it assuming that some would hit the target. Here, you can exactly hit the target. You will only hit the target and not anything else.”
 
 Furthermore, talking about the compact management system that TASL co-developed for the Indian Navy’s first aircraft carrier, he said:
 
-> "It's a command-and-control system for the aircraft carrier – a very advanced software-intensive system that is totally indigenously developed except for an aircraft control module specific to the imported aircraft. So, we are able to modify it based on Indian requirements. Earlier, we had to buy somebody else’s system and leverage it. Here, we are developing it ourselves, so we are able to adapt it and modify it according to the requirements of the services. And it may change over a period of time after they use it for two or three years.”
+> “It's a command-and-control system for the aircraft carrier – a very advanced software-intensive system that is totally indigenously developed except for an aircraft control module specific to the imported aircraft. So, we are able to modify it based on Indian requirements. Earlier, we had to buy somebody else’s system and leverage it. Here, we are developing it ourselves, so we are able to adapt it and modify it according to the requirements of the services. And it may change over a period of time after they use it for two or three years.”
 
 He said that since they possess all-round and in-depth knowledge about the systems they develop, they can adapt it to the requirements as time goes on. Moreover, being totally software-defined, they are able to modify the software appropriately.
 
