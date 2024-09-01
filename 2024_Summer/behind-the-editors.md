@@ -18,7 +18,7 @@ Behold! - Here comes the new academic year, and the new cycle. As bittersweet as
 
 # Fresh out of the oven!
 
-*<p align="right">- The 'full of energy' recently-turned 2<sup>nd</sup> years.</p>*
+*<p style="text-align: right;align:right;">- The 'full of energy' recently-turned 2<sup>nd</sup> years.</p>*
 
 <br>
 
@@ -85,7 +85,7 @@ Phew, let’s take a break from the real world for a while. The creativity of th
 Honestly, being an introvert never means that you have nothing to say. Rather, it feels like your mind is an explosion of ideas and thoughts running past each other. But it’s talking about these random thoughts with those whom you connect with that feels like bliss. The thing I’ve always found weird is that I'm probably not the best person to keep a conversation going on for a really long time - but give me a stage and a mic and I’m a dictator giving energetic speeches about any topic under the Sun ;).  I’ve heard (so-called) rumours that the words 'introvert’ and ‘public speaking’ don’t go well together - but it’s always great to be an outlier. Hmmm... this is probably why I love cricket commentary as well. (Someone get me a mike, quick) Also, if you’ve been this patient to come this far, kudos to you mate and we can definitely catch up for a chat about anything ;). Till then, permit me to leave you with this:
 
 <br>
-<p align="right"><i>“Words build bridges into unexplored regions"<br>- A famous Austrian painter (iykyk)</i></p>
+<p style="text-align: right;align:right;"><i>“Words build bridges into unexplored regions"<br>- A famous Austrian painter (iykyk)</i></p>
 
 <br>
 
@@ -149,7 +149,7 @@ And... that’s it. Looking forward to make many more podcasts and interesting s
 
 # Done Medium Well?
 
-*<p align="right">- The 'I am getting the hang of this' 3<sup>rd</sup> years.</p>*
+*<p style="text-align: right;align:right;">- The 'I am getting the hang of this' 3<sup>rd</sup> years.</p>*
 
 <br>
 
@@ -228,7 +228,7 @@ So yep, this is why you should consider taking an interest in European football 
 
 # Overcooked.
 
-*<p align="right">- The "What is life, if not a web of lies? Let's climb a mountain" 4<sup>th</sup> years.</p>*
+*<p style="text-align: right;align:right;">- The "What is life, if not a web of lies? Let's climb a mountain" 4<sup>th</sup> years.</p>*
 
 <br>
 
@@ -275,7 +275,7 @@ I love cars quite a bit.
 
 *"I have no enemies"*
 
-<p align="right">- Thorfinn Karlsefni, Vinland Saga</p>
+<p style="text-align: right;align:right;">- Thorfinn Karlsefni, Vinland Saga</p>
 
 <br>
 
@@ -297,7 +297,7 @@ Somewhere in the middle of it all, I could truly behold the creation of beauty b
 
 Also, I love cats! 
 
-<p align="right">- Keshav, a fellow human who finds stupid things funny</p>
+<p style="text-align: right;align:right;">- Keshav, a fellow human who finds stupid things funny</p>
 
 <!--EndFragment-->
 
@@ -357,4 +357,4 @@ And there we go folks, a total of 13 (to hell with the unlucky number) introduct
 
 Along the same note, we hope that the graduating seniors had a wonderful time in being a part of this team, and we truly wish them the very best for whatever they are doing, wherever they are going, and whenever they may be "being, thinking, existing".
 
-<p align="center"><i>And so, here lies both the ending and the beginning of the Udaan journey...</i></p>
+<p style="text-align: center;align:center;"><i>And so, here lies both the ending and the beginning of the Udaan journey...</i></p>
