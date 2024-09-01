@@ -21,7 +21,7 @@ export const newsletter = [
 		email: 'cs21b027@iittp.ac.in',
 		title: 'Keshav Kumar Manjhi',
 		link: 'https://www.linkedin.com/in/keshav-manjhi-a8a2a321b',
-		role: 'Art Team Lead,',
+		role: 'Art Team Lead',
 	},
 	{
 		key: 'me21b006',
