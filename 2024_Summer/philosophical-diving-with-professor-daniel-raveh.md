@@ -6,7 +6,7 @@ desc: We present you with an exciting and in-depth interview of Professor Daniel
   Raveh - Professor of Indian and Comparative Philosophy at Tel Aviv University.
   From his Sanskrit-to-Hebrew translations to his reason for his interest in
   Indian philosophy, keep reading to find out more!
-thumbnail: images/dr1.jpeg
+thumbnail: images/dr2.jpg
 authors: Sneha M S, Mathew KJ, Dharmesh S
 starred: false
 abio: ""
