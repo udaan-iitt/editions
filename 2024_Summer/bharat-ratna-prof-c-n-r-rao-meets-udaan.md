@@ -7,7 +7,7 @@ desc: For the 90-year-old legendary chemist, who has won it all - Bharat Ratna,
   so on - we are pleased to present our interview with none other than, Prof.
   C.N.R. Rao - author of 56 books and 1800 publications, cited over 1,17,646
   times on Google Scholar, and still going as strong as ever!
-thumbnail: images/cnr.jpg
+thumbnail: images/cnrhd.jpg
 authors: Neerav Sreekumar
 starred: true
 abio: ""
