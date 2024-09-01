@@ -14,25 +14,25 @@ abio: Aditya, hailing from Maharashtra and pursuing civil engineering at IIT
   sci-fi novels. Poetry is his doorway to escape reality and jump into his own
   little world, as perfect as his imagination.
 ---
-<p align="center">'Yes,' said Albert, faster we travelled<br>
+<p style="text-align: center;align:center;">'Yes,' said Albert, faster we travelled<br>
 Further as we went, surprises unravelled<br>
 The pitch-black view made me paranoid<br>
 Could we ever escape this treacherous void?<br>
 </p>
 
-<p align="center">'No,' said Albert, the fuel gauge said 'E'<br>
+<p style="text-align: center;align:center;">'No,' said Albert, the fuel gauge said 'E'<br>
 Maybe it was time for the final dragon spree<br>
 In the corner lay a button, as green as emerald<br>
 Could it take us back to our beautiful world?<br>
 </p>
 
-<p align="center">'Yes,' said Albert, down went the button<br>
+<p style="text-align: center;align:center;">'Yes,' said Albert, down went the button<br>
 For the first time ever, I felt like a glutton<br>
 We burst forth, leaving a fiery trail behind<br>
 Could the escape really be so hard to find?<br>
 </p>
 
-<p align="center">'No,' said Albert, we fell short<br>
+<p style="text-align: center;align:center;">'No,' said Albert, we fell short<br>
 Up came the message, "MISSION ABORT"<br>
 Credits started rolling, it’s always been the same<br>
 Could I ever conquer this uncharted game?<br>
