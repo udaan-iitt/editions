@@ -9,7 +9,7 @@ desc: With the end of another eventful and jam-packed year for student
   is written out on a single piece of paper, or in our case, in a single
   article!
 thumbnail: images/pexels-ena-marinkovic-1814213-3838285.jpg
-authors: Anvay Joshi, Aadhya Agrawal, Adithya Anath, Akhil Krishnan
+authors: Anvay Joshi, Aadhya Agrawal, Adithya Ananth, Akhil Krishnan
 starred: true
 abio: ""
 ---
