@@ -6,7 +6,7 @@ desc: "For the fourth chapter of our \"It's the Climb\" series, we present you
   all with an interview of Mrs. Richa Singh - CEO and co-founder of YourDOST, a
   platform for mental health services. Let's take a dive into the mission and
   the vision of the organisation. "
-thumbnail: images/rs.jpg
+thumbnail: images/rs1.jpg
 authors: Keshav Kumar Manjhi, Geddam Muni Pranathi
 starred: false
 abio: ""
