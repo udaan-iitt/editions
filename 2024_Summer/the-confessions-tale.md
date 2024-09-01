@@ -4,7 +4,7 @@ category: Experiences
 date: 2024-07-03T10:13:37.090Z
 desc: The journey of the IITT Confession Diary Instagram page - from the day of
   launch to present date (with a few anecdotes).
-thumbnail: images/confessions.jpg
+thumbnail: images/ct.jpg
 authors: Siva Sanjay
 starred: false
 abio: Siva Sanjay, a 2024 graduate of Electrical engineering at IIT Tirupati, is
