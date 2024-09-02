@@ -1024,12 +1024,12 @@ export const author_info = [
 	},
 	{
 		key: 'pranathi',
-		title: 'Muni Pranathi',
+		title: 'Geddam Muni Pranathi',
 		tagLine1: '',
 		tagLine2: '',
 		role: '',
 		year: '',
-		desc1: 'Pranathi, a native of Tirupati, is a tiny little girl from the first-year CSE department in IITT. She loves to speak and always waits for an opportunity to do so. Being a CS one but doesn\'t love to be with computers always…she loves to spend time with people around and loves to travel a lot. She loves to dance and also takes an active part in any sort of rural development acts. Getting photos clicked is her biggest hobby.',
+		desc1: 'Pranathi, a native of Tirupati, is a tiny little girl from the second-year CSE department in IITT. She loves to speak and always waits for an opportunity to do so. Being a CS one but doesn\'t love to be with computers always…she loves to spend time with people around and loves to travel a lot. She loves to dance and also takes an active part in any sort of rural development acts. Getting photos clicked is her biggest hobby.',
 		desc2: '',
 		link: '',
 	},
@@ -1144,7 +1144,7 @@ export const author_info = [
 		link: '',
 	},
 	{
-		key: 'sivasanjay',
+		key: 'placeholder',
 		title: 'Siva Sanjay',
 		tagLine1: '',
 		tagLine2: '',
