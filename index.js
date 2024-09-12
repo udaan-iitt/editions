@@ -372,7 +372,7 @@ export const author_info = [
 		tagLine2: '',
 		role: '',
 		year: '',
-		desc1: 'An adventure seeker at heart, Sneha loves to explore both the real and fictional worlds. When she\'s not daydreaming about the Star Wars movie she would love to write and direct one day, you can find her procrastinating about anything and everything. Currently journeying through the realms of Mechanical Engineering at IIT Tirupati while also the Editor-in-Chief at Udaan, she is caught at crossroads of bazillion possibilities, unsure of which trail to blaze next.',
+		desc1: "An adventure seeker at heart, Sneha loves to explore both the real and the fictional worlds. When she's not daydreaming about the Star Wars movie that she would love to write and direct one day, you can find her procrastinating about anything and everything. As a graduate of Mechanical Engineering from IIT Tirupati and a former Editor-in-Chief of Udaan, she is caught at a crossroads of bazillion possibilities, unsure of which trail to blaze next.",
 		desc2: '',
 		link: '',
 	},
