@@ -49,7 +49,7 @@ Furthermore, talking about the compact management system that TASL co-developed 
 
 > “It's a command-and-control system for the aircraft carrier – a very advanced software-intensive system that is totally indigenously developed except for an aircraft control module specific to the imported aircraft. So, we are able to modify it based on Indian requirements. Earlier, we had to buy somebody else’s system and leverage it. Here, we are developing it ourselves, so we are able to adapt it and modify it according to the requirements of the services. And it may change over a period of time after they use it for two or three years.”
 
-He said that since they possess all-round and in-depth knowledge about the systems they develop, they can adapt it to the requirements as time goes on. Moreover, being totally software-defined, they are able to modify the software appropriately.
+He said that since they possess all-round and in-depth knowledge about the systems they develop, they can adapt it to the requirements as time goes on. Moreover, being totally software-defined, they are able to modify the software appropriately to achieve different/new functionalities.
 
 <hr>
 
@@ -65,7 +65,7 @@ As if everything is not crystal clear already, he continues:
 
 > “We will use it for upgrading the CMS with machine learning models, which will be trained with the collected data set. Secondly, where our data is not available, we also are able to simulate the training data by an appropriate simulation technique. 
 >
-> With all of our understanding, we'll submit it and then use that sample data to train a model. The Indian defence is very upbeat about adopting AI, they themselves are adopting AI wherever they can. There was a committee formed, to define what they should do. So, they have a road map and every defence PSU - (Public Sector Undertaking) in the industry is also following that. There's a lot of adoption of newer technology in India.”
+> With all of our understanding, we'll generate it and then use that sample data to train a model. The Indian defence is very upbeat about adopting AI, they themselves are adopting AI wherever they can. There was a committee formed, to define what they should do. So, they have a road map and every defence PSU - (Public Sector Undertaking) in the industry is also following that. There's a lot of adoption of newer technology in India.”
 
 And thus, he gave us a total inside-out of how the whole machine learning model training actually happens! Further, if that wasn’t enough, he was more than happy to introduce the emerging AI concept called ‘Edge AI”. Talking about Edge AI, he said:
 
@@ -83,7 +83,7 @@ Moving on, defence is all about the safety of the country and its citizens and i
 
 He was very impressed by the question and said:
 
-> “Security of systems is very important. In the military, there's this net-centric warfare. That means all weapon systems are connected/networked. So, one weapon system is not independently functioning. We have a network, a command-and-control centre, sensors and shooters, and there is a chain of events that is happening. Somebody's observing. Somebody's acting. The OODA loop. The sensor is there; the shooter is there; the shooter is the gun or a rocket system which has to work in synchronisation. So, there is a network of systems from sensor to shooter - from gun to tank, you name it. Right? So, your security becomes a big and critical issue. Security is a big issue when it's a network system and vulnerable to hacking. So, there's a need to adopt the concept called SecOps for development of Systems.”
+> “Security of systems is very important. In the military, there's this net-centric warfare. That means all weapon systems are connected/networked. So, one weapon system is not independently functioning. We have a network, a command-and-control centre, sensors and shooters, and there is a chain of events that is happening. Somebody's observing. Somebody's acting. The OODA loop. The sensor is there; the shooter is there; the shooter is the gun or a rocket system which has to work in synchronisation. So, there is a network of systems from sensor to shooter - from gun to tank, you name it. Right? So, your security becomes a big and critical issue. Security is a big issue when it's a networked system and vulnerable to hacking. So, there's a need to adopt the concept called SecOps for development of Systems.”
 
 Now SecOps might sound like something straight out of a sci-fi movie, but it is just a variant of DevOps and stands for Secure Development of Systems with security right from scratch rather than wrapping it at the end. This ensures security at all levels during the design phase itself.
 
@@ -107,7 +107,7 @@ Another question to him was about academics:
 
 He explained that the academia and the industry of a country are the two pillars of development, adding that nothing can go right if they don't learn to work hand in hand. He further emphasised that the skillset of the academia, put together with the engineering and manufacturing technologies of the industry, is what can get the development and economy of a country really high. Having said that, R. Muralidharan had so much to say about the question asked:
 
-> “The industry can think of a product. But, basic out of the box thinking and research innovation comes from academia. I will give you an example: you have your GPS which is there on your phone also. GPS uses a very advanced concept called time dilation. When Albert Einstein talked about time dilation, nobody thought it had any practical use. So, this is a simple example to say that basic science starts from basic scientific research. We need to get into detailed engineering, manufacturing, quality manufacturing. It’s a big process. So, academia, out of the box thinkers, science and technology thinkers – all of them are required to come to a problem solution.”
+> “The industry can think of a product. But, basic out of the box thinking and research innovation comes from academia. I will give you an example: you have your GPS which is there on your phone also. GPS uses a very advanced concept called time dilation. When Albert Einstein talked about time dilation, nobody thought it had any practical use. So, this is a simple example to say that basic science starts from basic scientific research. We need to get into detailed engineering, manufacturing, quality manufacturing. It’s a big process. So, academia, out of the box thinkers, science and technology thinkers – all of them are required to come together to a problem solution.”
 
 In today’s ever-evolving world, we are building a lot of new technology, artificial intelligence being one of the most impressive. However, according to him, when a country has developed technology, it should also possess a strong academia. This is simply because most of the research in the world comes from academia. Converting the fundamental research into a product is the industry’s job.
 
@@ -129,7 +129,7 @@ To this he confidently replied that in just 5 to 10 years, we can start exportin
 
 To back his statement, he used the example of ATAGS. He said:
 
-> “Nobody thought that guns were important, but we thought guns were important because they're cheaper to operate than a missile or rocket. So, we invested. It’s giving results. We even exported some.”
+> “Nobody thought that guns were important, but we thought guns are important because they're cheaper to operate than a missile or rocket. So, we invested. It’s giving results. We even exported some.”
 
 Coming to our next question:
 
