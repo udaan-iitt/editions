@@ -106,6 +106,17 @@ export const newsletter = [
 ];
 export const pastmembers = [
 	{
+		key: 'chaitali',
+		title: 'Chaitali Karekar',
+		tagLine1: '',
+		tagLine2: '',
+		role: 'Editor 2022-24',
+		year: '',
+		desc1: 'As a former undergraduate in Mechanical Engineering, Chaitali had been a part of the editor team and worked on a bunch of submissions and given a few of them too. Besides enjoying editing and infusing a talkative vibe in her articles, she also has a passion for literature, music, oration, and music again!',
+		desc2: '',
+		link: 'https://www.linkedin.com/in/debeshee-das/',
+	},
+	{
 		key: 'debeshee',
 		title: 'Debeshee Das',
 		tagLine1: 'Udaan Blithe',
