@@ -37,13 +37,10 @@ Now, home isn’t a place anymore. Home is the people we found along the way. Ho
 Now, the campus spans a modest 350 acres or so, with a host of new buildings and places that joined in —
 Two department buildings decked out with the latest in high-tech bells and whistles. No kidding, each classroom in these buildings uses 10 lakhs worth of tech alone, just for classroom activities. This is without considering the CCFs, with some truly beefy computers and some cute macintoshes to contrast, and the department labs. The Computational labs, each with a cumulative 250+ cores and logical processors, are definitely THE state-of-the-art labs one can find today. The Practical labs are no less, with experimental setups from the likes of Gunt Hamburg and only the finest in precision machining, straight from the production lines of DMG MORI.
 
-A dedicated LHC complex that takes the “very expensive top-notch classroom” concept and applies a “how about many of those? And on multiple floors that too!” modification to it.
-
-A CIF, where, get this, the high-tech equipment is supposed to go. The Central Instrumentation Facility is yet to be fully populated and is supposed to be THE building for technology and innovation.
-
-A beautiful Director’s office, complete with a fabulous view out the windows, 50 metres above the ground, and an entire Administrative Building below it.
-
-Lastly, a duo of elegant hostels that stole fire (single occupancy) from the Gods (PhD scholars) and gave it to humans (B.Tech. students).
+* A dedicated LHC complex that takes the “very expensive top-notch classroom” concept and applies a “how about many of those? And on multiple floors that too!” modification to it.
+* A CIF, where, get this, the high-tech equipment is supposed to go. The Central Instrumentation Facility is yet to be fully populated and is supposed to be THE building for technology and innovation.
+* A beautiful Director’s office, complete with a fabulous view out the windows, 50 metres above the ground, and an entire Administrative Building below it.
+* Lastly, a duo of elegant hostels that stole fire (single occupancy) from the Gods (PhD scholars) and gave it to humans (B.Tech. students).
 
 All of that has come to be within the two years that we’ve spent on campus. We’ve watched it grow to accommodate more people and more facilities. Maybe, it is the fastest growing IIT after all. While we have grown, the ever-elusive backdrop remains and the fresh air of flora always surrounds us, no matter where we go. If anything, the campus has grown more picturesque with higher vantage points and despite the size of the campus and its deceivingly large crowd, the classrooms aren’t too dense.
 
