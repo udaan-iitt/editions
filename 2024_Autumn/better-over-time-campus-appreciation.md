@@ -3,9 +3,9 @@ title: "Better over time: Campus Appreciation"
 category: Experiences
 date: 2025-01-05T14:22:25.071Z
 desc: Besides the placement statistics and the teaching faculty, campus
-  infrastructure is one of the main concerns on a student's mind before
+  infrastructure is also one of the main concerns on a student's mind before
   enrolling. Though there's always some room for improvement, here's a look on
-  what we already have with us.
+  what we already have with us in our "home away from home".
 thumbnail: images/whatsapp-image-2025-01-05-at-22.44.55.jpeg
 authors: Akhil Krishnan
 starred: false
