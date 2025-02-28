@@ -11,12 +11,10 @@ authors: Akhil Krishnan
 starred: false
 abio: ""
 ---
->“Whoa! There’s an IIT in Tirupati?”\
-“It’s a 3rd Gen IIT after all.”\
-“The only IITs that really matter are the top 7!”\
-“Why did you even choose this IIT?”
-
-
+> “Whoa! There’s an IIT in Tirupati?”\
+> “It’s a 3rd Gen IIT after all.”\
+> “The only IITs that really matter are the top 7!”\
+> “Why did you even choose this IIT?”
 
 “Why”
 
@@ -24,10 +22,7 @@ abio: ""
 
 “IIT”
 
-
-
 Those words always ring in your head. You and me, both. You are sick and tired of hearing it again and again. One fine day, you decide that you will not take any more of it. You, against all odds, set out to tell everyone why you’re glad it’s this IIT after all. 
-
 
 (Sure, you didn’t quite feel that way in your freshman year. But as the years go by and your degree is at the verge of completion, you are in just the right place to look back and appreciate what you got.)
 
@@ -49,11 +44,7 @@ After all that, we had to shift homes.
 <br>
 <hr>
 
-
-
 Now, home isn’t a place anymore. Home is the people we found along the way. Home is the friends we made along the way. We better have made friends, because with the sheer size of the campus, it’s easy to not run into anyone.
-
-
 
 Now, the campus spans a modest 350 acres or so, with a host of new buildings and places that joined in —
 
@@ -87,7 +78,6 @@ Additionally, professors find it much easier to allocate time and interact with 
 
 This sense of “approachability” is exclusive to growing institutions that do not have a large student population and is a blessing in disguise for those wanting to make the best use of the resources available to them. As an added boost, the low strength allows for frequent group activities and projects that would otherwise not be handled directly by the professors.
 
-
 This low population density presents its advantages in other aspects of campus life. Extracurricular activities are defined, and precedents are set by the students of today. If a club wants to be called Nisarga, it gets to be called Nisarga, and it will stay so for the years to come, unless another revolutionary has a different vision. The campus is a blank canvas and it’s up to us to paint, draw and decorate it however we please. If students want hostels to be named after Indian Classical Ragas, then so it shall be. Traditions are yet to set in, because 5 years may be a lot for a B.Tech student, but 5 years is not even outside the nascent period of an institution like an IIT. This “freedom” to establish student culture, is a grave responsibility that most of us don’t realise until it’s a little too late.
 
 This freedom also has a secret side-effect. It forces people to step up. In a typical university club, the average member gets to design a poster here and set up some equipment there, summing up their contribution for a semester. However, because of the low strength here, the average member is no longer an average member. They become one of the 3 shaky legs that keep a high-functioning club up and running.
@@ -101,12 +91,7 @@ As there isn’t much competition for top spots in teams and groups, it’s rela
 
 We end with a note that is fitting for an old grandpa in a vintage-fashioned armchair to say.
 
-
-
-“People care”
-
-
-
+“People care”.
 
 It may not be evident in many cases, and it may be hidden behind a lot of layers in other cases, but people care. The people who are trying their best to get clean water to hostels, care. The people who are trying to get us superfast Wi-Fi with a steady connection, care. The people who are trying to help us learn and explore new things, care. The people who are trying to make sure this campus stays picturesque, clean and safe, care. The people who are managing the administrative affairs, care. 
 
