@@ -97,6 +97,6 @@ It may not be evident in many cases, and it may be hidden behind a lot of layers
 
 It’s simply a matter of going out and actually interacting with these people.
 
-As of writing this article, the issues that are often complained about are not looking too bad. The last water-related issue was weeks ago, Wi-Fi is available somewhat uniformly, placements are actually looking up compared to the previous years, student-run activities are getting newer-and-straight forward ways to spend student money and overall, life is starting to feel like the other side, with the greener grass that is. 
+As of writing this article, the issues that are often complained about are not looking too bad. The last water-related issue was weeks ago, Wi-Fi is available somewhat uniformly, placements are actually looking up compared to the previous years, student-run activities are getting newer-and-straight forward ways to spend student money and overall, life is starting to feel like the other side, *with the greener grass that is*. 
 
 As a 4th year student who studied his dream field throughout his B.Tech years, who got to experience a plethora of extracurricular activities, who got to meet an extraordinary bunch of people, who got to see and learn how an institute is run and maintained and who got to do a little bit of everything that this IIT had to offer, I can safely say that this experience has been so much more than those bad days when somehow, this institute seemingly did not live up to its name.
