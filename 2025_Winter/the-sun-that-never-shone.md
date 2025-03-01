@@ -97,6 +97,8 @@ Later that night, as he returned to his room, he couldn’t help but smile. He s
 
 And for the first time, he felt that perhaps, just perhaps, she knew, and this is how they started dating amidst their PhD research work.
 
+<br>
+<hr>
 <h1 align="center">To Sip</h1>
 
 Dr. Rao was one of the most revered names in nanomedicine and drug delivery. When he received the email from Yale stating the acceptance for its PhD program under the supervision of Dr. Rao, he nearly fainted with joy - he never saw that coming.
@@ -296,6 +298,9 @@ Rao’s smug smile flickered when he finally noticed him standing there. For the
 
 <b><i>Yun naa humse nazrein phira, Noor-e-Khuda, Noor-e-Khuda,\
 Chhod ke tanha kyun gaya, Noor-e-Khuda, Noor-e-Khuda?</i></b>
+
+<br>
+<hr>
 
 <h1 align="center">To Empty</h1>
 
