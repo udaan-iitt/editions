@@ -67,12 +67,12 @@ Now, the campus spans a modest 350 acres or so, with a host of new buildings and
 </ul>
 <br>
 
-All of that has come to be within the two years that we’ve spent on campus. We’ve watched it grow to accommodate more people and more facilities. Maybe it is the fastest growing IIT after all. While we have grown, the ever-elusive backdrop remains and the fresh air of flora always surrounds us, no matter where we go.
+All of that has come to be within the two years that we’ve spent on campus. We’ve watched it grow to accommodate more people and more facilities. Maybe it is the fastest growing IIT after all. While we have grown, the ever-elusive backdrop remains and the fresh air of flora always surrounds us, no matter where we go. If anything, the campus has grown more picturesque, just with higher vantage points.
 
 <br>
 <hr>
 
-If anything, the campus has grown more picturesque with higher vantage points and despite the size of the campus and its deceivingly large crowd, the classrooms aren’t too dense. With some electives having as low as 3 or 4 students and an average strength of 15~20, each student has a say in how the class proceeds and gets to interact personally with faculty.
+Despite the size of the campus and its deceivingly large crowd, the classrooms aren’t too dense. With some electives having as low as 3 or 4 students and an average strength of 15~20, each student has a say in how the class proceeds and gets to interact personally with faculty.
 
 Additionally, professors find it much easier to allocate time and interact with their students, allowing for tutorials that are actually interactive and classes that do not feel the same as watching a recorded lecture.
 
