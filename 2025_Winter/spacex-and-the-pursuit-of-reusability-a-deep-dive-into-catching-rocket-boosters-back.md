@@ -383,8 +383,15 @@ A basic equation pertaining to deceleration in this context is:</p>
 <li>a) <i>Long-Term Material Durability</i>:  Repeated exposure to extreme Martian conditions can lead to fatigue in the materials over extended periods, necessitating innovations in composite and metallic alloys.</li>
 <br>
 
-<li>b) <i>Integration of AI in recovery systems</i>: AI and ML can further enhance trajectory prediction and robotic synchronization for mid-air catching systems but require a lot of test data.</li>
+<li>b) <i>Integration of AI in recovery systems</i>: AI and ML can further enhance trajectory prediction and robotic synchronization for mid-air catching systems but require a lot of test data.</li><br>
 </ul>
+
+<a href="https://www.inverse.com/article/59036-starship-here-s-where-spacex-wants-to-land-on-mars">
+
+![](images/spacex_future.png "Visualization of a SpaceX Falcon heavy landing on Mars")
+
+</a>
+
 <br>
 
 <h1>Conclusion</h1>
@@ -395,7 +402,7 @@ A basic equation pertaining to deceleration in this context is:</p>
 <br>
 
 <h1>References</h1>
-[1] - <a href="https://www.inverse.com/heres-how-spacexs-chopsticks-caught-a-rocket">Smith, K. (2024, October 15). Here’s How SpaceX’s “Chopsticks” Caught a Rocket In This Beautiful Engineering Feat. Inverse.</a> 
+\[1] - <a href="https://www.inverse.com/heres-how-spacexs-chopsticks-caught-a-rocket">Smith, K. (2024, October 15). Here’s How SpaceX’s “Chopsticks” Caught a Rocket In This Beautiful Engineering Feat. Inverse.</a> 
 
 \[2] - <a href="https://doi.org/10.1016/j.actaastro.2021.08.017">Ma, B., Li, J., Zhang, Z., Xi, Y., Zhao, D., & Wang, N. (2021). Experimental and theoretical studies on thermoacoustic limit cycle oscillation in a simplified solid rocket motor using flat flame burner. Acta Astronautica, 189, 26–42. </a>
 
@@ -422,7 +429,3 @@ A basic equation pertaining to deceleration in this context is:</p>
 \[13] - <a href="http://iacse.commercial-space.net/wp content/uploads/2008/10/iac-08d213.pdf">B. Bjelde, P, Capozzoli, G. Shotwell. “The SpaceX Falcon 1 Launch Vehicle Flight 3 Results, Future Developments and Falcon 9 Evolution.” IACSE. 2011.</a> 
 
 \[14] - <a href="https://spacenews.com/spacexs-reusable-falcon-9-what-are-the-real-cost-savings-for-customers/">De Selding, P. B., & De Selding, P. B. (2023, January 23). SpaceX’s reusable Falcon 9: What are the real cost savings for customers? SpaceNews.</a>
-
-\[15] - nss.org/wp-content/uploads/2017/07/To-The-Stars-011-2015-apr.pdf
-
-\[16] - <a href="https://www.inverse.com/article/59036-starship-here-s-where-spacex-wants-to-land-on-mars">Brown, M. (2019, September 5). Starship: Here’s Where SpaceX Wants to Land on Mars. Inverse.</a>
