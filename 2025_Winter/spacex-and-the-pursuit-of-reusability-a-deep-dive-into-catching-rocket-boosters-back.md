@@ -68,7 +68,7 @@ A basic equation pertaining to deceleration in this context is:</p>
 <p>Catching a booster mid-air requires precise control of the robotic arms’ velocity and position. An example of a kinematic equation with vector algebra governing this synchronization is as follows:</p>
 
 <math display="block">
-<msub><mover><mi>r</mi><mo>&rarr;</mo></mover><mi>catch</mi></msub><mo>=</mo><msub><mover><mi>r</mi><mo>&rarr;</mo></mover><mi>booster</mi></msub><mo>+</mo><mi>&Delta;</mi><mover><mi>r</mi><mo>&rarr;</mo></mover><mo>(</mo><mi>t</mi><mo>)</mo>
+<msub><mover><mi>r</mi><mo>&rarr;</mo></mover><mi>catch</mi></msub><mo>=</mo><msub><mover><mi>r</mi><mo>&rarr;</mo></mover><mi>booster</mi></msub><mo>+</mo><mi>&Delta;</mi><mover><mi>r</mi><mo>&rarr;</mo></mover><mi>(</mi><mi>t</mi><mi>)</mi>
 </math>
 
 <p>Where:</p>
@@ -77,7 +77,7 @@ A basic equation pertaining to deceleration in this context is:</p>
 
 <li><math><msub><mover><mi>r</mi><mo>&rarr;</mo></mover><mi>booster</mi></msub></math>: Predicted trajectory of the booster</li><br>
 
-<li><math><mi>&Delta;</mi><mover><mi>r</mi><mo>&rarr;</mo></mover><mo>(</mo><mi>t</mi><mo>)</mo></math>: Real-time adjustments based on atmospheric perturbations</li><br>
+<li><math><mi>&Delta;</mi><mover><mi>r</mi><mo>&rarr;</mo></mover><mi>(</mi><mi>t</mi><mi>)</mi></math>: Real-time adjustments based on atmospheric perturbations</li><br>
 
 </ul>
 
@@ -197,3 +197,135 @@ A basic equation pertaining to deceleration in this context is:</p>
 </ol>
 
 <h2>Closed Loop Control</h2>
+<p>Like other space agencies globally, SpaceX uses proportional-integral-derivative (PID) controllers and advanced closed-loop algorithms for precise trajectory correction. The control law for a PID controller is:</p>
+
+<math display="block">
+<mi>u</mi><mi>(</mi><mi>t</mi><mi>)</mi><mo>=</mo><msub><mi>K</mi><mi>p</mi></msub><mi>e</mi><mi>(</mi><mi>t</mi><mi>)</mi><mo>+</mo><msub><mi>K</mi><mi>i</mi></msub><msubsup><mo>&int;</mo><mn>0</mn><mi>t</mi></msubsup><mi>e</mi><mi>(</mi><mi>&tau;</mi><mi>)</mi><mi>d</mi><mi>&tau;</mi><mo>+</mo><msub><mi>K</mi><mi>d</mi></msub><mfrac><mi>d</mi><mrow><mi>d</mi><mi>t</mi></mrow></mfrac><mi>e</mi><mi>(</mi><mi>t</mi><mi>)</mi>
+</math>
+
+<p>Where:</p>
+<ul type="none">
+<li><math><mi>u</mi><mi>(</mi><mi>t</mi><mi>)</mi></math>: Control output (e.g., engine thrust adjustment)</li><br>
+
+<li><math><mi>e</mi><mi>(</mi><mi>t</mi><mi>)</mi></math>: Error signal (difference between desired and actual states)</li><br>
+
+<li><math><msub><mi>K</mi><mi>p</mi></msub></math>: Proportional gain</li><br>
+
+<li><math><msub><mi>K</mi><mi>i</mi></msub></math>: Integral gain</li><br>
+
+<li><math><msub><mi>K</mi><mi>d</mi></msub></math>: Derivative gain</li><br>
+</ul>
+
+<p>The first term on the RHS of the equation is the proportional term, having the proportional gain (<math><msub><mi>K</mi><mi>p</mi></msub></math>) and the error signal (<math><mi>e</mi><mi>(</mi><mi>t</mi><mi>)</mi></math>). The second term is integral, representing the errors accumulated over time and helping eliminate steady-state errors. The last and third term is the derivative gain term, which responds to the error rate of change, helping improve the system's response time and stability.</p>
+<br>
+
+<h1>Atmospheric Perturbations</h1>
+<p>Re-entry involves the influence of complex atmospheric phenomena due to variable atmospheric conditions. Various factors can deviate the booster’s trajectory, further complicating aligning and attachment. This is addressed with predictive and adaptive modelling techniques.</p>
+
+<h2>Wind shear and turbulence</h2>
+<p>Wind shear causes abrupt changes in wind velocity with altitude, generating lateral forces. The governing force equation can be given as follows:</p>
+
+<math display="block">
+<msub><mi>F</mi><mi>lateral</mi></msub><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mi>&rho;</mi><msup><mi>v</mi><mn>2</mn></msup><mi>A</mi><msub><mi>C</mi><mi>y</mi></msub>
+</math>
+
+<p>Where:</p>
+<ul type="none">
+<li><math><mi>&rho;</mi></math>: Air density</li><br>
+
+<li><math><mi>v</mi></math>: Relative velocity </li><br>
+
+<li><math><mi>A</mi></math>: Area of the cross-section</li><br>
+
+<li><math><msub><mi>C</mi><mi>d</mi></msub></math>: Side force coefficient</li><br>
+
+</ul>
+
+<h2>Adaptive descent profiles</h2>
+<p>The boosters would require real-time feedback to adapt the descent trajectory. The optimal descent trajectory minimizes total energy expenditure and maintains aerodynamic stability. It is derived by solving the following:</p>
+
+<math display="block">
+<mtext>Minimize:</mtext><msubsup><mo>&int;</mo><msub><mi>t</mi><mn>0</mn></msub><msub><mi>t</mi><mi>f</mi></msub></msubsup><mo>(</mo><mi>&alpha;</mi><mo>&sdot;</mo><mi>&Delta;</mi><mi>v</mi><mo>+</mo><mi>&beta;</mi><mo>&sdot;</mo><msub><mi>F</mi><mi>drag</mi></msub><mo>)</mo><mi>d</mi><mi>t</mi>
+</math>
+
+<p>Subject to constraints such that:</p>
+<math display="block">
+<mi>h</mi><mi>(</mi><msub><mi>t</mi><mi>f</mi></msub><mi>)</mi><mo>=</mo><mn>0</mn><mo></mo><mtext>(&because; Final attitude at sea level)</mtext>
+</math><br>
+
+<math display="block">
+<mi>v</mi><mi>(</mi><msub><mi>t</mi><mi>f</mi></msub><mi>)</mi><mo>=</mo><mn>0</mn><mo></mo><mtext>(&because; Final velocity for soft landing)</mtext>
+</math>
+<br>
+
+<h1>Challenges and Innovations</h1>
+
+<h2>Real-time decision making</h2>
+<p>Real-time corrections for unexpected conditions, like higher-than-predicted drag, GPS signal loss, or instrument interference, can be addressed efficiently with advanced AI. SpaceX boosters employ ML models trained on historical flight data to predict failure points and adjust attachment trajectories dynamically.</p>
+
+<h2>Energy management</h2>
+<p>Overall energy is the sum of several components, such as potential, kinetic, and thermal energy. Optimal energy distribution between aerodynamic braking, propulsive deceleration, and structural integrity is critical.</p>
+
+<p>Thermal energy is minimized by leveraging aerodynamic drag during the hypersonic phase (>Mach 5) and switching to propulsive breaking in the terminal stages.</p>
+
+<h2>Material fatigue and refurbishment</h2>
+<p>The booster undergoes several extreme stress cycles due to micro-vibrations, thermal expansion, and mechanical loads. Fatigue analysis is given by:</p>
+
+<math display="block">
+<mi>N</mi><mo>=</mo><mfrac><mn>1</mn><mrow><mi>A</mi><mi>(</mi><mi>&Delta;</mi><mi>&sigma;</mi><msup><mi>)</mi><mi>m</mi></msup></mrow></mfrac>
+</math>
+
+<p>Where:</p>
+<ul type="none">
+<li><math><mi>N</mi></math>: Number of cycles to failure</li><br>
+
+<li><math><mi>A</mi><mo>,</mo><mi>m</mi></math>: Material constants</li><br>
+
+<li><math><mi>&Delta;</mi><mi>&sigma;</mi></math>: Stress amplitude</li><br>
+
+</ul>
+
+<p>Refurbishment processes such as non-destructive testing (NDT) are performed to ensure that the boosters are flight-ready for multiple missions. NDT helps to identify cracks and flaws, assess the material’s material properties, track changes in the components’ health, and ensure safety and reliability.</p>
+<br>
+
+<h1>Full-System Reusability: The Next Frontier</h1>
+<p>The recovery of rocket boosters is the start of a brisk sprint in the marathon of achieving full-system reusability. This would include second stages and payload fairings (the protective structures enclosing a rocket's payload) and presents additional engineering and economic challenges.</p>
+
+<h2>Recovery of second stages</h2>
+<p>Unlike boosters, the second stages are detached in near-vacuum conditions and re-enter at much higher speeds, leading to greater thermal loads and material stress. The main challenges are:</p>
+
+<ul type="none">
+
+<li>a) <i>Orbital velocity</i>: The second stage must decelerate from orbital velocities (~7.8 km/s), necessitating advanced propulsion systems for controlled and stable re-entry.</li>
+<br>
+
+<li>a) <i>Aerodynamic Stress</i>: Since the re-entry profile of a second stage is significantly steeper than that of the first stage booster, robust thermal protection systems are required to manage high temperatures.</li>
+<br>
+
+<li>b) <i>Guided Re-Entry</i>: First-stage boosters use grid fins for aerodynamic control, whereas the second stages rely on reaction control systems (RCS) and precise thrust-vectoring. RCS typically uses a set of small thrusters mounted on the spacecraft’s exterior, which are fired in various combinations to generate specific torques and forces to control the spacecraft’s orientation and position.</li>
+</ul>
+
+<h2>Materials for multi-stage reusability</h2>
+<p>The choice of materials in the second stage differs due to the harsher re-entry conditions. The starship booster used by SpaceX uses a special stainless steel variant that combines high-temperature tolerance with ductility and is designed to endure repeated thermal cycling with little to no degradation.</p>
+
+<h2>The role of <i>Mechazilla</i> in full recovery</h2>
+<p>The <i>Mechazilla</i> has several unique engineering challenges:</p>
+<ol>
+<li><i>Synchronisation</i>: The robotic arms that catch the boosters must match the booster’s velocity, orientation, and acceleration with millimeter accuracy. The position vector of the arms dynamically adjusts itself to match that of the booster due to deviations in wind or thrust misalignments.</li><br>
+
+<li><i>Dynamic load distribution</i>: The robotic arms experience significant impact and contact forces during the catch, and stress analysis must ensure the tower structure remains stable under these loads.</li>
+</ol><br>
+
+<h1>Economic and Environmental Implications</h1>
+
+<h2>Cost reductions</h2>
+<p>NASA spends an abrasive amount on improving, developing, and launching its non-reusable SLS (Solid Launch System) boosters. In contrast, SpaceX has reported that reusing boosters can save up to 70% of the total launch cost, with a single Falcon 9 booster supporting dozens of flights (while experts say it’ll last for fifteen). This cost efficiency makes it an attractive option for smaller companies and research agencies, who can launch satellites at cheaper prices.</p>
+
+<h2>Environmental benefits</h2>
+<p>The reusability of boosters reduces the environmental impact by reducing waste and also helps reduce space junk, a growing issue. However, the production and refurbishment processes still involve energy-intensive operations. Future advancements in green manufacturing and propellant recovery can reduce environmental impact.</p>
+<br>
+
+<h1>Theoretical and Experimental Research Insights</h1>
+
+<h2>Optimization Models for booster recovery</h2>
+<p>Several research papers have been published to explore the optimization of guided rocket booster recovery trajectories. Some studies, such as those cited in this study, propose advanced control algorithms that integrate:</p>
