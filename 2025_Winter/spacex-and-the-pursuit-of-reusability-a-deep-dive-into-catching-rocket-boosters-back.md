@@ -42,7 +42,7 @@ A basic equation pertaining to deceleration in this context is:</p>
 
 <p>Where:</p>
 <ul type="none">
-<li><math><msub><mi>F</mi><mi>t</mi></msub></math>: Thrust required for deceleration (approximately equal to the weight of the rocket at the time of the docking, as acceleration will be negligible in the former).</li><br>
+<li><math><msub><mi>F</mi><mi>t</mi></msub></math>: Thrust required for deceleration (approximately equal to the weight of the rocket at the time of the docking, as acceleration will be negligible in the former)</li><br>
 
 <li><math><mi>m</mi></math>: Mass of the booster</li><br>
 
@@ -55,3 +55,76 @@ A basic equation pertaining to deceleration in this context is:</p>
 <li><math><msub><mi>C</mi><mi>d</mi></msub></math>: Drag coefficient</li><br>
 
 <li><math><mi>A</mi></math>: Area of the cross-section</li>
+
+</ul>
+<br>
+
+<h1>The <i>Mechazilla</i> catch system</h1>
+
+<h2>System Overview</h2>
+<p>The Mechazilla system uses massive robotic ‘arms’ attached to the launch tower to catch the descending Super Heavy booster in mid-air. This eliminates the requirement of landing legs on the booster, reducing weight and improving payload performance.</p>
+
+<h2>Kinematic and dynamic modelling</h2>
+<p>Catching a booster mid-air requires precise control of the robotic arms’ velocity and position. An example of a kinematic equation with vector algebra governing this synchronization is as follows:</p>
+
+<math display="block">
+<msub><mover><mi>r</mi><mo>&rarr;</mo></mover><mi>catch</mi></msub><mo>=</mo><msub><mover><mi>r</mi><mo>&rarr;</mo></mover><mi>booster</mi></msub><mo>+</mo><mi>&Delta;</mi><mover><mi>r</mi><mo>&rarr;</mo></mover><mo>(</mo><mi>t</mi><mo>)</mo>
+</math>
+
+<p>Where:</p>
+<ul type="none">
+<li><math><msub><mover><mi>r</mi><mo>&rarr;</mo></mover><mi>catch</mi></msub></math>: Position vector of the robotic arm</li><br>
+
+<li><math><msub><mover><mi>r</mi><mo>&rarr;</mo></mover><mi>booster</mi></msub></math>: Predicted trajectory of the booster</li><br>
+
+<li><math><mi>&Delta;</mi><mover><mi>r</mi><mo>&rarr;</mo></mover><mo>(</mo><mi>t</mi><mo>)</mo></math>: Real-time adjustments based on atmospheric perturbations</li><br>
+
+</ul>
+
+<p>The dynamic stress analysis of the arms and attachment points considers load distribution during the catch can be modelled by:</p>
+
+<math display="block">
+<msub><mi>&sigma;</mi><mi>max</mi></msub><mo>=</mo><mfrac><mi>F</mi><mi>A</mi></mfrac><mo>+</mo><mfrac><mrow><mi>M</mi><mi>d</mi></mrow><mi>I</mi>
+</math>
+
+<p>Where:</p>
+<ul type="none">
+<li><math><msub><mi>&sigma;</mi><mi>max</mi></msub></math>: Maximum stress on the arms</li><br>
+
+<li><math><mi>F</mi></math>: Contact force applied during the catch</li><br>
+
+<li><math><mi>A</mi></math>: Cross-sectional area of the arms</li><br>
+
+<li><math><mi>M</mi></math>: Moment due to angular acceleration</li><br>
+
+<li><math><mi>d</mi></math>: Distance from the pivot</li><br>
+
+<li><math><mi>I</mi></math>: Moment of Inertia</li><br>
+
+</ul>
+<br>
+
+<h1>Materials and Structural Integrity</h1>
+
+<h2>Thermal Protection Systems (TPS)</h2>
+<p>The extremely high temperatures the boosters encounter ranges from 1,500K to 5,000K during re-entry. SpaceX uses ablative TPS (This type of TPS sacrifices itself, eroding away while absorbing and dissipating the heat, and is generally made of materials like PICA or C-Ph) and reinforced Carbon-Carbon composites in critical areas for structural integrity and to dissipate heat. These materials undergo extensive testing to withstand thermal cycling without extensive degradation.</p>
+
+<h2>Fatigue and Longevity</h2>
+<p>Reusable systems require materials that can endure multiple launch and recovery cycles without failure. Finite element analysis (FEA) predicts fatigue life, focusing on high-stress regions such as engine mounts and structural joints.</p>
+
+<br>
+
+<h1>Guidance and Navigation Systems</h1>
+<p>SpaceX’s success in booster recovery hinges on accurate real-time positioning, for which GNS plays a major part, ensuring precise manoeuvring during descent and landing. GNS consists of real-time data processing, advanced algorithms, and robust data networks, with Deep Learning being looked into for inclusion in existing systems.</p>
+
+<h2>Inertial Navigation Systems (INS)</h2>
+<p>Without external references, INS relies on gyroscopes and accelerometers to determine position, velocity, and orientation. Some equations of motion governing the INS include:
+</p>
+
+<math display="block">
+<mover><mover><mi>r</mi><mo>&rarr;</mo></mover><mo>.</mo></mover><mo>=</mo><mover><mi>v</mi><mo>&rarr;</mo></mover>
+</math>
+
+<math display="block">
+<mover><mover><mi>v</mi><mo>&rarr;</mo></mover><mo>.</mo></mover><mo>=</mo><mover><mi>a</mi><mo>&rarr;</mo></mover>
+</math>
