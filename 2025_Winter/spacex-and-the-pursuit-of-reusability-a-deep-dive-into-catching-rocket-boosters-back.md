@@ -124,7 +124,76 @@ A basic equation pertaining to deceleration in this context is:</p>
 <math display="block">
 <mover><mover><mi>r</mi><mo>&rarr;</mo></mover><mo>.</mo></mover><mo>=</mo><mover><mi>v</mi><mo>&rarr;</mo></mover>
 </math>
+<br>
 
 <math display="block">
-<mover><mover><mi>v</mi><mo>&rarr;</mo></mover><mo>.</mo></mover><mo>=</mo><mover><mi>a</mi><mo>&rarr;</mo></mover>
+<mover><mover><mi>v</mi><mo>&rarr;</mo></mover><mo>.</mo></mover><mo>=</mo><msub><mover><mi>a</mi><mo>&rarr;</mo></mover><mi>sensor</mi></msub><mo>-</mo><mn>2</mn><msub><mover><mi>&omega;</mi><mo>&rarr;</mo></mover><mi>E</mi></msub><mo>&times;</mo><mover><mi>v</mi><mo>&rarr;</mo></mover><mo>-</mo><msub><mover><mi>&omega;</mi><mo>&rarr;</mo></mover><mi>E</mi></msub><mo>&times;</mo><mo>(</mo><msub><mover><mi>&omega;</mi><mo>&rarr;</mo></mover><mi>E</mi></msub><mo>&times;</mo><mover><mi>r</mi><mo>&rarr;</mo></mover><mo>)</mo><mo>+</mo><mover><mi>g</mi><mo>&rarr;</mo></mover>
 </math>
+
+<p>Where:</p>
+<ul type="none">
+<li><math><mover><mi>r</mi><mo>&rarr;</mo></mover></math>: Position vector relative to the Earth</li><br>
+
+<li><math><mover><mi>v</mi><mo>&rarr;</mo></mover></math>: Velocity vector</li><br>
+
+<li><math><mover><mi>a</mi><mo>&rarr;</mo></mover></math>: Specific acceleration measured by the accelerometers</li><br>
+
+<li><math><msub><mover><mi>&omega;</mi><mo>&rarr;</mo></mover><mi>E</mi></msub></math>: Earth's angular velocity vector</li><br>
+
+<li><math><mover><mi>g</mi><mo>&rarr;</mo></mover></math>: Gravity vector</li><br>
+
+</ul>
+
+<h2>Kalman Filtering</h2>
+<p>SpaceX employs Kalman filtering for sensor fusion to mitigate sensor noise and errors. The Kalman filter prediction and update equations are:</p>
+
+<math display="block">
+<msub><mover><mi>x</mi><mo>^</mo></mover><mrow><mi>k</mi><mo>&verbar;</mo><mi>k</mi><mo>-</mo><mn>1</mn></mrow></msub><mo>=</mo><msub><mi>F</mi><mi>k</mi></msub><msub><mover><mi>x</mi><mo>^</mo></mover><mrow><mi>k</mi><mo>-</mo><mn>1</mn><mo>&verbar;</mo><mi>k</mi><mo>-</mo><mn>1</mn></mrow></msub><mo>+</mo><msub><mi>B</mi><mi>k</mi></msub><msub><mi>u</mi><mi>k</mi></msub>
+</math>
+<br>
+
+<math display="block">
+<msub><mi>P</mi><mrow><mi>k</mi><mo>&verbar;</mo><mi>k</mi><mo>-</mo><mn>1</mn></mrow></msub><mo>=</mo><msub><mi>F</mi><mi>k</mi></msub><msub><mi>P</mi><mrow><mi>k</mi><mo>-</mo><mn>1</mn><mo>&verbar;</mo><mi>k</mi><mo>-</mo><mn>1</mn></mrow></msub><msubsup><mi>F</mi><mi>k</mi><mi>T</mi></msubsup><mo>+</mo><msub><mi>Q</mi><mi>k</mi>
+</math>
+<br>
+
+<math display="block">
+<msub><mi>K</mi><mi>k</mi></msub><mo>=</mo><msub><mi>P</mi><mrow><mi>k</mi><mo>&verbar;</mo><mi>k</mi><mo>-</mo><mn>1</mn></mrow></msub><msubsup><mi>H</mi><mi>k</mi><mi>T</mi></msubsup><msup><mrow><mo>(</mo><msub><mi>H</mi><mi>k</mi></msub><msub><mi>P</mi><mrow><mi>k</mi><mo>&verbar;</mo><mi>k</mi><mo>-</mo><mn>1</mn></mrow></msub><msubsup><mi>H</mi><mi>k</mi><mi>T</mi></msubsup><mo>+</mo><msub><mi>R</mi><mi>k</mi></msub><mo>)</mo></mrow><mn>-1</mn></msup>
+</math>
+<br>
+
+<math display="block">
+<msub><mover><mi>x</mi><mo>^</mo></mover><mrow><mi>k</mi><mo>&verbar;</mo><mi>k</mi></mrow></msub><mo>=</mo><msub><mover><mi>x</mi><mo>^</mo></mover><mrow><mi>k</mi><mo>&verbar;</mo><mi>k</mi><mo>-</mo><mn>1</mn></mrow></msub><mo>+</mo><msub><mi>K</mi><mi>k</mi></msub><mo>(</mo><msub><mi>z</mi><mi>k</mi></msub><mo>-</mo><msub><mi>H</mi><mi>k</mi></msub><msub><mover><mi>x</mi><mo>^</mo></mover><mrow><mi>k</mi><mo>&verbar;</mo><mi>k</mi><mo>-</mo><mn>1</mn></mrow></msub><mo>)</mo>
+</math>
+
+<p>Where:</p>
+<ul type="none">
+<li><math><msub><mover><mi>x</mi><mo>^</mo></mover><mrow><mi>k</mi><mo>&verbar;</mo><mi>k</mi></mrow></msub></math>: State estimate at step <i>k</i></li><br>
+
+<li><math><msub><mi>P</mi><mrow><mi>k</mi><mo>&verbar;</mo><mi>k</mi></mrow></msub></math>: Covariance</li><br>
+
+<li><math><msub><mi>F</mi><mi>k</mi></msub></math>: State transition</li><br>
+
+<li><math><msub><mi>B</mi><mi>k</mi></msub></math>: Control input model</li><br>
+
+<li><math><msub><mi>H</mi><mi>k</mi></msub></math>: Observation model</li><br>
+
+<li><math><msub><mi>Q</mi><mi>k</mi></msub></math>: Process covariance matrix</li><br>
+
+<li><math><msub><mi>R</mi><mi>k</mi></msub></math>: Noise covariance matrix</li><br>
+
+<li><math><msub><mi>K</mi><mi>k</mi></msub></math>: Kalman gain</li><br>
+
+</ul>
+
+<p>The Kalman Filter equations are extensively used in control systems engineering and are a powerful algorithm to estimate the state of a dynamic system from noisy measurements. It recursively updates a predicted state and its associated uncertainty based on new measurements. To explain the above equations in brief:</p>
+
+<ol>
+<li>The first equation predicts the system’s state during step <i>k</i> given the previous state estimate <i>k-1</i> and the control input <math><msub><mi>u</mi><mi>k</mi></msub></math>. The control input is like an external input that drives and influences the system’s state. For example, <math><msub><mi>u</mi><mi>k</mi></msub></math> can represent a moving object's applied force/acceleration.</li><br>
+
+<li>The second equation predicts the uncertainty in the state estimate, with <math><msub><mi>P</mi><mrow><mi>k</mi><mo>&verbar;</mo><mi>k</mi><mo>-</mo><mn>1</mn></mrow></msub></math> being the predicted covariance matrix at a time of event <i>k</i> with information up to event <i>k-1</i> and <math><msub><mi>Q</mi><mi>k</mi></msub></math> being the noise covariance matrix, which models the uncertainty in the system dynamics. Covariant matrices help quantify the uncertainty or variability in a set of random variables and are essential to understanding the degree of uncertainty of our system. They also help adjust the uncertainty according to the constantly changing system state as per the output of the filter.</li><br>
+
+<li>The third equation calculates the Kalman gain <math><msub><mi>K</mi><mi>k</mi></msub></math> which determines how much weight should be added to the measurement update. <math><msub><mi>H</mi><mi>k</mi></msub></math> is the observation model that relates the system state to the measurement, and <math><msub><mi>R</mi><mi>k</mi></msub></math> is the noise covariance matrix.</li>
+</ol>
+
+<h2>Closed Loop Control</h2>
