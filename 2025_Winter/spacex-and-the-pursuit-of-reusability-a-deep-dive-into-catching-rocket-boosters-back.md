@@ -328,4 +328,48 @@ A basic equation pertaining to deceleration in this context is:</p>
 <h1>Theoretical and Experimental Research Insights</h1>
 
 <h2>Optimization Models for booster recovery</h2>
-<p>Several research papers have been published to explore the optimization of guided rocket booster recovery trajectories. Some studies, such as those cited in this study, propose advanced control algorithms that integrate:</p>
+<p>Several research papers have been published to explore the optimization of guided rocket booster recovery trajectories. Some studies propose advanced control algorithms that integrate:</p>
+
+<math display="block">
+<mi>J</mi><mo>=</mo><msubsup><mo>&int;</mo><mn>0</mn><mi>T</mi></msubsup><mo>(</mo><mi>&alpha;</mi><mo>&sdot;</mo><msub><mi>E</mi><mi>fuel</mi></msub><mo>+</mo><mi>&beta;</mi><mo>&sdot;</mo><mi>&Delta;</mi><mi>v</mi><mo>+</mo><mi>&gamma;</mi><mo>&sdot;</mo><msub><mi>P</mi><mi>structural</mi></msub><mo>)</mo><mi>d</mi><mi>t</mi>
+</math>
+
+<p>Where:</p>
+
+<ul type="none">
+<li><math><mi>J</mi></math>: Total cost function</li><br>
+
+<li><math><msub><mi>E</mi><mi>fuel</mi></msub></math>: Fuel expenditure during descent</li><br>
+
+<li><math><mi>&Delta;</mi><mi>v</mi></math>: Change in velocity to achieve controlled landing</li><br>
+
+<li><math><msub><mi>P</mi><mi>structural</mi></msub></math>: Predicted structural stresses during recovery</li><br>
+
+<li><math><mi>&alpha;</mi><mo>,</mo><mi>&beta;</mi><mo>,</mo><mi>&gamma;</mi></math>: Weighing factors for multi-objective optimization</li><br>
+
+</ul>
+
+<h2>Advances in CFD Modeling</h2>
+<p>CFD plays an important role in optimizing booster recovery. Solving the Navier-stokes equations in real-time, optimizing the grid fins to get the maximum lift-to-drag ratio, and heat flux modeling to address the re-entry heat flux generated. These simulations guide the design of thermal protection systems (TPS, as discussed previously) to withstand extreme re-entry temperatures.</p>
+<br>
+
+<h1>Future Challenges and Research Directions</h1>
+<p>Despite its successes, SpaceX has faced several challenges in achieving full-system reusability for every mission profile. Some of these challenges in its application for their long-term goal of <i>Project Mars</i> include:</p>
+
+<ul type="none">
+
+<li>a) <i> Scaling Up for Interplanetary Missions</i>: Reusable systems in Mars missions should be capable of enduring harsher atmospheric conditions during descent and ascent. The Mars atmosphere is thinner, which leads to lesser aerodynamic drag to slow down the boosters and requires reliance on costlier deceleration methods, such as parachutes and retro-rockets. The frequent and unpredictable dust storms on Mars also amount to unpredictable aerodynamic forces, leading to increased heating and potential damage to the spacecraft.</li>
+<br>
+
+<li>a) <i>Long-Term Material Durability</i>:  Repeated exposure to extreme Martian conditions can lead to fatigue in the materials over extended periods, necessitating innovations in composite and metallic alloys.</li>
+<br>
+
+<li>b) <i>Integration of AI in recovery systems</i>: AI and ML can further enhance trajectory prediction and robotic synchronization for mid-air catching systems but require a lot of test data.</li>
+</ul>
+<br>
+
+<h1>Conclusion</h1>
+<p>SpaceX’s pursuit of reusability represents one of the most significant advancements in aerospace engineering. By catching rocket boosters and pushing the boundaries of recovery systems, the company has transformed the economics and boundaries of space exploration. The engineering challenges overcome, ranging from aerodynamic control to robotic synchronization, offer a blueprint for future full-stage reusable launch systems.</p>
+
+<p>As humanity makes a larger impact in Space and the planetary bodies around Earth, innovations like these mark a crucial milestone in making space travel more sustainable and accessible. With billions of dollars spent on ongoing research and technological advancements, SpaceX’s vision of fully reusable rockets has the full potential to become the standard for the next generation of rockets, shaping the new era of manned exploration beyond Earth’s orbit.
+</p>
