@@ -15,6 +15,12 @@ abio: ""
 <p>The increasing demand for improved space technology and advancements in space tourism and travel have necessitated developments in launch vehicle technology. Traditional one-time-use boosters and rockets are inefficient and both financially and environmentally costly, leading to the pursuit of reusable alternatives. SpaceX’s extensive work developing their flagship rockets, such as the Falcon 9 and, more recently, the Starship and its super heavy systems have redefined booster recovery through propulsive landing and mid-air catching techniques. 
 This article focuses on the mechanics, challenges, and advancements in SpaceX’s booster recovery systems, which led to the historic Starship booster catch on Oct 13, 2024.</p>
 
+<a href="https://techcentral.co.za/spacex-catches-giant-starship-booster/253243/">
+
+![](images/spacex_thumbnail.png "The historic catching of the rocket booster on Oct 13, 2024")
+
+</a>
+
 <br>
 
 <h1>Engineering Principles of booster recovery</h1>
@@ -57,6 +63,13 @@ A basic equation pertaining to deceleration in this context is:</p>
 <li><math><mi>A</mi></math>: Area of the cross-section</li>
 
 </ul>
+
+<a href="https://www.space.com/28167-spacex-risky-reusable-rocket-landing-infographic.html">
+
+![The Falcon 9’s Controlled Landing](images/spacex_explain.webp "The Falcon 9’s Controlled Landing")
+
+</a>
+
 <br>
 
 <h1>The <i>Mechazilla</i> catch system</h1>
@@ -321,6 +334,12 @@ A basic equation pertaining to deceleration in this context is:</p>
 <h2>Cost reductions</h2>
 <p>NASA spends an abrasive amount on improving, developing, and launching its non-reusable SLS (Solid Launch System) boosters. In contrast, SpaceX has reported that reusing boosters can save up to 70% of the total launch cost, with a single Falcon 9 booster supporting dozens of flights (while experts say it’ll last for fifteen). This cost efficiency makes it an attractive option for smaller companies and research agencies, who can launch satellites at cheaper prices.</p>
 
+<a href="https://www.nextbigfuture.com/2017/03/the-age-of-economical-reusable-rocket.html">
+
+![A table showing the finances of SpaceX' dealings](images/spacex_cost.png "Price analysis of SpaceX' operations")
+
+</a>
+
 <h2>Environmental benefits</h2>
 <p>The reusability of boosters reduces the environmental impact by reducing waste and also helps reduce space junk, a growing issue. However, the production and refurbishment processes still involve energy-intensive operations. Future advancements in green manufacturing and propellant recovery can reduce environmental impact.</p>
 <br>
@@ -378,36 +397,32 @@ A basic equation pertaining to deceleration in this context is:</p>
 <h1>References</h1>
 [1] - <a href="https://www.inverse.com/heres-how-spacexs-chopsticks-caught-a-rocket">Smith, K. (2024, October 15). Here’s How SpaceX’s “Chopsticks” Caught a Rocket In This Beautiful Engineering Feat. Inverse.</a> 
 
+\[2] - <a href="https://doi.org/10.1016/j.actaastro.2021.08.017">Ma, B., Li, J., Zhang, Z., Xi, Y., Zhao, D., & Wang, N. (2021). Experimental and theoretical studies on thermoacoustic limit cycle oscillation in a simplified solid rocket motor using flat flame burner. Acta Astronautica, 189, 26–42. </a>
 
-[2] - <a href="https://doi.org/10.1016/j.actaastro.2021.08.017">Ma, B., Li, J., Zhang, Z., Xi, Y., Zhao, D., & Wang, N. (2021). Experimental and theoretical studies on thermoacoustic limit cycle oscillation in a simplified solid rocket motor using flat flame burner. Acta Astronautica, 189, 26–42. </a>
+\[3] - <a href="https://doi.org/10.1088/1742-6596/2364/1/012020">Zhang, Y., Zhao, M., Tao, Z., Mao, W., Luo, S., Bai, X., & Peng, K. (2022). Design and optimization of booster gliding model guided rocket scheme. Journal of Physics Conference Series, 2364(1), 012020.</a>
 
+\[4] - <a href="https://doi.org/10.14311/mad.2018.02.02">Tománek, R., & Hospodka, J. (2018). Reusable Launch Space Systems. MAD - Magazine of Aviation Development, 6(2), 10–13.</a>
 
-[3] - <a href="https://doi.org/10.1088/1742-6596/2364/1/012020">Zhang, Y., Zhao, M., Tao, Z., Mao, W., Luo, S., Bai, X., & Peng, K. (2022). Design and optimization of booster gliding model guided rocket scheme. Journal of Physics Conference Series, 2364(1), 012020.</a>
+\[5] - <a href="https://spacenews.com/spacex-aims-to-follow-a-banner-year-with-an-even-faster-2018-launch-cadence">Henry Caleb Gwynne Shotwell. SpaceX aims to follow a banner year with an even faster 2018 launch cadence, 2017.</a>
 
-[4] - <a href="https://doi.org/10.14311/mad.2018.02.02">Tománek, R., & Hospodka, J. (2018). Reusable Launch Space Systems. MAD - Magazine of Aviation Development, 6(2), 10–13.</a>
+\[6] - <a href="https://www.spacex.com/media/Capabilities&Services.pdf.">Spacex capabilities & services, 2017.</a>
 
-[5] - <a href="https://spacenews.com/spacex-aims-to-follow-a-banner-year-with-an-even-faster-2018-launch-cadence">Henry Caleb Gwynne Shotwell. SpaceX aims to follow a banner year with an even faster 2018 launch cadence, 2017.</a>
+\[7] - C. J. Meisl, "Life Cycle Cost Considerations for Launch Vehicle Liquid Propellant Rocket Engines," in AIAA/ASME/SAE/ASEE 22nd Joint Propulsion Conference, Huntsville, 1986. 
 
-[6] - <a href="https://www.spacex.com/media/Capabilities&Services.pdf.">Spacex capabilities & services, 2017.</a>
+\[8] -  M. M. Rogab, F. M. Cheatwood and S. J. Hughes, "Launch Vehicle Recovery and Reuse," in AIAA Space 2015 Conference and Exposition, Pasadena, 2015. 
 
-[7] - C. J. Meisl, "Life Cycle Cost Considerations for Launch Vehicle Liquid Propellant Rocket Engines," in AIAA/ASME/SAE/ASEE 22nd Joint Propulsion Conference, Huntsville, 1986. 
+\[9] - <a href="https://ntrs.nasa.gov/api/citations/20170000606/downloads/20170000606.pdf">Unknown Unknown, U., Unknown. (n.d.). A FRAMEWORK FOR ASSESSING THE REUSABILITY OF HARDWARE (REUSABLE ROCKET ENGINES). In Unknown.</a>
 
-[8] -  M. M. Rogab, F. M. Cheatwood and S. J. Hughes, "Launch Vehicle Recovery and Reuse," in AIAA Space 2015 Conference and Exposition, Pasadena, 2015. 
+\[10] - <a href="https://www.space.com/spacex-starship-super-heavy-chopsticks-catch-near-abort">Wall, M. (2024, October 28). SpaceX’s Starship booster was “1 second away” from aborting epic launch-tower catch. Space.com.</a>
 
-[9] - <a href="https://ntrs.nasa.gov/api/citations/20170000606/downloads/20170000606.pdf">Unknown Unknown, U., Unknown. (n.d.). A FRAMEWORK FOR ASSESSING THE REUSABILITY OF HARDWARE (REUSABLE ROCKET ENGINES). In Unknown.</a>
+\[11] - <a href="https://arstechnica.com/space/2023/05/a-new-report-finds-nasa-has-spent-an-obscene-amount-of-money-on-sls-propulsion/">Berger, E., & Berger, E. (2023, May 30). A new report finds NASA has spent an obscene amount of money on SLS propulsion. Ars Technica.</a>
 
-[10] - <a href="https://www.space.com/spacex-starship-super-heavy-chopsticks-catch-near-abort">Wall, M. (2024, October 28). SpaceX’s Starship booster was “1 second away” from aborting epic launch-tower catch. Space.com.</a>
+\[12] - <a href="https://sites.pitt.edu/~budny/papers/8226.pdf">Adrian, H., Hyman, W., & University of Pittsburgh Swanson School of Engineering. (2018). REUSABLE LAUNCH SYSTEM: THE GATEWAY TO THE FUTURE OF SPACE TRAVEL \[Journal-article].</a>
 
-[11] - <a href="https://arstechnica.com/space/2023/05/a-new-report-finds-nasa-has-spent-an-obscene-amount-of-money-on-sls-propulsion/">Berger, E., & Berger, E. (2023, May 30). A new report finds NASA has spent an obscene amount of money on SLS propulsion. Ars Technica.</a>
+\[13] - <a href="http://iacse.commercial-space.net/wp content/uploads/2008/10/iac-08d213.pdf">B. Bjelde, P, Capozzoli, G. Shotwell. “The SpaceX Falcon 1 Launch Vehicle Flight 3 Results, Future Developments and Falcon 9 Evolution.” IACSE. 2011.</a> 
 
-[12] - <a href="https://sites.pitt.edu/~budny/papers/8226.pdf">Adrian, H., Hyman, W., & University of Pittsburgh Swanson School of Engineering. (2018). REUSABLE LAUNCH SYSTEM: THE GATEWAY TO THE FUTURE OF SPACE TRAVEL [Journal-article].</a>
+\[14] - <a href="https://spacenews.com/spacexs-reusable-falcon-9-what-are-the-real-cost-savings-for-customers/">De Selding, P. B., & De Selding, P. B. (2023, January 23). SpaceX’s reusable Falcon 9: What are the real cost savings for customers? SpaceNews.</a>
 
-[13] - <a href="http://iacse.commercial-space.net/wp content/uploads/2008/10/iac-08d213.pdf">B. Bjelde, P, Capozzoli, G. Shotwell. “The SpaceX Falcon 1 Launch Vehicle Flight 3 Results, Future Developments and Falcon 9 Evolution.” IACSE. 2011.</a> 
+\[15] - nss.org/wp-content/uploads/2017/07/To-The-Stars-011-2015-apr.pdf
 
-
-[14] - <a href="https://spacenews.com/spacexs-reusable-falcon-9-what-are-the-real-cost-savings-for-customers/">De Selding, P. B., & De Selding, P. B. (2023, January 23). SpaceX’s reusable Falcon 9: What are the real cost savings for customers? SpaceNews.</a>
-
-[15] - nss.org/wp-content/uploads/2017/07/To-The-Stars-011-2015-apr.pdf
-
-
-[16] - <a href="https://www.inverse.com/article/59036-starship-here-s-where-spacex-wants-to-land-on-mars">Brown, M. (2019, September 5). Starship: Here’s Where SpaceX Wants to Land on Mars. Inverse.</a>
+\[16] - <a href="https://www.inverse.com/article/59036-starship-here-s-where-spacex-wants-to-land-on-mars">Brown, M. (2019, September 5). Starship: Here’s Where SpaceX Wants to Land on Mars. Inverse.</a>
