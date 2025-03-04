@@ -250,7 +250,7 @@ A basic equation pertaining to deceleration in this context is:</p>
 
 <li><math><mi>A</mi></math>: Area of the cross-section</li><br>
 
-<li><math><msub><mi>C</mi><mi>d</mi></msub></math>: Side force coefficient</li><br>
+<li><math><msub><mi>C</mi><mi>y</mi></msub></math>: Side force coefficient</li><br>
 
 </ul>
 
@@ -312,7 +312,7 @@ A basic equation pertaining to deceleration in this context is:</p>
 <li>a) <i>Orbital velocity</i>: The second stage must decelerate from orbital velocities (~7.8 km/s), necessitating advanced propulsion systems for controlled and stable re-entry.</li>
 <br>
 
-<li>a) <i>Aerodynamic Stress</i>: Since the re-entry profile of a second stage is significantly steeper than that of the first stage booster, robust thermal protection systems are required to manage high temperatures.</li>
+<li>a) <i>Thermal Stress</i>: Since the re-entry profile of a second stage is significantly steeper than that of the first stage booster, robust thermal protection systems are required to manage high temperatures.</li>
 <br>
 
 <li>b) <i>Guided Re-Entry</i>: First-stage boosters use grid fins for aerodynamic control, whereas the second stages rely on reaction control systems (RCS) and precise thrust-vectoring. RCS typically uses a set of small thrusters mounted on the spacecraft’s exterior, which are fired in various combinations to generate specific torques and forces to control the spacecraft’s orientation and position.</li>
@@ -402,7 +402,7 @@ A basic equation pertaining to deceleration in this context is:</p>
 <br>
 
 <h1>References</h1>
-\[1] - <a href="https://www.inverse.com/heres-how-spacexs-chopsticks-caught-a-rocket">Smith, K. (2024, October 15). Here’s How SpaceX’s “Chopsticks” Caught a Rocket In This Beautiful Engineering Feat. Inverse.</a> 
+[1] - <a href="https://www.inverse.com/heres-how-spacexs-chopsticks-caught-a-rocket">Smith, K. (2024, October 15). Here’s How SpaceX’s “Chopsticks” Caught a Rocket In This Beautiful Engineering Feat. Inverse.</a> 
 
 \[2] - <a href="https://doi.org/10.1016/j.actaastro.2021.08.017">Ma, B., Li, J., Zhang, Z., Xi, Y., Zhao, D., & Wang, N. (2021). Experimental and theoretical studies on thermoacoustic limit cycle oscillation in a simplified solid rocket motor using flat flame burner. Acta Astronautica, 189, 26–42. </a>
 
