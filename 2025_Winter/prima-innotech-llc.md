@@ -1,5 +1,5 @@
 ---
-title: Prima Innotech LLC
+title: "Internship Experience: Prima Innotech LLC"
 category: Experiences
 date: 2025-02-28T17:33:57.612Z
 desc: "Prima Innotech LLC was the crown jewel of core internships in the Summer
