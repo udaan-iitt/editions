@@ -9,7 +9,7 @@ starred: false
 abio: ""
 ---
 <h1>Application Process</h1>
-<p>At the Space Application Centre, ISRO, Ahmedabad, the offered internship length is a minimum of three months. However, as the time I had was below that (from mid-May to July), I wasn’t sure whether I would get a call from them or not. However, a month after I applied, I received an email regarding the division I was allotted to, and they arranged an interview, too, because they had some ongoing projects and wanted to know if I would be able to help conclude R&D of any ongoing projects in the small time that I had.</p><br>
+<p>At the <a href="https://www.sac.gov.in/Vyom/srtd">Space Application Centre, ISRO, Ahmedabad</a>, the offered internship length is a minimum of three months. However, as the time I had was below that (from mid-May to July), I wasn’t sure whether I would get a call from them or not. However, a month after I applied, I received an email regarding the division I was allotted to, and they arranged an interview, too, because they had some ongoing projects and wanted to know if I would be able to help conclude R&D of any ongoing projects in the small time that I had.</p><br>
 
 <h1>Interview Process</h1>
 <p>Regarding interviews, it totally depends on the division you’re allotted to - whether you’ll have to face an interview or not. Most of the time, candidates get an offer letter directly based on their project proposal and resume. During my interview, I discussed my project proposal which I hoped to conclude at ISRO. I also discussed various mechanical engineering related softwares, as my project was confined to the mechanism field of mechanical engineering.</p><br>
