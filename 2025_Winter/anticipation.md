@@ -1,0 +1,28 @@
+---
+title: Anticipation
+category: Poetry
+date: 2025-03-07T13:52:07.746Z
+desc: Ill put something here
+thumbnail: images/anticipation-thumbnail.jpg
+authors: Aadhya Agrawal
+starred: false
+abio: ""
+---
+How does the wait feel?
+The longing of impending doom
+Just to get it over with.
+An emotionally charged phase
+With incentives to burn your thoughts away.
+
+In the wisps, rises their woe
+The melted wax, a puddle of grim
+Holding on to crumbs, sustained by the wick.
+And what of the soot? That got settled behind
+Littered all over a slate, that once was kind.
+
+The flame tricked us, with false solace
+Only to leave behind, 
+A mess that continues to unwind.
+We sit, pondering with grace
+The way the anguish leaves us
+Scattered all over the place.
