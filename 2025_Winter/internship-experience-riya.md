@@ -4,7 +4,7 @@ category: Experiences
 date: 2025-03-04T10:26:27.552Z
 desc: Follow Shruthi on her internship journey with Ohio State University
   through the RIYA program.
-thumbnail: images/riya_thumbnail.jpg
+thumbnail: images/me21b048_thumbnail.jpeg
 authors: Shruthi Shaji
 starred: false
 abio: ""
