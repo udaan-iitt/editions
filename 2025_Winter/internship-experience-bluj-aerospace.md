@@ -4,7 +4,7 @@ category: Experiences
 date: 2025-03-04T09:23:32.078Z
 desc: Follow Asha on her internship journey with BluJ Aerospace and learn what
   it's like to design and develop in a commercial company.
-thumbnail: images/bluj_thumbnailpng.png
+thumbnail: images/bluj_thumbnail.jpeg
 authors: Pulluru Asha
 starred: false
 abio: ""
