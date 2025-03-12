@@ -8,7 +8,7 @@ desc: This year, IIT Tirupati hosted its first ever TEDx event and concluded it
   first-hand experience from the organisers themselves!
 thumbnail: images/tedx_thumbnail.png
 authors: "Ritvik Ravi, Samara, Sneha Battula, Aadhya Agrawal, Akhil Krishnan, "
-starred: false
+starred: true
 abio: ""
 ---
 <p>Behold! IIT Tirupati just hosted its first-ever TEDx talk, and we at Udaan cannot be more in awe of the dedication, sincerity and hard work that brought this incredible event to life.</p>
