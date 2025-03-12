@@ -24,6 +24,10 @@ abio: ""
 </p>
 <br>
 
+!["The institute's director gracing the event."(image/tedx_satya.jpg)"The institute's director gracing the event."]
+
+<br>
+
 <h3>What gave you the motivation to carry on?</h3>
 <p>It is common knowledge that the student community may be a little lazy when it comes to attending talk sessions or lectures. It was, interestingly, this very phenomenon that inspired and challenged Divij and Yuvraj to strive for the best while preparing to launch TEDx here.</p>
 
