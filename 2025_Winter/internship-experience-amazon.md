@@ -18,7 +18,7 @@ abio: ""
 
 <p>I was assigned a mentor to guide me through the project. She was the person I would go to for any advice. I also had regular one-on-one meetings with my manager to discuss progress and get guidance and feedback. Throughout my internship, I was expected to demonstrate at least 4 leadership principles through my work. This would be the basis for the final evaluation at the end of my internship and the possibility of receiving a PPO.</p><br>
 
-<h1>Experience</h1>
+<h1>Overall Experience</h1>
 One of the best things during the internship was the flexibility. There were no set work timings. I could come into the office whenever I wanted as long as I got the work done. At the end of my internship, our team went out for lunch and bowling, which was a great way to wrap up the experience. Amazon also organized events for interns, where we got to interact with interns from other teams and participate in fun activities.</p>
 
 <p>For anyone pursuing this internship, I recommend focusing on DSA fundamentals and also understanding Amazon's leadership principles as they play a significant role in evaluations.</p>
