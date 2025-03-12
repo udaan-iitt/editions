@@ -5,7 +5,7 @@ date: 2025-03-02T10:15:49.649Z
 desc: Join Neerav on his 2-month internship journey at JNCASR Bangalore, as he
   narrates his experience with the project work, the professors, and the place
   itself!
-thumbnail: images/jncasr_thumbnail.jpg
+thumbnail: images/jncasr-bangalore-thumbnail.jpg
 authors: Neerav Sreekumar
 starred: false
 abio: ""
