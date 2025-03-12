@@ -269,7 +269,7 @@ A basic equation pertaining to deceleration in this context is:</p>
 <math display="block">
 <mi>v</mi><mi>(</mi><msub><mi>t</mi><mi>f</mi></msub><mi>)</mi><mo>=</mo><mn>0</mn><mo></mo><mtext>(&because; Final velocity for soft landing)</mtext>
 </math>
-<br>
+<br><br>
 
 <h1>Challenges and Innovations</h1>
 
