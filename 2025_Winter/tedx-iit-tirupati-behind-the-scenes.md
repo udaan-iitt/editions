@@ -48,6 +48,9 @@ abio: ""
 
 <br>
 
+
+<br>
+
 <h3>Other than these, were there any standalone favourite moments?</h3>
 
 > <p>[Yuvraj]: “I’ll tell mine, I’ll tell mine. My favourite moment was, I think, 10-15 days before the event. I was speaking to Mr. Shiv Vats on the phone, and he was like, ‘Okay, what do you want me to speak about?’ I said, ‘No, sir, you can just share your life story and how things happened in your life, which were unexpectedly good, according to the theme,’ after which he started narrating his life story to me. He told me how he was a backbencher and told me about some crazy incidents from then. You know, I never expected people to share such things generally; things like ‘I was not good at studies’ or ‘I still don’t know mathematics, differentiation, etc.’ or ‘I switched many schools and my teachers weren’t happy. ’ I asked him why was he sharing all this with me, and he said, ‘You are the organiser, you should know, right?’ I was getting such a good vibe at that time, and I realised that he was also like us. His life was very similar to ours at our age. I was able to relate to a lot of his cool experiences and I could see my younger self in his stories. We ended up talking for some 40-45 minutes on call that day.”</p>
