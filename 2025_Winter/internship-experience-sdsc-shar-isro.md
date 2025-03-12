@@ -8,7 +8,7 @@ authors: R Shreenivason
 starred: false
 abio: ""
 ---
-<p>To anyone reading this, I hope you are doing well. I wish to share a brief account of my internship experience at the Satish Dhawan Space Center (SDSC), Sriharikota. For your convenience, I’ve divided this into various sections that you can refer to individually.</p>
+<p>To anyone reading this, I hope you are doing well. I wish to share a brief account of my internship experience at the Satish Dhawan Space Center (SDSC), Sriharikota. For your convenience, I’ve divided this into various sections that you can refer to individually.</p><br>
 
 <h1>About the Organisation</h1>
 <p>The Satish Dhawan Space Center is the Spaceport of India. Located on the island of Sriharikota, this center has been the primary launch site for all orbital rockets launched by ISRO. Initially inaugurated as the Sriharikota Range (SHAR) on October 9, 1971, the center witnessed its first orbital launch attempt in August 1979, which ended in failure. The first successful launch took place on July 18, 1980. Since then, SDSC-SHAR has conducted 94 launch missions, along with numerous suborbital and research missions.</p><br>
@@ -32,7 +32,7 @@ abio: ""
 <li>Sriharikota is located in a sweet place called the middle of nowhere, there is not much to do outside of your academics.</li><br>
 
 <li>Unpaid internship.</li>
-</ul><br>
+</ul>
 
 <h2>Pros:</h2>
 <ul>
