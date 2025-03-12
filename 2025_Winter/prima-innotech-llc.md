@@ -5,7 +5,7 @@ date: 2025-02-28T17:33:57.612Z
 desc: "Prima Innotech LLC was the crown jewel of core internships in the Summer
   of 2024. Join us as we probe into the experiences of the lucky ones who
   interned at this company. "
-thumbnail: images/whatsapp-image-2025-01-05-at-22.44.55.jpeg
+thumbnail: images/prima-thumbnail.jpg
 authors: Chetan, Sayali, Prince, Akhil Krishnan
 starred: false
 abio: ""
