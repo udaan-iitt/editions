@@ -8,7 +8,7 @@ desc: "From using other college's laboratories to having our own equipment, this
   sprawling campus. "
 thumbnail: images/whatsapp-image-2025-01-05-at-22.44.55.jpeg
 authors: "Akhil Krishnan, Aadhya Agrawal, Dharmesh "
-starred: false
+starred: true
 abio: ""
 ---
 > “Whoa! There’s an IIT in Tirupati?”\
