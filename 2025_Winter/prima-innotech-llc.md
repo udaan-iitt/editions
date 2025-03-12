@@ -94,4 +94,6 @@ Working with Dr. Ajit Paranjpe at Prima Innotech LLC was a great experience. His
 
 The Editor ran into a couple of awkward moments as well during the internship. Off the top of his head, he recalls the time the design sent to the Wire EDM machine was simply not read by the machine at all. After nearly the entire day of attempting to resolve the issue, he found the solution and realized that the way to mitigate said software problem in the future was a bit of honest piracy. Another instance was of a weekly presentation, during which he was informed, in a rather deadpan manner, that his graphs were very poor and did not communicate matters clearly at all. (This would go on to be evermore crucial, as he’d learn in the days to come). He also recalls the time his intuition for solid mechanics reached a euphoric high while imagining how a trimetallic strip would bend, as opposed to a typical bimetallic strip. He also rather fondly would like to mention that those who are into meticulous work and excruciating attention to detail will definitely find working with Dr. Ajit Paranjpe a joyous experience. 
 
+![](images/prima_end.jpeg)
+
 Overall, the internship helped the interns grow and learn a bunch of new things and hopefully, pushed them one step closer to answering the mind-boggling question, “What does it really mean to be an engineer?”
