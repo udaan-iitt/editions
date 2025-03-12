@@ -4,7 +4,7 @@ category: Experiences
 date: 2025-03-04T11:18:02.577Z
 desc: Follow Srihita on her internship journey with NIGST and how she worked
   with GIS!
-thumbnail: images/20240726_190300-ce21b030-sadineni-srihitha-venkata-sai.jpg
+thumbnail: images/nigst-new-thumbnail.jpg
 authors: Srihita Venkata Sai
 starred: false
 abio: ""
