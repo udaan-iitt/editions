@@ -16,9 +16,12 @@ abio: ""
 <h1>Internship Work</h1>
 <p>Once my internship started, I spent the major portion of my time deriving the expressions of the bending of plates, beams and columns under various types of loads like UDL (uniformly distributed loads), space-dependent loads, time-dependent loads like earthquakes, etc. A heavy use of differential and integral calculus was involved.</p><br>
 
-<h1>Experience</h1>
+![An illustration of the Work.](images/utkarsh_01.png "An illustration of the Work.")
+
+<br>
+
+<h1>Overall Experience</h1>
 <p>Even though this opportunity didn’t come with a grand stipend, the money rewarded was enough to sustain my gym membership. Plus, I saved money by staying at home. It also gave me some free time to meet and catch up with old school friends who all attend different colleges now.</p><br>
 
-
-<h1>Advice</h1>
+<h1>Advice to Juniors</h1>
 <p>For my juniors who are trying to get into the research field, I’d advise you to keep your core concepts and have your basics strong, to practise mathematics as it’s needed everywhere (trust me, I found out the hard way), and to not overthink about the work that you’re doing. As long as you keep working and moving forward, you will have something for yourself at the end of the day.</p>
