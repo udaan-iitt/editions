@@ -10,7 +10,7 @@ authors: Neerav Sreekumar
 starred: false
 abio: ""
 ---
-<h1 align="center">To Stir</h1>
+<h1 align="center">To Stir</h1><br>
 
 <b><i>There are three types of people in this world - ones who cry, ones who do not cry, and ones who want to cry but have no idea how to. He was amongst the third ones.</i></b>
 
@@ -99,7 +99,7 @@ And for the first time, he felt that perhaps, just perhaps, she knew, and this i
 
 <br>
 <hr>
-<h1 align="center">To Sip</h1>
+<h1 align="center">To Sip</h1><br>
 
 Dr. Rao was one of the most revered names in nanomedicine and drug delivery. When he received the email from Yale stating the acceptance for its PhD program under the supervision of Dr. Rao, he nearly fainted with joy - he never saw that coming.
 
@@ -302,7 +302,7 @@ Chhod ke tanha kyun gaya, Noor-e-Khuda, Noor-e-Khuda?</i></b>
 <br>
 <hr>
 
-<h1 align="center">To Empty</h1>
+<h1 align="center">To Empty</h1><br>
 
 <i>They say the more you travel on the wrong train, the more expensive it is to reach back home. I knew the train had become home for him.</i>
 
