@@ -3,7 +3,7 @@ title: "Internship Experience: Ashok Leyland"
 category: Experiences
 date: 2025-03-04T09:35:21.196Z
 desc: Follow Shubham on his internship journey with Ashok Leyland on the R&D team.
-thumbnail: images/ashok_thumbnail.png
+thumbnail: images/ashok-leyland-tumbnail.jpg
 authors: Shubham Kumar Verma
 starred: false
 abio: ""
