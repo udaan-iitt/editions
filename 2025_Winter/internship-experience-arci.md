@@ -3,7 +3,7 @@ title: "Internship Experience: ARCI"
 category: Experiences
 date: 2025-03-06T10:33:36.244Z
 desc: Follow Aditi on her internship journey with ARCI.
-thumbnail: images/arci_thumbnail.jpg
+thumbnail: images/iitm-research-park-thumbnail.jpg
 authors: Aditi P
 starred: false
 abio: ""
