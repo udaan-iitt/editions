@@ -85,7 +85,7 @@ Without a second thought, I dashed over to him and introduced myself before he c
 
 <br>
 
-<b>Ducks, ducks and ducks:</b>
+<b>Ducks, ducks and ducks</b>
 
 I also fondly remember my morning walks across the JNCASR campus, where the tranquillity of the place never failed to amaze me. I often spotted ducks gliding across the campus lake, living their own F1 Bangalore Grand Prix.
 
