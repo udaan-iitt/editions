@@ -24,7 +24,7 @@ abio: ""
 Finally, with that behind me, I headed home, waiting for the results. Finally, the next night around 9 pm, the email landed: I’d been selected! I was thrilled—interning at my dream company, and in the exact field I wanted.</p>
 <br>
 
-![The author at the internship company](image/ti_thumbnail.png "The author at the internship company")
+![The author at the internship company](images/ti_thumbnail.png "The author at the internship company")
 
 <br>
 
