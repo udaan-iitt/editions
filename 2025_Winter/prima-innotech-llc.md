@@ -10,7 +10,7 @@ authors: Chetan, Sayali, Prince, Akhil Krishnan
 starred: false
 abio: ""
 ---
-# Introduction
+## Introduction
 
 “Whoa! That’s a lot of money!” was definitely the reaction when the students of our batch got to hear about this company. As a not-so-well-known company founded by a Stanford Graduate well-versed in the art of semiconductor fabrication and lithography, Prima Innotech LLC caught the attention of students from core engineering fields, especially those who were from mechanical, chemical and electrical engineering. With the promise of quality work right in the research limelight of today’s tech giants, those few who were tired of watching software and data analyst companies come and go finally had their moment. 
 
@@ -18,7 +18,7 @@ Let’s join some of the interns in a recount of their time working with Prima I
 
 <br><hr>
 
-# Selection
+## Selection
 
 The interns were selected through many layers of filtering and shortlisting. The mentor, Dr.  Ajit Paranjpe, was not very fond of interviews. He stressed on the importance of work content, thoroughness and results, as reflected by the selection process. Here’s what the interns had to say about the gruelling selection.
 
@@ -41,7 +41,7 @@ The interns were selected through many layers of filtering and shortlisting. The
 
 <br><hr>
 
-# Work
+## Work
 
 Work for the interns was mostly confined to the IITT campus, making use of the in-house labs and workshops, with the occasional trip to outsource material. With the employer residing in the Americas, communication was primarily through mail and online meets, scheduled once a week. Perhaps this is when it would’ve felt more like a research internship than a corporate one. 
 
@@ -71,7 +71,7 @@ Apart from the “lost in equations” part of the job, he was also in charge of
 
 <br><hr>
 
-# Experience
+## Experience
 
 Working with Dr. Ajit Paranjpe at Prima Innotech LLC was a great experience. His emphasis on quality work, clear presentation and the engineering way of thinking definitely refined our own thought processes as well. Let’s dive into what everyone took away from the internship apart from the lump sum of cash.
 
