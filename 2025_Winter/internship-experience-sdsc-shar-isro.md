@@ -10,10 +10,10 @@ abio: ""
 ---
 <p>To anyone reading this, I hope you are doing well. I wish to share a brief account of my internship experience at the Satish Dhawan Space Center (SDSC), Sriharikota. For your convenience, I’ve divided this into various sections that you can refer to individually.</p><br>
 
-<h1>About the Organisation</h1>
+<h2>About the Organisation</h2>
 <p>The Satish Dhawan Space Center is the Spaceport of India. Located on the island of Sriharikota, this center has been the primary launch site for all orbital rockets launched by ISRO. Initially inaugurated as the Sriharikota Range (SHAR) on October 9, 1971, the center witnessed its first orbital launch attempt in August 1979, which ended in failure. The first successful launch took place on July 18, 1980. Since then, SDSC-SHAR has conducted 94 launch missions, along with numerous suborbital and research missions.</p><br>
 
-<h1>Application Process</h1>
+<h2>Application Process</h2>
 <p>ISRO releases notifications inviting students for research projects and internships every year, typically in February. These notifications are consolidated and posted on the official ISRO website. While the website may not be very intuitive, it provides all the necessary information. The application process generally consists of two parts, and the steps for each center are clearly explained on the website.</p>
 
 <p>Essential documents include an approval letter from the HOD, a statement of purpose, a CV and transcripts, amongst other things. Additionally, they would require no-objection certificates from HOD, fill out some additional forms, and compile all of these documents for submission. I had to send the compiled documents as a scanned PDF file via email, which may be different for you.</p>
@@ -22,10 +22,10 @@ abio: ""
 
 <p>Internships at ISRO are generally for a duration of 4 to 6 weeks. However, some centers may have different policies. I was able to get an 8-week internship, but it is a matter of luck on how long your internship duration will be. Do mention your desired duration in the email or final submission.</p><br>
 
-<h1>Experience at ISRO</h1>
+<h2>Experience at ISRO</h2>
 <p>My internship started on the 15th of May 2024 and lasted until 12 July 2024. Over the eight weeks, I was given a project to design a command scheme for the opening and closing of an EPC valve used for stage checkouts of the GSLV MK3. Those eight weeks were very enlightening and exciting for me. There were many pros and cons of doing an internship there, which I will try to explain in the following sections.</p>
 
-<h2>Cons:</h2>
+<h3>Cons:</h3>
 <ul>
 <li>It was a government organisation, so things took time to complete, and there was quite a bit of paperwork involved.</li><br>
 
@@ -34,7 +34,7 @@ abio: ""
 <li>Unpaid internship.</li>
 </ul>
 
-<h2>Pros:</h2>
+<h3>Pros:</h3>
 <ul>
 <li>You get to work at one of ISRO’s most important operational centers.</li><br>
 
