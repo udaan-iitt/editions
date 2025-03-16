@@ -2,7 +2,7 @@
 title: Anticipation
 category: Poetry
 date: 2025-03-07T13:52:07.746Z
-desc: "How does it feel when you are doing nothing but wait? Awful, anxious,
+desc: "How does it feel when you are doing nothing but waiting? Awful, anxious,
   maybe even annoyed? Now, add to that some sort of expectation: an exam result,
   or someone's health diagnosis. The poet attempts to add some expression to
   these feelings, which can be complex and not so easy to decipher."
