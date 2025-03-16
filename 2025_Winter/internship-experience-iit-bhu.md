@@ -11,7 +11,7 @@ abio: ""
 <p>I am Utkarsh Dhar Dubey, from the Department of Civil Engineering. For my BTech summer internship, I gained the opportunity for a research internship under Prof. Rajesh at IIT-BHU. I had been applying to be a research intern at universities near home like IIT-BHU, IIT Kanpur, HBTU, etc. and thankfully, IIT-BHU allowed me to intern from my hometown, Varanasi.</p><br>
 
 <h1>Application Process</h1>
-<p>To be selected, I had to first send my CV to the institute and look into the different available projects and research topics that the professors there were offering for the internship. My interests lie in structural dynamics and fluid mechanics, and so I was interviewed by Prof. Rajesh on structural engineering and other generic interview questions. For this, I mostly prepared by studying C which was required for the internship.</p><br>
+<p>To be selected, I had to first send my CV to the institute and look into the different available projects and research topics that the professors there were offering for the internship. My interests lie in structural dynamics and fluid mechanics, and so I was interviewed by Prof. Rajesh on structural engineering and other generic interview questions. For this, I mostly prepared by studying Finite Element Analysis which was required for the internship.</p><br>
 
 <h1>Internship Work</h1>
 <p>Once my internship started, I spent the major portion of my time deriving the expressions of the bending of plates, beams and columns under various types of loads like UDL (uniformly distributed loads), space-dependent loads, time-dependent loads like earthquakes, etc. A heavy use of differential and integral calculus was involved.</p><br>
