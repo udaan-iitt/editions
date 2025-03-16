@@ -47,7 +47,7 @@ abio: ""
 <br>
 
 <h1>Memorable Moments</h1>
-<p>Throughout my time at SquareX, several memorable moments stand out. One particularly enjoyable experience involved breaking down cultural stereotypes with colleagues Si Wei and Samuel, who had preconceived notions about India. To add humor to our discussions, Si Wei surprised us by knowing a few Hindi phrases! Additionally, during my stay in Singapore, I reconnected with Nandhavardhan Namboori, who showcased unexpected charm towards a girl during a late-night swim at the hotel pool.</p>
+<p>Throughout my time at SquareX, several memorable moments stand out. One particularly enjoyable experience involved breaking down cultural stereotypes with colleagues Si Wei and Samuel, who had preconceived notions about India. To add humor to our discussions, Si Wei surprised us by knowing a few Hindi phrases! Additionally, during my stay in Singapore, I reconnected with [name redacted for privacy], who showcased unexpected charm towards a girl during a late-night swim at the hotel pool.</p>
 <br>
 
 <h1>Advice for Future Interns</h1>
