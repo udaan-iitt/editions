@@ -7,7 +7,7 @@ desc: "From using other college's laboratories to having our own equipment, this
   year - who's seen it grow from its transitory phase to an expanding and a
   sprawling campus. "
 thumbnail: images/whatsapp-image-2025-01-05-at-22.44.55.jpeg
-authors: "Akhil Krishnan, Aadhya Agrawal, Dharmesh "
+authors: Akhil Krishnan, Aadhya Agrawal, Dharmesh S
 starred: true
 abio: ""
 ---
