@@ -9,7 +9,7 @@ authors: Sudhakar V
 starred: false
 abio: ""
 ---
-<h1>Securing Internship at TI</h1>
+<h2>Securing Internship at TI</h2>
 <p>The second year of college flew by in a blur—before I knew it, half of our BTech degree was behind us, and we faced the big task: securing an internship. The internship season arrived, but honestly, it was a bit of a letdown at first, with only a few big names approaching campus. Still, my friends and I were holding out for one company: Texas Instruments, the semiconductor giant with one of the best R&D centres in India.</p>
 
 <p>But as August turned into September, and then September into October, it seemed TI wasn’t coming. By the end of the semester, we’d pretty much given up. We knew that TI usually wrapped up intern recruiting by early September, so we figured the opportunity had passed.</p>
@@ -28,7 +28,7 @@ Finally, with that behind me, I headed home, waiting for the results. Finally, t
 
 <br>
 
-<h1>Internship at TI</h1>
+<h2>Internship at TI</h2>
 <p>A week after I got the offer, I was off to Bangalore to start my internship. TI turned out to be super employee-friendly; they even set us up with accommodation for a week so
 we’d have time to find a PG. And get this—the accommodation wasn’t just any guesthouse. They put us up in a five-star hotel! I arrived around 9 am, and since check-in wasn’t until 1 pm, I found myself waiting in the lobby with a bunch of other interns. Perfect setup for some socializing! Most of them were from IITs or NITs, so it was fascinating to hear about everyone’s journey to TI.</p>
 
