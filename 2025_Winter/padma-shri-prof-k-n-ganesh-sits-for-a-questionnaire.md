@@ -9,7 +9,7 @@ desc: Summertime surprise! Legendary organic chemist, the founding director of
   the Udaan stage and opening up like never before is nothing less than an
   honour!
 thumbnail: images/kn_thumbnail.jpg
-authors: K. N. Ganesh
+authors: Neerav Sreekumar
 starred: true
 abio: ""
 ---
