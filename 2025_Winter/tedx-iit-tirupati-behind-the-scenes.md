@@ -24,7 +24,7 @@ abio: ""
 </p>
 <br>
 
-![The institute's director gracing the event.](image/tedx_satya.jpg "The institute's director gracing the event.")
+![The institute's director gracing the event.](images/tedx_satya.jpg "The institute's director gracing the event.")
 
 <br>
 
@@ -52,7 +52,7 @@ abio: ""
 
 <br>
 
-![Maral Yazarloo - Iranian motorcyclist, artist, and motivational speaker - at the event as one of the speakers.](image/tedx_maral.jpg "Maral Yazarloo - Iranian motorcyclist, artist, and motivational speaker - at the event as one of the speakers")
+![Maral Yazarloo - Iranian motorcyclist, artist, and motivational speaker - at the event as one of the speakers.](images/tedx_maral.jpg "Maral Yazarloo - Iranian motorcyclist, artist, and motivational speaker - at the event as one of the speakers")
 
 <br>
 
@@ -79,7 +79,7 @@ abio: ""
 > <p>“When we first saw this word ‘serendipity’, even our curation team was having difficulties in pronouncing it. In that way, ‘Mirrored Mysteries’ would have been easier to work with, but somehow, we ended up here. See how serendipitous it is that we got this theme. A lot of unexpectedly good things happened on this journey. I can write a whole essay on how many times people unexpectedly joined us when we needed something, from even the faculty side and the speaker side. So this theme represents the whole 3-4 months process.”</p>
 <br>
 
-![Mr. Piyush Somani at the event](image/tedx_piyush.jpg "Mr. Piyush Somani, as one of the speakers at the event")
+![Mr. Piyush Somani at the event](images/tedx_piyush.jpg "Mr. Piyush Somani, as one of the speakers at the event")
 
 <br>
 
@@ -94,7 +94,7 @@ abio: ""
 > <p>“I think the full credit goes to the team. We had roles assigned for everyone on that day, whether it was to take registrations, guide the audience, give them goodies, etc. It was all planned out the day before, which was a major factor that helped in managing 100 people. Some of our audience members were from other colleges of Tirupati, some from Bangalore, Delhi, and so on. But I think the team managed it very well.</p><p>The day before the event, we were decorating the walls and putting up banners and posters, decorating the venue, setting up the stage, LED logo, and black screens. We made a list of what could go wrong, like the LED might stop working, the PPT might not work, the curtain might fall, and so on. The curtain actually fell, though, and we tried to fix it with a pin that had double tape on its back, but the pin was not able to carry the weight, and it would fall every five minutes. So we gave up on that.”</p>
 <br>
 
-![Mr. Shiv Vats, as one of the speakers at the event.](image/tedx_shiv.jpg "Mr. Shiv Vats, as one of the speakers at the event.")
+![Mr. Shiv Vats, as one of the speakers at the event.](images/tedx_shiv.jpg "Mr. Shiv Vats, as one of the speakers at the event.")
 
 <br>
 
@@ -110,7 +110,7 @@ abio: ""
 > <p>“The designs for everything, from the tickets to the merch and t-shirts, were all developed by us and not externally. So, the full credit for all the inspiration, giant heart design, flowers, posters, etc., goes to our design team – Devotio, Divino and Manan. This is one of the teams that has impressed us a lot. Not only us, but everyone, to be frank. A lot of people asked us who our designers were. The Tirutsava guys were asking, too. We’d just tell our designers how we wanted things to work, and they would send over their design, which we would check, and they’d send their edits back. Most of the time, though, their first draft was super good already. One of the designs has a heart underneath a tree, and that tree is hand-drawn.</p><p>For the website, we had our web operations team — Vaibhav, Jaimin and Shankesh. We had our first design for the website in December, but we were too occupied with the curation process, so we only took a look at it in January when we came back to campus from the holidays. We met up, and when we saw the website, there were two eyes. It was not what we expected. Wherever you moved the cursor, the eyes followed you. So we told them, ‘This won’t do. We need to try something else.’ That night only, we sat till 6 am and refurbished and remade the website from scratch – each design and every element. Overall, we were able to create a good experience for the website.”</p>
 <br>
 
-![Mrs. Tanu Jain, as one of the speakers at the event.](image/tedx_tanu.jpg "Mrs. Tanu Jain, as one of the speakers at the event.")
+![Mrs. Tanu Jain, as one of the speakers at the event.](images/tedx_tanu.jpg "Mrs. Tanu Jain, as one of the speakers at the event.")
 
 <br>
 
