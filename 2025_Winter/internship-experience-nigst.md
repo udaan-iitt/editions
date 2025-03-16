@@ -2,10 +2,10 @@
 title: "Internship Experience: NIGST"
 category: Experiences
 date: 2025-03-04T11:18:02.577Z
-desc: Follow Srihita on her internship journey with NIGST and how she worked
+desc: Follow Srihitha on her internship journey with NIGST and how she worked
   with GIS!
 thumbnail: images/nigst-new-thumbnail.jpg
-authors: Srihita Venkata Sai
+authors: Srihitha Venkata Sai
 starred: false
 abio: ""
 ---
