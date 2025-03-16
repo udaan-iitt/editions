@@ -7,7 +7,7 @@ desc: This year, IIT Tirupati hosted its first ever TEDx event and concluded it
   idea? Want to know more? Then let's head on to the interview for the
   first-hand experience from the organisers themselves!
 thumbnail: images/tedx_tanu.jpg
-authors: "Ritvik Ravi, Samara, Sneha Battula, Aadhya Agrawal, Akhil Krishnan, "
+authors: Ritvik Ravi, Samara, Sneha Battula, Aadhya Agrawal, Akhil Krishnan
 starred: true
 abio: ""
 ---
