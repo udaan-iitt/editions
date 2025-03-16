@@ -25,7 +25,7 @@ abio: ""
 
 <p>Ultimately, I learned new software models such as ANSYS LS-DYNA and ANSYS ACP. Modelling composites on software excited me a lot. Initially, I, too, faced many difficulties in setting up the simulation in LS-DYNA, but working consistently improved me. In the end, I was able to succeed and come up with the results. Although I had been using ANSYS for the last 2 years, all those were implicit analyses that do not take a longer simulation time. During my academics, I read several times that some higher-level simulations take a few days to run, and I could experience them for the first time in BluJ. I felt happy hearing from my colleagues that, “Many mechanical engineers can perform implicit analysis, but only a few can perform explicit or dynamic analysis in simulation software; and not just performing, but also analysing the results from explicit which also deals with different types of energies involved and their conservation which was a bit different from implicit.”</p><br>
 
-![The author along with the team - standing with their prototype.](image/bluj_thumbnailpng.png "The author along with the team - standing with their prototype.")
+![The author along with the team - standing with their prototype.](images/bluj_thumbnailpng.png "The author along with the team - standing with their prototype.")
 
 <br>
 
