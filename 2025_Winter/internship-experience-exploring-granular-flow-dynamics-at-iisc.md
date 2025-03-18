@@ -1,7 +1,7 @@
 ---
 title: "Internship Experience: Exploring Granular Flow Dynamics at IISc"
 category: Experiences
-date: 2025-03-06T09:43:57.974Z
+date: 2025-02-16T09:43:57.974Z
 desc: Follow Meghavarshini on her internship journey at IISc on Granular Flow
   Dynamics.
 thumbnail: images/iisc-new-thumbnail.jpg
