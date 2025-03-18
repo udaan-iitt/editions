@@ -1,7 +1,7 @@
 ---
 title: "Internship Experience: BHEL"
 category: Experiences
-date: 2025-03-06T10:18:10.664Z
+date: 2025-02-22T10:18:10.664Z
 desc: Follow Ajitesh on his internship journey with BHEL.
 thumbnail: images/ee21b003-thumbnail.png
 authors: Ajitesh Ghogarekar
