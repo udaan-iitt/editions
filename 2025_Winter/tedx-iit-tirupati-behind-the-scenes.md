@@ -1,7 +1,7 @@
 ---
 title: "TEDxIITTirupati: Behind the scenes "
 category: Campus News
-date: 2025-02-28T18:41:52.776Z
+date: 2025-01-31T18:41:52.776Z
 desc: This year, IIT Tirupati hosted its first ever TEDx event and concluded it
   with a resounding success. But how did we even get here? Who initiated the
   idea? Want to know more? Then let's head on to the interview for the
