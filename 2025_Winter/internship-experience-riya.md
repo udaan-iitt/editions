@@ -1,7 +1,7 @@
 ---
 title: "Internship Experience: RIYA"
 category: Experiences
-date: 2025-03-04T10:26:27.552Z
+date: 2025-02-15T10:26:27.552Z
 desc: Follow Shruthi on her internship journey with Ohio State University
   through the RIYA program.
 thumbnail: images/me21b048_thumbnail.jpeg
