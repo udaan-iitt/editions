@@ -15,6 +15,10 @@ abio: ""
 ---
 <!--StartFragment-->
 
+Krishnarajanagar Nagappa Ganesh, is an extremely influential character in the field of science and research, especially as a bio-organic chemist. Winning several awards and plenty of recognition throughout his career, he has been the founding director of IISER Pune (2006-2017) as well as IISER Tirupati (2017-2023). He is widely known for his work in the chemistry and biology of nucleic acids, DNA technology, and structural biology of collagen peptides. Dr. K N Ganesh was a recipient of the Padma Shri award in 2023 and the Shanti Swarup Bhatnagar Prize for Science and Technology in Chemical Science.
+
+One of our editors had the opportunity to meet him during his internship at JNCASR Bangalore, and he (along with our team) was thrilled to have an opportunity to interview him and gain some very profound insights into his life, career, academic trajectory, and more. We could not be more honoured and excited to present to you the following article:
+
 **So, my first question is one that you might have been tired of getting asked of. Even at this age, you come here to JNCASR regularly. Before this, you were the founding director of IISER Pune, and then, you founded IISER Tirupati. What motivates you to come over here in the first place at this age, having achieved everything you had to? In fact, you even won the Padma Shri a few years ago, so it makes me curious.**
 
 > “See, science is one area where whatever you do, you do it for your satisfaction. Of course, there are a lot of benefits that others get, but in any other area, by working in that field, you are making someone else rich. You are working towards someone else’s idea. However, science is one area where we do things for our enjoyment and fulfilment. If I do something out of passion, something I enjoy, I can continue doing it for the rest of my life. Even if I can no longer perform experiments, just thinking about it pleasures me. So, science is, in that way, a unique area where you do something you are passionate about, and somebody else willingly funds it through research projects and other ventures.
