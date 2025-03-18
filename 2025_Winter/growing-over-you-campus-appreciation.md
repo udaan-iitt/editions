@@ -1,7 +1,7 @@
 ---
 title: "Growing with you: Campus Appreciation"
 category: Op-Ed
-date: 2025-02-27T17:41:31.967Z
+date: 2025-02-03T17:41:31.967Z
 desc: "From using other college's laboratories to having our own equipment, this
   institute has come a long way. Here's an account of this journey from a fourth
   year - who's seen it grow from its transitory phase to an expanding and a
