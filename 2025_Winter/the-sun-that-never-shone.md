@@ -1,7 +1,7 @@
 ---
 title: The Sun that never shone
 category: Story
-date: 2025-02-28T22:05:41.134Z
+date: 2025-02-05T22:05:41.134Z
 desc: A tale of how PhD-life toxicity blends with the personal life of our
   protagonist, leading to a wave of destructive interference - a glimpse into
   the unending marathon of life that we all are stuck in.
