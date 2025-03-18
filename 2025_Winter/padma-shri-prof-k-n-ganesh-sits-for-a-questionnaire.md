@@ -1,7 +1,7 @@
 ---
 title: Padma Shri Prof. K.N. Ganesh sits for a Questionnaire!
 category: Experiences
-date: 2025-03-13T09:27:03.472Z
+date: 2025-02-02T09:27:03.472Z
 desc: Summertime surprise! Legendary organic chemist, the founding director of
   both IISER Pune and IISER Tirupati, and the recipient of the Padma Shri, Prof.
   K.N. Ganesh from JNCASR Bangalore, joins Udaan for a chat encompassing various
