@@ -1,7 +1,7 @@
 ---
 title: "60 Days of Summer: The JNCASR Bangalore Experience"
 category: Experiences
-date: 2025-02-11T10:15:49.649Z
+date: 2025-03-04T10:15:49.649Z
 desc: Join Neerav on his 2-month internship journey at JNCASR Bangalore, as he
   narrates his experience with the project work, the professors, and the place
   itself!
