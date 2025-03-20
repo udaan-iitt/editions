@@ -1,7 +1,7 @@
 ---
 title: "Internship Experience: ARCI"
 category: Experiences
-date: 2025-02-22T10:33:36.244Z
+date: 2025-02-02T10:33:36.244Z
 desc: Follow Aditi on her internship journey with ARCI.
 thumbnail: images/iitm-research-park-thumbnail.jpg
 authors: Aditi P
