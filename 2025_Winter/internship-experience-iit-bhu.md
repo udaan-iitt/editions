@@ -1,7 +1,7 @@
 ---
 title: "Internship Experience: IIT-BHU"
 category: Experiences
-date: 2025-02-24T13:45:34.119Z
+date: 2025-02-04T13:45:34.119Z
 desc: Follow Utkarsh on his internship journey with IIT-BHU
 thumbnail: images/utkarsh_thumbnail.jpg
 authors: Utkarsh Dhar Dubey
