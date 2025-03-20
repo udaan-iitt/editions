@@ -1,7 +1,7 @@
 ---
 title: "Internship Experience: SDSC-SHAR, ISRO"
 category: Experiences
-date: 2025-02-07T13:26:50.502Z
+date: 2025-03-08T13:26:50.502Z
 desc: Follow Shreenivason on his internship journey with ISRO at SDSC.
 thumbnail: images/shreenivasonisro_thumbnail.png
 authors: R Shreenivason
