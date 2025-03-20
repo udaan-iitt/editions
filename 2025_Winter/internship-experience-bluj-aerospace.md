@@ -1,7 +1,7 @@
 ---
 title: "Internship Experience: BluJ Aerospace"
 category: Experiences
-date: 2025-02-13T09:23:32.078Z
+date: 2025-03-02T09:23:32.078Z
 desc: Follow Asha on her internship journey with BluJ Aerospace and learn what
   it's like to design and develop in a commercial company.
 thumbnail: images/bluj_thumbnail.jpeg
