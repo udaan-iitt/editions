@@ -2,7 +2,7 @@
 title: "SpaceX and the pursuit of reusability: A deep dive into catching rocket
   boosters back"
 category: Op-Ed
-date: 2025-02-10T10:47:15.902Z
+date: 2025-02-18T10:47:15.902Z
 desc: "A deep dive into SpaceX’s booster recovery systems - chockful of
   equations, theories, and excitement! "
 thumbnail: images/spacex-thumbnail.png
