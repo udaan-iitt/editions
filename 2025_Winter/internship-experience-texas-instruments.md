@@ -1,7 +1,7 @@
 ---
 title: "Internship Experience: Texas Instruments"
 category: Experiences
-date: 2025-02-09T10:49:24.787Z
+date: 2025-03-06T10:49:24.787Z
 desc: Follow Sudhakar on his internship journey with Texas Instruments and how
   he got in!
 thumbnail: images/ti_newthumbnail.jpg
