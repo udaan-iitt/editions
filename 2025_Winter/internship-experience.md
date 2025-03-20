@@ -1,7 +1,7 @@
 ---
 title: "Internship Experience: SAC, ISRO"
 category: Experiences
-date: 2025-03-03T12:58:23.900Z
+date: 2025-02-11T12:58:23.900Z
 desc: Follow Mihir on his internship journey with ISRO.
 thumbnail: images/isro-thumbnail.jpg
 authors: Mihir
