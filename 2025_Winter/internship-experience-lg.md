@@ -1,7 +1,7 @@
 ---
 title: "Internship Experience: LG"
 category: Experiences
-date: 2025-02-23T10:26:15.469Z
+date: 2025-02-03T10:26:15.469Z
 desc: Follow Shubham on his internship journey with the R&D at LG.
 thumbnail: images/lg-electronics-new-thumbnail.jpg
 authors: Shubham Ahirwar
