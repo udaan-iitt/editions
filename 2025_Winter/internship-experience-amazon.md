@@ -1,7 +1,7 @@
 ---
 title: "Internship Experience: Amazon"
 category: Experiences
-date: 2025-02-13T20:39:08.691Z
+date: 2025-02-28T20:39:08.691Z
 desc: Follow Varshitha on her internship journey with Amazon at Kindle.
 thumbnail: images/amazon_thumbnail.jpg
 authors: Varshitha
