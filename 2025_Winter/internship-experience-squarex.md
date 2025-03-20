@@ -1,7 +1,7 @@
 ---
 title: "Internship Experience: SquareX"
 category: Experiences
-date: 2025-02-08T12:39:04.986Z
+date: 2025-03-07T12:39:04.986Z
 desc: Follow Arpit on his internship journey with SquareX and how he got in!
 thumbnail: images/squarex_thumbnail.jpeg
 authors: Arpit Gupta
