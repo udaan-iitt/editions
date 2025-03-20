@@ -1,7 +1,7 @@
 ---
 title: "Internship Experience: NIGST"
 category: Experiences
-date: 2025-02-18T11:18:02.577Z
+date: 2025-02-25T11:18:02.577Z
 desc: Follow Srihitha on her internship journey with NIGST and how she worked
   with GIS!
 thumbnail: images/nigst-new-thumbnail.jpg
