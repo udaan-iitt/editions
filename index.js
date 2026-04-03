@@ -3,6 +3,20 @@
 
 export const newsletter = [
 	{
+		key: 'samara',
+		email: 'me22b020@iittp.ac.in',
+		title: 'Jonell Samara',
+		link: 'https://www.linkedin.com/in/jonell-samara-8b475b2a8/',
+		role: 'Editor-in-Chief',
+	},
+	{
+		key: 'adithya',
+		email: 'cs23b001@iittp.ac.in',
+		title: 'Adithya Ananth',
+		link: 'https://www.linkedin.com/in/ananth-adithya/',
+		role: 'Tech Team Lead',
+	},
+	{
 		key: 'bineet',
 		email: 'me21b012@iittp.ac.in',
 		title: 'Bineet Barman',
@@ -80,12 +94,6 @@ export const newsletter = [
 		role: 'Sub-Editor',
 	},
 	{
-		key: 'samara',
-		title: 'Samara',
-		link: '',
-		role: 'Sub-Editor',
-	},
-	{
 		key: 'akshay',
 		title: 'Akshay',
 		link: '',
@@ -97,12 +105,6 @@ export const newsletter = [
 		link: '',
 		role: 'Sub-Editor',
 	},
-	{
-		key: 'adithya',
-		title: 'Adithya',
-		link: 'https://www.linkedin.com/in/ananth-adithya/',
-		role: 'Tech Team',
-	}
 ];
 export const pastmembers = [
 	{
