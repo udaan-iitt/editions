@@ -1180,7 +1180,7 @@ export const author_info = [
 	},
 	{
 		key: 'palak',
-		title: 'Palak',
+		title: 'Palak Khandelwal',
 		tagLine1: '',
 		tagLine2: '',
 		role: '',
