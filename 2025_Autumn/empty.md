@@ -3,7 +3,7 @@ title: Empty
 category: Poetry
 date: 2026-6-11T10:42:24.120Z
 desc: "How does it feel to watch others succeed while you feel left behind? A quiet ache, a growing sense of emptiness, maybe even regret. The poet explores these emotions through the idea of a “glowing gem” that seems present in others but missing within oneself, capturing the struggle between admiration, longing, and self-doubt."
-thumbnail: images/empty-thumbnail.jpg
+thumbnail: images/empty-thumbnail.jpeg
 authors: Roobitha Ranganathan
 starred: false
 abio: ""
