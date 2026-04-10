@@ -1,7 +1,7 @@
 ---
 title: Foreign Research Internship at EPFL
 category: Experiences
-date: 2026-1-12T10:42:24.120Z
+date: 2026-6-11T10:42:24.120Z
 desc: Join Neerav on his research internship adventure at EPFL, Switzerland.
 thumbnail: images/epfl.png
 authors: Neerav Sreekumar
@@ -9,26 +9,29 @@ starred: false
 abio: none
 ---
 ### Internship @EPFL, Switzerland ft. the Lindt, the Alps and Unlimited Pasta
-**Neerav Sreekumar** _(Udaan’s pookiest ex)_
 
 I vividly remember the first day I knocked at his cabin, and he said in his chalky-smokey Italian voice, “_Si, si!! Come in!_” I opened the door to find him having arranged 3 chairs beside each other and lying on them, effortlessly, streaming a David Guetta concert. Yep, he had some unseen (or unheard?) aura farming in that room. I was totally rizzed.
 
 Prof. Francesco Stellacci is a biggie-big shot in the field of nanomaterials and nanomedicine. His group, the Supramolecular Nanomaterials and Interfaces Laboratory (SuNMIL), started off at the Massachusetts Institute of Technology (MIT) back in the 2000s, after which he shifted to the Swiss Federal Institute of Technology in Lausanne (EPFL) in Switzerland, in the last decade. When I first received the confirmation email from EPFL that I had been selected as an E3 fellow in 2025, under Prof. Stellacci, I surfed Amazon right away to buy myself a pacemaker. I told my parents about the same, they laughed it off and said, “_Enough of your comedy, dinner’s ready- better come fast._”
 
-Life was good.
-Actually, pretty good this summer.
-Lakes, snowy Alps, a vacation-like internship, unlimited Pasta.
-Nice money. Really nice. 2 lakhs a month, for a research internship.
-Roamed Munich, Paris, Amsterdam, Innsbruck, Salzburg, Geneva, Rotterdam, Jungfrau, Vevey and Montreux and still saved an impressive sum.
-Lindt, Torino, Frey, Ferrero, Haribo, a flood of chocolates that would have probably gotten me diabetic- oh, I didn’t check yet.
-Post lab hours? Recreation? YT? Netflix? A walk? Hell nah, never been so mid.
-Kayaking, paddle boarding, shooting stars, barbeque and staring at the French border from our campus beach. Every. Single. Day.
+> <p>“Life was good.“</p>
+> <p>“Actually, pretty good this summer.“</p>
+> <p>“Lakes, snowy Alps, a vacation-like internship, unlimited Pasta.“</p>
+> <p>“Nice money. Really nice. 2 lakhs a month, for a research internship.“</p>
+> <p>“Roamed Munich, Paris, Amsterdam, Innsbruck, Salzburg, Geneva, Rotterdam, Jungfrau, Vevey and Montreux and still saved an impressive sum.“</p>
+> <p>“Lindt, Torino, Frey, Ferrero, Haribo, a flood of chocolates that would have probably gotten me diabetic- oh, I didn’t check yet.“</p>
+> <p>“Post lab hours? Recreation? YT? Netflix? A walk? Hell nah, never been so mid.“</p>
+> <p>“Kayaking, paddle boarding, shooting stars, barbeque and staring at the French border from our campus beach. Every. Single. Day.“</p>
 
-EPFL is one of the most prestigious universities in the world, regularly ranked within the top 30 in the QS World Rankings, and within the top 10 for a few engineering streams. EPFL conducts internships of 8-12 weeks through 2 programs: E3 Excellence in Engineering (the one I got, open to all departments), and Summer @EPFL (open to CSE, EE and related areas only). The acceptance rates of both these programs are <2.5%, with students applying across the globe, which makes the process quite tough and expectations naturally low.
+![Europe pics](images/swiss1.png "Europe pics.")
 
-In my case, I had Indian co-interns from IISc, IITM, NITT, IITB, IITBHU and other schools. But the foreign crowd was all fancy- students from MIT, Harvard, UC Berkeley, Georgia Tech, Duke and Johns Hopkins. Seeing this did give me heebie-jeebies at first, but when I think of it this way as me, from a campus still undergoing construction and a lot of infrastructural and research deficits landing up at the same place as someone from an Ivy, it made me realise that some of the craziest dreams I had as a kid had already been fulfilled, I just didn’t give time to myself to appreciate it enough.
+**EPFL is one of the most prestigious universities in the world, regularly ranked within the top 30 in the QS World Rankings, and within the top 10 for a few engineering streams. EPFL conducts internships of 8-12 weeks through 2 programs: E3 Excellence in Engineering (the one I got, open to all departments), and Summer @EPFL (open to CSE, EE and related areas only). The acceptance rates of both these programs are <2.5%, with students applying across the globe, which makes the process quite tough and expectations naturally low.**
 
-Self-love is important, kids.
+**In my case, I had Indian co-interns from IISc, IITM, NITT, IITB, IITBHU and other schools. But the foreign crowd was all fancy- students from MIT, Harvard, UC Berkeley, Georgia Tech, Duke and Johns Hopkins. Seeing this did give me heebie-jeebies at first, but when I think of it this way as me, from a campus still undergoing construction and a lot of infrastructural and research deficits landing up at the same place as someone from an Ivy, it made me realise that some of the craziest dreams I had as a kid had already been fulfilled, I just didn’t give time to myself to appreciate it enough.**
+
+**Self-love is important, kids.**
+
+![Europe pics](images/swiss2.png "Europe pics.")
 
 - - -
 
@@ -58,6 +61,8 @@ I cannot stress this enough: **carry a pressure cooker and a tava** (and first, 
 
 Vegetarians, you’ll have it rough. Europe thrives on meat. Yes, you’ll find ready-to-eat stuff at Migros or Denner, but it’ll burn holes in your pocket. I once bought Indian chicken tikka masala out of homesickness - what I got was an ultra-sweet curry clearly designed for European palates, with just a spoonful of rice. Price? 8 CHF (850 INR). Heartbreak. Walletbreak. Hence, my free TED talk today: _carry that cooker_. This is not an ad, bbg.
 
+![Europe pics](images/swiss3.png "Europe pics.")
+
 The cultural aspect of EPFL was its finest feature. Nobel Laureates casually visited for distinguished lectures. Every professor you walked by was a big name and searching them online would almost always lead to a Wikipedia page. Some professors even rode around campus on skateboards, as skateboarding or waveboarding were just two modes of transportation on campus. Then there was the infrastructure. Labs here are equipped: every lab has its own FPLC, HPLC, SAXS, SANS, BET, PAM, SEC, AUC, SIC, fluorescence instrumentation, plate readers, basically every characterisation instrument you could think of. In India, these may all fall under central facilities or at most one per department, but in Switzerland or even at EPFL, these equipment are on your doorstep.
 
 The thing that surprised me most was the work-life balance. At 6 pm on the dot, the labs were empty, the doors were locked, and the campus was silent. Saturdays and Sundays were like this as well. Once, I stayed until 8 pm to finish my DLS runs, only to be caught by security, written up for a complaint and warned I would lose lab privileges if they found me working late again without my supervisor. I lowkey wished this happened in India too, lmao, the culture contrast was so evident.
@@ -68,11 +73,18 @@ My project was on the stabilisation of insulin for diabetes. Insulin is usually 
 
 At the end of the day, it’s about the experience and the journey. Seeing the Eiffel Tower sparkle wasn’t something I dreamt of happening, and trust me, they all were right. The Eiffel doesn’t just take your breath away, it sucks it. I also took a bus to Munich to visit the first love of my life, FC Bayern Munich and the Allianz Arena (oh, to be in love), where you get to see the dressing room, the conference centre, the stands and the stadium tour. The whole vibe of the city, the BMW headquarters, and the donner kebabs stood out, scarring my mind so deeply.
 
+![Europe pics](images/swiss4.png "Europe pics.")
+
 Amsterdam and Rotterdam, the gorgeous canals and tiny buildings peeking from the sides have spoiled me; my bars have reached somewhere, god knows. Switzerland itself remains mesmerising in its own ways. The tiny streets of Lausanne, the snowy hills through cable cars of Jungfrau and having a campus next to the majestic Lake Geneva, crowned with the French border visible on the other side, with a facial makeup of cruises and a variety of options from paddleboarding and kayaking to waveboarding for rejuvenation post lab hours hit like crack. The roads were the cleanest you would ever see. Even the outskirts have been maintained like some fancy Taj resort with aesthetics. Try crossing the road, the cars stop for you to cross, unlike our beautiful country, where bikers will smash pedestrians on the footpath, sending them to heaven- heaven could be Switzerland, so the poor bikers had good intentions, okay? Shush.
 
+![Europe pics](images/swiss5.png "Europe pics.")
+
 Weekend sneak peeks at the heavenly Alps of Grindelwald or glimpses of Geneva’s most unaffordable fashion streets made this stay in this slice of heaven even more magical, hence proving that a foreign internship is as good as a vacation to tick your bucket list.
+
+![Europe pics](images/swiss6.png "Europe pics.")
 
 Looking back, the Alps, the Lindt, and the unlimited pasta were unforgettable- but what really stayed with me was the sense of possibility. If a student from a still-growing IIT campus can share lab space with peers from MIT or Harvard, it just proves that the only real barrier is in our heads. So, pack your curiosity, a little confidence, and yes, for the last time, a pressure cooker - and go chase that foreign internship. You'll come back with not just a line on your CV, but with stories you'll tell for a lifetime.
 
 Maybe I should have named this article _“The Summer Neerav Turned Pretty”_ ... but then I wouldn't have gotten to tell you about the cooker, so nvm :(
-Season 3rd year, out on my beloved ex, Udaan, now.
+
+_Season 3rd year, out on my beloved ex, Udaan, now._
