@@ -12,19 +12,19 @@ My internship at the Bureau of Indian Standards (BIS), Coimbatore, was not just 
 
 - - -
 
-### First Impressions:
+### First Impressions
 
 On my very first day, when I walked into the BIS office, I was mentally prepared for a corporate-like setup, glass doors, shiny floors, and cubicles buzzing with laptops. Instead, I found myself in a setting that looked every bit like a classic _sarkari daftar_. File stacks, calm corridors, and that unmistakable government-officish vibe, it caught me by surprise. For a moment, I thought, “_mai yha kese work karungi_”. It set the tone perfectly: this was going to be a very different kind of journey.
 
 - - - 
 
-### How I Got Into BIS:
+### How I Got Into BIS
 
 The internship at the Bureau of Indian Standards was offered through our on-campus drive in March. The application process was simple; we had to submit the required documents in the prescribed format via a Google form. From these applications, students were shortlisted on the basis of CGPA, and two students were selected from the department.
 
 - - - 
 
-### What My Internship Was About:
+### What My Internship Was About
 
 Under the guidance of **Mr. Rino John (Scientist-D, BIS)**, my project revolved around understanding how national standards are implemented and where gaps exist between policy and practice. I worked on:
 
@@ -35,7 +35,7 @@ Under the guidance of **Mr. Rino John (Scientist-D, BIS)**, my project revolved 
 
 - - -
 
-### Why Indian Standards Matter?:
+### Why Indian Standards Matter?
 
 Before my internship, “_Indian Standards_” for me were just some codes written on product labels like IS 4985, IS 12701, and so on. But during these two months, I understood their real value. Standards are not just checkboxes; they are what make sure the water tank in your house is safe, the pipe in your farm won’t burst, and even the reflector on your cycle can save your life on a dark road.
 
@@ -51,23 +51,23 @@ Over **_eight industry visits and one lab visit_** later, I realized that engine
 
 - - -
 
-### The Challenges:
+### The Challenges
 
 One big takeaway was seeing how differently large industries and MSMEs operate. Big players had automated systems, renewable energy usage, and Six Sigma dashboards, while smaller units ran on manual methods, local innovations, and jugaad. Both had their strengths and struggles, but the contrast was eye-opening.
 
 - - -
 
-### Memorable Moments:
+### Memorable Moments
 
 Some of my most memorable moments came not from the desk work but from the field. Whether it was shopkeepers being blissfully unaware of BIS rules for bicycles or industry engineers passionately explaining why their process was “_the best_,” every conversation added colour to my internship.
 
-### Lessons I Carry Forward:
+### Lessons I Carry Forward
 
 - **Standards are invisible but Powerful.** They protect consumers and shape industries.
 - **Fieldwork > Theory.** Visiting factories and labs taught me more than any manual could.
 - **Flexibility is Key.** From offices to industries to retail shops, every environment demanded a different lens of observation.
 
-### Advice for Juniors:
+### Advice for Juniors
 
 If you ever intern at an organisation like BIS, go with an open mind. It’s not a corporate internship; it’s a mix of technical exposure, field learning, and people skills. Don’t underestimate the value of every industry visit or shop survey; that’s where the real learning hides.
 
