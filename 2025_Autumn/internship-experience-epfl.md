@@ -1,13 +1,14 @@
 ---
-title: Foreign Research Internship at EPFL
+title: "Foreign Research Internship at EPFL"
 category: Experiences
 date: 2026-6-11T10:42:24.120Z
-desc: Join Neerav on his research internship adventure at EPFL, Switzerland.
+desc: "Join Neerav on his research internship adventure at EPFL, Switzerland."
 thumbnail: images/epfl.png
 authors: Neerav Sreekumar
 starred: false
 abio: none
 ---
+
 ### Internship @EPFL, Switzerland ft. the Lindt, the Alps and Unlimited Pasta
 
 I vividly remember the first day I knocked at his cabin, and he said in his chalky-smokey Italian voice, “_Si, si!! Come in!_” I opened the door to find him having arranged 3 chairs beside each other and lying on them, effortlessly, streaming a David Guetta concert. Yep, he had some unseen (or unheard?) aura farming in that room. I was totally rizzed.

@@ -1,8 +1,8 @@
 ---
-title: My IISc Internship: Two Months at India’s Top Research University
+title: "My IISc Internship: Two Months at India’s Top Research University"
 category: Experiences
 date: 2026-1-12T10:42:24.120Z
-desc: Join Bhuvan on his internship journey at IISc.
+desc: "Join Bhuvan on his internship journey at IISc."
 thumbnail: images/iisc.jpeg
 authors: Bhuvan
 starred: false
@@ -22,7 +22,7 @@ I wasn’t very confident about securing an internship at such a prestigious ins
 
 ### My work
 
-I studied the impact of droplets on non-circular orifices. In 2 months, I had to perform experiments, analyze the data and come to a conclusion and explain what effect it would have due to non-circular orifices and if there wasn’t any effect why doesn’t it have. I was given 4 different orifices and the experiments had to be varied across different impact heights. This part of the internship tested my patience to the core and I felt hell as I had to ensure each time that the droplet impacted on the exact centre of the orifice, this was the most exhausting task and it took over 2 weeks. And as the data was captured by a high-speed camera at 6250fps, I had enormous data to extract the required parameters from each frame; this could have been painful if the ImageJ software had never existed. I tried to extract a few parameters from image processing using OpenCV, this shortened the time significantly. In this process, I was left with another month left.
+I studied the impact of droplets on non-circular orifices. In 2 months, I had to perform experiments, analyze the data and come to a conclusion and explain what effect it would have due to non-circular orifices and if there wasn’t any effect why doesn’t it have. I was given 4 different orifices and the experiments had to be varied across different impact heights. This part of the internship tested my patience to the core and I felt hell as I had to ensure each time that the droplet impacted on the exact centre of the orifice, this was the most exhausting task and it took over 2 weeks. And as the data was captured by a high-speed camera at 6250fps, I had enormous data to extract the required par"ameters from each frame; this could have been painful if the ImageJ software had never existed. I tried to extract a few parameters from image processing using OpenCV, this shortened the time significantly. In this process, I was left with another month left.
 
 ![Experimental Setup at Aerospace Engineering Department, IISc Bengaluru](images/iisc1.jpg "Experimental Setup at Aerospace Engineering Department, IISc Bengaluru.")
 

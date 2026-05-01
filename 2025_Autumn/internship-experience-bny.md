@@ -1,8 +1,8 @@
 ---
-title: Internship Experience at Bank of New York Mellon
+title: "Internship Experience at Bank of New York Mellon"
 category: Experiences
 date: 2026-1-12T10:42:24.120Z
-desc: Follow Shivadharshan on his internship journey at BNY.
+desc: "Follow Shivadharshan on his internship journey at BNY."
 thumbnail: images/bny.jpg
 authors: Shivadharshan
 starred: false

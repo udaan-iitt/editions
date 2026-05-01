@@ -1,8 +1,8 @@
 ---
-title: Jackey Handsome
+title: "Jackey Handsome"
 category: Story
 date: 2025-02-16T22:05:41.134Z
-desc: When a beard turns an invisible engineer into a global phenomenon, this story unpacks how easily society manufactures, and destroys, identity for entertainment.
+desc: "When a beard turns an invisible engineer into a global phenomenon, this story unpacks how easily society manufactures, and destroys, identity for entertainment."
 thumbnail: images/jackey-handsome-thumbnail.jpeg
 authors: Vallala Vishnu Teja
 starred: false

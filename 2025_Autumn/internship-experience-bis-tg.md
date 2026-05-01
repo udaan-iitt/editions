@@ -1,8 +1,8 @@
 ---
-title: Internship Experience at Bureau of Indian Standards
+title: "Internship Experience at Bureau of Indian Standards"
 category: Experiences
 date: 2026-1-12T10:42:24.120Z
-desc: Follow Tanvi on her internship journey at BIS.
+desc: "Follow Tanvi on her internship journey at BIS."
 thumbnail: images/bis.png
 authors: Tanvi Gupta
 starred: false

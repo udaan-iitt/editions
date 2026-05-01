@@ -1,8 +1,8 @@
 ---
-title: Internship Experience at LinkedIn
+title: "Internship Experience at LinkedIn"
 category: Experiences
 date: 2026-1-12T10:42:24.120Z
-desc: Join Ashish on his internship journey at LinkedIn.
+desc: "Join Ashish on his internship journey at LinkedIn."
 thumbnail: images/linkedin.png
 authors: Ashish Raj
 starred: false
@@ -38,7 +38,7 @@ Beyond the technical aspects, the internship provided me with valuable lessons i
 It was a glimpse into how engineering teams at scale design, build, and maintain critical systems that impact over a billion users.
 
 - - -
-
+"
 ### What was it like?
 
 My internship at LinkedIn was an unforgettable experience filled with collaboration and fun. Besides solving real-world engineering problems with the USR team, I got to enjoy a vibrant culture. Every week, there was something new - there were intern events like perfume making, bowling, arcade games, movie evenings, and more! On top of these, we had exciting team outings that brought everyone closer and created memories outside of work.  

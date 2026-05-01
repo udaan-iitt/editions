@@ -1,8 +1,8 @@
 ---
-title: Internship Experience: Bureau of Indian Standards (BIS)
+title: "Internship Experience: Bureau of Indian Standards (BIS)"
 category: Experiences
 date: 2026-1-12T10:42:24.120Z
-desc: Follow Akshat on his internship journey at BIS.
+desc: "Follow Akshat on his internship journey at BIS."
 thumbnail: images/bis.png
 authors: Akshat Ashish Dube
 starred: false

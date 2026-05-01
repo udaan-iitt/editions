@@ -1,8 +1,8 @@
 ---
-title: Why? O, Poseidon, Why?  
+title: "Why? O, Poseidon, Why?"
 category: Poetry
 date: 2026-6-11T10:42:24.120Z
-desc: How does the sea change from serene to terrifying in moments? Calm waves, playful marine life, and a tranquil sky can quickly turn into chaos under Poseidon’s wrath. The poet questions this duality, exploring the ocean’s beauty and danger, and the mystery behind its ever-shifting nature.
+desc: "How does the sea change from serene to terrifying in moments? Calm waves, playful marine life, and a tranquil sky can quickly turn into chaos under Poseidon’s wrath. The poet questions this duality, exploring the ocean’s beauty and danger, and the mystery behind its ever-shifting nature."
 thumbnail: images/poseidon-thumbnail.jpeg
 authors: Aditya Patil
 starred: false

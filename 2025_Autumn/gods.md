@@ -1,8 +1,8 @@
 ---
-title: Even Gods Bore Pain
+title: "Even Gods Bore Pain"
 category: Poetry
 date: 2026-6-11T10:42:24.120Z
-desc: A reflective poem that draws from the lives of Ram and Krishna to show that suffering is universal, even for the divine. If even Gods endured pain without complaint, what does that say about how we face our own.
+desc: "A reflective poem that draws from the lives of Ram and Krishna to show that suffering is universal, even for the divine. If even Gods endured pain without complaint, what does that say about how we face our own."
 thumbnail: images/gods-thumbnail.jpeg
 authors: Vipin Kumar Sharma
 starred: false

@@ -1,8 +1,8 @@
 ---
-title: Internship Experience at Texas Instruments
+title: "Internship Experience at Texas Instruments"
 category: Experiences
 date: 2026-1-12T10:42:24.120Z
-desc: Join Prakhar on his internship journey at Texas Instruments.
+desc: "Join Prakhar on his internship journey at Texas Instruments."
 thumbnail: images/ti.png
 authors: Prakhar Gupta
 starred: false

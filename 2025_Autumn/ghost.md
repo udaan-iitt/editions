@@ -1,8 +1,8 @@
 ---
-title: There Was a Ghost in My Room
+title: "There Was a Ghost in My Room"
 category: Story
 date: 2025-02-16T22:05:41.134Z
-desc: When procrastination, guilt, and isolation take form as a “ghost,” one student’s breakdown reveals the darker reality of campus life and the mind’s talent for self-sabotage.
+desc: "When procrastination, guilt, and isolation take form as a 'ghost,' one student’s breakdown reveals the darker reality of campus life and the mind’s talent for self-sabotage."
 thumbnail: images/ghost.jpg
 authors: Vallala Vishnu Teja
 starred: false

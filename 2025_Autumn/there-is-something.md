@@ -1,8 +1,8 @@
 ---
-title: There’s Something I Can’t Quite Say
+title: "There’s Something I Can’t Quite Say"
 category: Poetry
 date: 2026-6-11T10:42:24.120Z
-desc: A heartfelt confession of love that struggles to be spoken, yet longs to be understood. Will silence keep them apart, or will love finally find its voice?
+desc: "A heartfelt confession of love that struggles to be spoken, yet longs to be understood. Will silence keep them apart, or will love finally find its voice?"
 thumbnail: images/there-is-something-thumbnail.jpeg
 authors: Vipin Kumar Sharma
 starred: false

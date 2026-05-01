@@ -1,8 +1,8 @@
 ---
-title: ICICI Bank Internship Experience
+title: "ICICI Bank Internship Experience"
 category: Experiences
 date: 2026-1-12T10:42:24.120Z
-desc: Join Subham on his internship journey at ICICI Bank.
+desc: "Join Subham on his internship journey at ICICI Bank."
 thumbnail: images/icici-thumbnail.jpg
 authors: Subham Mohanty
 starred: false
