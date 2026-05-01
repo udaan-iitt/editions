@@ -2,7 +2,7 @@
 title: Internship Experience at Bureau of Indian Standards
 category: Experiences
 date: 2026-1-12T10:42:24.120Z
-desc: Follow Palak on her internship journey at BIS
+desc: Follow Palak on her internship journey at BIS.
 thumbnail: images/bis.jpg
 authors: Palak Khandelwal
 starred: false
