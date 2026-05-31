@@ -3,7 +3,7 @@ title: "Internship Experience at ICICI Bank"
 category: Experiences
 date: 2026-1-12T10:42:24.120Z
 desc: "Follow Susank on his internship journey at ICICI Bank."
-thumbnail: images/icici.jpg
+thumbnail: images/icici.jpeg
 authors: Makthala Susank
 starred: false
 abio: none

@@ -3,7 +3,7 @@ title: "Foreign Research Internship at EPFL"
 category: Experiences
 date: 2026-6-11T10:42:24.120Z
 desc: "Join Neerav on his research internship adventure at EPFL, Switzerland."
-thumbnail: images/epfl.png
+thumbnail: images/epfl.jpg
 authors: Neerav Sreekumar
 starred: false
 abio: none

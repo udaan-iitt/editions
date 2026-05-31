@@ -992,6 +992,17 @@ export const author_info = [
 		link: '',
 	},
 	{
+		key: 'akilesh',
+		title: 'P Akilesh',
+		tagLine1: '',
+		tagLine2: '',
+		role: '',
+		year: '',
+		desc1: 'Akilesh is a final year Computer Science student at IIT Tirupati who somehow manages to balance research papers, coding, and existential overthinking, usually all at once. Whether he’s debugging a stubborn piece of code at 2 AM or casually discussing time travel and paradoxes over chai, he treats every challenge like a puzzle waiting to be cracked. Known for disappearing into deep work mode and reappearing with a movie recommendation that questions your entire existence, he thrives somewhere between ambition and chaos. From research internships in Montréal to endless tech rabbit holes, Akilesh is driven by curiosity, brainrot, and the occasional unrealistic deadline he somehow still manages to meet.',
+		desc2: '',
+		link: '',
+	},
+	{
 		key: 'sutar',
 		title: 'Pranav Sutar',
 		tagLine1: '',
