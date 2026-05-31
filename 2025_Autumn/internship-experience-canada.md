@@ -3,7 +3,7 @@ title: "Internship Experience at Polytechnic Montréal"
 category: Experiences
 date: 2026-1-12T10:42:24.120Z
 desc: "Follow Akilesh on his internship journey in Canada."
-thumbnail: images/canada.jpg
+thumbnail: images/canada-thumbnail.jpg
 authors: P Akilesh
 starred: false
 abio: none

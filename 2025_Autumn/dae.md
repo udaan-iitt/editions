@@ -3,7 +3,7 @@ title: "Platinum Jubilee of India's Department of Atomic Energy: A Legacy of Exc
 category: Op-Ed
 date: 2026-06-11T10:42:24.120Z
 desc: "India’s Department of Atomic Energy marks 70 years of driving innovation in nuclear science, powering progress across energy, healthcare, and industry. With milestones like UCIL Tummalapalle, the legacy continues to shape a sustainable, self-reliant future."
-thumbnail: images/dae-thumbnail.jpeg
+thumbnail: images/dae-thumbnail.jpg
 authors: Vipin Kumar Sharma
 starred: false
 abio: ""
